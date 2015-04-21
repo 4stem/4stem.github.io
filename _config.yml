@@ -11,10 +11,10 @@ highlighter: pygments
 title : Jekyll Bootstrap
 tagline: Site Tagline
 author :
-  name : Name Lastname
+  name : Panagiotis Petridis
   email : blah@email.test
-  github : username
-  twitter : username
+  github : panagiotis2011
+  twitter : Petridis_P
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : petridis
     livefyre :
       site_id : 123
     intensedebate :
