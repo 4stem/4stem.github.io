@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Δύο ελατήρια παράλληλα"
+title: "Δύο ελατήρια"
 description: "Φυσική Γ' Λυκείου"
 category: Άσκηση
 tags: [Ταλαντώσεις]
