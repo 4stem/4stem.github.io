@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Περί Φυσικής κυρίως!
+title: Science Technology Engineering Mathematics
 tagline: S.T.E.M
 ---
 {% include JB/setup %}
