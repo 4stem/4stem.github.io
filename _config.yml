@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : petridis
+      short_name : 4stem
     livefyre :
       site_id : 123
     intensedebate :
