@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Science Technology Engineering Mathematics
-tagline: S.T.E.M
+title: S.T.E.M
+tagline: Science Technology Engineering Mathematics
 ---
 {% include JB/setup %}
 
