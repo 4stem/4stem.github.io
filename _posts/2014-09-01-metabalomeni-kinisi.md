@@ -48,6 +48,6 @@ $$K = 5Joules$$
 $$t = 1.748s$$
 
 
-$$u = 1 \frac ms
+$$u = 1 \frac ms$$
 
 
