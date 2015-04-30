@@ -3,7 +3,7 @@ layout: post
 category : Άρθρο
 title: Στάσιμα κύματα 
 tagline: "μία ολιστική αντιμετώπιση"
-tags : [Φυσική, python]
+tags : [Φυσική, Python]
 ---
 {% include JB/setup %}
 
