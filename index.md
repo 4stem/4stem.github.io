@@ -5,7 +5,7 @@ tagline: Science Technology Engineering Mathematics
 ---
 {% include JB/setup %}
 
-Bio [Petridis](http://about.me/petridis)
+**Introduction**
 
 “I hope that in this year to come, you make mistakes.
 Because if you are making mistakes, then you are making new things, trying new things, learning, living, pushing yourself, changing yourself, changing your world. You're doing things you've never done before, and more importantly, you're Doing Something.
@@ -14,7 +14,7 @@ Whatever it is you're scared of doing, Do it.
 Make your mistakes, next year and forever.” 
 `― Neil Gaiman`
 
-Ακολουθεί μια απλή λίστα άρθρων.
+Ακολουθεί λίστα άρθρων χρονολογικά ταξινομημένη.
 
 <ul class="posts">
   {% for post in site.posts %}
