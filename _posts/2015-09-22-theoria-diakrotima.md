@@ -3,7 +3,7 @@ layout: post
 title: "Αριθμός ταλαντώσεων"
 description: "Φυσική Γ' Λυκείου"
 category: Άσκηση
-tags: [Ταλαντώσεεις]
+tags: [Ταλαντώσεις]
 ---
 {% include JB/setup %}
 
