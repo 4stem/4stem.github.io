@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Πανελλαδικές 2013"
+title: "Επαναληπτικές 2013"
 description: "Φυσική Κατεύθυνσης Θέμα Γ"
 category: Άσκηση
 tags: [Doppler]
