@@ -28,4 +28,4 @@ $$ Π = Π_A = A_A \cdot \sqrt{2 \cdot g \cdot h }$$
 
 και έτσι
 
-$$ h = \frac{Π^2}{2 \cdot g \cdot A_A^2} \Rightarrow h = 0.00242 m^2$$
+$$ h = \frac{Π^2}{2 \cdot g \cdot A_A^2} \Rightarrow h = 0.00242 m$$
