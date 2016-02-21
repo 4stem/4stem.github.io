@@ -37,7 +37,7 @@ $$ΣF_y = 0 \Rightarrow N_1 +N_2 = W_Π + W \Rightarrow N_1 +N_2 = 450$$
 
 Το αλγεβρικό άθροισμα των ροπών ως προς το υποστήριγμα $$Δ_1$$ είναι
 
-$$Στ = 0 \Rightarrow W_Π \cdot (d_1-x) + N_2 \cdot (d_2 - d_1) - W \cdot (\frac{L}{2}-d_1)$$
+$$Στ = 0 \Rightarrow W_Π \cdot (d_1-x) + N_2 \cdot (d_2 - d_1) - W \cdot (\frac{L}{2}-d_1) = 0$$
 
 και μετά τις πράξεις έχουμε:
 
