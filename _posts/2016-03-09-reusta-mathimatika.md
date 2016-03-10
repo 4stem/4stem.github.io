@@ -40,7 +40,7 @@ $$π \cdot y′ = − 0.02 \cdot π \cdot 5 \cdot y ,$$
 
 όπου υπολογίσαμε πρώτα το εμβαδόν διατομής της οπής
 
-$$α = π \cdot r^2 \Rightarrow α = 0.001 \cdot π$$
+$$α = π \cdot r^2 \Rightarrow α = 0.01 \cdot π$$
 
 Άρα από τον νόμο του Torricelli έχουμε:
 
