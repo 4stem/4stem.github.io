@@ -24,14 +24,20 @@ $$I = \frac{1}{12} \cdot M \cdot L^2$$.
 
 `Απάντηση:`
 
-**1** $$I = 8 kg \cdot m^2$$
+**1** 
 
-**2** $$\frac{ΔL_{συστήματος}}{Δt} = 50 N \cdot m$$
+$$I = 8 kg \cdot m^2$$
+
+**2** 
+
+$$\frac{ΔL_{συστήματος}}{Δt} = 50 N \cdot m$$
 
 $$\frac{ΔL_{σφαιριδίου}}{Δt} = 25 N \cdot m$$
 
 $$\frac{ΔL_{ράβδου}}{Δt} = 25 N \cdot m$$
 
-**3** $$\frac{ΔL_{συστήματος}}{Δt} = 0 N \cdot m$$
+**3** 
+
+$$\frac{ΔL_{συστήματος}}{Δt} = 0 N \cdot m$$
 
 $$ L = 20 \cdot \sqrt{2} kg \cdot \frac{m^2}{s} $$
