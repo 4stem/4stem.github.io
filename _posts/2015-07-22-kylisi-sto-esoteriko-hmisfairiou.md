@@ -111,3 +111,5 @@ $$ \frac{dL}{dt} = Στ $$
 $$ \frac{dK}{dt} = -56 \frac{joule}{s} $$
 
 $$ \frac{dL}{dt} = 0 $$
+
+<script type='text/javascript' src='http://demonstrations.wolfram.com/javascript/embed.js' ></script><script type='text/javascript'>var demoObj = new DEMOEMBED(); demoObj.run('ARodSlidingInASemicircularWell', '', '495', '545');</script><div id='DEMO_ARodSlidingInASemicircularWell'><a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/ARodSlidingInASemicircularWell/' target='_blank'>A Rod Sliding in a Semicircular Well</a> from the <a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/' target='_blank'>Wolfram Demonstrations Project</a> by Sarah Lichtblau</div><br />
