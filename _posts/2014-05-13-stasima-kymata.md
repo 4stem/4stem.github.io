@@ -63,6 +63,9 @@ tags : [Φυσική, Python]
 {% endhighlight %}
 
 
+<script type='text/javascript' src='http://demonstrations.wolfram.com/javascript/embed.js' ></script><script type='text/javascript'>var demoObj = new DEMOEMBED(); demoObj.run('StandingWavesAndChords', '', '357', '545');</script><div id='DEMO_StandingWavesAndChords'><a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/StandingWavesAndChords/' target='_blank'>Standing Waves and Chords</a> from the <a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/' target='_blank'>Wolfram Demonstrations Project</a> by Hans-Joachim Domke</div><br />
+
+
 
 
 

@@ -59,3 +59,6 @@ $$N_2 = 70 + 100 \cdot x$$
 Η επαφή χάνεται μόνο για το πρώτο υποστήριγμα, και αυτό συμβαίνει όταν το μικρό παιδί βρίσκεται δεξιά του πρώτου υποστηρίγματος δηλαδή για $$0.5 \le x \le 4$$
 
 $$Ν_1 \ge 0 \Rightarrow 380 - 100 \cdot x \ge 0 \Rightarrow x \le 3.8 m$$
+
+
+<script type='text/javascript' src='http://demonstrations.wolfram.com/javascript/embed.js' ></script><script type='text/javascript'>var demoObj = new DEMOEMBED(); demoObj.run('LawOfMomentsForLeverWithTwoWeights', '', '523', '545');</script><div id='DEMO_LawOfMomentsForLeverWithTwoWeights'><a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/LawOfMomentsForLeverWithTwoWeights/' target='_blank'>Law of Moments for Lever with Two Weights</a> from the <a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/' target='_blank'>Wolfram Demonstrations Project</a> by Mariam Martirosyan</div><br />

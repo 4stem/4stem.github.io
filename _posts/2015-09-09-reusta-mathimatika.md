@@ -70,3 +70,5 @@ $$y = (-\frac{\sqrt{5}}{100} \cdot t+6)^2$$
 **iii)** H δεξαμενή αδειάζει τελείως, όταν $$y(t) = 0$$. Έτσι έχουμε:
 
 $$y(t) = 0 \Rightarrow -\frac{\sqrt{5}}{100} \cdot t+6 = 0 \Rightarrow t = 120 \cdot \sqrt5s$$
+
+<script type='text/javascript' src='http://demonstrations.wolfram.com/javascript/embed.js' ></script><script type='text/javascript'>var demoObj = new DEMOEMBED(); demoObj.run('FlowOfFluidThroughAHoleInATank', '', '545', '445');</script><div id='DEMO_FlowOfFluidThroughAHoleInATank'><a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/FlowOfFluidThroughAHoleInATank/' target='_blank'>Flow of Fluid through a Hole in a Tank</a> from the <a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/' target='_blank'>Wolfram Demonstrations Project</a> by Rana Gordji</div><br />

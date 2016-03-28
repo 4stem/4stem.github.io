@@ -43,3 +43,5 @@ $$Ν_2 = \frac{T´_δ}{Τ´} = \frac{ \frac{2}{|f_1 - f_2|}}{\frac{4}{f_1+f_2}} 
 και τελικά ο ζητούμενος λόγος προκύπτει:
 
 $$ \frac{N_1}{N_2}=1$$
+
+<script type='text/javascript' src='http://demonstrations.wolfram.com/javascript/embed.js' ></script><script type='text/javascript'>var demoObj = new DEMOEMBED(); demoObj.run('BeatingAndRoughness', '', '491', '545');</script><div id='DEMO_BeatingAndRoughness'><a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/BeatingAndRoughness/' target='_blank'>Beating and Roughness</a> from the <a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/' target='_blank'>Wolfram Demonstrations Project</a> by Julian Villegas</div><br />

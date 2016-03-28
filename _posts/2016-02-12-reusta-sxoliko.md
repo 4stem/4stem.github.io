@@ -29,3 +29,6 @@ $$ Π = Π_A = A_A \cdot \sqrt{2 \cdot g \cdot h }$$
 και έτσι
 
 $$ h = \frac{Π^2}{2 \cdot g \cdot A_A^2} \Rightarrow h = 0.00242 m$$
+
+
+<script type='text/javascript' src='http://demonstrations.wolfram.com/javascript/embed.js' ></script><script type='text/javascript'>var demoObj = new DEMOEMBED(); demoObj.run('FlowOfFluidThroughAHoleInATank', '', '545', '445');</script><div id='DEMO_FlowOfFluidThroughAHoleInATank'><a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/FlowOfFluidThroughAHoleInATank/' target='_blank'>Flow of Fluid through a Hole in a Tank</a> from the <a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/' target='_blank'>Wolfram Demonstrations Project</a> by Rana Gordji</div><br />

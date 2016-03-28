@@ -41,3 +41,6 @@ $$\frac{ΔL_{ράβδου}}{Δt} = 25 N \cdot m$$
 $$\frac{ΔL_{συστήματος}}{Δt} = 0 N \cdot m$$
 
 $$ L = 20 \cdot \sqrt{2} kg \cdot \frac{m^2}{s} $$
+
+
+<script type='text/javascript' src='http://demonstrations.wolfram.com/javascript/embed.js' ></script><script type='text/javascript'>var demoObj = new DEMOEMBED(); demoObj.run('PhysicsOfASlidingLadder', '', '543', '445');</script><div id='DEMO_PhysicsOfASlidingLadder'><a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/PhysicsOfASlidingLadder/' target='_blank'>Physics of a Sliding Ladder</a> from the <a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/' target='_blank'>Wolfram Demonstrations Project</a> by Stelios Kapranidis</div><br />
