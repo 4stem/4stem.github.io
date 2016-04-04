@@ -29,7 +29,7 @@ $$m_2 = 4.2 kg$$
 
 $$V_{συσ} = 2.4 \frac{m}{s}$$
 
-$$α = 64%$$
+$$α = 64$$ %
 
 
 <script type='text/javascript' src='http://demonstrations.wolfram.com/javascript/embed.js' ></script><script type='text/javascript'>var demoObj = new DEMOEMBED(); demoObj.run('MassOnASpringSimpleHarmonicOscillator', '', '557', '642');</script><div id='DEMO_MassOnASpringSimpleHarmonicOscillator'><a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/MassOnASpringSimpleHarmonicOscillator/' target='_blank'>Mass on a Spring: Simple Harmonic Oscillator</a> from the <a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/' target='_blank'>Wolfram Demonstrations Project</a> by George Lejnine</div><br />
