@@ -44,16 +44,21 @@ $$Ι = \frac{2}{5} \cdot m \cdot R^2$$
 $$t_1 = \frac{2\cdot u_o}{7\cdot μ \cdot g}$$
 
 
+
 $$u_{cm} = \frac{5 \cdot u_o}{7}$$
 
 
-$$x_{cm} = \frac{12 \cdot u^2}{49\cdot μ \cdot g}$$
+
+$$x_{cm} = \frac{12 \cdot u_o^2}{49\cdot μ \cdot g}$$
+
 
 
 $$ Δs = \frac{u_o^2}{7 \cdot μ \cdot g}$$
 
 
+
 $$28.57%$$
 
 
-όχι
+
+$$όχι$$
