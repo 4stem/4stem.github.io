@@ -41,19 +41,19 @@ $$Ι = \frac{2}{5} \cdot m \cdot R^2$$
 `Απάντηση:`
 
 
-**α)** $$t_1 = \frac{2\cdot u_o}{7\cdot μ \cdot g}$$
+$$t_1 = \frac{2\cdot u_o}{7\cdot μ \cdot g}$$
 
 
-**β)** $$u_{cm} = \frac{5 \cdot u_o}{7}$$
+$$u_{cm} = \frac{5 \cdot u_o}{7}$$
 
 
-**γ)** $$x_{cm} = \frac{12 \cdot u^2}{49\cdot μ \cdot g}$$
+$$x_{cm} = \frac{12 \cdot u^2}{49\cdot μ \cdot g}$$
 
 
-**δ)** $$ Δs = \frac{u_o^2}{7 \cdot μ \cdot g}$$
+$$ Δs = \frac{u_o^2}{7 \cdot μ \cdot g}$$
 
 
-**ε)** $$28.57%$$
+$$28.57%$$
 
 
-**στ)** όχι
+όχι
