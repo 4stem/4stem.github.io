@@ -47,10 +47,10 @@ $$Ι = \frac{2}{5} \cdot m \cdot R^2$$
 **β)** $$u_{cm} = \frac{5 \cdot u_o}{7}$$
 
 
-**γ)** $$\frac{12 \cdot u^2}{49\cdot μ \cdot g}$$
+**γ)** $$x_{cm} = \frac{12 \cdot u^2}{49\cdot μ \cdot g}$$
 
 
-**δ)** $$ \frac{u_o^2}{7 \cdot μ \cdot g}$$
+**δ)** $$ Δs = \frac{u_o^2}{7 \cdot μ \cdot g}$$
 
 
 **ε)** $$28.57%$$
