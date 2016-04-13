@@ -3,7 +3,7 @@ layout: post
 title: "Ζεύγος Δυνάμεων"
 description: "Ζεύγος δυνάμεων σε οριζόντια ράβδο"
 category: Άσκηση
-tags: [Μαθηματικά]
+tags: [Στερεό]
 ---
 {% include JB/setup %}
 

@@ -3,7 +3,7 @@ layout: post
 title: "Mεταβλητή δύναμη και Ώθηση"
 description: "Δύναμη μεταβλητή"
 category: Άσκηση
-tags: [Μαθηματικά]
+tags: [Φυσική]
 ---
 {% include JB/setup %}
 
