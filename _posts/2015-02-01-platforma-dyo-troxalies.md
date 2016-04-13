@@ -15,4 +15,4 @@ tags: [Στερεό]
 
 `Απάντηση:`
 
-$$a =  \frac {4*F-3*m*g}{3*m}$$
+$$a =  \frac {4 \cdot F-3 \cdot m \cdot g}{3 \cdot m}$$

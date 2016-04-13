@@ -15,4 +15,4 @@ tags: [Βολή]
 
 `Απάντηση:`
 
-$$(v_1+v_2) * \sqrt \frac {2*h}g  $$
+$$(v_1+v_2)  \cdot  \sqrt \frac {2 \cdot h}g  $$

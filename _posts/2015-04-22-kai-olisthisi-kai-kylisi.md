@@ -27,16 +27,16 @@ tags: [Στερεό]
 
 `Απάντηση:`
 
-1. $$T = μ*m*g*cos(φ)$$
+1. $$T = μ \cdot m \cdot g \cdot cos(φ)$$
 
  
-2. $$t = \frac {2*u_o}{(2*g*sin(φ)+7*g*μ*cos(f))}$$
+2. $$t = \frac {2 \cdot u_o}{(2 \cdot g \cdot sin(φ)+7 \cdot g \cdot μ \cdot cos(f))}$$
     
 
-3. $$u =  u_o - \frac {2*u_o*(sin(φ)+μ*cos(φ))}{(2*sin(φ)+7*μ*cos(φ))}$$
+3. $$u =  u_o - \frac {2 \cdot u_o \cdot (sin(φ)+μ \cdot cos(φ))}{(2 \cdot sin(φ)+7 \cdot μ \cdot cos(φ))}$$
     
 
-4. $$T_s = \frac {2*m*g*sin(φ)}{7}$$
+4. $$T_s = \frac {2 \cdot m \cdot g \cdot sin(φ)}{7}$$
 
     
 
