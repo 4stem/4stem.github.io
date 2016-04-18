@@ -50,4 +50,4 @@ $$Ν = \frac{1.8}{π}$$
 
 $$F = 20N$$
 
-$$L = 0.06 \cdot \sqrt2$$
+$$L = 0.06 \cdot \sqrt2 \frac{kg m^2}{s}$$
