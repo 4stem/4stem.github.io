@@ -159,7 +159,7 @@ $$K_I + U_I = K_{II} + U_{II} \Rightarrow (m+M) \cdot g \cdot d = \frac{1}{2}\cd
 $$u_A = ω_{δισκου} \cdot r = ω_{ραβδου} \cdot d$$
 
 
-έχουμε για τον δίσκο $ω_δ = 8 \cdot \sqrt{10} \frac{r}{s}$, για την ράβδο $ω_ρ = 2 \cdot \sqrt{10} \frac{r}{s}$, οπότε για την ιδιοστροφορμή έχουμε
+έχουμε για τον δίσκο $$ω_δ = 8 \cdot \sqrt{10} \frac{r}{s}$$, για την ράβδο $$ω_ρ = 2 \cdot \sqrt{10} \frac{r}{s}$$, οπότε για την ιδιοστροφορμή έχουμε
 
 
 $$L_1 = I_δ \cdot ω_δ = 0.16 \cdot \sqrt{10} \frac{kg \cdot m^2}{s^2}$$
