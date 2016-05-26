@@ -200,10 +200,10 @@ $$M \cdot g \cdot ημφ - Τ_{στ} = Μ \cdot α_{cm}$$
 Στροφική:
 
 
-$$Τ_{στ} \cdot R = \frac{1}{2} \cdot M \cdot R^2 \cdot α_{γων}$$
+$$Τ_{στ} \cdot R = \frac{1}{2} \cdot M \cdot R^2 \cdot α_{γων} \Rightarrow T_{στ} = \frac{1}{2} \cdot M \cdot α_{cm} $$
 
 
-Κύλιση χωρίς ολίσθηση:
+ΚXO:
 
 
 $$α_{cm} = α_{γων} \cdot R$$
@@ -255,7 +255,7 @@ $$Τ_{στ} \cdot R = \frac{1}{2} \cdot M \cdot R^2 \cdot α_{γων}$$
 ΚXO:
 
 
-$$α_{cm} = α_{γων} \cdot R$$
+$$α_{cm} = α_{γων} \cdot R \Rightarrow α_{γων} = \frac{100}{3} \frac{rad}{s^2}$$
 
 
 Άρα
