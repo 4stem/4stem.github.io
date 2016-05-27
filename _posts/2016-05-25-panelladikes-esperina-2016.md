@@ -77,6 +77,9 @@ $$Α_Α \cdot u_A = A_B \cdot u_B \Rightarrow 2 \cdot A_B \cdot u_A = A_B \cdot 
 $$Λ = \frac{1}{2} \cdot ρ \cdot u^2$$
 
 
+α) τρόπος
+
+
 Εφόσον ο σωλήνας είναι οριζόντιος η εξίσωση του Bernoulli παίρνει την ακούλουθη μορφή:
 
 
@@ -85,6 +88,25 @@ $$P_A + \frac{1}{2} \cdot ρ \cdot u_A^2 = P_B + \frac{1}{2} \cdot ρ \cdot u_B^
 
 $$  P_A - P_B = \frac{1}{2} \cdot ρ \cdot 4 \cdot u_A^2  - \frac{1}{2} \cdot ρ \cdot u_A^2 = 4Λ - Λ = 3Λ$$
 
+
+β) τρόπος
+
+Θ.Ε.Ε. $$Α \rightarrow B$$ για dt:
+
+
+$$W + W_B = dK$$
+
+
+όπου $$W$$ το έργο που προσφέρεται στο τμήμα του ρευστού από το Α στο Β από το περιβάλλον ρευστό, δηλαδή $$W = (P_A - P_B) \cdot dV$$, $$W_B = 0$$ και
+
+
+$$dK = \frac{1}{2} \cdot dm \cdot u_B^2 - \frac{1}{2} \cdot dm \cdot u_A^2 $$
+
+
+Τελικά
+
+
+$$(P_A - P_B) \cdot dV = \frac{1}{2} \cdot dm \cdot u_B^2 - \frac{1}{2} \cdot dm \cdot u_A^2 \Rightarrow P_A - P_B =  \frac{1}{2} \cdot \frac{dm}{dV} \cdot u_B^2 - \frac{1}{2} \cdot \frac{dm}{dV} \cdot u_A^2 = \frac{1}{2} \cdot ρ \cdot u_B^2 - \frac{1}{2} \cdot ρ \cdot u_A^2 = \frac{1}{2} \cdot ρ (u_A^2) - \frac{1}{2} \cdot ρ \cdot u_A^2 = 3 \cdot \frac{1}{2} \cdot ρ \cdot u_A^2 = 3Λ$$
 
 Άρα η σωστή απάντηση είναι το $$(ιι)$$
 
