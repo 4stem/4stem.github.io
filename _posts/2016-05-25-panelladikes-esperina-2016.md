@@ -369,6 +369,30 @@ $$u_{cm} = ω \cdot R$$
 $$\frac{dK}{dt} = W_x \cdot u_{cm} - T_{στ} u_{cm} + T_{στ} u_{cm} = W_x \cdot u_{cm} \Rightarrow \frac{dK}{dt} = 40 \frac{J}{s}$$
 
 
+γ) τρόπος
+
+
+$$Κ = \frac{1}{2} \cdot M \cdot u^2 + \frac{1}{2} \cdot I \cdot ω^2 = \frac{1}{2} \cdot M \cdot ω^2 \cdot R^2 + \frac{1}{2} \cdot \frac{1}{2} \cdot M \cdot R^2 ω^2 = \frac{3}{4} \cdot M \cdot R^2 ω^2$$
+
+Αφού $$ω = α_{γων} \cdot t$$ 
+
+$$K = \frac{3}{4} \cdot M \cdot R^2 \cdot α_{γων}^2 \cdot t^2 = \frac{100}{6} \cdot t^2$$
+
+
+
+Ο ρυθμός μεταβολής της κινητικής ενέργειας είναι:
+
+
+$$\frac{dK}{dt} = \frac{100}{6} \cdot 2 \cdot t = \frac{100}{3} \cdot t$$
+
+
+και για $$t=3s$$
+
+
+$$\frac{dK}{dt} = 100 \frac{J}{s}$$    
+
+
+
 **Δ4**
 
 
