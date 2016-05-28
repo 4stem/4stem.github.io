@@ -112,6 +112,8 @@ $$(P_A - P_B) \cdot dV = \frac{1}{2} \cdot dm \cdot u_B^2 - \frac{1}{2} \cdot dm
 
 $$(P_A - P_B) = \frac{1}{2} \cdot ρ \cdot u_B^2 - \frac{1}{2} \cdot ρ \cdot u_A^2 = \frac{1}{2} \cdot ρ (2u_A)^2 - \frac{1}{2} \cdot ρ \cdot u_A^2 = 3 \cdot \frac{1}{2} \cdot ρ \cdot u_A^2 = 3Λ$$
 
+
+
 Άρα η σωστή απάντηση είναι το $$(ιι)$$
 
 
