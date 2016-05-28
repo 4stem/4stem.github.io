@@ -106,7 +106,11 @@ $$dK = \frac{1}{2} \cdot dm \cdot u_B^2 - \frac{1}{2} \cdot dm \cdot u_A^2 $$
 Τελικά
 
 
-$$(P_A - P_B) \cdot dV = \frac{1}{2} \cdot dm \cdot u_B^2 - \frac{1}{2} \cdot dm \cdot u_A^2 \Rightarrow P_A - P_B =  \frac{1}{2} \cdot \frac{dm}{dV} \cdot u_B^2 - \frac{1}{2} \cdot \frac{dm}{dV} \cdot u_A^2 = \frac{1}{2} \cdot ρ \cdot u_B^2 - \frac{1}{2} \cdot ρ \cdot u_A^2 = \frac{1}{2} \cdot ρ (u_A^2) - \frac{1}{2} \cdot ρ \cdot u_A^2 = 3 \cdot \frac{1}{2} \cdot ρ \cdot u_A^2 = 3Λ$$
+$$(P_A - P_B) \cdot dV = \frac{1}{2} \cdot dm \cdot u_B^2 - \frac{1}{2} \cdot dm \cdot u_A^2 \Rightarrow P_A - P_B =  \frac{1}{2} \cdot \frac{dm}{dV} \cdot u_B^2 - \frac{1}{2} \cdot \frac{dm}{dV} \cdot u_A^2 $$
+
+
+
+$$(P_A - P_B) = \frac{1}{2} \cdot ρ \cdot u_B^2 - \frac{1}{2} \cdot ρ \cdot u_A^2 = \frac{1}{2} \cdot ρ (2u_A^2) - \frac{1}{2} \cdot ρ \cdot u_A^2 = 3 \cdot \frac{1}{2} \cdot ρ \cdot u_A^2 = 3Λ$$
 
 Άρα η σωστή απάντηση είναι το $$(ιι)$$
 
@@ -207,7 +211,7 @@ Kεκλιμένο δάπεδο με γωνία κλίσης $$φ = 30^ο$$
 ακτίνα κυλίνδρου $$R = 0.1m$$
 
 
-ροπή αδράνειας $$I_{cm} = \frac{1}{2} \cdot M \cdot R^2$$
+ροπή αδράνειας $$I_{cm} = \frac{1}{2} \cdot M \cdot R^2 = 0.01 kg \cdot m^2$$
 
 
 επιτάχυνση βαρύτητας $$g = 10 \frac{m}{s^2}$$
