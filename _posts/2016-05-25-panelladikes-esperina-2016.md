@@ -77,7 +77,7 @@ $$Α_Α \cdot u_A = A_B \cdot u_B \Rightarrow 2 \cdot A_B \cdot u_A = A_B \cdot 
 $$Λ = \frac{1}{2} \cdot ρ \cdot u^2$$
 
 
-$$ {\it α) τρόπος} $$
+α) $$ {\it τρόπος} $$
 
 
 Εφόσον ο σωλήνας είναι οριζόντιος η εξίσωση του Bernoulli παίρνει την ακούλουθη μορφή:
