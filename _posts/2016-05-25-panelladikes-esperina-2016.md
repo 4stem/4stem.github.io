@@ -77,7 +77,7 @@ $$Α_Α \cdot u_A = A_B \cdot u_B \Rightarrow 2 \cdot A_B \cdot u_A = A_B \cdot 
 $$Λ = \frac{1}{2} \cdot ρ \cdot u^2$$
 
 
-α) $$ {\it τρόπος} $$
+α) $$ \underline {τρόπος} $$
 
 
 Εφόσον ο σωλήνας είναι οριζόντιος η εξίσωση του Bernoulli παίρνει την ακούλουθη μορφή:
@@ -262,7 +262,7 @@ $$Ν = \frac{12}{π} = \frac{Δθ}{2π} \Rightarrow Δθ = 24 rad $$
 Για την εύρεση του ω:
 
 
-α) τρόπος
+α) $$ \underline {τρόπος} $$
 
 
 Από Δ1
@@ -286,7 +286,7 @@ $$ ω = α_{γων} \cdot t  = 40 \frac{r}{s}$$
 $$L = 0.01 \cdot 40 \Rightarrow L = 0.4 \frac{kg \cdot m^2}{s}$$
 
 
-β) τρόπος
+β) $$ \underline {τρόπος} $$
 
 
 Κύλιση χωρίς ολίσθηση $$\rightarrow$$ η τριβή δεν μετατοπίζει το σημείο εφαρμογής της αφού κάθε στιγμή ασκείται σε διαφορετικό σημείο του κυλίνδρου δηλαδή είναι  στατική τριβή.
@@ -342,7 +342,7 @@ $$x_{cm} = \frac{1}{2} \cdot α_{cm} \cdot t^2 \Rightarrow t = 1.2 s$$
 $$α_{cm} = α{γων} \cdot R \Rightarrow α_{γων} = \frac{100}{3} \frac{rad}{s^2} $$
 
 
-α) τρόπος
+α) $$ \underline {τρόπος} $$
 
 
 $$\frac{dK}{dt} = \frac{dK}{dt}_{μετ} + \frac{dK}{dt}_{περ} = ΣF \cdot u_{cm} + Στ \cdot ω = Μ \cdot α_{cm} \cdot u_{cm} + I \cdot α_{γων} \cdot ω $$
@@ -351,7 +351,7 @@ $$\frac{dK}{dt} = \frac{dK}{dt}_{μετ} + \frac{dK}{dt}_{περ} = ΣF \cdot u_
 $$\frac{dK}{dt} = Μ \cdot α_{cm}^2 \cdot t' + I \cdot α_{γων}^2 \cdot t' \Rightarrow  \frac{dK}{dt} = 40 \frac{J}{s} $$
 
 
-β) τρόπος
+β) $$ \underline {τρόπος} $$
 
 
 $$\frac{dK}{dt} = \frac{dK}{dt}_{μετ} + \frac{dK}{dt}_{περ} = (W_x - T_{στ}) \cdot u_{cm} + (T_{στ} \cdot R) \cdot ω$$
@@ -369,7 +369,7 @@ $$u_{cm} = ω \cdot R$$
 $$\frac{dK}{dt} = W_x \cdot u_{cm} - T_{στ} u_{cm} + T_{στ} u_{cm} = W_x \cdot u_{cm} \Rightarrow \frac{dK}{dt} = 40 \frac{J}{s}$$
 
 
-γ) τρόπος
+γ) $$ \underline {τρόπος} $$
 
 
 $$Κ = \frac{1}{2} \cdot M \cdot u^2 + \frac{1}{2} \cdot I \cdot ω^2 = \frac{1}{2} \cdot M \cdot ω^2 \cdot R^2 + \frac{1}{2} \cdot \frac{1}{2} \cdot M \cdot R^2 ω^2 = \frac{3}{4} \cdot M \cdot R^2 ω^2$$
