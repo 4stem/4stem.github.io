@@ -385,10 +385,10 @@ $$K = \frac{3}{4} \cdot M \cdot R^2 \cdot α_{γων}^2 \cdot t^2 = \frac{100}{6
 $$\frac{dK}{dt} = \frac{100}{6} \cdot 2 \cdot t = \frac{100}{3} \cdot t $$ (SI)
 
 
-και για $$t=3s$$
+και για $$t=1.2s$$
 
 
-$$\frac{dK}{dt} = 100 \frac{J}{s}$$ (SI)
+$$\frac{dK}{dt} = 40 \frac{J}{s}$$ (SI)
 
 
 δ) $$ \underline {τρόπος} $$
