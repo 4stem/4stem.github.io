@@ -408,3 +408,5 @@ $$Τ_{στ} \leq μ \cdot N \Rightarrow \frac{1}{2} \cdot M \cdot α_{cm} \leq �
 $$ μ_{min} = \frac {\sqrt3}{4} $$
 
 
+
+Τα θέματα μπορούν να βρεθούν στο παρακάτω link: http://bit.ly/1TGObYX
