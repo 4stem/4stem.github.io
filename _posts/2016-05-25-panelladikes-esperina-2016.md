@@ -383,13 +383,13 @@ $$K = \frac{3}{4} \cdot M \cdot R^2 \cdot α_{γων}^2 \cdot t^2 = \frac{100}{6
 Ο ρυθμός μεταβολής της κινητικής ενέργειας είναι:
 
 
-$$\frac{dK}{dt} = \frac{100}{6} \cdot 2 \cdot t = \frac{100}{3} \cdot t$$
+$$\frac{dK}{dt} = \frac{100}{6} \cdot 2 \cdot t = \frac{100}{3} \cdot t $$ (SI)
 
 
 και για $$t=3s$$
 
 
-$$\frac{dK}{dt} = 100 \frac{J}{s}$$    
+$$\frac{dK}{dt} = 100 \frac{J}{s}$$ (SI)
 
 
 
