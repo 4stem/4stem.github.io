@@ -391,6 +391,24 @@ $$\frac{dK}{dt} = \frac{100}{6} \cdot 2 \cdot t = \frac{100}{3} \cdot t $$ (SI)
 $$\frac{dK}{dt} = 100 \frac{J}{s}$$ (SI)
 
 
+δ) $$ \underline {τρόπος} $$
+
+
+Έστω $$Α$$ το σημείο επαφής του κυλίνδρου με το κεκλιμένο επίπεδο. Θεωρούμε στιγμιαίο άξονα περιστροφής οριζόντιο που διέρχεται από το σημείο Α. Ο κύλινδρος εκτελεί μόνο περιστροφική κίνηση γύρω από τον στιγμιαίο άξονα περιστροφής.
+
+
+Θεώρημα παραλλήλων αξόνων
+
+
+$$Ι_Α = Ι_{cm} + M \cdot R^2 \Rightarrow I_A = \frac{1}{2} \cdot M \cdot R^2 + M \cdot R^2 \Rightarrow I_A = \frac{3}{2} \cdot M \cdot R^2$$
+
+
+$$ Στ = Ι_Α \cdot α_{γων} \Rightarrow M \cdot g \cdot ημφ  = \frac{3}{2} \cdot M \cdot R^2 \Rightarrow α_{γων} = \frac{100}{3} \frac{rad}{s^2}$$
+
+
+$$\frac{dK}{dt} = Στ \cdot ω = \frac{3}{2} \cdot M \cdot R^2 \cdot α_{γων}^2 \cdot t \Rightarrow \frac{dK}{dt} = 40 \frac{J}{s}$$
+
+
 **Δ4**
 
 
