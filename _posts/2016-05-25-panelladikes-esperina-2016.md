@@ -91,6 +91,7 @@ $$  P_A - P_B = \frac{1}{2} \cdot ρ \cdot 4 \cdot u_A^2  - \frac{1}{2} \cdot ρ
 
 β) $$ \underline{τρόπος}$$
 
+
 Θ.Ε.Ε. $$Α \rightarrow B$$ για dt:
 
 
@@ -109,9 +110,7 @@ $$dK = \frac{1}{2} \cdot dm \cdot u_B^2 - \frac{1}{2} \cdot dm \cdot u_A^2 $$
 $$(P_A - P_B) \cdot dV = \frac{1}{2} \cdot dm \cdot u_B^2 - \frac{1}{2} \cdot dm \cdot u_A^2 \Rightarrow P_A - P_B =  \frac{1}{2} \cdot \frac{dm}{dV} \cdot u_B^2 - \frac{1}{2} \cdot \frac{dm}{dV} \cdot u_A^2 $$
 
 
-
 $$(P_A - P_B) = \frac{1}{2} \cdot ρ \cdot u_B^2 - \frac{1}{2} \cdot ρ \cdot u_A^2 = \frac{1}{2} \cdot ρ (2u_A)^2 - \frac{1}{2} \cdot ρ \cdot u_A^2 = 3 \cdot \frac{1}{2} \cdot ρ \cdot u_A^2 = 3Λ$$
-
 
 
 Άρα η σωστή απάντηση είναι το $$(ιι)$$
@@ -137,7 +136,6 @@ R = 5m
 
 
 και $$u_2 = 4 \frac{m}{s}$$
-
 
 
 **Γ1**
@@ -249,7 +247,6 @@ $$α_{cm} = α_{γων} \cdot R$$
 $$Μ \cdot g \cdot ημφ = \frac{3}{2} \cdot M \cdot α_{cm} \Rightarrow α_{cm} = \frac{10}{3} \frac{m}{s^2}$$
 
 
-
 **Δ2**
 
 
@@ -327,6 +324,7 @@ $$I_{cm} = \frac{1}{2} M \cdot R^2 = 0.01 kg m^2$$
 
 **Δ3**
 
+
 Για κατακόρυφη μετατόπιση $$h = 1.2 m$$ θα έχουμε:
 
 
@@ -374,10 +372,11 @@ $$\frac{dK}{dt} = W_x \cdot u_{cm} - T_{στ} u_{cm} + T_{στ} u_{cm} = W_x \cd
 
 $$Κ = \frac{1}{2} \cdot M \cdot u^2 + \frac{1}{2} \cdot I \cdot ω^2 = \frac{1}{2} \cdot M \cdot ω^2 \cdot R^2 + \frac{1}{2} \cdot \frac{1}{2} \cdot M \cdot R^2 ω^2 = \frac{3}{4} \cdot M \cdot R^2 ω^2$$
 
+
 Αφού $$ω = α_{γων} \cdot t$$ 
 
-$$K = \frac{3}{4} \cdot M \cdot R^2 \cdot α_{γων}^2 \cdot t^2 = \frac{100}{6} \cdot t^2$$
 
+$$K = \frac{3}{4} \cdot M \cdot R^2 \cdot α_{γων}^2 \cdot t^2 = \frac{100}{6} \cdot t^2$$
 
 
 Ο ρυθμός μεταβολής της κινητικής ενέργειας είναι:
@@ -390,7 +389,6 @@ $$\frac{dK}{dt} = \frac{100}{6} \cdot 2 \cdot t = \frac{100}{3} \cdot t $$ (SI)
 
 
 $$\frac{dK}{dt} = 100 \frac{J}{s}$$ (SI)
-
 
 
 **Δ4**
@@ -406,7 +404,3 @@ $$Τ_{στ} \leq μ \cdot N \Rightarrow \frac{1}{2} \cdot M \cdot α_{cm} \leq �
 
 
 $$ μ_{min} = \frac {\sqrt3}{4} $$
-
-
-
-Τα θέματα μπορούν να βρεθούν στο παρακάτω link: http://bit.ly/1TGObYX
