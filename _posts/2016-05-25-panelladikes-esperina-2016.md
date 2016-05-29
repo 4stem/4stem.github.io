@@ -77,7 +77,7 @@ $$Α_Α \cdot u_A = A_B \cdot u_B \Rightarrow 2 \cdot A_B \cdot u_A = A_B \cdot 
 $$Λ = \frac{1}{2} \cdot ρ \cdot u^2$$
 
 
-α) τρόπος
+$$ {\it α) τρόπος} $$
 
 
 Εφόσον ο σωλήνας είναι οριζόντιος η εξίσωση του Bernoulli παίρνει την ακούλουθη μορφή:
@@ -89,7 +89,7 @@ $$P_A + \frac{1}{2} \cdot ρ \cdot u_A^2 = P_B + \frac{1}{2} \cdot ρ \cdot u_B^
 $$  P_A - P_B = \frac{1}{2} \cdot ρ \cdot 4 \cdot u_A^2  - \frac{1}{2} \cdot ρ \cdot u_A^2 = 4Λ - Λ = 3Λ$$
 
 
-β) τρόπος
+$$ {\emphβ) τρόπος}$$
 
 Θ.Ε.Ε. $$Α \rightarrow B$$ για dt:
 
