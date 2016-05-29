@@ -89,7 +89,7 @@ $$P_A + \frac{1}{2} \cdot ρ \cdot u_A^2 = P_B + \frac{1}{2} \cdot ρ \cdot u_B^
 $$  P_A - P_B = \frac{1}{2} \cdot ρ \cdot 4 \cdot u_A^2  - \frac{1}{2} \cdot ρ \cdot u_A^2 = 4Λ - Λ = 3Λ$$
 
 
-β) $$ \emph{τρόπος}$$
+β) $$ \underline{τρόπος}$$
 
 Θ.Ε.Ε. $$Α \rightarrow B$$ για dt:
 
