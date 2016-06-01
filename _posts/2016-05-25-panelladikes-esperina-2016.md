@@ -144,13 +144,22 @@ R = 5m
 ![σχήμα]({{ site.url }}/assets/g31.png) 
 
 
-α) $$ \underline {τρόπος} $$
-
-
 Α.Δ.Μ.Ε. $$(Α,Γ)(m_1)$$
 
 
 $$Κ_Α + U_A = K_Γ + U_Γ \Rightarrow 0 + m_1 \cdot g \cdot R = \frac{1}{2} \cdot m_1 \cdot u_o^2 + 0 \Rightarrow u_o = \sqrt{2 \cdot g \cdot R} \Rightarrow u_o = 10 \frac{m}{s}$$
+
+
+**Γ2**
+
+
+α) $$ \underline {τρόπος} $$
+
+
+Θ.Μ.Κ.Ε. $$Γ \rightarrow Δ (m_1)$$
+
+
+$$K_Δ - Κ_Γ = W_T \Rightarrow \frac{1}{2} \cdot m_1 \cdot u_1^2 -  \frac{1}{2} \cdot m_1 \cdot u_o^2 = -μ \cdot m_1 \cdot g \cdot S_1 \Rightarrow u_1 = 8 \frac{m}{s} $$
 
 
 β) $$ \underline {τρόπος} $$
@@ -171,15 +180,6 @@ $$ t = \frac{20 \pm 16}{10} = \left\{
 
 
 $$u_1 = u_o - α \cdot t \Rightarrow u_1 = 8 \frac{m}{s}$$
-
-
-**Γ2**
-
-
-Θ.Μ.Κ.Ε. $$Γ \rightarrow Δ (m_1)$$
-
-
-$$K_Δ - Κ_Γ = W_T \Rightarrow \frac{1}{2} \cdot m_1 \cdot u_1^2 -  \frac{1}{2} \cdot m_1 \cdot u_o^2 = -μ \cdot m_1 \cdot g \cdot S_1 \Rightarrow u_1 = 8 \frac{m}{s} $$
 
 
 ![σχήμα]({{ site.url }}/assets/g32.png) 
