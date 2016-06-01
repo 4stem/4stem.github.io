@@ -74,7 +74,7 @@ $$Α_Α \cdot u_A = A_B \cdot u_B \Rightarrow 2 \cdot A_B \cdot u_A = A_B \cdot 
 Για ιδανικό ρευστό η κινητική ενέργεια ανά μονάδα όγκου είναι:
 
 
-$$Λ = \frac{1}{2} \cdot ρ \cdot u^2$$
+$$Λ = \frac{dK}{dV} = \frac{\frac{1}{2} \cdot dm \cdot u^2}{dV} = \frac{1}{2} \cdot ρ \cdot u^2$$
 
 
 α) $$ \underline {τρόπος} $$
