@@ -53,7 +53,7 @@ $$φ_1 - φ_2 = \frac{2π(r_2-r_1)}{λ} \Rightarrow \frac{π}{3} = \frac{2π(r_2
 Για το πλάτος ταλάντωσης του φελλού θα ισχύει:
 
 
-$$|Α'| = |2Α \cdot συν(2π \frac{r_1 - r_2}{2λ}|) \Rightarrow |A'| = |2A \cdot συν(- \frac{π}{6})| \Rightarrow |A'| = A \cdot \sqrt3$$
+$$|Α'| = |2Α \cdot συν(2π \frac{r_1 - r_2}{2λ})| \Rightarrow |A'| = |2A \cdot συν(- \frac{π}{6})| \Rightarrow |A'| = A \cdot \sqrt3$$
 
 
 Άρα η σωστή απάντηση είναι το $$(ι)$$
