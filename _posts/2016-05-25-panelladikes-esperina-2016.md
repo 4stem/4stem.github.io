@@ -144,10 +144,33 @@ R = 5m
 ![σχήμα]({{ site.url }}/assets/g31.png) 
 
 
+α) $$ \underline {τρόπος} $$
+
+
 Α.Δ.Μ.Ε. $$(Α,Γ)(m_1)$$
 
 
 $$Κ_Α + U_A = K_Γ + U_Γ \Rightarrow 0 + m_1 \cdot g \cdot R = \frac{1}{2} \cdot m_1 \cdot u_o^2 + 0 \Rightarrow u_o = \sqrt{2 \cdot g \cdot R} \Rightarrow u_o = 10 \frac{m}{s}$$
+
+
+β) $$ \underline {τρόπος} $$
+
+
+$$ΣF = m \cdot α \Rightarrow T = m \cdot α \Rightarrow μ \cdot m \cdot g = m \cdot α \Rightarrow α = 5 \frac{m}{s^2}$$
+
+
+$$S_1 = u_o \cdot t - \frac{1}{2} \cdot α \cdot t^2 \Rightarrow 5 \cdot t^2 - 20 \cdot t + 7.2 =0$$
+
+
+$$ t = \frac{20 \pm 16}{10} = \left\{
+\begin{array}{ c l }
+0.4   &      \\
+3.6,   &    απορρίπτεται
+\end{array}
+\right. $$ 
+
+
+$$u_1 = u_o - α \cdot t \Rightarrow u_1 = 8 \frac{m}{s}$$
 
 
 **Γ2**
