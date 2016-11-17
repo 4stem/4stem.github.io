@@ -32,4 +32,12 @@ $$ΣF = m \cdot α \Rightarrow F + F' = m \cdot a $$
 
 και κάνοντας αντικατάσταση έχουμε:
 
-$$-D \cdot x - b \cdot υ = m \cdot \frac{d^2x}{dt} \Rightarrow m \cdot \frac{d^2x}{dt^2} + D \cdot x + b \cdot υ =0$$
+$$-D \cdot x - b \cdot υ = m \cdot \frac{d^2x}{dt^2} \Rightarrow m \cdot \frac{d^2x}{dt^2} + D \cdot x + b \cdot υ =0$$
+
+H παρακάτω διαφορική εξίσωση είναι μια γραμμική ομογενής 2ας τάξης και παρατίθεται ο κώδικας που την λύνει για διαφορετικές τιμές των παραμέτρων.
+
+$$\frac{d^2x}{dt^2} + \frac{b}{m} \cdot \frac{dx}{dt} + \frac{D}{m} \cdot x = 0$$
+
+H σταθερά που εξαρτάται από την σταθερά απόσβεσης και τη μάζα του ταλαντούμενου σώματος συμβολίζεται με Λ και ονομάζεται εκθέτης απόσβεσης $$Λ = \frac{b}{2\cdotm}$$. Εάν αντικαταστήσουμε τον λόγο $$\frac{D}{m}$$ με $$ω_ο^2$$ έχουμε:
+
+$$\frac{d^2x}{dt^2} + 2 \cdot Λ \cdot \frac{dx}{dt} + ω_ο^2 \cdot x = 0$$
