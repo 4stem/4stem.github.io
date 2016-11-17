@@ -74,7 +74,7 @@ $$Λ = 1s^{-1} , ω_ο = 1\frac{rad}{s} , x_o = 5m, υ_ο = 0 \frac{m}{s}$$
 
 $$DSolve[{x''[t] + 2 x'[t] + 4 x[t] == 0, x[0] == 5, x'[0] == 0}, x[t], t]$$
 
-$$Plot[x[t] /. %, {t, 0, 10}, PlotRange -> All]$$
+$$Plot[x[t] \textbackslash. %, {t, 0, 10}, PlotRange -> All]$$
 
 $$Λ = 1s^{-1} , ω_ο = 2\frac{rad}{s} , x_o = 5m, υ_ο = 0 \frac{m}{s}$$ 
 
