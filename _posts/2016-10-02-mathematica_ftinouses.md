@@ -47,11 +47,13 @@ $$\frac{d^2x}{dt^2} + 2 \cdot Λ \cdot \frac{dx}{dt} + ω_ο^2 \cdot x = 0$$
 
 **ισχυρή απόσβεση**
 
-		$$DSolve[{x''[t] + 4 x'[t] + x[t] == 0, x[0] == 5, x'[0] == 0}, x[t], t]$$
 
-		$$Plot[x[t] \backslash. \%, {t, 0, 10}, PlotRange -> All]$$
+			$$DSolve[{x''[t] + 4 x'[t] + x[t] == 0, x[0] == 5, x'[0] == 0}, x[t], t]$$
 
-				$$Λ = 2s^{-1} , ω_ο = 1\frac{rad}{s} , x_o = 5m, υ_ο = 0 \frac{m}{s}$$ 
+					$$Plot[x[t] \backslash. \%, {t, 0, 10}, PlotRange -> All]$$
+
+					$$Λ = 2s^{-1} , ω_ο = 1\frac{rad}{s} , x_o = 5m, υ_ο = 0 \frac{m}{s}$$ 
+
 
 δηλαδή $$Λ>ω_ο$$ και το σχήμα
 
