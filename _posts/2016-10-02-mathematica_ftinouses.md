@@ -44,53 +44,57 @@ $$\frac{d^2x}{dt^2} + 2 \cdot Λ \cdot \frac{dx}{dt} + ω_ο^2 \cdot x = 0$$
 
 Για την καλύτερη κατανόηση των διαφορετικών περιπτώσεων (ισχυρή απόσβεση, κρίσιμη απόσβεση, ασθενή απόσβεση) δίνονται τα επόμενα κομμάτια κώδικα:
 
+
 **ισχυρή απόσβεση**
 
-$$DSolve[{x''[t] + 4 x'[t] + x[t] == 0, x[0] == 5, x'[0] == 0}, x[t], t]$$
+		$$DSolve[{x''[t] + 4 x'[t] + x[t] == 0, x[0] == 5, x'[0] == 0}, x[t], t]$$
 
-$$Plot[x[t] \backslash. \%, {t, 0, 10}, PlotRange -> All]$$
+		$$Plot[x[t] \backslash. \%, {t, 0, 10}, PlotRange -> All]$$
 
-$$Λ = 2s^{-1} , ω_ο = 1\frac{rad}{s} , x_o = 5m, υ_ο = 0 \frac{m}{s}$$ 
+				$$Λ = 2s^{-1} , ω_ο = 1\frac{rad}{s} , x_o = 5m, υ_ο = 0 \frac{m}{s}$$ 
 
-δηλαδή $$Λ>ω_ο$$
+δηλαδή $$Λ>ω_ο$$ και το σχήμα
 
 ![σχήμα]({{ site.url }}/assets/isxyrh.png) 
 
 
+
 **κρίσιμη απόσβεση**
 
-$$DSolve[{x''[t] + 2 x'[t] + x[t] == 0, x[0] == 5, x'[0] == 0}, x[t], t]$$
+		$$DSolve[{x''[t] + 2 x'[t] + x[t] == 0, x[0] == 5, x'[0] == 0}, x[t], t]$$
 
-$$Plot[x[t] \backslash. \%, {t, 0, 10}, PlotRange -> All]$$
+		$$Plot[x[t] \backslash. \%, {t, 0, 10}, PlotRange -> All]$$
 
-$$Λ = 1s^{-1} , ω_ο = 1\frac{rad}{s} , x_o = 5m, υ_ο = 0 \frac{m}{s}$$ 
+			$$Λ = 1s^{-1} , ω_ο = 1\frac{rad}{s} , x_o = 5m, υ_ο = 0 \frac{m}{s}$$ 
 
-δηλαδή $$Λ=ω_ο$$
+δηλαδή $$Λ=ω_ο$$ και το σχήμα
 
 ![σχήμα]({{ site.url }}/assets/krisimh.png) 
 
 
+
 **ασθενής απόσβεση (πρώτη περίπτωση)**
 
-$$DSolve[{x''[t] + 2 x'[t] + 4 x[t] == 0, x[0] == 5, x'[0] == 0}, x[t], t]$$
+		$$DSolve[{x''[t] + 2 x'[t] + 4 x[t] == 0, x[0] == 5, x'[0] == 0}, x[t], t]$$
 
-$$Plot[x[t] \backslash. \%, {t, 0, 10}, PlotRange -> All]$$
+		$$Plot[x[t] \backslash. \%, {t, 0, 10}, PlotRange -> All]$$
 
-$$Λ = 1s^{-1} , ω_ο = 2\frac{rad}{s} , x_o = 5m, υ_ο = 0 \frac{m}{s}$$ 
+		$$Λ = 1s^{-1} , ω_ο = 2\frac{rad}{s} , x_o = 5m, υ_ο = 0 \frac{m}{s}$$ 
 
-δηλαδή $$Λ<ω_ο$$
+δηλαδή $$Λ<ω_ο$$ και το σχήμα
 
 ![σχήμα]({{ site.url }}/assets/astheni1.png) 
 
 
+
 **ασθενής απόσβεση (δεύτερη περίπτωση)**
 
-$$DSolve[{x''[t] + 2 x'[t] + 400 x[t] == 0, x[0] == 5, x'[0] == 0}, x[t], t]$$
+		$$DSolve[{x''[t] + 2 x'[t] + 400 x[t] == 0, x[0] == 5, x'[0] == 0}, x[t], t]$$
 
-$$Plot[x[t] \backslash. \%, {t, 0, 10}, PlotRange -> All]$$
+		$$Plot[x[t] \backslash. \%, {t, 0, 10}, PlotRange -> All]$$
 
-$$Λ = 1s^{-1} , ω_ο = 20\frac{rad}{s} , x_o = 5m, υ_ο = 0 \frac{m}{s}$$ 
+				$$Λ = 1s^{-1} , ω_ο = 20\frac{rad}{s} , x_o = 5m, υ_ο = 0 \frac{m}{s}$$ 
 
-δηλαδή $$Λ<ω_ο$$
+δηλαδή $$Λ<ω_ο$$ και το σχήμα
 
 ![σχήμα]({{ site.url }}/assets/astheni2.png) 
