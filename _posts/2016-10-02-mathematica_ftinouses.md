@@ -3,7 +3,7 @@ layout: post
 title: "Φθίνουσα ταλάντωση και Mathematica"
 description: "Φυσική Γ' Λυκείου"
 category: Άσκηση
-tags: [Ταλαντώσεις]
+tags: [Ταλαντώσεις, Μαθηματικά]
 ---
 {% include JB/setup %}
 
