@@ -23,17 +23,18 @@ $$P_1 = P + P_2$$
 
 $$ρ_1 \cdot g \cdot h_1 = ρ \cdot g \cdot h + ρ_2 \cdot g \cdot h_2 \Rightarrow 2000 \cdot 10 \cdot 0.256 = 13600 \cdot 10 \cdot h + 800 \cdot 10 \cdot h_2$$
 
+
 η οποία οδηγεί στην σχέση
 
 $$136000 \cdot h + 8000 \cdot h_2 = 5120$$
 
 επίσης από το σχήμα έχουμε ότι
 
-$$h_2 + h = 0.256 \Rightarrow h_2 = 0.256 - h$$
+$$h_2 + h = h_1 \Rightarrow h_2 = 0.256 - h$$
 
 και αντικαθιστώντας στην προηγούμενη σχέση έχουμε
 
-$$136000 \cdot h + 2048 - 8000 \cdot h = 5120 \Rightarrow 128000 \cdot h = 3072$$
+$$136000 \cdot h + 2048 - 8000 \cdot h = 5120 \Rightarrow 128000 \cdot h = 3072 \Rightarrow h = \frac{3072}{128000} \Rightarrow h = 0.024$$
 
 οπότε η απάντηση είναι $$0.024m$$ στο δεξιό σκέλος. 
 
