@@ -1,8 +1,8 @@
 ---
 layout: post
 category : Άρθρο
-title: Κάνοντας Φυσική με Geogebra, Step και Mathematica στη σχολική τάξη
-tagline: "κεντρική ελαστική κρούση και φθίνουσα ταλάντωση"
+title: Κάνοντας Φυσική στη σχολική τάξη
+tagline: " με Geogebra, Step και Mathematica"
 tags : [Φυσική]
 ---
 {% include JB/setup %}
