@@ -31,7 +31,7 @@ $$a = 2 \frac{m}{s^2}$$
 
 Για την συχνότητα που αντιλαμβάνεται ο παρατηρητής μέχρι την πηγή έχουμε την σχέση
 
-$$ f_A = \frac{υ+ a \cdot t}{υ} \cdot f_S \Rightarrow f_A = 540 + \frac{54}{17 \cdot t} $$
+$$ f_A = \frac{υ+ a \cdot t}{υ} \cdot f_S \Rightarrow f_A = 540 + \frac{54}{17} \cdot t $$
 
 H συνάρτηση έχει πεδίο ορισμού 
 
