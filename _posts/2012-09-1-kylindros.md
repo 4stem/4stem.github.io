@@ -92,3 +92,9 @@ $$L_o = 0$$
 ως εξής
 
 $$ \frac{dL}{dt} = 0.06 \Rightarrow \frac{L - L_o}{Δt} = 0.06 \Rightarrow L = 0.6 kg \frac{m^2}{s}$$
+
+β' τρόπος
+
+Υπολογισμός της στιγμιαίας στροφορμής
+
+$$ L = L_{spin} + L_{περιστροφή} = Ι_{cm} \cdot ω + m \cdot u_{cm} \cdot r = \frac{1}{2} \cdot m \cdot R^2 \cdot ω + m \cdot u_{cm} \cdot \frac{R}{2} = 0.4 + 0.2 = 0.6 kg \frac{m^2}{s}$$
