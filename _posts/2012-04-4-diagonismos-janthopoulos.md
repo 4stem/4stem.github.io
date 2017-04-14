@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Φυσική Serway Jewett"
+title: "Διαγωνισμός Φυσικής Β. Ξανθόπουλος"
 description: "Φυσική Γ' Λυκείου"
 category: Άσκηση
 tags: [Ταλαντώσεις]
