@@ -21,4 +21,4 @@ tags: [Στερεό]
 $$φ_{min} = 45^o$$
 
 
-$$h = \frac{21 - sqrt3}{8} = \approx 2.4m$$
+$$h = \frac{21 - \sqrt3}{8} \approx 2.4m$$
