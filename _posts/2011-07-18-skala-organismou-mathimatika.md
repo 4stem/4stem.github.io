@@ -31,4 +31,3 @@ $$y'(t_o) = - \frac{\sqrt{2.75}}{25} \frac{m}{s}$$
 
 $$α_{cm} = 5 \cdot \sqrt{2.75} \frac{m}{s^2}$$
 
-![σχήμα]({{ site.url }}/assets/math03.png) 
