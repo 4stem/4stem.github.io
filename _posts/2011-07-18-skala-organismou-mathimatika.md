@@ -25,7 +25,7 @@ tags: [Μαθηματικά]
 `Απάντηση:`
 
 
-Τα μεγέθη $$x, y, Θ$$ είναι συναρτήσεις του χρόνου, δηλαδή ισχύει $$x = x(t), y = y(t), θ = θ(t)$$ και από τα δεδομένα έχουμε:
+Τα μεγέθη $$x, y, θ$$ είναι συναρτήσεις του χρόνου, δηλαδή ισχύει $$x = x(t), y = y(t), θ = θ(t)$$ και από τα δεδομένα έχουμε:
 
 $$υ_Α = \frac{dy}{dt}$$
 
@@ -39,7 +39,7 @@ $$y(t_0) = 2.5m$$
 
 $$x(t_0)^2 + y(t_0)^2 = L^2 \Rightarrow x(t_0) = \sqrt{3^2 - y(t_0)^2} \Rightarrow x(t_0) = \sqrt{2.75}m $$
 
-$$συνθ(t) = \frac{x(t)}{L} \Rigtharrow x(t) = 3 \cdot συνθ(t) \Rightarrow \frac{dx}{dt} = - 3 \cdot ημθ(t) \cdot \frac{dθ}{dt}$$
+$$συνθ(t) = \frac{x(t)}{L} \Rightarrow x(t) = 3 \cdot συνθ(t) \Rightarrow \frac{dx}{dt} = - 3 \cdot ημθ(t) \cdot \frac{dθ}{dt}$$
 
 $$\frac{dθ}{dt} = - \frac{1}{3 \cdot ημθ(t)} \cdot \frac{dx}{dt} \Rightarrow \frac{dθ(t_0)}{dt} = - \frac{1}{3 \cdot ημθ(t_0)} \cdot \frac{dx(t_0)}{dt}$$
 
