@@ -49,7 +49,7 @@ $$\frac{dθ(t_o)}{dt} = - \frac{1}{25} \frac{rad}{s}$$
 
 Πάλι από το ορθογώνιο τρίγωνο έχουμε:
 
-$$x(t)^2 + y(t)^2 = L^2 \Rightarrow 2 \cdot x(t) \cdot \frac{dx}{dt} + 2 \cdot y(t) \cdot \frac{dy}{dt} Rightarrow \frac{dy}{dt} = - \frac{x(t)}{y(t)} \cdot \frac{dx}{dt}$$
+$$x(t)^2 + y(t)^2 = L^2 \Rightarrow 2 \cdot x(t) \cdot \frac{dx}{dt} + 2 \cdot y(t) \cdot \frac{dy}{dt} \Rightarrow \frac{dy}{dt} = - \frac{x(t)}{y(t)} \cdot \frac{dx}{dt}$$
 
 οπότε
 
