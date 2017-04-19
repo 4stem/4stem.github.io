@@ -25,9 +25,39 @@ tags: [Μαθηματικά]
 `Απάντηση:`
 
 
-$$θ'(t_o) = - \frac{1}{25} \frac{rad}{s}$$
+Τα μεγέθη $$x, y, Θ$$ είναι συναρτήσεις του χρόνου, δηλαδή ισχύει $$x = x(t), y = y(t), θ = θ(t)$$ και από τα δεδομένα έχουμε:
 
-$$y'(t_o) = - \frac{\sqrt{2.75}}{25} \frac{m}{s}$$ 
+$$υ_Α = \frac{dy}{dt}$$
+
+$$υ_B = \frac{dx}{dt} = 0.1 \frac{m}{s}$$
+
+Τη χρονική στιγμή $$t_0$$ , που η κορυφή της σκάλας απέχει από το δάπεδο $$2.5m$$ είναι:
+
+$$y(t_0) = 2.5m$$
+
+Όμως ισχύει το πυθαγόρειο θεώρημα για το ορθογώνιο τρίγωνο, οπότε:
+
+$$x(t_0)^2 + y(t_0)^2 = L^2 \Rightarrow x(t_0) = \sqrt{3^2 - y(t_0)^2} \Rightarrow x(t_0) = \sqrt{2.75}m $$
+
+$$συνθ(t) = \frac{x(t)}{L} \Rigtharrow x(t) = 3 \cdot συνθ(t) \Rightarrow \frac{dx}{dt} = - 3 \cdot ημθ(t) \cdot \frac{dθ}{dt}$$
+
+$$\frac{dθ}{dt} = - \frac{1}{3 \cdot ημθ(t)} \cdot \frac{dx}{dt} \Rightarrow \frac{dθ(t_0)}{dt} = - \frac{1}{3 \cdot ημθ(t_0)} \cdot \frac{dx(t_0)}{dt}$$
+
+και μετά τις αντικαταστάσεις
+
+$$\frac{dθ(t_o)}{dt} = - \frac{1}{25} \frac{rad}{s}$$
+
+Πάλι από το ορθογώνιο τρίγωνο έχουμε:
+
+$$x(t)^2 + y(t)^2 = L^2 \Rightarrow 2 \cdot x(t) \cdot \frac{dx}{dt} + 2 \cdot y(t) \cdot \frac{dy}{dt} Rightarrow \frac{dy}{dt} = - \frac{x(t)}{y(t)} \cdot \frac{dx}{dt}$$
+
+οπότε
+
+$$\frac{dy(t_0)}{dt} = - \frac{x(t_0)}{y(t_0)} \cdot \frac{dx(t_0)}{dt}$$
+
+κα μετά τις αντικαταστάσεις
+
+$$\frac{dy(t_o)}{dt} = - \frac{\sqrt{2.75}}{25} \frac{m}{s}$$ 
 
 
 ![σχήμα]({{ site.url }}/assets/math03.png) 
