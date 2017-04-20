@@ -3,7 +3,7 @@ layout: post
 title: "Σκάλα και ρυθμός μεταβολής"
 description: "Φυσική Γ' Λυκείου"
 category: Άσκηση
-tags: [Μαθηματικά]
+tags: [Μαθηματικά, Στερεό]
 ---
 {% include JB/setup %}
 
