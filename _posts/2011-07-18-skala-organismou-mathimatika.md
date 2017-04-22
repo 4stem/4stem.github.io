@@ -139,4 +139,3 @@ $$α_{cm} = \sqrt{α_{xcm}^2 + α_{ycm}^2} \Rightarrow α_{cm} = 2.5 \cdot \sqrt
 
 [Sliding ladder](http://bit.ly/2ofRthq), Physics Harvard Education, Solution Week 47 (8/4/03)
 
-A Course of Mathematics for Engineers and Scientists: Volume 3: [Theoretical Mechanics](http://bit.ly/2og9xYX)
