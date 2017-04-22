@@ -129,3 +129,16 @@ $$α_{ycm} = \frac{13.75}{6} \frac{m}{s^2}$$
 και τελικά η συνισταμένη των $$α_{xcm}$$ και $$α_{ycm}$$ είναι:
 
 $$α_{cm} = \sqrt{α_{xcm}^2 + α_{ycm}^2} \Rightarrow α_{cm} = 2.5 \cdot \sqrt{2.75} \frac{m}{s^2}$$
+
+
+`Σχετική βιβλιογραφία:`
+
+**Variations of the Sliding Ladder Problem**, Stelios Kapranidis and Reginald Koo, http://bit.ly/2oA6p5t
+
+**The Falling Ladder Paradox**, Paul Scholten, Andrew Simoson, http://bit.ly/2oxjNYP
+
+**Sliding ladder**, Solution Week 47 (8/4/03), http://bit.ly/2ofRthq
+
+A Course of Mathematics for Engineers and Scientists: Volume 3: Theoretical Mechanics, http://bit.ly/2og9xYX
+
+<script type='text/javascript' src='http://demonstrations.wolfram.com/javascript/embed.js' ></script><script type='text/javascript'>var demoObj = new DEMOEMBED(); demoObj.run('PhysicsofaSlidingLadder', '', '547', '675');</script><div id='DEMO_PhysicsofaSliding Ladder'><a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/PhysicsofaSliding Ladder/' target='_blank'>Physics of a Sliding Ladder</a> from the <a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/' target='_blank'>Wolfram Demonstrations Project</a> by Philippe Brosson</div><br />
