@@ -1,8 +1,8 @@
 ---
 layout: post
 category : Άρθρο
-title: Μέτρηση της ακτίνας της Γης
-tagline: "με Smartphone και Mobile Apps"
+title: Φυσικές Επιστήμες στην εκπαίδευση, τεύχος 4ο.
+tagline: "Μέτρηση της γης με smartphone και mobile apps"
 tags : [Φυσική]
 ---
 {% include JB/setup %}

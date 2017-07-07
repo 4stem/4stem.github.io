@@ -1,8 +1,8 @@
 ---
 layout: post
 category : Άρθρο
-title: Κάνοντας Φυσική στη σχολική τάξη
-tagline: " με Geogebra, Step και Mathematica"
+title: Φυσικές Επιστήμες στην εκπαίδευση, τεύχος 13ο.
+tagline: " Κάνοντας Φυσική στη σχολική τάξη"
 tags : [Φυσική]
 ---
 {% include JB/setup %}

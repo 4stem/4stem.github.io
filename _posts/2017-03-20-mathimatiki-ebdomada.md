@@ -1,8 +1,8 @@
 ---
 layout: post
 category : Άρθρο
-title: Μηδέν επί άπειρο. Geogebra, Step, Mathematica.
-tagline: "Παρουσίαση Θεσσαλονίκη"
+title: 9η Διεθνής Μαθηματική Εβδομάδα
+tagline: "Μηδέν επί άπειρο. Geogebra, Step, Mathematica."
 tags : [Μαθηματικά]
 ---
 {% include JB/setup %}
