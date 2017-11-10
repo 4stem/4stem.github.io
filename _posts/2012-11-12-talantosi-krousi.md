@@ -3,7 +3,7 @@ layout: post
 title: "Πλαστική κρούση και ελατήριο"
 description: "Οριζόντιο ελατήριο και δύο σώματα"
 category: Άσκηση
-tags: [Ταλαντώσεις]
+tags: [Ταλαντώσεις, Κρούση]
 ---
 {% include JB/setup %}
 
