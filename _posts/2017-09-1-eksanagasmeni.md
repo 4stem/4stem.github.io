@@ -33,13 +33,17 @@ tags: [Ταλαντώσεις]
 
 $$Κ = 0.2 \cdot συν^2(\frac{π}{2} t), U = 0.2 \cdot ημ^2(\frac{π}{2} t)$$
 
-![σχήμα]({{ site.url }}/assets/aat1.jpg) 
+
+![σχήμα]({{ site.url }}/assets/aat1.png) 
+
 
 $$υ = \frac{0.1 \cdot π}{2} συν(\frac{π}{4} t), α = - \frac{0.1 \cdot π^2}{8} ημ(\frac{π}{4} t)$$
 
 $$Κ = 0.05 \cdot συν^2(\frac{π}{4} t), U = 0.2 \cdot ημ^2(\frac{π}{4} t)$$
 
-![σχήμα]({{ site.url }}/assets/eks1.jpg) 
+
+![σχήμα]({{ site.url }}/assets/eks1.png) 
+
 
 $$όχι$$
 
