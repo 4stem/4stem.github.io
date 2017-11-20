@@ -33,6 +33,17 @@ tags: [Ταλαντώσεις]
 
 $$Κ = 0.2 \cdot συν^2(\frac{π}{2} t), U = 0.2 \cdot ημ^2(\frac{π}{2} t)$$
 
+Ο κώδικας σε mathematica 
+
+				Plot[{0.2*Cos[Pi*t/2]^2, 0.2*Sin[Pi*t/2]^2}, {t, 0, 4}, 
+						PlotLegends ->"Expressions",  
+						PlotRange -> All, 
+						PlotLabel -> "Απλή Αρμονική Ταλάντωση", 
+						Background -> LightBlue, 
+						GridLines -> Automatic, 
+						AxesLabel -> {"t(s)", "E(J)"}, 
+						Filling -> Automatic]
+
 
 ![σχήμα]({{ site.url }}/assets/aat1.png) 
 
@@ -40,6 +51,16 @@ $$Κ = 0.2 \cdot συν^2(\frac{π}{2} t), U = 0.2 \cdot ημ^2(\frac{π}{2} t)$
 $$υ = \frac{0.1 \cdot π}{2} συν(\frac{π}{4} t), α = - \frac{0.1 \cdot π^2}{8} ημ(\frac{π}{4} t)$$
 
 $$Κ = 0.05 \cdot συν^2(\frac{π}{4} t), U = 0.2 \cdot ημ^2(\frac{π}{4} t)$$
+
+Ο κώδικας σε mathematica
+
+				Plot[{0.05*Cos[Pi*t/4]^2, 0.2*Sin[Pi*t/4]^2}, {t, 0, 8}, 
+						PlotLegends ->"Expressions",  
+						PlotRange -> All, PlotLabel -> "Εξαναγκασμένη Ταλάντωση", 
+						Background -> LightBlue, 
+						GridLines -> Automatic, 
+						AxesLabel -> {"t(s)", "E(J)"}, 
+						Filling -> Automatic]
 
 
 ![σχήμα]({{ site.url }}/assets/eks1.png) 
