@@ -33,3 +33,15 @@ $$x_2 = A \cdot ημ(ω_2 \cdot t + \frac{π}{2})$$
 
 Τις αρμονικές ταλαντώσεις μπορούμε να αναπαραστήσουμε με την βοήθεια δύο γεννητριών συχνοτήτων και ενός παλμογράφου
 όπως φαίνεται στο ακόλουθο [βίντεο](https:\\www.youtube.com\watch?v=0pxwi6NoKLY) 
+
+
+Ο κώδικας σε mathematica 
+
+				Plot[Sin[20*Pi*t+Pi/2]+Sin[22*Pi*t+Pi/2], {t, 0, 2}, 
+						PlotLegends ->"Expressions",  
+						PlotRange -> All, 
+						PlotLabel -> "Διακρότημα", 
+						Background -> LightBlue, 
+						GridLines -> Automatic, 
+						AxesLabel -> {"t(s)", "x(cm)"}, 
+						Filling -> Automatic]
