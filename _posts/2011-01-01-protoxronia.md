@@ -31,9 +31,21 @@ tags: [Φυσική]
 				{x1, x2, t1, t2, a}]
 
 
+![σχήμα]({{ site.url }}/assets/lysi.png) 
+
+
 			f[x] := 160/21
 			g[x] := 160/21 - 16*(x-100)/21
  			Show[{Plot[f[x], {x, 0, 100}, PlotStyle -> Blue], 
  				Plot[g[x], {x, 100, 110}, PlotStyle -> Green]}, 
- 				PlotRange -> All,  
- 				AxesOrigin -> {0, 0}]
+ 				PlotRange -> All,
+ 				GridLines -> Automatic,  
+ 				Background -> LightBlue, 
+ 				PlotLabel -> "u = f(t)", 
+ 				AxesLabel -> {"t(s)","u(m/s)"}, 
+ 				AxesOrigin -> {0, 0}, 
+ 				Filling -> Automatic]
+
+
+![σχήμα]({{ site.url }}/assets/kinisi.png) 
+
