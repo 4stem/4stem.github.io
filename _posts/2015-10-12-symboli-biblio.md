@@ -3,7 +3,7 @@ layout: post
 title: "Συμβολή"
 description: "Φυσική Γ' Λυκείου"
 category: Άσκηση
-tags: [Κύματα]
+tags: [Κύματα, mathematica]
 ---
 {% include JB/setup %}
 
