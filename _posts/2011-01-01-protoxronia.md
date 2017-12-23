@@ -3,7 +3,7 @@ layout: post
 title: "Ευθύγραμμη ομαλή και Ευθύγραμμη ομαλά επιταχυνόμενη κίνηση"
 description: "Φυσική Α' Λυκείου"
 category: Άσκηση
-tags: [Φυσική, mathematica]
+tags: [Φυσική, Mathematica]
 ---
 {% include JB/setup %}
 

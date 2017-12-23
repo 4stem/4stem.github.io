@@ -3,7 +3,7 @@ layout: post
 title: "Διακρότημα με παλμογράφο"
 description: "Φυσική Γ' Λυκείου"
 category: Άσκηση
-tags: [Ταλαντώσεις, mathematica]
+tags: [Ταλαντώσεις, Mathematica]
 ---
 {% include JB/setup %}
 
