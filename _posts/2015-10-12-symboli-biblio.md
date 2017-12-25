@@ -56,16 +56,19 @@ $$ y_Σ = 3 \cdot \sqrt{2} \cdot ημ[5π(t-1,2 ) + \frac{π}{4}] $$
 
 Η γραφική παράστασης της προηγούμενης συνάρτησης φαίνεται στο παρακάτω σχήμα.
 
-![σχήμα]({ { site.url } }/assets/function2.png) 
+![σχήμα]({{ site.url }}/assets/function2.png) 
 
 και ο κώδικας σε mathematica
 
-Plot[Piecewise[{ {0, 0<t< 1.1}, {3*Sin[5*Pi(t-1.1)], 1.1<t<1.2}, {3*Sqrt[2]*Sin[5*Pi(t-1.2)+Pi/4], 1.2<t} }], {t, 0, 2}, 
-					PlotLegends ->"Expressions",  
-					PlotRange -> All, 
-					PlotLabel -> "\[CapitalSigma]\[Upsilon]\[Mu]\[Beta]\[Omicron]\[Lambda]ή \[Kappa]\[Upsilon]\[Mu]ά\[Tau]\[Omega]\[Nu] \[Sigma]\[Tau]\[Omicron] \[Sigma]\[Chi]\[Omicron]\[Lambda]\[Iota]\[Kappa]ό \[Beta]\[Iota]\[Beta]\[Lambda]ί\[Omicron]", 
-					Background -> LightBlue, 
-					GridLines -> Automatic, 
-					AxesLabel -> {"t(s)", "y(mm)"}, 
-					Filling -> Automatic]
+		Plot[Piecewise[{ {0, 0<t< 1.1}, 
+					{3*Sin[5*Pi(t-1.1)], 1.1<t<1.2}, 
+					{3*Sqrt[2]*Sin[5*Pi(t-1.2)+Pi/4], 1.2<t} }],
+					 {t, 0, 2},
+				PlotLegends ->"Expressions",  
+				PlotRange -> All, 
+				PlotLabel -> "\Symboli kymaton sto sxoliko biblio", 
+				Background -> LightBlue, 
+				GridLines -> Automatic, 
+				AxesLabel -> {"t(s)", "y(mm)"}, 
+				Filling -> Automatic]
 
