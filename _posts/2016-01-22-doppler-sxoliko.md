@@ -55,3 +55,20 @@ $$υ = a \cdot t \Rightarrow υ=340 \frac{m}{s}$$
 
 
 ![σχήμα]({{ site.url }}/assets/sxoliko_Doppler.png) 
+
+και ο κώδικας σε mathematica
+
+
+		f[t] := 540 + 54t/17
+		h[t] := 540
+		g[t] := 540 - 54t/17
+		Show[{Plot[f[t], {t, 0, 20}, PlotStyle -> Blue], 
+       			Plot[h[t], {t, 20, 20.1}, PlotStyle -> Black],
+ 				Plot[g[t], {t, 20, 170}, PlotStyle -> Red]},
+ 					PlotRange -> All,
+ 					GridLines -> Automatic,  
+ 					Background -> LightBlue, 
+ 					PlotLabel -> "syxnothta", 
+ 					AxesLabel -> {"t(s)","f(Hz)"}, 
+ 					AxesOrigin -> {0, 0}, 
+ 					Filling -> Automatic]
