@@ -71,3 +71,18 @@ $$ y_Σ = 0,4 \cdot ημ[10π(t-0,7)+0]$$
 
 ![σχήμα]({{ site.url }}/assets/function.png) 
 
+και ο κώδικας σε mathematica
+
+			f[t] := 0
+			g[t] := 0.2Sin[10Pi(t-0.5)]
+			h[t] := 0.4Sin[10Pi(t-0.7)]
+			Show[{Plot[f[t], {t, 0, 0.5}, PlotStyle -> Green], 
+ 				Plot[g[t], {t, 0.5, 0.7}, PlotStyle -> Blue], 
+    			Plot[h[t], {t, 0.7, 1}, PlotStyle -> Red]},
+ 					PlotRange -> All,
+ 					GridLines -> Automatic,  
+ 					Background -> LightBlue, 
+ 					PlotLabel -> "xroniki synartisi", 
+ 					AxesLabel -> {"t(s)","y(m)"}, 
+ 					AxesOrigin -> {0, 0}, 
+ 					Filling -> Automatic]
