@@ -3,7 +3,7 @@ layout: post
 title: "Doppler σχολικό"
 description: "Φυσική Κατεύθυνσης Θέμα Γ"
 category: Άσκηση
-tags: [Doppler]
+tags: [Doppler, Mathematica]
 ---
 {% include JB/setup %}
 

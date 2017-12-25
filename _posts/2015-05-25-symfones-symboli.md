@@ -3,7 +3,7 @@ layout: post
 title: "Σύμφωνες πηγές"
 description: "Φυσική Γ' Λυκείου"
 category: Άσκηση
-tags: [Κύματα]
+tags: [Κύματα, Mathematica]
 ---
 {% include JB/setup %}
 
