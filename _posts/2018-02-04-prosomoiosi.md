@@ -172,6 +172,247 @@ list-style-type: lower-greek;
 
 Επιμέλεια θεμάτων: Μπόγδανος Αθανάσιος, Πετρίδης Παναγιώτης
 
+
+
+
+**`Ενδεικτικές απαντήσεις`**
+
+
+
+
+**`Θέμα Α`**
+
+**Α1** - $$δ$$
+
+**Α2** - $$α$$
+
+**Α3** - $$γ$$
+
+**Α4** - $$β$$
+
+**Α5:**  $$Σ - Λ - Σ - Σ - Λ$$
+
+
+**`Θέμα Β`**
+
+**B1**-$$(γ)$$
+
+![σχήμα]({{ site.url }}/assets/function4.png) 
+
+$$Π_1 Π_2 \qquad y = 0.5 ημ 4πt \qquad S.I.$$
+
+$$ω = 4π \frac{rad}{s}, Τ = \frac{2π}{ω} = 0.5 s$$
+
+$$r_1 > r_2 \Rightarrow t_1 > t_2$$
+
+$$t_1 = \frac{r_1}{υ_δ} = 5 sec \Rightarrow r_1 = 5 \cdot \frac{λ}{Τ} = 10 \cdot λ$$
+
+$$t_2 = \frac{r_2}{υ_δ} = 3 sec \Rightarrow r_2 = 3 \cdot \frac{λ}{Τ} = 6 \cdot λ$$
+
+$$r_1 - r_2 = 4λ \qquad (γ)$$
+
+**B2**-$$(α)$$
+
+$$p_1 = m_1 \cdot υ_1 = m \cdot υ$$
+
+$$p_2 = m_2 \cdot υ_2 = 3m \cdot υ$$
+
+$$p_τ = (m_1 + m_2) \cdot V_k = 4m \cdot V_k$$
+
+$$ Α.Δ.Ο. \qquad \vec{p}_{αρχ} = \vec{p}_{τελ} \Rightarrow p_τ ^2 = p_1 ^2 + p_2 ^2 \Rightarrow V_k ^2 = \frac{5}{2} υ^2 $$
+
+$$Κ_{αρχ} = \frac{1}{2} m_1 υ_1^2 +  \frac{1}{2} m_2 υ_2^2 = 5 m υ^2$$
+
+$$Κ_{τελ} =  \frac{1}{2} (m_1 + m_2) V_k^2 =  \frac{5}{2} m υ^2$$
+
+$$Q_{θερ} = Κ_{αρχ} - Κ_{τελ} =  \frac{5}{2} m υ^2 \qquad (α)$$
+
+**B3**-$$(β)$$
+
+![σχήμα]({{ site.url }}/assets/b2.jpg) 
+
+Το νήμα είναι αβαρές και μη εκτατό. Τα σώματα $$m_1$$ και $$m_2$$ αρχικά ισοορροπούν. Στο σώμα $$m_1$$ ασκείται η δύναμη $$F$$ και η τάση του νήματος, ενώ στο σώμα $$m_2$$ ασκείται η τάση του νήματος (ίδιο μέτρο) και η δύναμη του ελατηρίου. Άρα ισχύει τελικά
+
+$$F = k \cdot d$$
+
+Το σύστημα των σωμάτων $$m_1$$ και $$m_2$$ εκτελεί απλή αρμονική ταλάντωση κινούμενο από την ακραία θέση του ($$ A = d$$) έως την θέση ισορροπίας του που είναι και θέση του φυσικού μήκους του ελατηρίου.
+
+$$D = k = (m_1 + m_2) ω^2 \Rightarrow ω = \sqrt \frac{k}{4m}$$
+
+Η μέγιστη ταχύτητα για κάθε σώμα δίνεται από την σχέση
+
+$$υ_{max} = ω \cdot A = \sqrt \frac{k}{4m} \cdot A$$
+
+Σε χρόνο $$Δt = \frac{T}{4}$$ το σύστημα των δύο σωμάτων φτάνει στην θέση του φυσικού μήκους του ελατηρίου. Στη συνέχεια το σώμα μάζας $$m_2$$ λόγω της δύναμης του ελατηρίου επιβραδύνεται, ενώ το σώμα μάζας $$m_1$$ κινείται με ταχύτητα $$υ_{max}$$ κάνοντας ευθύγραμμη ομαλή κίνηση, άρα το νήμα χαλαρώνει. To σώμα μάζας $$m_2$$ εκτελεί απλή αρμονική ταλάντωση για την οποία ισχύει:
+
+
+$$D = k = m_2 \cdot ω^2 \Rightarrow ω = \sqrt \frac{k}{m} \Rightarrow T_2 = 2π \sqrt \frac{m}{k}$$
+
+Σε χρόνο $$Δt' = \frac{T_2}{2}$$ το σώμα μάζας $$m_2$$ περνά ξανά από την θέση φυσικού μήκους που είναι και θέση ισορροπίας της ταλάντωσης, ενώ την ίδια χρονική στιγμή το σώμα μάζας $$m_1$$ που εκτελεί ευθύγραμμη ομαλή κίνηση βρίσκεται και αυτό στην ίδια θέση και έχει διανύσει απόσταση:
+
+$$l = υ_{max} \cdot \frac{T_2}{2} = \sqrt \frac{k}{4m} \cdot d \cdot \frac{1}{2} \cdot 2π \sqrt \frac{m}{k} = \frac{π \cdot d}{2}$$
+
+Τέλος κάνοντας την αντικατάσταση $$d = \frac{F}{k}$$ έχουμε:
+
+$$F = \frac{π \cdot F}{2k} \qquad (β)$$
+
+
+
+**`Θέμα Γ`**
+
+
+**Γ1**
+
+![σχήμα]({{ site.url }}/assets/g3_pan2.png)
+
+$$y_o = A \cdot ημωt \qquad y = A \cdot ημ ( \frac{2πt}{T} - \frac{2πx}{λ})$$
+
+$$φ_Μ - φ_Ν = \frac{2πt}{T} - \frac{2πx_Μ}{λ} - (\frac{2πt}{T} - \frac{2πx_Ν}{λ}) \Rightarrow 3π = 2π \frac{x_N-x_M}{λ} \Rightarrow λ = 0.4m$$
+
+$$υ_δ = \frac{λ}{Τ} \Rightarrow T = 0.4s \qquad ω = \frac{2π}{Τ} \Rightarrow ω = 5π \frac{rad}{s}$$
+
+$$y = 0.05 \cdot ημ(5πt - 5πx) \qquad S.I.$$
+
+
+**Γ2**
+
+$$t_1 = 1 sec \qquad x_1 = υ_δ \cdot t_1 = 1.0m > 0.8m = x_N$$
+
+$$υ_Ν = 5π \cdot 0.05 \cdot συν(5π - 5π \cdot 0.8) = -\frac{π}{4} \frac{m}{s}$$
+
+$$α_Ν = - 25π^2 \cdot 0.05 \cdot ημ(5π - 5π \cdot 0.8) = 0$$
+
+
+**Γ3**
+
+$$t_2 = 1.1 sec \qquad x_2 = υ_δ \cdot t_2 = 1.1m$$
+
+$$φ=\begin{cases}      5.5π - 5πx, & 0\le x\le 1.1m \\\      δεν \qquad ορίζεται, & 1.1m < x    \end{cases}$$
+
+$$x=0 \qquad φ = 5.5 rad $$
+
+$$x=1.1m \qquad φ = 0 rad $$
+
+![σχήμα]({{ site.url }}/assets/function5.png)
+
+
+**Γ4**
+
+$$t_2 = 1.1s \qquad x_2 = υ_δ t_2 = 1.1m \qquad N_2 = \frac{x_2}{λ} = 2.75 μ.κ.$$
+
+$$y=\begin{cases}      0.05 \cdot ημ(5.5π - 5πx), & 0\le x\le 1.1m \\\      0, & 1.1m < x \le 1.2m   \end{cases}$$
+
+$$x = 0 \qquad y = -0.05m$$
+
+$$x = 0.1m \qquad y = 0$$
+
+![σχήμα]({{ site.url }}/assets/function6.png)
+
+
+**Γ5**
+
+Για το στάσιμο κύμα ισχύει:
+
+$$y = y_1 + y_2 = 2A συν\frac{2πx}{λ} \cdot ημ\frac{2πt}{T} \Rightarrow y = 0.1 \cdot συν 5πx \cdot ημ 5πt \qquad S.I.$$
+
+$$t_3 = 2.65s$$
+
+$$υ = 5π \cdot 0.1 \cdot συν 5πx \cdot συν 5πt \qquad S.I.$$
+
+$$υ = \frac{π}{2} \cdot συν 5πx \cdot συν (5π \cdot 2.65) \qquad συν13.25π = συν(6π+π+\frac{π}{4}) = - \frac{\sqrt{2}}{2}) $$
+
+$$υ = - \frac{π \sqrt2}{4} συν 5πx \qquad S.I. \qquad 0 \le x \le 1.2m$$
+
+$$x = 0 \qquad υ = - \frac{π \sqrt2}{4} \frac{m}{s}$$
+
+$$x = 0.1 \qquad υ = 0 \qquad δεσμός$$
+
+
+![σχήμα]({{ site.url }}/assets/function7.png)
+
+
+**`Θέμα Δ`**
+
+
+**Δ1**
+
+Για την ελεύθερη πτώση του σώματος $$Σ_1$$ εφαρμόζουμε την αρχή διατήρησης της μηχανικής ενέργειας έως τη χρονική στιγμή που το ελατήριο καρφώνεται στο $$Σ_2$$.
+
+$$Κ_{αρχ} + U_{αρχ} = Κ_{τελ} + U_{τελ} \Rightarrow 0 + m_1 \cdot g \cdot h = \frac{1}{2} \cdot m \cdot υ_1^2 \Rightarrow υ_1 = \sqrt{2gh} = 2 \sqrt3 \frac{m}{s}$$
+
+Για την απλή αρμονική ταλάντωση που εκτελεί το σώμα $$Σ_1$$ ισχύει:
+
+$$D = k = m_1 \cdot ω^2 \Rightarrow ω = 5 \frac{rad}{s}, \qquad T = \frac{2π}{ω} = \frac{2π}{5} s$$	
+
+
+**Δ2**
+
+Στην θέση ισορροπίας για την ταλάντωση του σώματος $$Σ_1$$ ισχύει:
+
+$$ΣF = 0 \Rightarrow k\cdot x_1 = m \cdot g \Rightarrow x_1 = 0.4m$$
+
+Εφαρμόζουμε την αρχή διατήρησης της ενέργειας ταλάντωσης για το σώμα $$Σ_1$$
+
+$$Ε = Κ + U \Rightarrow \frac{1}{2} D \cdot A^2 = \frac{1}{2} m_1 \cdot υ_1^2 + \frac{1}{2} D \cdot x_1^2 \Rightarrow A = 0.8m$$
+
+Την χρονική στιγμή $$t=0$$ το σώμα $$Σ_1$$ βρίσκεται στην θέση $$x = +x_1$$ και έχει αρνητική ταχύτητα.
+
+$$y = A \cdot ημ(ωt + φ_ο) \Rightarrow +x_1 = A \cdot ημφ_ο \Rightarrow ημφ_ο = \frac{1}{2} \Rightarrow ημφ_ο = ημ\frac{π}{6}$$
+
+η λύση της τριγωνομετρικής εξίσωσης μας δίνει:
+
+$$φ_ο = 2kπ + \frac{π}{6} \overset{k=0}{\implies} \\\ φ_ο = \frac{π}{6} rad$$
+
+που απορρίπτεται διότι η ταχύτητα είναι αρνητική οπότε
+
+$$φ_ο = 2kπ + \frac{5π}{6} \overset{k=0}{\implies} \\\ φ_ο = \frac{5π}{6} rad$$
+
+και η εξίσωση της απομάκρυνσης είναι:
+
+$$y = 0.8 ημ(5t +\frac{5π}{6}) \qquad S.I. $$
+
+
+**Δ3**
+
+$$υ_{ηχ} = 340 \frac{m}{s} \qquad υ_{max} = ω \cdot A = 4 \frac{m}{s}$$
+
+$$f_{max} = \frac{υ_{ηχ}}{υ_{ηχ} - υ_{max}} \cdot f_s = 688 Hz$$
+
+$$f_{min} = \frac{υ_{ηχ}}{υ_{ηχ} + υ_{max}} \cdot f_s = 672 Hz$$
+
+
+**Δ4**
+
+Όταν το σώμα $$Σ_1$$ φτάνει στην πάνω ακραία θέση ταλάντωσης η δύναμη του ελατηρίου είναι:
+
+$$F_{ελ} = k(A - x_1) = 40N$$
+
+και η δύναμη που ασκεί το ελατήριο στο σώμα $$Σ_2$$ έχει το ίδιο μέτρο αλλά αντίθετη φορά, έτσι για το σώμα $$Σ_2$$ έχουμε:
+
+$$F'_{ελ} = 40Ν > W_2 = m_2 \cdot g = 20N$$
+
+και έτσι βγάζουμε το συμπέρασμα ότι το σώμα $$Σ_2$$ χάνει την επαφή του με το δάπεδο. Για το σώμα $$Σ_1$$ μόλις αποχωρίζεται το σώμα $$Σ2$$ από το δάπεδο ισχύουν:
+
+$$ΣF = 0 \Rightarrow F'_{ελ} - W_2 = 0 \Rightarrow F'_{ελ} = 20Ν \Rightarrow k \cdot x_2 = 20N \Rightarrow x_2 = 0.2m$$
+
+η δύναμη επαναφοράς για το σώμα $$Σ_1$$ είναι
+
+$$F_{επ} = - D \cdot x = -100(0.4+0.2) = -60N$$
+
+εφαρμόζουμε αρχή διατήρησης της ενέργειας ταλάντωσης για να υπολογίσουμε την ταχύτητα του σώματος $$Σ_1$$ την στιγμή που χάνεται η επαφή του σώματος $$Σ_2$$ από το δάπεδο.
+
+$$\frac{1}{2} D \cdot A^2 = \frac{1}{2} m_1 υ^2 + \frac{1}{2} D (x_1+x_2)^2 \Rightarrow υ = \sqrt7 \frac{m}{s}$$
+
+Άρα ο ζητούμενος ρυθμός μεταβολής της κινητικής ενέργειας είναι
+
+$$\frac{ΔK}{Δt} = F \cdot υ \Rightarrow \frac{ΔK}{Δt} = -60 \cdot \sqrt7 \frac{J}{s}$$
+
+
+
+
+
+
+
 Ο κώδικας σε mathematica για την εικόνα στο θέμα $$Β_1$$
 
 	f[x] := 0
@@ -179,8 +420,8 @@ list-style-type: lower-greek;
 	h[x] := 4 *Pi
     k[x] := 15
     j[x] := 0
-		Show[{Plot[f[x], {x, 0, 3}, PlotStyle -> {Thickness[0.01]}], 
-		      Plot[g[x], {x, 3, 5}, PlotStyle -> {Thickness[0.008]}],
+		Show[{Plot[f[x], {x, 0, 3}, PlotStyle -> {Thickness[0.01]}],
+			  Plot[g[x], {x, 3, 5}, PlotStyle -> {Thickness[0.008]}],
               Plot[k[x], {x, 0, 7},  PlotStyle -> Opacity[0.1]],
               Plot[j[x], {x, -0.3, 7}, PlotStyle -> Opacity[0.1]],
    		      Plot[h[x], {x, 5, 7}, PlotStyle -> {Thickness[0.008]}]},
@@ -194,3 +435,65 @@ list-style-type: lower-greek;
  					AxesOrigin -> {0, 0},
  					Filling -> Automatic,
  					Epilog -> {Black, Text [O___], Point[{0, 0}]}]
+
+
+Ο κώδικας σε mathematica για την εικόνα στο θέμα $$Γ_3$$
+
+	f[x] := 5.5*Pi - 5*Pi*x
+	g[x] := 0
+	k[x] := 19
+	j[x] := 0
+	Show[{Plot[f[x], {x, 0, 1.1}, PlotStyle -> {Thickness[0.01]}], 
+	      Plot[g[x], {x, 1.1, 1.5}, PlotStyle -> {Thickness[0]}]},
+          Plot[k[x], {x, 0, 1.5},  PlotStyle -> Opacity[0.1]],
+          Plot[j[x], {x, -0.2, 1.2}, PlotStyle -> Opacity[0.1]],
+	    		AxesStyle -> Arrowheads[0.04],
+	    		Ticks -> { {1.1, 1.2}, { 11Pi/2} },
+        		PlotRange -> All,
+ 				GridLines -> Automatic,
+ 				Background -> LightBlue, 
+ 				PlotLabel -> "φ = φ(x)", 
+ 				AxesLabel -> {"x(m)","\[CurlyPhi](rad)"}, 
+ 				AxesOrigin -> {0, 0},
+ 				Filling -> Automatic]
+
+Ο κώδικας σε mathematica για την εικόνα στο θέμα $$Γ_4$$
+
+	f[x] := 0.05*Sin[5.5Pi-5Pi*x]
+	g[x] := 0
+	k[x] := 0.07
+	j[x] := -0.07
+	Show[{Plot[f[x], {x, 0, 1.1}, PlotStyle -> {Thickness[0.01]}], 
+	      Plot[g[x], {x, 1.1, 1.2}, PlotStyle -> {Thickness[0.01]}]},
+          Plot[k[x], {x, 0, 1.3},  PlotStyle -> Opacity[0]],
+          Plot[j[x], {x, -0.1, 1.2}, PlotStyle -> Opacity[0]],
+	    		AxesStyle -> Arrowheads[0.04],
+	    		Ticks -> { {0.1, 0.7,0.3, 1.1, 1.2}, { -0.05, 0, 0.05} },
+        		PlotRange -> All,
+ 				GridLines -> Automatic,
+ 				Background -> LightBlue, 
+ 				PlotLabel -> "στιγμιότυπο κύματος", 
+ 				AxesLabel -> {"x(m)","y(m)"}, 
+ 				AxesOrigin -> {0, 0},
+ 				Filling -> Automatic]
+
+
+Ο κώδικας σε mathematica για την εικόνα στο θέμα $$Γ_5$$
+
+	f[x] := -(Pi/4) * Sqrt[2] *Cos[5Pi*x]
+	g[x] := 0
+	k[x] := 2
+	j[x] := -2
+	Show[{Plot[f[x], {x, 0, 1.2}, PlotStyle -> {Thickness[0.01]}], 
+	      Plot[g[x], {x, 1.1, 1.2}, PlotStyle -> {Thickness[0]}]},
+          Plot[k[x], {x, 0, 1.2},  PlotStyle -> Opacity[0]],
+          Plot[j[x], {x, 0, 1.2}, PlotStyle -> Opacity[0]],
+	    		AxesStyle -> Arrowheads[0.04],
+	    		Ticks -> { {0.4, 0.8, 1.2}, {Pi/2, (Sqrt[2] * Pi)/4, -(Sqrt[2] * Pi)/4, -Pi/2} },
+        		PlotRange -> All,
+ 				GridLines -> Automatic,
+ 				Background -> LightBlue, 
+ 				PlotLabel -> "u = u(x)", 
+ 				AxesLabel -> {"x(m)","u(m/s)"}, 
+ 				AxesOrigin -> {0, 0},
+ 				Filling -> Automatic]
