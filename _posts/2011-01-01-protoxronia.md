@@ -46,6 +46,7 @@ tags: [Φυσική, Mathematica]
  				AxesOrigin -> {0, 0}, 
  				Filling -> Automatic]
 
+			
 
 ![σχήμα]({{ site.url }}/assets/kinisi.png) 
 
