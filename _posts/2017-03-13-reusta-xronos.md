@@ -35,5 +35,5 @@ $$υ_ο = \sqrt{\frac{g\cdot H}{4}}$$
 
 Οπότε τελικά έχουμε
 
-$$υ = υ_ο - α \cdot t \Rightarrow υ = \sqrt{\frac{g\cdot H}{4}} - \frac{g}{8} \cdot t \Rightarrow t = 4\cdot \sqrt{\frac{H}{4}}$$
+$$υ = υ_ο - α \cdot t \Rightarrow υ = \sqrt{\frac{g\cdot H}{4}} - \frac{g}{8} \cdot t \Rightarrow t = 4\cdot \sqrt{\frac{H}{g}}$$
 
