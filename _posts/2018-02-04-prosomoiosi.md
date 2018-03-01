@@ -376,9 +376,9 @@ $$y = 0.8 ημ(5t +\frac{5π}{6}) \qquad S.I. $$
 
 $$υ_{ηχ} = 340 \frac{m}{s} \qquad υ_{max} = ω \cdot A = 4 \frac{m}{s}$$
 
-$$f_{max} = \frac{υ_{ηχ}}{υ_{ηχ} - υ_{max}} \cdot f_s = 696.385 Hz$$
+$$f_{max} = \frac{υ_{ηχ}}{υ_{ηχ} - υ_{max}} \cdot f_s = 688,095 Hz$$
 
-$$f_{min} = \frac{υ_{ηχ}}{υ_{ηχ} + υ_{max}} \cdot f_s = 664.378 Hz$$
+$$f_{min} = \frac{υ_{ηχ}}{υ_{ηχ} + υ_{max}} \cdot f_s = 672,093 Hz$$
 
 
 **Δ4**
