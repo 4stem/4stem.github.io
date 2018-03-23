@@ -497,3 +497,13 @@ $$\frac{ΔK}{Δt} = F \cdot υ \Rightarrow \frac{ΔK}{Δt} = -60 \cdot \sqrt7 \f
  				AxesLabel -> {"x(m)","u(m/s)"}, 
  				AxesOrigin -> {0, 0},
  				Filling -> Automatic]
+
+Λύση του συστήματος των εξισώσεων για το πρόβλημα των κεκλιμένων επιπέδων:
+
+
+			Solve[{T1 == m*a, N1==m*g, 
+					N2*Sin\[Theta] - T1== m*a, 
+					N2*Cos\[Theta] == N1 + m*g, 
+					N3 == N2*Cos\[Theta] + m*g, 
+					F-N2*Sin\[Theta] == m*a}, 
+					{T1, N1, N2, N3, F, a}] 
