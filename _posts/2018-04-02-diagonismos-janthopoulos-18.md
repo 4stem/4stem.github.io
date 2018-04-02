@@ -3,7 +3,7 @@ layout: post
 title: "Διαγωνισμός Φυσικής Β. Ξανθόπουλος 2018"
 description: "Φυσική Γ' Λυκείου"
 category: Άσκηση
-tags: [Ρευστά]
+tags: [Ρευστά, Κύματα]
 ---
 {% include JB/setup %}
 
