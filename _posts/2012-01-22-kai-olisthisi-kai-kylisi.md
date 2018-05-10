@@ -25,12 +25,14 @@ tags: [Στερεό]
 
 4. Το μέτρο της στατικής τριβής κατά την χρονική διάρκεια από $$ t = t_1 $$ έως και $$ t = t_2 $$.
 
+Δίνεται η ροπή αδράνειας της συγμπαγούς σφαίρας $$Ι = \frac{2}{5} \cdot m \cdot R^2$$ και η επιτάχυνση της βαρύτητας $$g$$.
+
 `Απάντηση:`
 
 1. $$T = μ \cdot m \cdot g \cdot cos(φ)$$
 
  
-2. $$t = \frac {2 \cdot u_o}{(2 \cdot g \cdot sin(φ)+7 \cdot g \cdot μ \cdot cos(f))}$$
+2. $$t = \frac {2 \cdot u_o}{(2 \cdot g \cdot sin(φ)+7 \cdot g \cdot μ \cdot cos(φ))}$$
     
 
 3. $$u =  u_o - \frac {2 \cdot u_o \cdot (sin(φ)+μ \cdot cos(φ))}{(2 \cdot sin(φ)+7 \cdot μ \cdot cos(φ))}$$
