@@ -70,6 +70,16 @@ $$ΔΚ = ΣW \Rightarrow K_{ΤΕΛ} - Κ_{ΑΡΧ} = -W_F \Rightarrow 0 - \frac{1
 
 $$υ_Δ^2 =  \frac{G \cdot M}{R_Γ} \Rightarrow υ_Δ^2 = g_o \cdot R_Γ \Rightarrow υ_Δ = \sqrt{g_o \cdot R_Γ}$$
 
+$$ \underline {γ) τρόπος} $$
+
+
+Με μαθηματικά Γ´ Λυκείου
+
+$$ΔΚ = ΣW \Rightarrow K_{ΤΕΛ} - Κ_{ΑΡΧ} = W_F \Rightarrow 0 - \frac{1}{2} \cdot m \cdot υ_Δ^2 = \int_{r=R_Γ+h}^{r= \infty} Fdr \Rightarrow - \frac{1}{2} \cdot m \cdot υ_Δ^2 = \int_{r=2R_Γ}^{r= \infty} \frac{G \cdot M \cdot m}{r^2}dr \Rightarrow - \frac{1}{2} \cdot m \cdot υ_Δ^2 = -\frac{G \cdot M \cdot m}{r} \Big|_{r=2R_Γ}^{r= \infty}$$
+
+
+$$\frac{1}{2} \cdot m \cdot υ_Δ^2 = G \cdot \frac{M \cdot m}{2 \cdot R_Γ} \Rightarrowυ_Δ^2 =  \frac{G \cdot M}{R_Γ} \Rightarrow υ_Δ^2 = g_o \cdot R_Γ \Rightarrow υ_Δ = \sqrt{g_o \cdot R_Γ}$$
+
 **`Θέμα Γ`**
 
 
