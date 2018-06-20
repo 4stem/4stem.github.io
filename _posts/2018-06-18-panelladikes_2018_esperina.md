@@ -161,11 +161,13 @@ $$I_{cm(τροχ)} = 0.48 kg \cdot m^2$$
 
 $$m_2 = 20 kg$$
 
+
+
+Σώμα μάζας $$m_1 = 3kg$$
+
 $$ημφ = 0.6 $$
 
 $$g = 10 \frac{m}{sec^2}$$
-
-Σώμα μάζας $$m_1 = 3kg$$
 
 
 **Δ1**
@@ -220,7 +222,7 @@ $$υ_1 = α \cdot t_1 \Rightarrow υ_1 = 1 \frac{m}{sec}$$
 $$ΑΔΜΕ_{τροχ-Δ} (Ι \rightarrow II): K_I + U_1 = K_{II} + U_{II} $$
 
 
-$$Ε_μηχ(αρχ) = Ε_μηχ(τελ)
+$$Ε_{μηχ(αρχ)} = Ε_{μηχ(τελ)}$$
 
 
-U_{αρχ} + Κ_{αρχ} = U_{τελ} + Κ_{τελ} \Rightarrow m_1 \cdot g \cdot h = K_{στροφ} + \frac{1}{2} \cdot m \cdot υ_1^2 \Rightarrow K_{στροφ} = 6J$$
+$$U_{αρχ} + Κ_{αρχ} = U_{τελ} + Κ_{τελ} \Rightarrow m_1 \cdot g \cdot h = K_{στροφ} + \frac{1}{2} \cdot m \cdot υ_1^2 \Rightarrow K_{στροφ} = 6J$$
