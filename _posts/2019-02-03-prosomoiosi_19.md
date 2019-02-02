@@ -278,5 +278,5 @@ $$υ_ο = 10 \frac{m}{s}$$ που σχηματίζει γωνία $$φ = 60^ο$$
 	 				PlotLabel -> "\[CurlyPhi] = f(t)", 
 	 				AxesLabel -> {"t(s)","\[CurlyPhi](rad)"}, 
 	 				AxesOrigin -> {0, 0}, 
-	     			Ticks -> {{0, 4,  8},{0, 2Pi,  4Pi}},            
+	     			Ticks -> {0, 4,  8},{0, 2Pi,  4Pi},            
 	 				Filling -> Automatic]
