@@ -118,7 +118,7 @@ list-style-type: lower-greek;
 $$f = 2Hz $$ έως $$f = 10Hz$$.
 <ol type = "a">
 	<li>Είναι δυνατόν μεταβάλλοντας την συχνότητα του διεγέρτη να πετύχουμε συντονισμό του συστήματος;</li> 
-	<li>Πόσα κιλά νερό πρέπει να αφαιρέσουμε από το δοχείο ώστε ώστε το σύστημα να συντονιστεί στη συχνότητα $f = 5Hz$ του διεγέρτη;</li>
+	<li>Πόσα κιλά νερό πρέπει να αφαιρέσουμε από το δοχείο ώστε ώστε το σύστημα να συντονιστεί στη συχνότητα 5Hz του διεγέρτη;</li>
 </ol>
 
 <div align = "right">(Μονάδες 8)</div>
@@ -200,29 +200,30 @@ $$υ_ο = 10 \frac{m}{s}$$ που σχηματίζει γωνία $$φ = 60^ο$$
 
 Ο κώδικας σε mathematica για τις εικόνες στο θέμα $$B1$$
 
-f[x] := 2*x
-g[x] := 6 - x
- 		Show[{Plot[f[x], {x, 0, 2}, PlotStyle -> Blue], 
- 		Plot[g[x], {x, 2, 6}, PlotStyle -> Green]}, 
- 				PlotRange -> All,
- 				GridLines -> Automatic,  
- 				Background -> LightBlue, 
- 				PlotLabel -> "xA = f(t)", 
- 				AxesLabel -> {"t(s)","x(m)"}, 
- 				AxesOrigin -> {0, 0}, 
- 				Filling -> Automatic]
+
+	f[x] := 2*x
+	g[x] := 6 - x
+	 		Show[{Plot[f[x], {x, 0, 2}, PlotStyle -> Blue], 
+	 		Plot[g[x], {x, 2, 6}, PlotStyle -> Green]}, 
+	 				PlotRange -> All,
+	 				GridLines -> Automatic,  
+	 				Background -> LightBlue, 
+	 				PlotLabel -> "xA = f(t)", 
+	 				AxesLabel -> {"t(s)","x(m)"}, 
+	 				AxesOrigin -> {0, 0}, 
+	 				Filling -> Automatic]
 
 
-f[x] := 4
-g[x] := x+2
- 		Show[{Plot[f[x], {x, 0, 2}, PlotStyle -> Blue], 
- 		Plot[g[x], {x, 2, 6}, PlotStyle -> Green]}, 
- 				PlotRange -> All,
- 				GridLines -> Automatic,  
- 				Background -> LightBlue, 
- 				PlotLabel -> "xB = f(t)", 
- 				AxesLabel -> {"t(s)","x(m)"}, 
- 				AxesOrigin -> {0, 0}, 
- 				Filling -> Automatic]
+	f[x] := 4
+	g[x] := x+2
+	 		Show[{Plot[f[x], {x, 0, 2}, PlotStyle -> Blue], 
+	 		Plot[g[x], {x, 2, 6}, PlotStyle -> Green]}, 
+	 				PlotRange -> All,
+	 				GridLines -> Automatic,  
+	 				Background -> LightBlue, 
+	 				PlotLabel -> "xB = f(t)", 
+	 				AxesLabel -> {"t(s)","x(m)"}, 
+	 				AxesOrigin -> {0, 0}, 
+	 				Filling -> Automatic]
 
 
