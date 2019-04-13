@@ -79,10 +79,69 @@ $$t=t_2$$ ξεκινάει η κύλιση (χωρίς ολίσθηση) του 
 το κέντρο μάζας του κυλίνδρου είναι επιβραδυνόμενη λόγω της ροπής της τριβής ολίσθησης. 
 
 
-$$ΣF_y = m \cdot α_y \Rightarrow N_1 - m \cdot g= m \frac{Δυ}{Δt} \Rightarrow N_1 = m \cdot g +  m \frac{υ_ο}{t_1}$$
+$$ΣF_y = m \cdot α_y \Rightarrow N_1 - m \cdot g= m \frac{Δυ_y}{Δt} \Rightarrow N_1 = m \cdot g +  m \frac{υ_ο}{t_1}$$
 
 $$T = μ \cdot N_1 \Rightarrow T = μ \cdot m \cdot (g + \frac{υ_ο}{t_1})$$
 
 $$Στ = Ι \cdot α_{γων} \Rightarrow α_{γων} = \frac{T \cdot R}{I} \Rightarrow α_{γων} = \frac{2μ}{R}\cdot (g + \frac{υ_ο}{t_1})$$
 
 $$ΣF_x = m \cdot α_{cm} \Rightarrow T = m \cdot α_{cm} \Rightarrow α_{cm} = μ \cdot (g + \frac{υ_ο}{t_1})$$
+
+**3.** επιβραδυνόμενη περιστροφική κίνηση
+
+
+$$ω_1 = ω_ο - α_{γων} \cdot t_2 \Rightarrow ω_1 = ω_ο - \frac{2μ}{R} \cdot (g + \frac{υ_ο}{t_1})\cdot t_2$$
+
+
+επιταχυνόμενη μεταφορική κίνηση
+
+
+$$υ_1 = α_{cm} \cdot t_2 \Rightarrow υ_1 = μ\cdot (g + \frac{υ_ο}{t_1})\cdot t_2$$
+
+και αφού την χρονική στιγμή $$t = t_2$$ ξεκινάει η κύλιση (χωρίς ολίσθηση) θα ισχύει
+
+$$υ_1 = ω_1 \cdot R \Rightarrow μ\cdot (g + \frac{υ_ο}{t_1})\cdot t_2 = (ω_ο - \frac{2μ}{R} \cdot (g + \frac{υ_ο}{t_1})\cdot t_2)\cdot R$$
+
+και μετά τις πράξεις υπολογίζουμε την χρονική στιγμή $$t=t_2$$
+
+$$t_2 = \frac{ω_ο\cdot R}{3\cdot μ \cdot (g + \frac{υ_ο}{t_1})}$$
+
+οπότε με γνωστό τον χρόνο υπολογίζουμε την ζητούμενη γωνιακή ταχύτητα 
+
+$$ω_1 = ω_ο - \frac{2μ}{R} \cdot (g + \frac{υ_ο}{t_1})\cdot t_2 \Rightarrow ω_1 = ω_ο - \frac{2μ}{R} \cdot (g + \frac{υ_ο}{t_1})\cdot \frac{ω_ο\cdot R}{3\cdot μ \cdot (g + \frac{υ_ο}{t_1})} \Rightarrow ω_1 = \frac{ω_ο}{3}$$
+
+
+![σχήμα]({{ site.url }}/assets/janthopoulos2.png) 
+
+
+**4.** Όταν ισχύει $$t_2 > t_1$$ δηλαδή ξεκινάει η κύλιση μετά τον μηδενισμό της κατακόρυφης συνιστώσας της ταχύτητας αλλάζει η κάθετη δύναμη από το έδαφος και άρα και η τριβή.
+
+$$ΣF_y = m \cdot α_y \Rightarrow N_2 - m \cdot g= 0 \Rightarrow N_2 = m \cdot g $$
+
+$$T' = μ \cdot N_2 \Rightarrow T' = μ \cdot m \cdot g$$
+
+$$Στ = Ι \cdot α'_{γων} \Rightarrow α'_{γων} = \frac{T' \cdot R}{I} \Rightarrow α'_{γων} = \frac{2μ}{R}\cdot g $$
+
+$$ΣF_x = m \cdot α'_{cm} \Rightarrow T = m \cdot α'_{cm} \Rightarrow α'_{cm} = μ \cdot g$$
+
+
+Δηλαδή αλλάζει και η γωνιακή επιτάχυνση και η επιτάχυνση του κέντρου μάζας.
+
+Την χρονική στιγμή $$t=t_1$$ ισχύουν από την προηγούμενη κίνηση τα παρακάτω:
+
+
+$$ω_1 = ω_ο - α_{γων} \cdot t_1 \Rightarrow ω_1 = ω_ο - \frac{2μ}{R} \cdot (g + \frac{υ_ο}{t_1})\cdot t_1 \Rightarrow ω_1 = ω_ο - \frac{2μ}{R} \cdot (υ_ο + g\cdot t_1)$$
+
+$$υ_1 = α_{cm} \cdot t_1 \Rightarrow υ_1 = μ\cdot (g + \frac{υ_ο}{t_1})\cdot t_1 \Rightarrow υ_1 = μ\cdot (υ_ο + g\cdot t_1) $$
+
+ενώ για την χρονική στιγμή $$t=t_2$$ έχουμε
+
+$$υ_2 = υ_1 + α'_{cm} \cdot (t_2 - t_1)$$
+
+$$ω_2 = ω_1 - α'_{γων} \cdot (t_2 - t_1)$$
+
+$$υ_2 = ω_2 \cdot R $$
+
+κάνοντας απαλοιφή τον χρόνο $$(t_2 - t_1)$$ βρίσκουμε τελικά μετά τις πράξεις ότι ισχύει πάλι
+
+$$ω_2 = \frac{ω_ο}{3}$$
