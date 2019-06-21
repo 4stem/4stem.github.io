@@ -334,4 +334,4 @@ $$υ_{cm} = υ_{cm1} - α_{cm} \cdot Δt \Rightarrow 0 = 1 - \frac{10}{3} \cdot 
 
 $$t_2 = t_1 + Δt \Rightarrow t_2 = 0.8s$$
 
-
+Μπορείτε να εκτυπώσετε τις λύσεις σε μορφή pdf από [εδώ]({{ site.url }}/assets/m2019s.pdf) και τα θέματα από [εδώ]({{ site.url }}/assets/Themata2019s.pdf)
