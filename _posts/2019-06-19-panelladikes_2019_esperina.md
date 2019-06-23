@@ -155,7 +155,7 @@ $$ημ^2φ + συν^2φ = 1 \Rightarrow \frac{x^2}{A^2} + \frac{υ^2}{A^2ω^2} $
 
 $$\frac{\frac{A^2}{4}}{A^2} + \frac{υ^2}{A^2ω^2} \Rightarrow υ = \frac{\sqrt3}{2} \Rightarrow V_k = \frac{\sqrt3}{2} \frac{m}{s} $$
 
-$$ Σ\vec{F_{εξ}} = 0 \Rightarrow Α.Δ.Ο. \quad \vec{p}_{πριν} = \vec{p}_{μετα}$$
+$$ Σ\vec{F_{εξ}} = 0 \iff Α.Δ.Ο. \quad \vec{p}_{πριν} = \vec{p}_{μετα}$$
 
 $$ m_2 \cdot u_o = (m_1 + m_2) \cdot V_k \Rightarrow u_o = \sqrt3 \frac{m}{s} $$
 
