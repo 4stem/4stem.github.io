@@ -69,11 +69,11 @@ $$Q_1 = 0.33 Joule, \quad Q_2 = 1.32 Joule, \quad W_T = 0.6 Joule$$
 
 **5.**
 
-$$P_{F_L} = 8 Watt, \quad P_{E_{επ}} = 8 Watt, \quad P_{R_1} = 1.6 Watt, \quad P_{R_2} = 6.4 Watt$$
+$$P_{F_L} = -8 Watt, \quad P_{E_{επ}} = 8 Watt, \quad P_{R_1} = 1.6 Watt, \quad P_{R_2} = 6.4 Watt$$
 
 **6.**
 
-$$P_W = 10 Watt, \quad \frac{ΔU}{Δt} = 10 Watt $$
+$$P_W = 10 Watt, \quad \frac{ΔU}{Δt} = -10 Watt $$
 
 **7.**
 
