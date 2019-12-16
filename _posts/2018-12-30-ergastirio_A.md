@@ -3,7 +3,7 @@ layout: post
 title: "Εργαστηριακή άσκηση Φυσικής"
 description: "Φυσική Α' Λυκείου"
 category: Άσκηση
-tags: [Φυσική]
+tags: [Εργαστήριο, Φυσική]
 ---
 {% include JB/setup %}
 

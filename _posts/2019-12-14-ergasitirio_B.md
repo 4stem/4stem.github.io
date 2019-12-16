@@ -3,7 +3,7 @@ layout: post
 title: "Β' Θέμα Εργαστηριακό"
 description: "Φυσική Γ' Λυκείου"
 category: Άσκηση
-tags: [Ηλεκτρομαγνητισμός]
+tags: [Ηλεκτρομαγνητισμός, Εργαστήριο]
 ---
 {% include JB/setup %}
 
