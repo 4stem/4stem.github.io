@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Β' Θέμα Εργαστηριακό"
+title: "Μέτρηση δύναμης Laplace"
 description: "Φυσική Γ' Λυκείου"
 category: Άσκηση
 tags: [Ηλεκτρομαγνητισμός, Εργαστήριο]
