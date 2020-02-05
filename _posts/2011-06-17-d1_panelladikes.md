@@ -113,3 +113,5 @@ $$Τ = M \cdot g + m_1 \cdot g + m_2 \cdot g + m_3 \cdot g \Rightarrow T = 80 N$
  $$Σ\vec{τ_Ο} = Ι \cdot \vec{α}_{γων} \Rightarrow α_{γων} =0 $$
 
 άρα το σύστημα ισορροπεί με την ράβδο στην  οριζόντια θέση!
+
+μία λάθος λύση [εδώ](https://www.youtube.com/watch?v=GU6FTI5jXFs) μετά το 8:00.
