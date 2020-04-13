@@ -24,7 +24,9 @@ author :
 # If you have set a CNAME (pages.github.com) set your custom domain here.
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
-#
+# # the subpath of your site, e.g. /blog
+baseurl: "/"
+url: "https://4stem.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 production_url : https://username.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
