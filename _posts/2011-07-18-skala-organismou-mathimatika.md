@@ -185,10 +185,10 @@ $$α_{cm} = \sqrt{α_{xcm}^2 + α_{ycm}^2} \Rightarrow α_{cm} = 2.5 \cdot \sqrt
 
 `Σχετική βιβλιογραφία:`
 
-[Variations of the Sliding Ladder Problem](http://bit.ly/2oA6p5t), Stelios Kapranidis and Reginald Koo
+[Variations of the Sliding Ladder Problem](https://bit.ly/2oA6p5t), Stelios Kapranidis and Reginald Koo
 
-[The Falling Ladder Paradox](http://bit.ly/2oxjNYP), Paul Scholten, Andrew Simoson 
+[The Falling Ladder Paradox](https://bit.ly/2oxjNYP), Paul Scholten, Andrew Simoson 
 
-[Sliding ladder](http://bit.ly/2ofRthq), Physics Harvard Education, Solution Week 47 (8/4/03)
+[Sliding ladder](https://bit.ly/2ofRthq), Physics Harvard Education, Solution Week 47 (8/4/03)
 
-[Dynamics of a sliding ladder leaning against a wall](http://bit.ly/2q2kKZk) J B Oliveira, at all
+[Dynamics of a sliding ladder leaning against a wall](https://bit.ly/2q2kKZk) J B Oliveira, at all

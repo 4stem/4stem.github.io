@@ -8,7 +8,7 @@ tags : [Φυσική, Python]
 {% include JB/setup %}
 
 
-Στο δεύτερο τεύχος του ηλεκτρονικού περιοδικού [Φυσικές Επιστήμες στην εκπαίδευση](http://physcool.web.auth.gr/index.php?start=12) μπορεί να βρεθεί η εργασία με τίτλο ***Στάσιμα κύματα: μία ολιστική αντιμετώπιση***. Η συγκεκριμένη πρόταση διδασκαλίας απευθύνεται σε εκπαιδευτικούς της δευτεροβάθμιας εκπαίδευσης, ενώ συνοδεύεται από Φύλλο εργασίας και ενδεικτικά στιγμιότυπα. Μπορείτε να την κατεβάσετε από [εδώ](https://drive.google.com/open?id=0B2PMgebiPbrIck44aXNtOWZqZWM)
+Στο δεύτερο τεύχος του ηλεκτρονικού περιοδικού [Φυσικές Επιστήμες στην εκπαίδευση](https://physcool.web.auth.gr/index.php?start=12) μπορεί να βρεθεί η εργασία με τίτλο ***Στάσιμα κύματα: μία ολιστική αντιμετώπιση***. Η συγκεκριμένη πρόταση διδασκαλίας απευθύνεται σε εκπαιδευτικούς της δευτεροβάθμιας εκπαίδευσης, ενώ συνοδεύεται από Φύλλο εργασίας και ενδεικτικά στιγμιότυπα. Μπορείτε να την κατεβάσετε από [εδώ](https://drive.google.com/open?id=0B2PMgebiPbrIck44aXNtOWZqZWM)
 
 
 Ακολουθεί ο κώδικας σε python που χρησιμοποιήθηκε από την ομάδα "Allan Matheson Turing".
@@ -66,7 +66,7 @@ tags : [Φυσική, Python]
 
 
 
-<script type='text/javascript' src='http://demonstrations.wolfram.com/javascript/embed.js' ></script><script type='text/javascript'>var demoObj = new DEMOEMBED(); demoObj.run('StandingWavesAndChords', '', '357', '545');</script><div id='DEMO_StandingWavesAndChords'><a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/StandingWavesAndChords/' target='_blank'>Standing Waves and Chords</a> from the <a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/' target='_blank'>Wolfram Demonstrations Project</a> by Hans-Joachim Domke</div><br />
+<script type='text/javascript' src='https://demonstrations.wolfram.com/javascript/embed.js' ></script><script type='text/javascript'>var demoObj = new DEMOEMBED(); demoObj.run('StandingWavesAndChords', '', '357', '545');</script><div id='DEMO_StandingWavesAndChords'><a class='demonstrationHyperlink' href='https://demonstrations.wolfram.com/StandingWavesAndChords/' target='_blank'>Standing Waves and Chords</a> from the <a class='demonstrationHyperlink' href='https://demonstrations.wolfram.com/' target='_blank'>Wolfram Demonstrations Project</a> by Hans-Joachim Domke</div><br />
 
 
 
