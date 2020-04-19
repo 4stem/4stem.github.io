@@ -5,11 +5,11 @@ The quickest way to start and publish your Jekyll powered blog. 100% compatible 
 
 ## Usage
 
-For all usage and documentation please see: <http://jekyllbootstrap.com>
+For all usage and documentation please see: <https://jekyllbootstrap.com>
 
 ## Version
 
-0.3.0 - stable and versioned using [semantic versioning](http://semver.org/).
+0.3.0 - stable and versioned using [semantic versioning](https://semver.org/).
 
 **NOTE:** 0.3.0 introduces a new theme which is not backwards compatible in the sense it won't _look_ like the old version.
 However, the actual API has not changed at all.
@@ -71,12 +71,12 @@ Translation : it might take a bit longer so please be patient! (but sincerely th
 
 **Jekyll-Bootstrap Documentation Website.**
 
-The documentation website at <http://jekyllbootstrap.com> is maintained at https://github.com/plusjade/jekyllbootstrap.com
+The documentation website at <https://jekyllbootstrap.com> is maintained at https://github.com/plusjade/jekyllbootstrap.com
 
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT)
+[MIT](https://opensource.org/licenses/MIT)
 =======
 # 4stem.github.io
 >>>>>>> 3a8c187ff40898686e0afed84d06abf130d8b320
