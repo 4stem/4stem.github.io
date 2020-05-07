@@ -66,7 +66,6 @@ body {
 <body>
 
 <h1>Splendide mendax</h1>
-<h3>Είμαστε αυτό που κάνουμε</h3>
 
 <div class="flip-card">
   <div class="flip-card-inner">
@@ -74,9 +73,10 @@ body {
       <img src="me.png" alt="Avatar" style="width:300px;height:300px;">
     </div>
     <div class="flip-card-back">
-      <h1>Παναγιώτης Πετρίδης</h1> 
-      <p>there are no mistakes only lessons</p> 
-      <p>growth is a process of trial and error</p>
+      <h2>a physics teacher said</h2> 
+      <p>there are no mistakes only lessons <br> growth is a process of trial and error</p> 
+      <h2>Eduardo Galeano said </h2>
+      <p>After all, we are what we do <br> to change what we are.</p>
     </div>
   </div>
 </div>
@@ -85,8 +85,9 @@ body {
 </html>
 
 
- <h3> για να αλλάξουμε αυτό που είμαστε! </h3>
-
+ <h3> here is a list of posts <br> chronologically sorted  </h3>
+ 
+ <p></p>
 
 <ul class="posts">
   {% for post in site.posts %}
