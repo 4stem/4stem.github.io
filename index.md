@@ -5,6 +5,11 @@ tagline: Science Technology Engineering Mathematics
 ---
 {% include JB/setup %}
 
+For a better look at the mathematical formulas, right clik as shown
+
+![σχήμα]({{ site.url }}/assets/intro.png) 
+
+
 **Introduction**
 
 “I hope that in this year to come, you make mistakes.
