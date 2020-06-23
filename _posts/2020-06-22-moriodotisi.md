@@ -289,5 +289,5 @@ $$|F_{EΠ}| = D \cdot A \Rightarrow F_{επ} = 30Ν$$
 
 $$Δl = Δl_2 + A \Rightarrow |F_{ελ}| = k \cdot Δl \Rightarrow F_{ελ} = 50Ν$$
 
-$$\frac{|F_{ελ}|}{|F_{EΠ}|} = \frac{5}{3}$$
+$$\frac{|F_{ελ}|}{|F_{επ}|} = \frac{5}{3}$$
 
