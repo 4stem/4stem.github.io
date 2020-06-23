@@ -180,7 +180,7 @@ $$υ_{ορ} = 4 \frac{m}{s} \quad F_{L3} = 1N > F' = 0.8N$$
 
 $$F' - F_L =0 \Rightarrow υ = υ'_{ορ} \Rightarrow F' = \frac{B^2_3 \cdot l^2 \cdot υ'_{ορ}}{R_{12} + R_{ΚΛ}} \Rightarrow υ'_{ορ} = 3.2 \frac{m}{s}$$
 
-$$V_{ΚΛ} = Ι''_{επ} \cdot R_12 = I_1 \cdot R_1 = I_2 \cdot R_2 \Rightarrow |V_{KL}| = 0.8 Volt$$
+$$V_{ΚΛ} = Ι''_{επ} \cdot R_{12} = I_1 \cdot R_1 = I_2 \cdot R_2 \Rightarrow |V_{KL}| = 0.8 Volt$$
 
 $$I_1 = \frac{V_{ΚΛ}}{R_1} \Rightarrow I_1 = 0.4A$$
 
