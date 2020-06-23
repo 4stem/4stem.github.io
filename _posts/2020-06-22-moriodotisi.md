@@ -47,6 +47,9 @@ $$\frac{υ_Γ}{υ_Α} = \frac{\sqrt5}{4}$$
 **Β2** - $$(ii)-2-6$$
 
 
+![σχήμα]({{ site.url }}/assets/b2_20.png) 
+
+
 $$Α.Δ.Ο. και \quad Δ.Κ.Ε. \quad υ_2' = \frac{2\cdot m_1}{m_1 + m_2} \cdot υ_1$$
 
 
@@ -112,16 +115,16 @@ $$Π_Ο = Α \cdot υ_Ο \Rightarrow Π_Β = Α \cdot \sqrt{2 \cdot g \cdot \fra
 
 $$0 - t_1:$$
 
-$$E_{ΕΠ} = |-\frac{ΔΦ}{Δt}| = |- \frac{B \cdot Δx \cdot l}{Δt} = B \cdot υ \cdot l$$
+$$E_{επ} = |-\frac{ΔΦ}{Δt}| = |- \frac{B \cdot Δx \cdot l}{Δt} = B \cdot υ \cdot l$$
 
 $$Φ_{ΑΚΛΔΑ} \quad αυξάνεται \quad B_{EΠ} \quad αντίρροπο \quad B$$
 
 Σύμφωνα με τον κανόνα του Lenz το επαγωγικό ρεύμα δημιουργεί μαγνητικό πεδίο που αντιτίθεται στην αιτία δημιουργίας του. 
-Οπότε η ένταση του επαγωγικού ρεύματος έχει φορά αντίθετη της φοράς των δεικτών ρολογιού. Η Επαγωγική τάση φαίνεται στο σχήμα. 
+Οπότε η ένταση του επαγωγικού ρεύματος έχει φορά αντίθετη της φοράς των δεικτών ρολογιού. Η επαγωγική τάση φαίνεται στο σχήμα. 
 
-$$Ι_{ΕΠ} = \frac{E_{ΕΠ}}{R_{ολ}} \Rightarrow I_{E_{ΕΠ}} = \frac{E_{ΕΠ}}{R_1 + R_{ΚΛ}}$$
+$$Ι_{επ} = \frac{E_{επ}}{R_{ολ}} \Rightarrow I_{E_{επ}} = \frac{E_{επ}}{R_1 + R_{ΚΛ}}$$
 
-$$F_L = B \cdot I_{Ε_{ΕΠ}} \cdot l \Rightarrow F_L = B^2 \cdot l^2 \cdot \frac{υ}{R_1 + R_{ΚΛ}}$$
+$$F_L = B \cdot I_{Ε_{επ}} \cdot l \Rightarrow F_L = B^2 \cdot l^2 \cdot \frac{υ}{R_1 + R_{ΚΛ}}$$
 
 
 $$Σ \vec F = m \cdot \vecα \Rightarrow F - F_L = m \cdot α \Rightarrow F -  B^2 \cdot l^2 \cdot \frac{υ}{R_1 + R_{ΚΛ}} = m α$$
@@ -137,10 +140,10 @@ $$α = 0 \Rightarrow ΣF = 0 \Rightarrow  B^2 \cdot l^2 \cdot \frac{υ_{ορ}}{R
 ![σχήμα]({{ site.url }}/assets/g2_20.png) 
 
 
-$$Ε_{ΕΠ} = Β_3 \cdot υ_{ορ} \cdot l \Rightarrow E_{ΕΠ} = 4 Volt$$
+$$Ε_{επ} = Β_3 \cdot υ_{ορ} \cdot l \Rightarrow E_{επ} = 4 Volt$$
 
 
-$$I_{ΕΠ} = \frac{E_{ΕΠ}}{R_1 + R_{ΚΛ}} \Rightarrow I_{ΕΠ} = 0.8Α \Rightarrow F_L = B_3 \cdot I_{ΕΠ} \cdot l = 0.8N$$
+$$I_{επ} = \frac{E_{επ}}{R_1 + R_{ΚΛ}} \Rightarrow I_{επ} = 0.8Α \Rightarrow F_L = B_3 \cdot I_{επ} \cdot l = 0.8N$$
 
 
 $$υ_{ορ} = 4 \frac{m}{s} = σταθ. \Rightarrow ΣF = 0 \Rightarrow F' - F_L = 0 \Rightarrow F' = F_L \Rightarrow F' = 0.8N$$
@@ -150,9 +153,9 @@ $$υ_{ορ} = 4 \frac{m}{s} = σταθ. \Rightarrow ΣF = 0 \Rightarrow F' - F_L
 
 **Γ3**-$$(6)$$
 
-$$I'_{ΕΠ} = \frac{q_{ΕΠ}}{Δt} \Rightarrow Δt = \frac{q_{ΕΠ}}{Ι'_{ΕΠ}} \Rightarrow Δt = 0.25s$$
+$$I'_{επ} = \frac{q_{επ}}{Δt} \Rightarrow Δt = \frac{q_{επ}}{Ι'_{επ}} \Rightarrow Δt = 0.25s$$
 
-$$Q = I'^2_{ΕΠ} \cdot (R_1 + R_{ΚΛ}) \cdot Δt \Rightarrow Q = 0.8 Joule $$
+$$Q = I'^2_{επ} \cdot (R_1 + R_{ΚΛ}) \cdot Δt \Rightarrow Q = 0.8 Joule $$
 
 
 **Γ4**-$$(7)$$
@@ -163,7 +166,11 @@ $$Q = I'^2_{ΕΠ} \cdot (R_1 + R_{ΚΛ}) \cdot Δt \Rightarrow Q = 0.8 Joule $$
 
 $$\frac{1}{R_{12}} = \frac{1}{R_1} + \frac{1}{R_2} \Rightarrow R_{12} = 1Ω$$
 
-$$Ι''_{ΕΠ} = \frac{E_{ΕΠ}}{R_{ολ}} \Rightarrow Ι''_{ΕΠ} = \frac{B \cdot l \cdot υ}{R_{12} + R_{ΚΛ}} \Rightarrow F_L = \frac{B_3^2 \cdot l^2 \cdot υ}{R_{12} + R_{ΚΛ}}$$
+
+![σχήμα]({{ site.url }}/assets/g44_20.png) 
+
+
+$$Ι''_{επ} = \frac{E_{επ}}{R_{ολ}} \Rightarrow Ι''_{επ} = \frac{B \cdot l \cdot υ}{R_{12} + R_{ΚΛ}} \Rightarrow F_L = \frac{B_3^2 \cdot l^2 \cdot υ}{R_{12} + R_{ΚΛ}}$$
 
 την χρονική στιγμή $$t_3^+:$$
 
@@ -173,7 +180,7 @@ $$υ_{ορ} = 4 \frac{m}{s} \quad F_{L3} = 1N > F' = 0.8N$$
 
 $$F' - F_L =0 \Rightarrow υ = υ'_{ορ} \Rightarrow F' = \frac{B^2_3 \cdot l^2 \cdot υ'_{ορ}}{R_{12} + R_{ΚΛ}} \Rightarrow υ'_{ορ} = 3.2 \frac{m}{s}$$
 
-$$V_{ΚΛ} = Ι''_{ΕΠ} \cdot R_12 = I_1 \cdot R_1 = I_2 \cdot R_2 \Rightarrow |V_{KL}| = 0.8 Volt$$
+$$V_{ΚΛ} = Ι''_{επ} \cdot R_12 = I_1 \cdot R_1 = I_2 \cdot R_2 \Rightarrow |V_{KL}| = 0.8 Volt$$
 
 $$I_1 = \frac{V_{ΚΛ}}{R_1} \Rightarrow I_1 = 0.4A$$
 
@@ -222,6 +229,8 @@ $$τ_Β - τ_{Τ_1} - τ_{F_Γ} = 0 \Rightarrow M \cdot g \frac{l}{2} \cdot συ
 
 **Δ2**-$$(4)$$
 
+![σχήμα]({{ site.url }}/assets/d2_20.png) 
+
 
 Αρχική θέση ισορροπίας
 
@@ -248,6 +257,7 @@ $$t=0, \quad x = - 0.15m, quad υ>0$$
 
 ![σχήμα]({{ site.url }}/assets/d3_20.png) 
 
+
 $$Δφ = \frac{3π}{2} + \frac{π}{3} \Rightarrow Δφ = \frac{11π}{6} rad$$
 
 
@@ -255,6 +265,9 @@ $$x = A \cdot ημ(ωt + φ_ο) \Rightarrow x = 0.3 \cdot ημ(5t + \frac{11π}{
 
 
 **Δ4**-$$(5)$$
+
+
+![σχήμα]({{ site.url }}/assets/d4_20.png) 
 
 
 $$υ_{2x} = υ_2 \cdot ημφ$$
@@ -272,7 +285,7 @@ $$h = \frac{1}{2} \cdot g \cdot t^2 \Rightarrow h = 0.6m$$
 
 όταν $$x = +A$$
 
-$$|F_{EΠ}| = D \cdot A \Rightarrow F_{ΕΠ} = 30Ν$$
+$$|F_{EΠ}| = D \cdot A \Rightarrow F_{επ} = 30Ν$$
 
 $$Δl = Δl_2 + A \Rightarrow |F_{ελ}| = k \cdot Δl \Rightarrow F_{ελ} = 50Ν$$
 
