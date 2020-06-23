@@ -261,7 +261,7 @@ $$t=0, \quad x = - 0.15m, quad υ>0$$
 $$Δφ = \frac{3π}{2} + \frac{π}{3} \Rightarrow Δφ = \frac{11π}{6} rad$$
 
 
-$$x = A \cdot ημ(ωt + φ_ο) \Rightarrow x = 0.3 \cdot ημ(5t + \frac{11π}{6} \quad S.I.)
+$$x = A \cdot ημ(ωt + φ_ο) \Rightarrow x = 0.3 \cdot ημ(5t + \frac{11π}{6} \quad S.I.)$$
 
 
 **Δ4**-$$(5)$$
