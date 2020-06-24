@@ -402,3 +402,6 @@ $$Δl = Δl_2 + A \Rightarrow |F_{ελ}| = k \cdot Δl \Rightarrow F_{ελ} = 50
 
 $$\frac{|F_{ελ}|}{|F_{επ}|} = \frac{5}{3}$$
 
+
+Μπορείτε να εκτυπώσετε τις λύσεις σε μορφή pdf από [εδώ]({{ site.url }}/assets/m2020.pdf) 
+και τα θέματα από [εδώ]({{ site.url }}/assets/Themata2020.pdf)
