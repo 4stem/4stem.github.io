@@ -32,11 +32,30 @@ tags: [Βαθμολογικό]
 
 ![σχήμα]({{ site.url }}/assets/b1_20.png) 
 
+
+$$ α) \underline {τρόπος} $$
+
+
 $$K.X.O. \quad υ_{cm} = ω \cdot R$$
 
 $$\vec{υ_Α} = \vec{υ_{cm}} + \vec{υ_{γρΑ}} \Rightarrow υ_A = υ_{cm} + υ_{γρΑ} = ω \cdot R + ω \cdot R = 2\cdot ω \cdot R$$
 
 $$\vec{υ_Γ} = \vec{υ_{cm}} + \vec{υ_{γρΓ}} \Rightarrow υ_Γ = \sqrt{υ_{cm}^2 + υ_{γρΓ}^2} = \sqrt{ω^2 \cdot R^2 + \frac{ω^2\cdot R^2}{4}} = \frac{\sqrt5}{2}\cdot ω \cdot R$$
+
+$$\frac{υ_Γ}{υ_Α} = \frac{\sqrt5}{4}$$
+
+
+$$ β) \underline {τρόπος} $$
+
+Έστω $$Σ$$ το σημείο επαφής του τροχού με το οριζόντιο επίπεδο. Το σημείο $$Σ$$ περιστρέφεται γύρω από το σημείο $$Ο$$ με γωνιακή ταχύτητα
+$$ω$$ και το $$Ο$$ περιστρέφεται γύρω από το σημείο $$Σ$$ με την ίδια γωνιακή ταχύτητα. Δηλαδή θεωρούμε το σημείο $$Σ$$ ως στιγμιαίο 
+άξονα περιστροφής. Μπορούμε δηλαδή να θεωρήσουμε ότι για μικρή χρονική διάρκεια το σημείο $$Σ$$ παραμένει ακίνητο και γύρω από αυτό περιστρέφεται
+ο τροχός, χωρίς να μεταφέρεται, αφού η στιγμιαία ταχύτητα του άξονα είναι μηδενική. Αυτό σημαίνει ότι ο τροχός δεν κάνει σύνθετη κίνηση
+αλλά για μικρή χρονική διάρκεια έχουμε μια στροφική κίνηση γύρω από νοητό άξονα που διέρχεται από το σημείο $$Σ$$. 
+
+$$υ_Α = ω \cdot (ΣΑ) = ω \cdot 2 \cdot R$$
+
+$$υ_Γ = ω \cdot (ΣΓ) = ω \cdot \sqrt{(ΣΟ)^2+(ΟΓ)^2} = ω \cdot \sqrt{R^2+ \frac{R^2}{4}} = R \frac{\sqrt{5}}{4}$$
 
 $$\frac{υ_Γ}{υ_Α} = \frac{\sqrt5}{4}$$
 
@@ -52,8 +71,24 @@ $$\frac{υ_Γ}{υ_Α} = \frac{\sqrt5}{4}$$
 
 $$Α.Δ.Ο. και \quad Δ.Κ.Ε. \quad υ_2' = \frac{2\cdot m_1}{m_1 + m_2} \cdot υ_1$$
 
+$$ α) \underline {τρόπος} $$
+
 
 $$Π_1(\%) = \frac{K_2'}{K_1} \cdot 100 \% \Rightarrow Π_1(\%) = \frac{\frac{1}{2} \cdot m_2 \cdot υ_2'^2}{\frac{1}{2} \cdot m_1 \cdot υ_1^2} \cdot 100 \% = \frac{4 \cdot m_1 \cdot m_2}{(m_1+m_2)^2} \cdot 100 \%$$
+
+$$ β) \underline {τρόπος} $$
+
+$$Δ.Κ.Ε. \quad K_1 + 0 = K_1' + K_2' \Rightarrow K_1 - K_1' = K_2'$$
+
+
+$$Α.Δ.Ο. και \quad Δ.Κ.Ε. \quad υ_1' = \frac{m_1 - m_2}{m_1 + m_2} \cdot υ_1$$
+
+
+$$Π_1(\%) = \frac{K_1 - K_1'}{K_1} \cdot 100 \% \Rightarrow Π_1(\%) = \frac{\frac{1}{2} \cdot m_1 \cdot υ_1^2 - \frac{1}{2} \cdot m_1 \cdot υ_1'^2}{\frac{1}{2} \cdot m_1 \cdot υ_1^2} \cdot 100 \% $$
+
+
+$$Π_1(\%) = \frac{(m_1+m_2)^2 - (m_1-m_2)^2}{m_1+m_2} =  \frac{4 \cdot m_1 \cdot m_2}{(m_1+m_2)^2} \cdot 100 \%$$
+
 
 Ομοίως
 
@@ -83,6 +118,10 @@ $$P_Θ + \frac{1}{2} \cdot ρ \cdot υ_Θ^2 + ρ \cdot g \cdot (H -h_1) = P_O + 
 
 $$P_Θ = P_O = P_{ατμ} \quad υ_Θ = 0 \quad \Rightarrow υ_Ο = \sqrt{2 \cdot g \cdot (H - h_1)}$$
 
+
+$$ α) \underline {τρόπος} $$
+
+
 (O --> Δ:)
 
 $$άξονας \quad x \quad s = υ_Ο \cdot t \Rightarrow t = \frac{s}{υ_Ο}$$
@@ -102,6 +141,19 @@ $$h_1 - h_2 = \frac{h_1}{4} \Rightarrow h_2 = \frac{3 \cdot h_1}{4} \Rightarrow 
 
 
 $$Π_Ο = Α \cdot υ_Ο \Rightarrow Π_Β = Α \cdot \sqrt{2 \cdot g \cdot \frac{H}{8}} \Rightarrow Π_Β = \frac{A}{2} \cdot \sqrt{g\cdot H}$$
+
+
+$$ β) \underline {τρόπος} $$
+
+
+$$υ_Ο = \sqrt{2 \cdot g \cdot (H - h_1)} < \sqrt{2 \cdot g \cdot H} $$
+
+Άρα θα πρέπει η ζητούμενη παροχή ως γινόμενο εμβαδού διατομής και ταχύτητας να είναι:
+
+$$Π<A \cdot \sqrt{ 2 \cdot g \cdot H}$$
+
+Η επιλογές ii) και iii) απορρίπτονται αφού είναι μεγαλύτερες ή ίσες με την προηγούμενη τιμή.
+
 
 άρα σωστό το $$i$$ 
 
@@ -153,10 +205,47 @@ $$υ_{ορ} = 4 \frac{m}{s} = σταθ. \Rightarrow ΣF = 0 \Rightarrow F' - F_L
 
 **Γ3**-$$(6)$$
 
+
+
+$$ α) \underline {τρόπος} $$
+
+
 $$I'_{επ} = \frac{q_{επ}}{Δt} \Rightarrow Δt = \frac{q_{επ}}{Ι'_{επ}} \Rightarrow Δt = 0.25s$$
+
+
+$$ β) \underline {τρόπος} $$
+
+$$ q_{επ} = \frac{ΔΦ}{R_{ολ}} \Rightarrow ΔΦ = q_{επ} \cdot (R_1 + R_{ΚΛ}) \Rightarrow B_3 \cdot Δx \cdot l = q_{επ} \cdot (R_1 + R_{ΚΛ}) $$
+
+
+$$ B_3 \cdot υ_{ορ} \cdot Δt \cdot l = q_{επ} \cdot (R_1 + R_{ΚΛ}) \Rightarrow Δt = \frac{q_{επ} \cdot (R_1 + R_{ΚΛ})}{B_3 \cdot υ_{ορ} \cdot l} \Rightarrow Δt = 0.25s$$
+
 
 $$Q = I'^2_{επ} \cdot (R_1 + R_{ΚΛ}) \cdot Δt \Rightarrow Q = 0.8 Joule $$
 
+
+$$ γ) \underline {τρόπος} $$
+
+$$ q_{επ} = \frac{ΔΦ}{R_{ολ}} \Rightarrow ΔΦ = q_{επ} \cdot (R_1 + R_{ΚΛ}) \Rightarrow B_3 \cdot Δx \cdot l = q_{επ} \cdot (R_1 + R_{ΚΛ}) $$
+
+$$Δx = \frac{q_{επ} \cdot (R_1 + R_{ΚΛ})}{B_3 \cdot l}$$
+
+$$ΘΜΚΕ_{(t_1 \rightarrow t_2)} \quad ΔΚ = ΣW $$
+
+$$K_{t_3} - Κ_{t_2} = W_F' + W_{F_L} \Rightarrow  0 = W_{F'} + W_{F_L} \Rightarrow W_{F'} = W_{F_L} = F_L \cdot Δx  $$
+
+
+$$W_{F_L} = B_3 \cdot I_{επ} \cdot l \cdot \frac{q_{επ} \cdot (R_1 + R_{ΚΛ})}{B_3 \cdot l} \Rightarrow W_{F'} = 0.8 Joule$$
+
+$$Q = |W_{F'}| \Rightarrow Q = 0.8 Joule$$
+
+
+$$ δ) \underline {τρόπος} $$
+
+$$Ε_{επ} = \frac{dW_{πηγής}}{dq} $$
+
+
+$$Q = W_{πηγής} = Σ(dW_{πηγής}) = ΣΕ_{επ} \cdot dq = E_{επ} \cdot Σdq = E_{επ} \cdot q_{επ} = 0.8 Joule$$
 
 **Γ4**-$$(7)$$
 
@@ -253,9 +342,31 @@ $$Κ_Ι + U_I = U_{max} \Rightarrow \frac{1}{2}(m_1+m_2) \cdot V_K^2 + \frac{1}{
 
 $$D=k=(m_1 + m_2)\cdot ω^2 \Rightarrow ω = \sqrt{\frac{k}{m_1+m_2}} \Rightarrow ω = 5 \frac{rad}{s}$$
 
-$$t=0, \quad x = - 0.15m, quad υ>0$$
+$$t=0, \quad x_Δ = - (ΟΔ) = - (Δl_2 - Δl_1) = -0.15m, \quad υ_Δ = V_k >0$$
 
-![σχήμα]({{ site.url }}/assets/d3_20.png) 
+
+$$ α) \underline {τρόπος} $$
+
+
+$$x = A \cdot ημ(ωt + φ_ο) \overset{t=0}{\implies} -0.15 = 0.3 \cdot ημφ_ο \Rightarrow ημφ_ο = -\frac{1}{2} \Rightarrow ημφ_ο = ημ(\frac{7π}{6})$$
+
+
+$$ φ_o = \begin{cases}2k\pi + \frac{7\pi}{6}, & k = 0 \Rightarrow φ_o = \frac{7π}{6} \quad υ = υ_m \cdot συν  \frac{7π}{6} < 0, απορρίπτεται \\\ 2k\pi+ \pi - \frac{7\pi}{6}, & k = 1\Rightarrow φ_o = \frac{11π}{6} \quad υ = υ_m \cdot συν  \frac{11π}{6}  > 0 \end{cases}$$
+
+
+$$ β) \underline {τρόπος} $$
+
+
+Περιστρεφόμενο διάνυσμα: Έστω $$Σ$$ σημείο που εκτελεί $$Ο.Κ.Κ.$$ με σταθερή $$ω$$, σε κύκλο ακτίνας $$Α$$. Η γωνία
+που διαγράφει η επιβατική ακτίνα δίνεται από την σχέση $$φ = ω \cdot t$$
+
+Η προβολή του σημείου στον κατακόρυφο άξονα δίνεται από την σχέση 
+
+$$x = A ημφ \Rightarrow x = A \cdot ημωt$$
+
+άρα η προβολή του σημείου $$Σ$$ εκτελεί $$Α.Α.Τ.$$
+
+![σχήμα]({{ site.url }}/assets/d3_peristrefomeno.png) 
 
 
 $$Δφ = \frac{3π}{2} + \frac{π}{3} \Rightarrow Δφ = \frac{11π}{6} rad$$
