@@ -133,7 +133,7 @@ $$άξονας \quad y \quad h_1 = \frac{1}{2} \cdot g \cdot t^2 \Rightarrow h_1
 $$άξονας \quad x \quad \frac{s}{2} = υ_Ο \cdot t' \Rightarrow t' = \frac{s}{2 \cdot υ_Ο}$$
 
 
-$$άξονας \quad y \quad h_1 - h_2 = \frac{1}{2} \cdot g \cdot t'^2 \Rightarrow h_1 - h_2 = \frac{g \cdot s^2}{82\cdot υ_Ο^2} $$
+$$άξονας \quad y \quad h_1 - h_2 = \frac{1}{2} \cdot g \cdot t'^2 \Rightarrow h_1 - h_2 = \frac{g \cdot s^2}{8\cdot υ_Ο^2} $$
 
 $$h_1 - h_2 = \frac{h_1}{4} \Rightarrow h_2 = \frac{3 \cdot h_1}{4} \Rightarrow h_1 = \frac{7}{8} \cdot H$$
 
@@ -245,7 +245,7 @@ $$\frac{1}{R_{12}} = \frac{1}{R_1} + \frac{1}{R_2} \Rightarrow R_{12} = 1Ω$$
 ![σχήμα]({{ site.url }}/assets/g44_20.png) 
 
 
-$$Ι''_{επ} = \frac{E_{επ}}{R_{ολ}} \Rightarrow Ι''_{επ} = \frac{B \cdot l \cdot υ}{R_{12} + R_{ΚΛ}} \Rightarrow F_L = \frac{B_3^2 \cdot l^2 \cdot υ}{R_{12} + R_{ΚΛ}}$$
+$$Ι''_{επ} = \frac{E_{επ}}{R_{ολ}} \Rightarrow Ι''_{επ} = \frac{B_3 \cdot l \cdot υ}{R_{12} + R_{ΚΛ}} \Rightarrow F_L = \frac{B_3^2 \cdot l^2 \cdot υ}{R_{12} + R_{ΚΛ}}$$
 
 την χρονική στιγμή $$t_3^+:$$
 
@@ -255,11 +255,21 @@ $$υ_{ορ} = 4 \frac{m}{s} \quad F_{L3} = 1N > F' = 0.8N$$
 
 $$F' - F_L =0 \Rightarrow υ = υ'_{ορ} \Rightarrow F' = \frac{B^2_3 \cdot l^2 \cdot υ'_{ορ}}{R_{12} + R_{ΚΛ}} \Rightarrow υ'_{ορ} = 3.2 \frac{m}{s}$$
 
-$$V_{ΚΛ} = Ι''_{επ} \cdot R_{12} = I_1 \cdot R_1 = I_2 \cdot R_2 \Rightarrow |V_{KL}| = 0.8 Volt$$
 
-$$I_1 = \frac{V_{ΚΛ}}{R_1} \Rightarrow I_1 = 0.4A$$
+$$ α) \underline {τρόπος} $$
 
-$$I_2 = \frac{V_{ΚΛ}}{R_2} \Rightarrow I_2 = 0.4A$$
+
+$$V_{ΚΛ} = Ι''_{επ} \cdot R_{12} \ \Rightarrow V_{ΚΛ} = \frac{Ε_{επ}}{R_{ολ}} \cdot R_{12} \Rightarrow V_{ΚΛ} = \frac{B_3 \cdot l^2 \cdot υ'_{ορ}}{R_{12} + R_{ΚΛ}} \cdot R_{12} \Rightarrow  |V_{KL}| = 0.8 Volt$$
+
+
+$$ β) \underline {τρόπος} $$
+
+
+$$V_{ΚΛ} = Ε_{επ} - I''_{επ} \cdot R_{ΚΛ} = Β_3 \cdot l \cdot υ_{ορ} - \frac{E_{επ}}{R_{ολ}} \cdot R_{ΚΛ} = 0.8 Volts$$
+
+$$V_{ΚΛ} = I_1 \cdot R_1 \Rightarrow I_1 = \frac{V_{ΚΛ}}{R_1} \Rightarrow I_1 = 0.4A$$
+
+$$V_{ΚΛ} = I_2 \cdot R_2 \Rightarrow I_2 = \frac{V_{ΚΛ}}{R_2} \Rightarrow I_2 = 0.4A$$
 
 
 
@@ -317,10 +327,23 @@ $$ΣF_x = 0 \Rightarrow F_{ελ1} = m_1 \cdot g \cdot ημφ \Rightarrow Δl_1 =
 $$ΣF_x = 0 \Rightarrow F_{ελ2} = (m_1 + m_2) \cdot g \cdot ημφ \Rightarrow Δl_1 = \frac{(m_1 + m_2) \cdot g \cdot ημφ}{k} \Rightarrow Δl_2 = 0.2m$$
 
 
+$$ α) \underline {τρόπος} $$
+
+
 Αρχή Διατήρησης Ενέργειας Ταλάντωσης (Ι --> ΙΙ)
 
 
 $$Κ_Ι + U_I = U_{max} \Rightarrow \frac{1}{2}(m_1+m_2) \cdot V_K^2 + \frac{1}{2} \cdot D \cdot (Δl_2 - Δl_1)^2 = \frac{1}{2} \cdot D \cdot A^2 \Rightarrow A =0.3m$$
+
+
+$$ β) \underline {τρόπος} $$
+
+
+$$\left. \begin{matrix}x = A \cdot ημ(ωt + φ_ο) \\\\ υ = Α \cdot ω \cdot συν(ωt + φ_ο) \end{matrix} \right\} ημ^2(ωt + φ_ο) + συν^2(ωt + φ_ο) = 0$$
+
+$$ \frac{x^2}{A^2} + \frac{υ^2}{Α^2 \cdot ω^2} = 1 \Rightarrow A = \sqrt{x^2 + \frac{υ^2}{ω^2}} \Rightarrow A = 0.3m $$
+
+
 
 **Δ3**-$$(6)$$
 
@@ -373,11 +396,30 @@ $$υ_{2x} = υ_2 \cdot ημφ$$
 $$Σ \vec F_{εξ}^x = 0 \Rightarrow A.Δ.Ο._{(x)} P_{πριν}^x = P_{μετα}^x \Rightarrow m_2 \cdot υ_{2x} = (m_1+ m_2) \cdot V_k \Rightarrow υ_2 = \frac{(m_1+m_2) \cdot V_k}{m_2 \cdot ημφ} \Rightarrow υ_2 = 2 \sqrt3 \frac{m}{s} $$
 
 
+$$ α) \underline {τρόπος} $$
+
+
 $$υ_2 = g \cdot t \Rightarrow t = \frac{υ_2}{g}$$
 
 $$h = \frac{1}{2} \cdot g \cdot t^2 \Rightarrow h = 0.6m$$
 
  
+$$ β) \underline {τρόπος} $$
+
+
+$$ΘΜΚΕ_{(0 \rightarrow t)} \quad ΔΚ = ΣW $$
+
+$$K_{τελ} - Κ_{αρχ} = W_Β \Rightarrow  \frac{1}{2} \cdot m_2 \cdot υ_2^2 = m_2 \cdot g \cdot h \Rightarrow h = \frac{υ_2^2}{2 \cdot g} \Rightarrow h = 0.6m $$
+
+
+$$ γ) \underline {τρόπος} $$
+
+
+$$συντηρητικές \quad δυνάμεις \quad A.Δ.Μ.Ε. $$
+
+$$Ε_{αρχ}^{μηχ} = Ε_{τελ}^{μηχ} \Rightarrow K_{αρχ} + U_{αρχ} = K_{τελ} + U_{τελ} \Rightarrow U_{αρχ} = Κ_{τελ} \Rightarrow  m_2 \cdot g \cdot h = \frac{1}{2} \cdot m_2 \cdot υ_2^2  \Rightarrow h = \frac{υ_2^2}{2 \cdot g} \Rightarrow h = 0.6m $$
+
+
 **Δ5**-$$(4)$$
 
 όταν $$x = +A$$
