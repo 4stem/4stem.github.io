@@ -143,7 +143,7 @@ $$h_1 - h_2 = \frac{h_1}{4} \Rightarrow h_2 = \frac{3 \cdot h_1}{4} \Rightarrow 
 $$Π_Ο = Α \cdot υ_Ο \Rightarrow Π_Β = Α \cdot \sqrt{2 \cdot g \cdot \frac{H}{8}} \Rightarrow Π_Β = \frac{A}{2} \cdot \sqrt{g\cdot H}$$
 
 
-$$ β) \underline {τρόπος} $$
+$$ β) \underline {τρόπος με επιφύλαξη} $$
 
 
 $$υ_Ο = \sqrt{2 \cdot g \cdot (H - h_1)} < \sqrt{2 \cdot g \cdot H} $$
@@ -232,7 +232,7 @@ $$Δx = \frac{q_{επ} \cdot (R_1 + R_{ΚΛ})}{B_3 \cdot l}$$
 
 $$ΘΜΚΕ_{(t_1 \rightarrow t_2)} \quad ΔΚ = ΣW $$
 
-$$K_{t_3} - Κ_{t_2} = W_F' + W_{F_L} \Rightarrow  0 = W_{F'} + W_{F_L} \Rightarrow W_{F'} = W_{F_L} = F_L \cdot Δx  $$
+$$K_{t_3} - Κ_{t_2} = W_F' + W_{F_L} \Rightarrow  0 = W_{F'} + W_{F_L} \Rightarrow W_{F'} = -W_{F_L} = F_L \cdot Δx  $$
 
 
 $$W_{F_L} = B_3 \cdot I_{επ} \cdot l \cdot \frac{q_{επ} \cdot (R_1 + R_{ΚΛ})}{B_3 \cdot l} \Rightarrow W_{F'} = 0.8 Joule$$
