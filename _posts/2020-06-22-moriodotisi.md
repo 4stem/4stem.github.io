@@ -245,6 +245,9 @@ $$ α) \underline {τρόπος} $$
 $$I'_{επ} = \frac{q_{επ}}{Δt} \Rightarrow Δt = \frac{q_{επ}}{Ι'_{επ}} \Rightarrow Δt = 0.25s$$
 
 
+$$\left. \begin{matrix} Q_1 = I'^2_{επ} \cdot R_1 \cdot Δt \\\\ Q_2 = I'^2_{επ} \cdot R_{ΚΛ} \cdot Δt \end{matrix} \right\} Q = Q_1 + Q_2 = 0.8 Joule$$
+
+
 $$ β) \underline {τρόπος} $$
 
 $$ q_{επ} = \frac{ΔΦ}{R_{ολ}} \Rightarrow ΔΦ = q_{επ} \cdot (R_1 + R_{ΚΛ}) \Rightarrow B_3 \cdot Δx \cdot l = q_{επ} \cdot (R_1 + R_{ΚΛ}) $$
