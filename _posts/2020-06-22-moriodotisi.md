@@ -55,7 +55,7 @@ $$ω$$ και το $$Ο$$ περιστρέφεται γύρω από το σημ
 
 $$υ_Α = ω \cdot (ΣΑ) = ω \cdot 2 \cdot R$$
 
-$$υ_Γ = ω \cdot (ΣΓ) = ω \cdot \sqrt{(ΣΟ)^2+(ΟΓ)^2} = ω \cdot \sqrt{R^2+ \frac{R^2}{4}} = R \frac{\sqrt{5}}{4}$$
+$$υ_Γ = ω \cdot (ΣΓ) = ω \cdot \sqrt{(ΣΟ)^2+(ΟΓ)^2} = ω \cdot \sqrt{R^2+ \frac{R^2}{4}} = ω \cdot R \frac{\sqrt{5}}{2}$$
 
 $$\frac{υ_Γ}{υ_Α} = \frac{\sqrt5}{4}$$
 
