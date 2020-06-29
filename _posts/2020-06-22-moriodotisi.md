@@ -409,7 +409,7 @@ $$ α) \underline {τρόπος} $$
 $$x = A \cdot ημ(ωt + φ_ο) \overset{t=0}{\implies} -0.15 = 0.3 \cdot ημφ_ο \Rightarrow ημφ_ο = -\frac{1}{2} \Rightarrow ημφ_ο = ημ(\frac{7π}{6})$$
 
 
-$$ φ_o = \begin{cases}2k\pi + \frac{7\pi}{6}, & k = 0 \Rightarrow φ_o = \frac{7π}{6} \quad υ = υ_m \cdot συν  \frac{7π}{6} < 0, απορρίπτεται \\\ 2k\pi+ \pi - \frac{7\pi}{6}, & k = 1\Rightarrow φ_o = \frac{11π}{6} \quad υ = υ_m \cdot συν  \frac{11π}{6}  > 0 \end{cases}$$
+$$ φ_o = \begin{cases}2k\pi + \frac{7\pi}{6}, & k = 0 \Rightarrow φ_o = \frac{7π}{6} \quad υ = υ_m \cdot συν  \frac{7π}{6} < 0, απορρίπτεται \\\ 2k\pi+ \pi - \frac{7\pi}{6}, & k = 1\Rightarrow φ_o = \frac{11π}{6} \quad υ = υ_m \cdot συν  \frac{11π}{6}  > 0 \quad δεκτή \end{cases}$$
 
 
 $$ β) \underline {τρόπος} $$
