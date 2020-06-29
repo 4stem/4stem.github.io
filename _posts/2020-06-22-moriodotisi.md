@@ -466,7 +466,10 @@ $$ γ) \underline {τρόπος} $$
 
 $$συντηρητικές \quad δυνάμεις \quad A.Δ.Μ.Ε. $$
 
-$$Ε_{αρχ}^{μηχ} = Ε_{τελ}^{μηχ} \Rightarrow K_{αρχ} + U_{αρχ} = K_{τελ} + U_{τελ} \Rightarrow U_{αρχ} = Κ_{τελ} \Rightarrow  m_2 \cdot g \cdot h = \frac{1}{2} \cdot m_2 \cdot υ_2^2  \Rightarrow h = \frac{υ_2^2}{2 \cdot g} \Rightarrow h = 0.6m $$
+$$Ε_{αρχ}^{μηχ} = Ε_{τελ}^{μηχ} \Rightarrow K_{αρχ} + U_{αρχ} = K_{τελ} + U_{τελ} \Rightarrow U_{αρχ} = Κ_{τελ} \Rightarrow  m_2 \cdot g \cdot h = \frac{1}{2} \cdot m_2 \cdot υ_2^2  $$
+
+
+$$h = \frac{υ_2^2}{2 \cdot g} \Rightarrow h = 0.6m $$
 
 
 **Δ5**-$$(4)$$
