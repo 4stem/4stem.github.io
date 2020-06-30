@@ -46,7 +46,7 @@ $$x_1 \quad ενίσχυση \quad r_1 - r_2 = N \cdot λ$$
 
 $$x_2 \quad 1η \quad επόμενη \quad απόσβεση \quad r_1' - r_2 = (2N'+1) \cdot \frac{λ}{2} = Ν'λ + \frac{λ}{2}$$
 
-Αφαιρούμε κατά μέλη
+Για $$Ν'=Ν$$ Αφαιρούμε κατά μέλη
 
 $$(r_1' - r_2) - (r_1 - r_2) = \frac{λ}{2} \Rightarrow 2x_2 - 2x_1 = \frac{λ}{2}$$
 
@@ -103,7 +103,7 @@ $$Π_2(\%) = \frac{K_1'}{K_2} \cdot 100 \% \Rightarrow Π_2(\%) =  \frac{4 \cdot
 
 **Γ1**-$$(6)$$
 
-$$Α.Δ.Μ.Ε. \quad m_2 \quad (Δ \rightarrow Γ) \quad Κ_Δ + U_Δ = Κ_Γ + U_Γ \Rightarrow m_2 \cdot g \cdot h = \frac{1}{2} \cdot m_2 \cdot υ^2$$
+$$Α.Δ.Μ.Ε. \quad m_2 \quad (Δ \rightarrow Γ) \quad Κ_Δ + U_Δ = Κ_Γ + U_Γ \Rightarrow m_2 \cdot g \cdot h = \frac{1}{2} \cdot m_2 \cdot υ_2^2$$
 
 $$υ_2 = \sqrt{2 \cdot g \cdot h} \Rightarrow υ_2 = 2 \cdot \sqrt3 \frac{m}{s}$$
 
@@ -173,7 +173,7 @@ $$x = A ημφ \Rightarrow x = A \cdot ημωt$$
 $$Δφ = π - \frac{π}{6} \Rightarrow Δφ = \frac{5π}{6} rad$$
 
 
-$$x = A \cdot ημ(ωt + φ_ο) \Rightarrow x = 0.3 \cdot ημ(5t + \frac{5π}{6} \quad S.I.)$$
+$$x = A \cdot ημ(ωt + φ_ο) \Rightarrow x = 0.3 \cdot ημ(5t + \frac{5π}{6}) \quad S.I.$$
 
 
 **Γ4**-$$(7)$$
@@ -226,7 +226,7 @@ $$A.Δ.Μ.Ε_{Ι \rightarrow II} \quad K_I + U_I = K_{II} + U_{II} \Rightarrow 0
 και μετά τις πράξεις $$ω_{ΙΙ} = \frac{8 \sqrt3}{3} \frac{rad}{s}$$
 
 
-$$\vec L_{II(A)} = I \cdot ω_{ΙΙ} \Rightarrow \vec L_{II(A)} = 8 \cdot \sqrt3 kg \frac{m}{s^2}$$
+$$\vec L_{II(A)} = I \cdot \vec ω_{ΙΙ} \Rightarrow \vec L_{II(A)} = 8 \cdot \sqrt3 kg \frac{m}{s^2}$$
 
 
 **Δ4**-$$(4)$$
