@@ -244,8 +244,13 @@ $$K.X.O. υ_{cm} = ω_2 \cdot r$$
 
 **Δ5**-$$(4)$$
 
+$$ α) \underline {τρόπος} $$
 
 $$N_{περιστροφές 1 \rightarrow 2} = \frac{ \frac{2πR}{4}}{2πr} \Rightarrow N = 7 περιστροφές$$
+
+
+$$ β) \underline {τρόπος} $$
+
 
 $$(2) \rightarrow (2), \quad λείο \quad Ομαλή \quad Στροφική \quad Κίνηση \quad s = π m$$
 
