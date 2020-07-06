@@ -29,6 +29,9 @@ tags: [Βαθμολογικό]
 
 **B1**-$$(ii)-2-6$$
 
+![σχήμα]({{ site.url }}/assets/b1p_20.png) 
+
+
 $$Α_1: \quad Σ \vec F =0 \Rightarrow \frac{F_{υγρ1}}{Α_1} - \frac{F}{A_1} - \frac{F_{ατμ1}}{Α_1} = 0 \Rightarrow P_Γ - \frac{F}{A_1} - P_{ατμ} = 0$$
 
 $$Α_2: \quad Σ \vec F =0 \Rightarrow \frac{F_{υγρ2}}{Α_2} - \frac{W}{A_2} - \frac{F_{ατμ2}}{Α_2} = 0 \Rightarrow P_Δ - \frac{W}{A_2} - P_{ατμ} = 0$$
@@ -41,6 +44,10 @@ $$P_Γ = P_Δ + ρ \cdot g \cdot h \Rightarrow \frac{F}{A_1} + P_{ατμ} = \fra
 
 
 **B2**-$$(ii)-2-6$$
+
+
+![σχήμα]({{ site.url }}/assets/b2p_20.png) 
+
 
 $$x_1 \quad ενίσχυση \quad r_1 - r_2 = N \cdot λ$$
 
@@ -99,6 +106,8 @@ $$Π_2(\%) = \frac{K_1'}{K_2} \cdot 100 \% \Rightarrow Π_2(\%) =  \frac{4 \cdot
 
 
 **`Θέμα Γ`**
+
+![σχήμα]({{ site.url }}/assets/g1p_20.png) 
 
 
 **Γ1**-$$(6)$$
@@ -190,6 +199,8 @@ $$t=0, \quad x_Γ = +0.15m, \quad 2^η \quad φορά \quad x_Z = - 0.1m$$
 
 **`Θέμα Δ`**
 
+![σχήμα]({{ site.url }}/assets/d1p_20.png) 
+
 
 **Δ1**-$$(5)$$
 
@@ -216,6 +227,9 @@ $$Ι = \frac{1}{3} \cdot M_1 \cdot L^2 + m \cdot L^2 \Rightarrow I = 3 kg \cdot 
 και μετά τις πράξεις $$α_{γων} = 8 \frac{rad}{s^2}$$
 
 **Δ3**-$$(5)$$
+
+![σχήμα]({{ site.url }}/assets/d3p_20.png) 
+
 
 $$Δ \vec L_{I \rightarrow II} = | \vec L_{II(A)} - \vec L_{I(A)}| = |\vec L_{II(A)}|$$
 
@@ -265,3 +279,8 @@ $$s = υ_{cm} \cdot t_{23} \Rightarrow t_{23} = \frac{π}{6} s$$
 και μετά τις πράξεις $$Δθ = 10π rad$$
 
 $$N_{περιστροφές 2 \rightarrow 3} = \frac{Δθ}{2π} \Rightarrow N = 5 περιστροφές$$
+
+
+
+Μπορείτε να εκτυπώσετε τις λύσεις σε μορφή pdf από [εδώ]({{ site.url }}/assets/m2020p.pdf) 
+και τα θέματα από [εδώ]({{ site.url }}/assets/Themata2020p.pdf)
