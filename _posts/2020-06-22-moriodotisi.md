@@ -216,7 +216,10 @@ $$Σ \vec F = m \cdot \vecα \Rightarrow F - F_L = m \cdot α \Rightarrow F -  B
 Ευθύγραμμη επιταχυνόμενη κίνηση με μειούμενη επιτάχυνση. 
 Η ταχύτητα αυξάνεται, άρα η δύναμη Laplace αυξάνεται, άρα η συνισταμένη δύναμη μειώνεται άρα η επιτάχυνση μειώνεται. Μέχρι:
 
-$$α = 0 \Rightarrow ΣF = 0 \Rightarrow  B^2 \cdot l^2 \cdot \frac{υ_{ορ}}{R_1 + R_{ΚΛ}} = F \Rightarrow υ_{ορ} = \frac{F \cdot (R_1 + R_{ΚΛ})}{Β^2 \cdot l^2} \Rightarrow υ_{ορ} = 4 \frac{m}{s}$$
+$$α = 0 \Rightarrow ΣF = 0 \Rightarrow  B^2 \cdot l^2 \cdot \frac{υ_{ορ}}{R_1 + R_{ΚΛ}} = F$$
+
+
+$$υ_{ορ} = \frac{F \cdot (R_1 + R_{ΚΛ})}{Β^2 \cdot l^2} \Rightarrow υ_{ορ} = 4 \frac{m}{s}$$
 
 
 **Γ2**-$$(6)$$
@@ -296,6 +299,10 @@ $$\frac{1}{R_{12}} = \frac{1}{R_1} + \frac{1}{R_2} \Rightarrow R_{12} = 1Ω$$
 
 $$Ι''_{επ} = \frac{E_{επ}}{R_{ολ}} \Rightarrow Ι''_{επ} = \frac{B_3 \cdot l \cdot υ}{R_{12} + R_{ΚΛ}} \Rightarrow F_L = \frac{B_3^2 \cdot l^2 \cdot υ}{R_{12} + R_{ΚΛ}}$$
 
+
+![σχήμα]({{ site.url }}/assets/g444_20.png) 
+
+
 την χρονική στιγμή $$t_3^+:$$
 
 $$υ_{ορ} = 4 \frac{m}{s} \quad F_{L3} = 1N > F' = 0.8N$$
@@ -308,7 +315,10 @@ $$F' - F_L =0 \Rightarrow υ = υ'_{ορ} \Rightarrow F' = \frac{B^2_3 \cdot l^2
 $$ α) \underline {τρόπος} $$
 
 
-$$V_{ΚΛ} = Ι''_{επ} \cdot R_{12} \ \Rightarrow V_{ΚΛ} = \frac{Ε_{επ}}{R_{ολ}} \cdot R_{12} \Rightarrow V_{ΚΛ} = \frac{B_3 \cdot l^2 \cdot υ'_{ορ}}{R_{12} + R_{ΚΛ}} \cdot R_{12} \Rightarrow  |V_{KL}| = 0.8 Volt$$
+$$V_{ΚΛ} = Ι''_{επ} \cdot R_{12} \ \Rightarrow V_{ΚΛ} = \frac{Ε_{επ}}{R_{ολ}} \cdot R_{12} \Rightarrow V_{ΚΛ} = \frac{B_3 \cdot l^2 \cdot υ'_{ορ}}{R_{12} + R_{ΚΛ}} \cdot R_{12}$$
+
+
+$$ |V_{KL}| = 0.8 Volt$$
 
 
 $$ β) \underline {τρόπος} $$
@@ -340,10 +350,6 @@ $$T_2 = m_2 \cdot g \Rightarrow T_2 = 30N$$
 νήμα (2) αβαρές, μη εκτατό $$T'_2 = T_2$$
 
 
-![σχήμα]({{ site.url }}/assets/d11_20.png) 
-
-
-
 $$κύλινδρος, \quad ισορροπία, \Rightarrow Σ\vecτ = 0 $$ 
 
 $$T_1 \cdot r - T_2 \cdot R = 0 \Rightarrow T_1 = 2 \cdot T_2 = 60N$$
@@ -358,7 +364,10 @@ $$T_1 \cdot r - T_2 \cdot R = 0 \Rightarrow T_1 = 2 \cdot T_2 = 60N$$
 $$ράβδος, \quad ισορροπία, \Rightarrow Σ\vecτ_{(Α)} = 0 $$
 
 
-$$τ_Β - τ_{Τ_1} - τ_{F_Γ} = 0 \Rightarrow M \cdot g \frac{l}{2} \cdot συνθ - Τ_1 \cdot (\frac{l}{2} + d )\cdot ημθ - F_Γ \cdot l \cdot ημθ = 0 \Rightarrow F_Γ = 10N$$
+$$τ_Β - τ_{Τ_1} - τ_{F_Γ} = 0 \Rightarrow M \cdot g \frac{l}{2} \cdot συνθ - Τ_1 \cdot (\frac{l}{2} + d )\cdot ημθ - F_Γ \cdot l \cdot ημθ = 0$$
+
+
+$$F_Γ = 10N$$
 
 
 **Δ2**-$$(4)$$
@@ -373,7 +382,10 @@ $$ΣF_x = 0 \Rightarrow F_{ελ1} = m_1 \cdot g \cdot ημφ \Rightarrow Δl_1 =
 
 Νέα θέση ισορροπίας
 
-$$ΣF_x = 0 \Rightarrow F_{ελ2} = (m_1 + m_2) \cdot g \cdot ημφ \Rightarrow Δl_1 = \frac{(m_1 + m_2) \cdot g \cdot ημφ}{k} \Rightarrow Δl_2 = 0.2m$$
+$$ΣF_x = 0 \Rightarrow F_{ελ2} = (m_1 + m_2) \cdot g \cdot ημφ \Rightarrow Δl_1 = \frac{(m_1 + m_2) \cdot g \cdot ημφ}{k} $$
+
+
+$$Δl_2 = 0.2m$$
 
 
 $$ α) \underline {τρόπος} $$
@@ -382,7 +394,10 @@ $$ α) \underline {τρόπος} $$
 Αρχή Διατήρησης Ενέργειας Ταλάντωσης (Ι --> ΙΙ)
 
 
-$$Κ_Ι + U_I = U_{max} \Rightarrow \frac{1}{2}(m_1+m_2) \cdot V_K^2 + \frac{1}{2} \cdot D \cdot (Δl_2 - Δl_1)^2 = \frac{1}{2} \cdot D \cdot A^2 \Rightarrow A =0.3m$$
+$$Κ_Ι + U_I = U_{max} \Rightarrow \frac{1}{2}(m_1+m_2) \cdot V_K^2 + \frac{1}{2} \cdot D \cdot (Δl_2 - Δl_1)^2 = \frac{1}{2} \cdot D \cdot A^2 $$
+
+
+$$A =0.3m$$
 
 
 $$ β) \underline {τρόπος} $$
@@ -424,7 +439,7 @@ $$x = A ημφ \Rightarrow x = A \cdot ημωt$$
 
 άρα η προβολή του σημείου $$Σ$$ εκτελεί $$Α.Α.Τ.$$
 
-![σχήμα]({{ site.url }}/assets/d3_peristrefomeno.png) 
+![σχήμα]({{ site.url }}/assets/d33_20.png) 
 
 
 $$Δφ = \frac{3π}{2} + \frac{π}{3} \Rightarrow Δφ = \frac{11π}{6} rad$$
@@ -442,7 +457,10 @@ $$x = A \cdot ημ(ωt + φ_ο) \Rightarrow x = 0.3 \cdot ημ(5t + \frac{11π}{
 $$υ_{2x} = υ_2 \cdot ημφ$$
 
 
-$$Σ \vec F_{εξ}^x = 0 \Rightarrow A.Δ.Ο._{(x)} P_{πριν}^x = P_{μετα}^x \Rightarrow m_2 \cdot υ_{2x} = (m_1+ m_2) \cdot V_k \Rightarrow υ_2 = \frac{(m_1+m_2) \cdot V_k}{m_2 \cdot ημφ} \Rightarrow υ_2 = 2 \sqrt3 \frac{m}{s} $$
+$$Σ \vec F_{εξ}^x = 0 \Rightarrow A.Δ.Ο._{(x)} P_{πριν}^x = P_{μετα}^x \Rightarrow m_2 \cdot υ_{2x} = (m_1+ m_2) \cdot V_k $$
+
+
+$$υ_2 = \frac{(m_1+m_2) \cdot V_k}{m_2 \cdot ημφ} \Rightarrow υ_2 = 2 \sqrt3 \frac{m}{s} $$
 
 
 $$ α) \underline {τρόπος} $$
@@ -466,10 +484,10 @@ $$ γ) \underline {τρόπος} $$
 
 $$συντηρητικές \quad δυνάμεις \quad A.Δ.Μ.Ε. $$
 
-$$Ε_{αρχ}^{μηχ} = Ε_{τελ}^{μηχ} \Rightarrow K_{αρχ} + U_{αρχ} = K_{τελ} + U_{τελ} \Rightarrow U_{αρχ} = Κ_{τελ} \Rightarrow  m_2 \cdot g \cdot h = \frac{1}{2} \cdot m_2 \cdot υ_2^2  $$
+$$Ε_{αρχ}^{μηχ} = Ε_{τελ}^{μηχ} \Rightarrow K_{αρχ} + U_{αρχ} = K_{τελ} + U_{τελ} \Rightarrow U_{αρχ} = Κ_{τελ} $$
 
 
-$$h = \frac{υ_2^2}{2 \cdot g} \Rightarrow h = 0.6m $$
+$$m_2 \cdot g \cdot h = \frac{1}{2} \cdot m_2 \cdot υ_2^2  \Rightarrow h = \frac{υ_2^2}{2 \cdot g} \Rightarrow h = 0.6m $$
 
 
 **Δ5**-$$(4)$$
