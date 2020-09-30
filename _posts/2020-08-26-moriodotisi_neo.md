@@ -65,7 +65,10 @@ $$x_1 = υ_ο \cdot t_1 \Rightarrow x_1 = υ_ο \cdot \sqrt{\frac{2 \cdot h_1}{g
 
 $$Bernoulli \quad (1 \rightarrow 2)$$
 
-$$P_1 + \frac{1}{2} \cdot ρ \cdot υ^2 + ρ \cdot g \cdot h = P_2 + \frac{1}{2} \cdot ρ \cdot υ^2_o + ρ \cdot g \cdot h_1 \Rightarrow υ_ο = \sqrt{2 \cdot g (H - h_1)} $$ 
+$$P_1 + \frac{1}{2} \cdot ρ \cdot υ^2 + ρ \cdot g \cdot h = P_2 + \frac{1}{2} \cdot ρ \cdot υ^2_o + ρ \cdot g \cdot h_1 $$
+
+
+$$υ_ο = \sqrt{2 \cdot g (H - h_1)} $$ 
 
 $$x_1 = 2 \sqrt{h_1 \cdot (H-h_1)} \quad ομοίως \quad x_2 = 2 \sqrt{h_2 \cdot (H-h_2)} $$
 
@@ -129,7 +132,9 @@ $$Q_1 = 4J, \quad Q_2 = 12J$$
 **Γ4**-$$(7)$$
 
 
-$$h_1 = υ_{ορ} \cdot Δt + \frac{1}{2} \cdot g \cdot Δt^2 \Rightarrow 0.45 = 4 \cdot Δt + 5 \cdot Δt^2 \Rightarrow Δt = 0.1s  $$
+$$h_1 = υ_{ορ} \cdot Δt + \frac{1}{2} \cdot g \cdot Δt^2 \Rightarrow 0.45 = 4 \cdot Δt + 5 \cdot Δt^2 $$
+
+και απορρίπτοντας την αρνητική ρίζα έχουμε $$ Δt = 0.1s  $$
 
 $$υ = υ_{ορ} + g \cdot Δt \Rightarrow υ = 5 \frac{m}{s} $$
 
@@ -201,10 +206,14 @@ $$υ'_2 = \frac{2 \cdot m1}{m_1+m_2} \cdot υ_1 + \frac{m_2-m_1}{m_1+m_2} \cdot 
 
 **Δ5**-$$(3)$$
 
-$$E_{ταλ} = Κ_1 + U_1 \Rightarrow \frac{1}{2} \cdot k_1 \cdot A^2_1 = \frac{1}{2} \cdot m_1 \cdot υ^2_1 + \frac{1}{2} \cdot k_1 \cdot x^2_1 \Rightarrow A_1 = 0.6m$$
+$$E_{ταλ} = Κ_1 + U_1 \Rightarrow \frac{1}{2} \cdot k_1 \cdot A^2_1 = \frac{1}{2} \cdot m_1 \cdot υ^2_1 + \frac{1}{2} \cdot k_1 \cdot x^2_1 $$
+
+και μετά τις πράξεις $$ A_1 = 0.6m$$
 
 
-$$E_{ταλ} = Κ_2 + U_2 \Rightarrow \frac{1}{2} \cdot k_1 \cdot A^2_2 = \frac{1}{2} \cdot m_2 \cdot υ^2_2 + \frac{1}{2} \cdot k_2 \cdot x^2_2 \Rightarrow A_2 = 0.2 \sqrt3 m$$
+$$E_{ταλ} = Κ_2 + U_2 \Rightarrow \frac{1}{2} \cdot k_1 \cdot A^2_2 = \frac{1}{2} \cdot m_2 \cdot υ^2_2 + \frac{1}{2} \cdot k_2 \cdot x^2_2 $$
+
+και μετά τις πράξεις $$ A_2 = 0.2 \sqrt3 m$$
 
 την χρονική στιγμή $$t_o = 0.6s, \quad x_1 = 0.3m, \quad υ_1<0$$
 
