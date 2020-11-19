@@ -63,7 +63,7 @@ $$ Ι_{επ} = 6Α$$
 
 **2.**
 
-$$a = 12 + 4\cdot υ \quad (S.I.), \quad a = 4 - 2 \cdot υ  \quad (S.I.), \quad υ_{ορ} = 2 \frac{m}{s} $$ 
+$$a = 12 + 4\cdot υ \quad (S.I.), \quad a = 8 - 4 \cdot υ  \quad (S.I.), \quad υ_{ορ} = 2 \frac{m}{s} $$ 
 
 **3.**
 
