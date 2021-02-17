@@ -148,7 +148,7 @@ $$p_{ολική} = 10^4 \cdot (10.5 - y) \Rightarrow F = 210 - 20 \cdot y \quad 
 ![σχήμα]({{ site.url }}/assets/xoris_atmosfaira_2.png)
 
 
-$$W_F = \frac{(β+Β)\cdotυ}{2} = 104.75 Joule$$
+$$W_F = \frac{(β+Β)\cdotυ}{2} = 102.5 Joule$$
 
 
 $$W_B = - m_Γ \cdot g \cdot y_{ολικό} \Rightarrow W_B = -2.5 Joule$$
@@ -157,5 +157,5 @@ $$W_{F_{ατμ}} = -p_{ατμ} \cdot A \cdot y_{ολικό} \Rightarrow W_{F_{α
 
 και μετά τις πράξεις στο Θ.Μ.Κ.Ε.
 
-$$υ = 3 \frac{m}{s}$$
+$$υ = 0 \frac{m}{s}$$
 
