@@ -30,16 +30,39 @@ tags: [Βαθμολογικό]
 **B1**-$$(ii)-2-6$$
 
 
-![σχήμα]({{ site.url }}/assets/b11.png) 
 
+![σχήμα]({{ site.url }}/assets/b11.png) 
 
 $$ α) \underline {τρόπος} $$
 
+σκάλα ισορροπία $$Σ\vecτ_Γ = \vec0$$
 
-![σχήμα]({{ site.url }}/assets/b12.png)
+$$\vecτ_W + \vecτ_F = \vec0 \Rightarrow W \cdot \frac{l}{2} \cdot συνφ = F \cdot l \cdot ημφ$$
+
+σκάλα ισορροπία $$Σ \vec{F_x} = \vec0 \Rightarrow F = T_s$$
+
+σκάλα ισορροπία $$Σ \vec{F_y} = \vec0 \Rightarrow W = N$$
+
+$$N \cdot \frac{l}{2} \cdot συνφ = T_s \cdot l \cdot ημφ \Rightarrow T_s = \frac{N}{2εφφ}$$
+
+στατική τριβή $$0 \le T_s \le μ \cdot N$$
+
+$$ T_s \le μ \cdot N \Rightarrow \frac{1}{2εφφ} \le μ \Rightarrow εφφ \ge \frac{1}{2μ}$$
 
 
 $$ β) \underline {τρόπος} $$
+
+σκάλα ισορροπία $$Σ\vecτ_Α = \vec0$$
+
+$$\vecτ_W + \vecτ_Ν + \vecτ_{Τ_s} = \vec0 \Rightarrow W \cdot \frac{l}{2} \cdot συνφ + T_s \cdot l \cdot ημφ = Ν \cdot l \cdot συνφ$$
+
+σκάλα ισορροπία $$Σ \vec{F_y} = \vec0 \Rightarrow W = N$$
+
+$$W \cdot \frac{l}{2} \cdot συνφ + T_s \cdot l \cdot ημφ = W \cdot l \cdot συνφ \Rightarrow T_s = \frac{W}{2εφφ}$$
+
+στατική τριβή $$0 \le T_s \le μ \cdot N$$
+
+$$ T_s \le μ \cdot N \Rightarrow \frac{1}{2εφφ} \le μ \Rightarrow εφφ \ge \frac{1}{2μ}$$
 
 
 άρα σωστό το $$ii$$ 
