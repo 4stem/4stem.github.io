@@ -422,7 +422,7 @@ $$\vec{τ_{Τ_1}} + \vec{τ_{Τ_2}} = \vec0 \Rightarrow T_1 \cdot r_1 = T_2 \cdo
 τροχαλία Τ: ισορροπία $$Σ\vec{F_x} = \vec0 $$
 
 
-$$ F_{ox} = T_{2x} \Rightarrow F_{ox} = T_2 συνφ$$
+$$ F_{ox} = T_{2x} \Rightarrow F_{ox} = T_2 \cdot συνφ$$
 
 
 
@@ -444,7 +444,7 @@ $$F_o = \sqrt{F_{ox}^2 + F_{oy}^2} \Rightarrow F_o = 24 \sqrt5 N$$
 ![σχήμα]({{ site.url }}/assets/d14.png) 
 
 
-$$Σ_2: \quad ΑΔΜΕ (Ι \rightarrow II)$$
+$$Σ_2: \quad Α.Δ.Μ.Ε. (Ι \rightarrow II)$$
 
 
 $$E_{MHX}^{(I)} = E_{MHX}^{(II)} \Rightarrow K^{(I)} + U^{(I)} = K^{(II)} + U^{(II)} $$
@@ -499,7 +499,7 @@ $$\left. \begin{matrix} t_o = 0 \\\ x = 0 \\\ υ_3' < 0 \end{matrix} \right\} x 
 
 $$0 = ημφ_ο \Rightarrow ημφ_ο = ημ0$$
 
-$$φ_ο = 2\cdot k \cdot π + 0 \Rightarrow φ_ο = 0 rad \quad απορριπτεται \quad υ_3' < 0$$
+$$φ_ο = 2\cdot k \cdot π + 0 \Rightarrow φ_ο = 0 rad \quad απορρίπτεται \quad υ_3' < 0$$
 
 
 $$x = 1.2 \cdot ημ(5t + π) \quad S.I.$$
@@ -516,7 +516,7 @@ $$t_2: \quad K=8 \cdot U \quad E_{ταλ} = Κ + U \quad U = \frac{1}{2}\cdot k 
 $$x_Z = - 0.4m$$
 
 
-$$Σ\vec{F} = \frac{Δ \vec{p}}{Δt} = -D \cdot x$$
+$$Σ\vec{F} = \frac{Δ \vec{p}}{Δt} = -D \cdot \vec{x}$$
 
 
 $$\frac{Δp}{Δt} = +50 kg \cdot m \cdot s^{-2}$$
