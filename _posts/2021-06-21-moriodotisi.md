@@ -35,9 +35,16 @@ tags: [Βαθμολογικό]
 
 $$ α) \underline {τρόπος} $$
 
+
 σκάλα ισορροπία $$Σ\vecτ_Γ = \vec0$$
 
+
 $$\vecτ_W + \vecτ_F = \vec0 \Rightarrow W \cdot \frac{l}{2} \cdot συνφ = F \cdot l \cdot ημφ$$
+
+
+$$\vecτ_W + \vecτ_F = \vec0 \Rightarrow W_y \cdot \frac{l}{2} = F_y \cdot l \Rightarrow W \cdot συνφ \cdot \frac{l}{2} = F \cdot ημφ \cdot l $$
+
+
 
 σκάλα ισορροπία $$Σ \vec{F_x} = \vec0 \Rightarrow F = T_s$$
 
@@ -54,9 +61,15 @@ $$ T_s \le μ \cdot N \Rightarrow \frac{1}{2εφφ} \le μ \Rightarrow εφφ \g
 
 $$ β) \underline {τρόπος} $$
 
+
 σκάλα ισορροπία $$Σ\vecτ_Α = \vec0$$
 
+
 $$\vecτ_W + \vecτ_Ν + \vecτ_{Τ_s} = \vec0 \Rightarrow W \cdot \frac{l}{2} \cdot συνφ + T_s \cdot l \cdot ημφ = Ν \cdot l \cdot συνφ$$
+
+$$\vecτ_W + \vecτ_Ν + \vecτ_{Τ_s} = \vec0 \Rightarrow W_y \cdot \frac{l}{2} + T_{s_y} \cdot l = Ν_y \cdot l \cdot$$
+
+
 
 σκάλα ισορροπία $$Σ \vec{F_y} = \vec0 \Rightarrow W = N$$
 
@@ -85,7 +98,7 @@ $$P_1 + \frac{1}{2} \cdot ρ \cdot υ_1^2 = P_{ατμ} + \frac{1}{2} \cdot ρ \c
 
 Εξίσωση συνέχειας $$(1 \rightarrow 2)$$
 
-$$Π_1 = Π_2 \Rightarrow A_1 \cdot υ_1 = Α_2 \cdot υ2 \Rightarrow υ_1 = \frac{υ_2}{2}$$
+$$Π_1 = Π_2 \Rightarrow A_1 \cdot υ_1 = Α_2 \cdot υ_2 \Rightarrow υ_1 = \frac{υ_2}{2}$$
 
 
 ![σχήμα]({{ site.url }}/assets/b22.png)
@@ -518,7 +531,7 @@ $$t_2: \quad K=8 \cdot U \quad E_{ταλ} = Κ + U \quad K = \frac{1}{2}\cdot m 
 $$|\frac{ΔΚ}{Δt}| = |\frac{ΔW}{Δt}| =  |ΣF \cdot υ \cdot συνφ|$$
 
 
-και μετά τις πράξεις $$\frac{ΔΚ}{Δt} 200 \sqrt2 \frac{Joule}{s}$$
+και μετά τις πράξεις $$\frac{ΔΚ}{Δt} = 200 \sqrt2 \frac{Joule}{s}$$
 
 
 **Δ5**-$$(3)$$
