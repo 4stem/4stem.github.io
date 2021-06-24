@@ -347,7 +347,7 @@ $$Q_{ολ} = Q_1 + Q_2 + Q_{ΚΛ}$$
 $$Q = I^2 \cdot R \cdot Δt \Rightarrow Q = \frac{V^2}{R} \cdot Δt$$
 
 
-$$\frac{Q_1}{Q_2} = \frac{R_1}{R_2} \Rightarrow \frac{Q_1}{Q_2} = \frac{1}{2}$$
+$$\frac{Q_1}{Q_2} = \frac{R_2}{R_1} \Rightarrow \frac{Q_1}{Q_2} = \frac{1}{2}$$
 
 
 $$Q_{ΚΛ} = Ι_{επ}^2 \cdot R_{ΚΛ} \cdot Δt \quad Q_{1,2} = I_{επ}^2 \cdot R_π \cdot Δt$$
@@ -447,7 +447,7 @@ $$Δt = \frac{l}{υ_2} \Rightarrow Δt = 0.314s$$
 
 
 
-$$Σ_3: \quad (A.Θ. \rightarrow Θ.Ι.)
+$$Σ_3: \quad (A.Θ. \rightarrow Θ.Ι.) $$
 
 
 $$Δt = \frac{T}{4} \Rightarrow T = 0.4π$$
