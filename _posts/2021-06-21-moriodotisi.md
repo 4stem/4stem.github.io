@@ -43,7 +43,7 @@ $$\vecτ_W + \vecτ_F = \vec0 \Rightarrow W \cdot \frac{l}{2} \cdot συνφ = F
 
 σκάλα ισορροπία $$Σ \vec{F_y} = \vec0 \Rightarrow W = N$$
 
-$$N \cdot \frac{l}{2} \cdot συνφ = T_s \cdot l \cdot ημφ \Rightarrow T_s = \frac{N}{2εφφ}$$
+$$N \cdot \frac{l}{2} \cdot συνφ = T_s \cdot l \cdot ημφ \Rightarrow T_s = \frac{N}{2 \cdot εφφ}$$
 
 στατική τριβή $$0 \le T_s \le μ \cdot N$$
 
