@@ -125,9 +125,6 @@ $$W = \frac{ρ \cdot g \cdot H \cdot A}{2}$$
 ![σχήμα]({{ site.url }}/assets/b31.png) 
 
 
-![σχήμα]({{ site.url }}/assets/b32.png)
-
-
 $$ α) \underline {τρόπος} $$
 
 
@@ -156,6 +153,9 @@ $$ β) \underline {τρόπος} $$
 
 
 $$εφφ = \frac{p_1'}{p_1} \Rightarrow υ_1' = \frac{υ_1}{\sqrt3}$$
+
+
+![σχήμα]({{ site.url }}/assets/b32.png)
 
 
 Πλαστική κρούση
