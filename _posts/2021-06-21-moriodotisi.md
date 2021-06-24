@@ -49,6 +49,8 @@ $$N \cdot \frac{l}{2} \cdot συνφ = T_s \cdot l \cdot ημφ \Rightarrow T_s 
 
 $$ T_s \le μ \cdot N \Rightarrow \frac{1}{2εφφ} \le μ \Rightarrow εφφ \ge \frac{1}{2μ}$$
 
+![σχήμα]({{ site.url }}/assets/b12.png) 
+
 
 $$ β) \underline {τρόπος} $$
 
@@ -70,6 +72,9 @@ $$ T_s \le μ \cdot N \Rightarrow \frac{1}{2εφφ} \le μ \Rightarrow εφφ \g
 
 **Β2** - $$(i)-2-6$$
 
+![σχήμα]({{ site.url }}/assets/b21.png) 
+
+
 Bernoulli $$(0 \rightarrow 2)$$
 
 $$P_{ατμ} + \frac{1}{2} \cdot ρ \cdot υ_0^2 + ρ \cdot g \cdot H = P_{ατμ} + \frac{1}{2} \cdot ρ \cdot υ_2^2 + 0$$
@@ -81,6 +86,11 @@ $$P_1 + \frac{1}{2} \cdot ρ \cdot υ_1^2 = P_{ατμ} + \frac{1}{2} \cdot ρ \c
 Εξίσωση συνέχειας $$(1 \rightarrow 2)$$
 
 $$Π_1 = Π_2 \Rightarrow A_1 \cdot υ_1 = Α_2 \cdot υ2 \Rightarrow υ_1 = \frac{υ_2}{2}$$
+
+
+![σχήμα]({{ site.url }}/assets/b22.png)
+
+
 
 $$ α) \underline {τρόπος} $$
 
@@ -99,11 +109,9 @@ $$ β) \underline {τρόπος} $$
 
 
  
-![σχήμα]({{ site.url }}/assets/b21.png) 
 
 
 
-![σχήμα]({{ site.url }}/assets/b22.png)
 
 
 μετά τις πράξεις
