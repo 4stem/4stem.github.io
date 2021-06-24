@@ -60,11 +60,11 @@ $$\vecτ_W + \vecτ_Ν + \vecτ_{Τ_s} = \vec0 \Rightarrow W \cdot \frac{l}{2} \
 
 σκάλα ισορροπία $$Σ \vec{F_y} = \vec0 \Rightarrow W = N$$
 
-$$W \cdot \frac{l}{2} \cdot συνφ + T_s \cdot l \cdot ημφ = W \cdot l \cdot συνφ \Rightarrow T_s = \frac{W}{2εφφ}$$
+$$W \cdot \frac{l}{2} \cdot συνφ + T_s \cdot l \cdot ημφ = W \cdot l \cdot συνφ \Rightarrow T_s = \frac{W}{2 \cdot εφφ}$$
 
 στατική τριβή $$0 \le T_s \le μ \cdot N$$
 
-$$ T_s \le μ \cdot N \Rightarrow \frac{1}{2εφφ} \le μ \Rightarrow εφφ \ge \frac{1}{2μ}$$
+$$ T_s \le μ \cdot N \Rightarrow \frac{1}{2 \cdot εφφ} \le μ \Rightarrow εφφ \ge \frac{1}{2μ}$$
 
 
 άρα σωστό το $$ii$$ 
@@ -148,11 +148,25 @@ $$υ_1' = \frac{υ_1}{\sqrt3}$$
 
 $$ β) \underline {τρόπος} $$
 
+Ελαστική κρούση
+
+$$ημφ = \frac{p_1'}{p_2'} \Rightarrow \frac{1}{2} = \frac{p_1'}{p_2'} \Rightarrow p_2' = 2\cdot p_1'$$
+
+$$p_2'^2 = p_1'^2 + p_1^2 \Rightarrow 4 \cdot p_1'^2 = p_1'^2 + p_1^2 $$
+
+
+$$ p_1' = \frac{p_1}{\sqrt3} \Rightarrow υ_1' = \frac{υ_1}{\sqrt3} $$
+
+
+
+$$ γ) \underline {τρόπος} $$
+
 
 Ελαστική κρούση
 
 
 $$εφφ = \frac{p_1'}{p_1} \Rightarrow υ_1' = \frac{υ_1}{\sqrt3}$$
+
 
 
 ![σχήμα]({{ site.url }}/assets/b32.png)
