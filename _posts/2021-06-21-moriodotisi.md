@@ -444,6 +444,9 @@ $$F_o = \sqrt{F_{ox}^2 + F_{oy}^2} \Rightarrow F_o = 24 \sqrt5 N$$
 ![σχήμα]({{ site.url }}/assets/d14.png) 
 
 
+$$ α) \underline {τρόπος} $$
+
+
 $$Σ_2: \quad Α.Δ.Μ.Ε. (Ι \rightarrow II)$$
 
 
@@ -451,6 +454,44 @@ $$E_{MHX}^{(I)} = E_{MHX}^{(II)} \Rightarrow K^{(I)} + U^{(I)} = K^{(II)} + U^{(
 
 
 $$m_2 \cdot g \cdot h = \frac{1}{2} \cdot m_2 \cdot υ_2^2 \Rightarrow υ_2 = \sqrt{2 \cdot g \cdot h} \Rightarrow υ_2 = 6 \frac{m}{s}$$
+
+
+$$ β) \underline {τρόπος} $$
+
+
+$$Σ_2: \quad Θ.Μ.Κ.Ε. (Ι \rightarrow II)$$
+
+
+$$ΔΚ = ΣW \Rightarrow K^{τελ} - K^{αρχ} = W_B + W_{N_2} $$
+
+
+$$W_B = B \cdot h \Rightarrow W_B = m_2 \cdot g \cdot h$$
+
+
+$$\frac{1}{2} \cdot m_2 \cdot υ_2^2 - 0 = m_2 \cdot g \cdot h + 0 $$
+
+
+$$m_2 \cdot g \cdot h = \frac{1}{2} \cdot m_2 \cdot υ_2^2 \Rightarrow υ_2 = \sqrt{2 \cdot g \cdot h} \Rightarrow υ_2 = 6 \frac{m}{s}$$
+
+
+$$ γ) \underline {τρόπος} $$
+
+
+$$Σ_2: $$ εξισώσεις κίνησης
+
+
+$$ημφ = \frac{h}{x} \Rightarrow x = \frac{h}{ημφ}$$
+
+
+$$α = \frac{ΣF}{m_2} \Rightarrow α = \frac{W_x}{m_2} \Rightarrow α = g\cdot ημφ$$
+
+
+$$x = \frac{1}{2} \cdot α \cdot t^2 \Rightarrow t = \sqrt{\frac{2x}{α}} \Rightarrow t = \sqrt{\frac{2h}{g \cdot ημ^2φ}}$$
+
+$$υ = α \cdot t \Rightarrow υ_2 = \sqrt{2 \cdot g \cdot h} \Rightarrow υ_2 = 6 \frac{m}{s}$$
+
+
+![σχήμα]({{ site.url }}/assets/d141.png) 
 
 
 $$Σ_2: (Γ \rightarrow Δ) \quad E.O.K. Δx = υ_2 \cdot Δt$$
