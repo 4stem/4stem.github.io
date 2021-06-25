@@ -85,29 +85,37 @@ $$ T_s \le μ \cdot N \Rightarrow \frac{1}{2 \cdot εφφ} \le μ \Rightarrow ε
 
 **Β2** - $$(i)-2-6$$
 
-![σχήμα]({{ site.url }}/assets/b21.png) 
+
+![σχήμα]({{ site.url }}/assets/b210.png) 
+
 
 
 Bernoulli $$(0 \rightarrow 2)$$
 
 $$P_{ατμ} + \frac{1}{2} \cdot ρ \cdot υ_0^2 + ρ \cdot g \cdot H = P_{ατμ} + \frac{1}{2} \cdot ρ \cdot υ_2^2 + 0$$
 
+
 Bernoulli $$(1 \rightarrow 2)$$
 
 $$P_1 + \frac{1}{2} \cdot ρ \cdot υ_1^2 = P_{ατμ} + \frac{1}{2} \cdot ρ \cdot υ_2^2 $$
+
+
+![σχήμα]({{ site.url }}/assets/b21.png) 
+
 
 Εξίσωση συνέχειας $$(1 \rightarrow 2)$$
 
 $$Π_1 = Π_2 \Rightarrow A_1 \cdot υ_1 = Α_2 \cdot υ_2 \Rightarrow υ_1 = \frac{υ_2}{2}$$
 
 
-![σχήμα]({{ site.url }}/assets/b22.png)
-
-
-
 $$ α) \underline {τρόπος} $$
 
+
 έμβολο ισορροπία $$Σ \vec{F} = \vec0 $$
+
+
+![σχήμα]({{ site.url }}/assets/b22.png)
+
 
 $$F_E = F_{ατμ} + W \Rightarrow \frac{F_E}{A} = \frac{F_{ατμ}}{Α} + \frac{W}{A} \Rightarrow  P_E = P_{ατμ} + \frac{W}{A}$$
 
@@ -214,7 +222,8 @@ $$\frac{K_{συσ}}{Κ_1} = \frac{1}{6}$$
 **Γ1**-$$(6)$$
 
 
-![σχήμα]({{ site.url }}/assets/g11.png) 
+![σχήμα]({{ site.url }}/assets/g110.png) 
+
 
 
 $$ α) \underline {τρόπος} $$
@@ -240,6 +249,9 @@ $$V_{εν} = \frac{V}{\sqrt2} \Rightarrow V = V_{εν} \sqrt2 \Rightarrow V = 12
 
 
 $$I_{εν} = \frac{V_{εν}}{R_1} \Rightarrow I_{εν} = \sqrt2 A$$
+
+
+![σχήμα]({{ site.url }}/assets/g11.png) 
 
 
 
