@@ -598,5 +598,5 @@ $$Δt' = \frac{T}{2} \Rightarrow Δt' = 0.2π s$$
 
 $$Σ_2: Ε.Ο.Κ. \quad x = υ_2' \cdot Δt' \Rightarrow x = 0.628m$$
 
-Μπορείτε να εκτυπώσετε τις λύσεις σε μορφή pdf από [εδώ]({{ site.url }}/assets/m2021.pdf) 
-και τα θέματα από [εδώ]({{ site.url }}/assets/Themata2021.pdf)
+Μπορείτε να εκτυπώσετε τα θέματα σε μορφή pdf από [εδώ]({{ site.url }}/assets/m2021.pdf) 
+και τις λύσεις από [εδώ]({{ site.url }}/assets/Themata2021.pdf)
