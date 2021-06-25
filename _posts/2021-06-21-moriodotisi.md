@@ -54,7 +54,7 @@ $$N \cdot \frac{l}{2} \cdot συνφ = T_s \cdot l \cdot ημφ \Rightarrow T_s 
 
 στατική τριβή $$0 \le T_s \le μ \cdot N$$
 
-$$ T_s \le μ \cdot N \Rightarrow \frac{1}{2εφφ} \le μ \Rightarrow εφφ \ge \frac{1}{2μ}$$
+$$ T_s \le μ \cdot N \Rightarrow \frac{1}{2 \cdot εφφ} \le μ \Rightarrow εφφ \ge \frac{1}{2μ}$$
 
 ![σχήμα]({{ site.url }}/assets/b12.png) 
 
