@@ -331,9 +331,6 @@ $$R_{ολ} = R_π + R_{ΚΛ} \Rightarrow R_{ολ} = 4 Ω$$
 **Γ4**-$$(7)$$
 
 
-![σχήμα]({{ site.url }}/assets/g14.png)
-
-
 $$ α) \underline {τρόπος} $$
 
 $$E_{επ} = Β \cdot υ_ο \cdot l \Rightarrow E_{επ} = 2 Volt$$
@@ -352,6 +349,10 @@ $$Ι_2 = \frac{V_{ΚΛ}}{R_2} \Rightarrow I_2 = \frac{1}{3} A$$
 
 
 $$Q_2 = I_2^2 \cdot R_2 \cdot Δt \Rightarrow Q_2 = 1 Joule$$
+
+
+![σχήμα]({{ site.url }}/assets/g14.png)
+
 
 
 $$ β) \underline {τρόπος} $$
@@ -539,6 +540,23 @@ $$ω = \frac{2π}{Τ} \Rightarrow ω = 5 \frac{r}{s}$$
 
 $$k = m_3 \cdot ω^2 \Rightarrow k = 125 \frac{N}{m}$$
 
+
+$$ γ) \underline {τρόπος} $$
+
+
+$$t = \frac{π}{10}, \quad υ = υ_{max}, φ_ο = \frac{3π}{2} rad$$
+
+
+$$υ = υ_{max} \cdot συν(ωt + φ_ο) \Rightarrow υ_{max} = υ_{max} \cdot συν(ω \cdot \frac{π}{10} + \frac{3π}{2})  = συν0$$
+
+
+$$ω \cdot \frac{π}{10} + \frac{3π}{2}) = 2κπ \pm 0, \quad κ \in \mathbb{Z}, \quad κ = 1$$
+
+
+$$ω \cdot \frac{π}{10} = \frac{π}{2} \Rightarrow ω = 5 \frac{r}{s}$$
+
+
+$$k = m_3 \cdot ω^2 \Rightarrow k = 125 \frac{N}{m}$$
 
 
 **Δ3**-$$(5)$$
