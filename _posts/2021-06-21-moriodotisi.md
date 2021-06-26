@@ -544,16 +544,16 @@ $$k = m_3 \cdot ω^2 \Rightarrow k = 125 \frac{N}{m}$$
 $$ γ) \underline {τρόπος} $$
 
 
-$$t = \frac{π}{10}, \quad υ = υ_{max}, φ_ο = \frac{3π}{2} rad$$
+$$t = \frac{π}{10}, \quad υ = υ_{max}, \quad φ_ο = \frac{3π}{2} rad$$
 
 
-$$υ = υ_{max} \cdot συν(ωt + φ_ο) \Rightarrow υ_{max} = υ_{max} \cdot συν(ω \cdot \frac{π}{10} + \frac{3π}{2})  = συν0$$
+$$υ = υ_{max} \cdot συν(ωt + φ_ο) \Rightarrow υ_{max} = υ_{max} \cdot συν(ω \cdot \frac{π}{10} + \frac{3π}{2})  $$
 
 
-$$ω \cdot \frac{π}{10} + \frac{3π}{2}) = 2κπ \pm 0, \quad κ \in \mathbb{Z}, \quad κ = 1$$
+$$συν(ω \cdot \frac{π}{10} + \frac{3π}{2})= συν0 \Rightarrow ω \cdot \frac{π}{10} + \frac{3π}{2} = 2κπ \pm 0, \quad κ \in \mathbb{Z}$$
 
 
-$$ω \cdot \frac{π}{10} = \frac{π}{2} \Rightarrow ω = 5 \frac{r}{s}$$
+$$κ = 1 \quad ω \cdot \frac{π}{10} = \frac{π}{2} \Rightarrow ω = 5 \frac{r}{s}$$
 
 
 $$k = m_3 \cdot ω^2 \Rightarrow k = 125 \frac{N}{m}$$
