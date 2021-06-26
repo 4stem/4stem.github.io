@@ -120,13 +120,19 @@ $$ α) \underline {τρόπος} $$
 $$F_E = F_{ατμ} + W \Rightarrow \frac{F_E}{A} = \frac{F_{ατμ}}{Α} + \frac{W}{A} \Rightarrow  P_E = P_{ατμ} + \frac{W}{A}$$
 
 
-Θεμελιώδης νόμος της υδροστατικής $$P_1 = P_E + ρ \cdot g \cdot \frac{H}{4}$$ 
+Θεμελιώδης νόμος της υδροστατικής 
+
+
+$$P_1 = P_E + ρ \cdot g \cdot \frac{H}{4}$$ 
 
 
 $$ β) \underline {τρόπος} $$
 
 
-Θεμελιώδης νόμος της υδροστατικής $$P_1 = P_{ατμ} + \frac{w}{A} + ρ \cdot g \cdot \frac{H}{4}$$ 
+Η ολική πίεση $$P_1$$ είναι υδροστατική και ατμοσφαιρική και η πίεση του εμβόλου άρα:
+
+
+$$P_1 = P_{ατμ} + \frac{w}{A} + ρ \cdot g \cdot \frac{H}{4}$$ 
 
 
 
@@ -576,11 +582,22 @@ $$x_Z = - 0.4m$$
 ![σχήμα]({{ site.url }}/assets/d16.png) 
 
 
+$$ α) \underline {τρόπος} $$
+
 
 $$Σ\vec{F} = \frac{Δ \vec{p}}{Δt} = -D \cdot \vec{x}$$
 
 
 $$\frac{Δp}{Δt} = +50 kg \cdot m \cdot s^{-2}$$
+
+
+$$ β) \underline {τρόπος} $$
+
+
+$$\frac{dp}{dt} = \frac{d}{dt}(mυ) = m \cdot \frac{dυ}{dt} = m \cdot α = -m \cdot ω^2 \cdot x$$
+
+
+$$\frac{dp}{dt} = - m_3 \cdot ω^2 \cdot x_Z \Rightarrow \frac{Δp}{Δt} = +50 kg \cdot m \cdot s^{-2}$$
 
 
 $$t_2: \quad K=8 \cdot U \quad E_{ταλ} = Κ + U \quad K = \frac{1}{2}\cdot m \cdot υ^2 $$
@@ -589,7 +606,23 @@ $$t_2: \quad K=8 \cdot U \quad E_{ταλ} = Κ + U \quad K = \frac{1}{2}\cdot m 
 Από Α.Δ.Ε.Τ. μετά τις πράξεις έχουμε: $$υ = \sqrt{32} \frac{m}{s}$$
 
 
+$$ α) \underline {τρόπος} $$
+
+
+
 $$|\frac{ΔΚ}{Δt}| = |\frac{ΔW}{Δt}| =  |ΣF \cdot υ \cdot συνφ|$$
+
+
+και μετά τις πράξεις $$\frac{ΔΚ}{Δt} = 200 \sqrt2 \frac{Joule}{s}$$
+
+
+$$ β) \underline {τρόπος} $$
+
+
+$$\frac{dK}{dt} = \frac{d}{dt}(\frac{1}{2} m υ^2) = \frac{1}{2}m \frac{d}{dt}(υ^2) = \frac{1}{2} m \cdot 2υ \frac{dυ}{dt} $$
+
+
+$$\frac{dK}{dt} = m \cdot υ \cdot α = -m_3 \cdot υ \cdot ω^2 \cdot x_Z$$
 
 
 και μετά τις πράξεις $$\frac{ΔΚ}{Δt} = 200 \sqrt2 \frac{Joule}{s}$$
