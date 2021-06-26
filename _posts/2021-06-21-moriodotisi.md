@@ -161,7 +161,7 @@ $$ α) \underline {τρόπος} $$
 $$Σ\vec{F}_x^{εξ} = \vec0 \Rightarrow A.Δ.Ο.(x)$$
 
 
-$$\vec{p}_{πριν} = \vec{p}_{μετά} \Rightarrow m_1 \cdot υ_1 = m_2 \cdot υ_2 \cdot συνφ$$
+$$\vec{p}_{πριν} = \vec{p}_{μετά} \Rightarrow m_1 \cdot υ_1 = m_2 \cdot υ_2' \cdot συνφ$$
 
 
 $$Σ\vec{F}_y^{εξ} = \vec0 \Rightarrow A.Δ.Ο.(y)$$
@@ -194,6 +194,27 @@ $$ γ) \underline {τρόπος} $$
 
 $$εφφ = \frac{p_1'}{p_1} \Rightarrow υ_1' = \frac{υ_1}{\sqrt3}$$
 
+
+$$ δ) \underline {τρόπος} $$
+
+
+![σχήμα]({{ site.url }}/assets/b311.png)
+
+
+άξονας x'x διάκεντρος, άξονας y'y κάθετος στην διάκεντρο.
+
+Άξονας x'x κεντρική και ελαστική κρούση με ακίνητο σώμα $$Σ_2$$
+
+$$υ'_{1x} = \frac{m_1 - m_2}{m_1 + m_2} \cdot υ_{1x} \Rightarrow υ'_{1x} = \frac{m - 2m}{m + 2m} \cdot υ_1 \cdot συν30^ο$$
+
+$$υ'_{1x} = -\frac{υ_1 \sqrt3}{6}$$
+
+άξονας y'y η ορμή του $$Σ_1$$ παραμένει σταθερή
+
+$$υ'_{1y} = υ_{1y} \Rightarrow υ'_{1y} = υ_1 \cdot ημφ \Rightarrow υ'_{1y} = \frac{υ_1}{2}$$
+
+
+$$υ'_1 = \sqrt{(υ'_{1x})^2 + (υ'_{1y})^2 } \Rightarrow υ'_1 = \frac{υ_1}{\sqrt3}$$
 
 
 ![σχήμα]({{ site.url }}/assets/b32.png)
