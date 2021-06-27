@@ -217,7 +217,34 @@ $$υ'_{1y} = υ_{1y} \Rightarrow υ'_{1y} = υ_1 \cdot ημφ \Rightarrow υ'_{1
 $$υ'_1 = \sqrt{(υ'_{1x})^2 + (υ'_{1y})^2 } \Rightarrow υ'_1 = \frac{υ_1}{\sqrt3}$$
 
 
+$$ ε) \underline {τρόπος} $$
+
+
+![σχήμα]({{ site.url }}/assets/b312.png)
+
+
+Το $$Σ_1$$ δέχετε ώθηση $$Ω$$ που έχει την διεύθυνση της διακέντρου x'x και φορά αντίθετη της $$υ'_2$$
+
+$$Σ_1: \quad \vec{p_{αρχ}} + \vec{Ω} = \vec{p_{τελ}} \Rightarrow m_1 \cdot \vec{υ_1} + m_1 \cdot Δ\vec{υ} = m_1 \cdot \vec{υ'_1}$$
+
+
+$$\vec{υ_1} + Δ\vec{υ} =  \vec{υ'_1} \Rightarrow Δ\vec{υ} =  \vec{υ'_1} - \vec{υ_1}$$
+
+
+$$συν30^ο = \frac{υ_1}{Δυ} \Rightarrow Δυ = \frac{2 υ_1}{ \sqrt3}$$
+
+
+$$ημ30^ο = \frac{υ'_1}{Δυ} \Rightarrow Δυ = 2\cdot υ'_1$$
+
+και μετά τις πράξεις
+
+
+$$υ'_1 = \frac{υ_1}{\sqrt3}$$
+
+
 ![σχήμα]({{ site.url }}/assets/b32.png)
+
+
 
 
 Πλαστική κρούση
