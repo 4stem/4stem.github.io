@@ -476,6 +476,9 @@ $$m_1: \quad ισορροπία \quad Σ\vec{F} = \vec0 \Rightarrow m_1 \cdot g 
 
 $$m_2: \quad ισορροπία \quad Σ\vec{F_x} = \vec0 \Rightarrow m_2 \cdot g \cdot ημφ = T_2'$$
 
+ 
+$$ α) \underline {τρόπος} $$
+
 
 ![σχήμα]({{ site.url }}/assets/d13.png) 
 
@@ -499,7 +502,32 @@ $$ F_{ox} = T_{2x} \Rightarrow F_{ox} = T_2 \cdot συνφ$$
 $$ F_{oy} = T_1 + M \cdot g + T_2 \cdot ημφ$$
 
 
-και μετά τις πράξεις $$F_{ox} = 24N$$ και $$F_{oy} = 48N$$
+$$ β) \underline {τρόπος} $$
+
+
+![σχήμα]({{ site.url }}/assets/d131.png)
+
+
+τροχαλία Τ: ισορροπία $$Σ\vec{τ_{(ο)}} = \vec0$$
+
+
+$$\vec{τ_{Τ_1}} + \vec{τ_{Τ_2}} = \vec0 \Rightarrow T_1 \cdot r_1 = T_2 \cdot r_2 \Rightarrow T_1 = \frac{T_2}{2}$$
+
+
+τροχαλία Τ: ισορροπία $$Σ\vec{F_x} = \vec0 $$
+
+
+$$ T_{1x} + W_x + T_2 = F_{ox} \Rightarrow  T_1 \cdot ημφ + Μ \cdot g \cdot ημφ + Τ_2 = F_{ox}$$
+
+
+
+τροχαλία Τ: ισορροπία $$Σ\vec{F_y} = \vec0 $$
+
+
+$$ F_{oy} = T_{1y} + W_y \Rightarrow F_{oy} = T_1 \cdot συνφ + Μ \cdot g \cdot συνφ $$
+
+
+και μετά τις πράξεις $$m_1 = 1.5kg \quad F_{ox} = 24N$$ και $$F_{oy} = 48N$$
 
 
 $$F_o = \sqrt{F_{ox}^2 + F_{oy}^2} \Rightarrow F_o = 24 \sqrt5 N$$
@@ -628,7 +656,7 @@ $$\left. \begin{matrix} t_o = 0 \\\ x = 0 \\\ υ_3' < 0 \end{matrix} \right\} x 
 
 $$0 = ημφ_ο \Rightarrow ημφ_ο = ημ0$$
 
-$$φ_ο = 2\cdot k \cdot π + 0 \Rightarrow φ_ο = 0 rad \quad απορρίπτεται \quad υ_3' < 0$$
+$$φ_ο = 2\cdot k \cdot π + 0 \Rightarrow φ_ο = 0 \quad rad \quad απορρίπτεται \quad υ_3' < 0$$
 
 
 $$x = 1.2 \cdot ημ(5t + π) \quad S.I.$$
