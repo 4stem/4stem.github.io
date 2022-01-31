@@ -384,7 +384,7 @@ $$ α) \underline {τρόπος} $$
 $$E_{επ} = Β \cdot υ_ο \cdot l \Rightarrow E_{επ} = 2 Volt$$
 
 
-$$E_{επ} = I_{επ} \cdot R_{ολ} \Rightarrow E_{επ} = 2 Volt$$
+$$E_{επ} = I_{επ} \cdot R_{ολ} \Rightarrow I_{επ} = 0.5 A$$
 
 
 $$V_{ΚΛ} = Ι_{επ} \cdot R_π \Rightarrow V_{ΚΛ} = 1 Volt$$
