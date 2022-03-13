@@ -113,7 +113,7 @@ $$ β) \underline {τρόπος} $$
 
 $$x_Α = Δx_{cm} - Δs \Rightarrow x_Α = Δ_x{cm} - Δθ \cdot R \Rightarrow x_A = 1m$$
 
-$$Q = |W_T(t_0 \rightarrow t_1)| = T \cdot x_{A} \cdot συνθ = 1  Joule$$
+$$Q = |W_T(t_0 \rightarrow t_1)| = |T \cdot x_{A} \cdot συνθ| = 1  Joule$$
 
 ισχύει δηλαδή
 
