@@ -34,13 +34,13 @@ tags: [Βαθμολογικό]
 
 $k-m, \quad A.A.T. \quad πείραμα 1$
 
-$$Θ.Ι._m: \quad ΣF = 0 \Rightarrow F_{ελ} - mg = 0 \Rightarrow Δl_o = \frac{mg}{k}$$
+$$Θ.Ι._m: \quad ΣF = 0 \Rightarrow F_{ελ} - W = 0 \Rightarrow Δl_o = \frac{mg}{k}$$
 
 $Θ.Φ.Μ, \quad υ=0. \quad άρα \quad A_1 = Δl_o$
 
 $F=mg \quad Α.Α.Τ. \quad πείραμα 2$
 
-$$Ν.Θ.Ι: ΣF = 0 \Rightarrow  mg - F_{ελ} - F  = 0 \Rightarrow F_{ελ} = 0 \Rightarrow Δl_1 = 0$$
+$$Ν.Θ.Ι: ΣF = 0 \Rightarrow  W - F_{ελ} - F  = 0 \Rightarrow F_{ελ} = 0 \Rightarrow Δl_1 = 0$$
 
 $άρα \quad Ν.Θ.Ι \equiv Θ.Φ.Μ \quad άρα \quad Α_2 = Δl_o$
 
