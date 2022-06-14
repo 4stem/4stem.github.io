@@ -263,6 +263,8 @@ $$ΣF_x = 0 \Rightarrow F_{Γ_x} = T_1$$
 
 **Δ2**-$$(6)$$
 
+$$ α) \underline {τρόπος} $$
+
 
 ![σχήμα]({{ site.url }}/assets/d2_22.png) 
 
@@ -274,6 +276,19 @@ $$m-M_ρ: \quad Στ_{(Γ)} = Ι \cdot α_{γων}$$
 $$W \cdot \frac{l}{2} συνφ = Ι_{ολ} \cdot α_{γων} \Rightarrow α_{γων} = 3 \frac{rad}{s^2}$$
 
 $$\frac{dL_ρ}{dt}=I_ρ\cdot α_{γων}=3kg\cdot m^2/s^2$$
+
+$$ β) \underline {τρόπος} $$
+
+$$F_{επιτ} = m \cdot α_{επιτ} \Rightarrow mg συνφ - F_y = m \cdot α_{γων} \cdot \frac{l}{2}$$
+
+$$τ_{F_y'} = \frac{dL_ρ}{dt} \Rightarrow F_y \cdot \frac{l}{2} = \frac{1}{12} M_ρ \cdot l^2 \cdot α_{γων}$$
+
+$$α_{γων} = \frac{6F_y}{lM_ρ}$$
+
+$$F_y = \frac{mg συνφ}{1+ \frac{6ml}{2M_ρ}} \Rightarrow F_y = 3N$$
+
+$$\frac{dL_ρ}{dt} = τ_{F_y} = F_y \cdot \frac{l}{2} \Rightarrow \frac{dL_ρ}{dt} = 3 \frac{kg m^2}{s^2} $$
+
 
 **Δ3**-$$(5)$$
 
@@ -305,6 +320,8 @@ $$Δ \vec{L} = \vec{L}_{μετά} - \vec{L}_{πριν} \Rightarrow |Δ\vec{L}| =
 
 ![σχήμα]({{ site.url }}/assets/d4_22.png) 
 
+$$ α) \underline {τρόπος} $$
+
 
 Νήμα αβαρές και μη εκτατό $F=T_2=T_2'=12N$
 
@@ -319,6 +336,16 @@ $M_τ$ στροφική κίνηση
 $$Στ = Ι_τ α_{γων} \Rightarrow T_2' \cdot r - T_{στ} \cdot R = I_τ \cdot α_{γων}$$
 
 και μετά τις πράξεις $α_{cm} = 2 \frac{m}{s^2}$
+
+$$ β) \underline {τρόπος} $$
+
+Α, σημείο επαφής τροχαλίας δαπέδου
+
+$$Ι_Α = Ι_{cm} + M_τ \cdot R^2 \Rightarrow I_A = \frac{3}{2} M_τ \cdot R^2$$
+
+$$Στ_{(Α)} = Ι_Α α_{γων} \Rightarrow F\cdot (R+r) = \frac{3}{2} M_τ \cdot R^2 \cdot α_{γων} \Rightarrow α_{γων} = 5\frac{rad}{s^2}$$
+
+$$α_{cm} = α_{γων} \cdot R^2 \Rightarrow α_{cm} = 2 \frac{m}{s^2}$$
 
 
 **Δ5**-$$(6)$$
