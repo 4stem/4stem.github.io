@@ -186,11 +186,25 @@ $$υ = υ_{ορ} \Rightarrow α=0 \Rightarrow 0 =  10 - \frac{5}{6}υ_{ορ} \Ri
 
 **Γ3**-$$(6)$$
 
+$$ α) \underline {τρόπος} $$
+
+
 $$KΛ, \quad θέση (2) \quad υ = \frac{υ_{ορ}}{2} \Rightarrow υ = 6\frac{m}{s} $$
 
 $$ α=10 - \frac{5}{6}υ \Rightarrow α = 5 \frac{m}{s^2}$$
 
 $$ \frac{d \vec{p}}{dt} = Σ \vec{F} \Rightarrow \frac{d \vec{p}}{dt} = m \vec{α} \Rightarrow |\frac{d \vec{p}}{dt}| = 1.5 kg \frac{m}{s^2}$$
+
+
+$$ β) \underline {τρόπος} $$
+
+ Τη στιγμή όπου $υ=\frac{υ_{ορ}}{2}=6m/s$
+
+ $$I'=\frac{Bvl}{R_{ολ}} \Rightarrow I' =\frac{Bvl}{R_{ΚΛ}+R_{1,Σ}} \Rightarrow I' = 1,5A $$
+
+ $$ \frac{dp}{dt}=ΣF=mg-F_L=mg-BI'l=1,5kg\frac{m}{s^2}$$
+
+
 
 $\frac{d \vec{p}}{dt}$ με φορά προς τα κάτω.
 
@@ -237,11 +251,18 @@ $$\frac{dL_ρ}{dt}=I_ρ\cdot α_{γων}=3kg\cdot m^2/s^2$$
 
 ![σχήμα]({{ site.url }}/assets/d3_22.png) 
 
+
+$$ α) \underline {τρόπος} $$
+
 $$Α.Δ.Μ.Ε. \quad m-M_ρ \quad (I \rightarrow II): E_I^{ΜΗΧ} = E_{ΙI}^{ΜΗΧ} $$
 
 $$K_I + U_I = K_{II} + U_{II} \Rightarrow 0 + mglημφ + U_{M_ρ}^Ι = \frac{1}{2}I ω^2 + 0 + U_{M_ρ}^{ΙΙ}$$
 
 και μετά τις πράξεις $ω = 4 \frac{rad}{s}$
+
+$$ β) \underline {τρόπος} $$
+
+$$Θ.Μ.Κ.Ε._{Ι \rightarrow II} \quad K_{τελ} - Κ_{αρχ} = W_B \Rightarrow \frac{1}{2} I_{ολ} ω^2 = m g l ημφ \Rightarrow ω = 4 \frac{rad}{s}$$
 
 $$|\vec{L}_{πριν}| = Ι_{ολ} |\vec{ω}| \Rightarrow |\vec{L}_{πριν}| = 8 kg \frac{m^2}{s}$$
 
@@ -249,7 +270,7 @@ $$|\vec{L}_{μετά}| = Ι_{ολ} \frac{|\vec{ω}|}{2} \Rightarrow |\vec{L}_{μ
 
 $$Δ \vec{L} = \vec{L}_{μετά} - \vec{L}_{πριν} \Rightarrow |Δ\vec{L}| = |\vec{L}_{μετά}| - (-|\vec{L}_{πριν}) \Rightarrow |Δ\vec{L}| = |\vec{L}_{μετά}| + |\vec{L}_{πριν}|$$
 
-άρα το μέτρο του $Δ\vec{L}$ είναι $Δ\vec{L} = 12 \frac{m^2}{s}$ και η φορά φαίνεται στο σχήμα.
+άρα το μέτρο του $Δ\vec{L}$ είναι  $\| Δ\vec{L} \| = 12 kg \frac{m^2}{s}$ και η φορά φαίνεται στο σχήμα.
 
 
 **Δ4**-$$(4)$$
@@ -274,13 +295,45 @@ $$Στ = Ι_τ α_{γων} \Rightarrow T_2' \cdot r - T_{στ} \cdot R = I_τ \c
 
 **Δ5**-$$(6)$$
 
+$$ α) \underline {τρόπος} $$
+
+
 Από $t_o = 0$ έως $t_1 = 2 s$:
 
 $$Δx_Z = Δx_{cm} + Δθ \cdot r = Δθ \cdot R + Δθ \cdot r = Δθ \cdot (R+r) = \frac{Δx_{cm}}{R}(R+r)$$
 
 $$Δx_{cm} = \frac{1}{2} α_{cm} t_1^2 \Rightarrow Δx_{cm} = 4m $$
 
-$$W_F = F Δx_Z συν0 \Rightarrow W_F = 84J$$
+$$W_F = F \cdot Δx_Z \cdot συν0 \Rightarrow W_F = 84J$$
+
+
+$$ β) \underline {τρόπος} $$
+
+$$W_F^{μεταφορική} = F \cdot Δx_{cm} = F \cdot \frac{1}{2} α_{cm} t_1^2 = 48 J$$
+
+$$W_{τ_F}^{στροφική} = τ_F \cdot θ = F \cdot r \cdot \frac{1}{2} α_{γων} t_1^2 = 36 J$$
+
+$$W_F = W_F^{μεταφορική} + W_{τ_F}^{στροφική} \Rightarrow W_F = 84 J$$
+
+
+$$ γ) \underline {τρόπος} $$
+
+$$Δx_Z = Δx_{cm} + Δθ \cdot r \Rightarrow α_Ζ = α_{cm} + α_{γων} r $$
+
+$$α_Ζ = α_{cm} + \frac{α_{cm}}{R} \cdot r \Rightarrow α_Ζ = α_{cm}(1+ \frac{r}{R} ) \Rightarrow α_Ζ = \frac{7}{2} \frac{m}{s^2} $$
+
+$$W_F = F \cdot Δx_Z \cdot συνφ \Rightarrow W_F = 84 J $$
+
+$$ δ) \underline {τρόπος} $$
+
+$$ω = α_{γων} \cdot t_1 \Rightarrow ω = \frac{α_{cm}}{R} \cdot t_1 \Rightarrow ω = 10 \frac{rad}{s} $$
+
+$$υ_{cm} = ω \cdot R \Rightarrow υ_{cm} = 4 \frac{m}{s}$$
+
+$$Θ.Μ.Κ.Ε._{t_o \rightarrow t_1} ΔΚ = ΣW \Rightarrow K_1 - K_o = W_F$$
+
+$$W_F = \frac{1}{2} I_{ολ} ω^2 + \frac{1}{2} Μ_τ υ_{cm}^2 \Rightarrow W_F = 84 J$$
+
 
 
 Μπορείτε να εκτυπώσετε τα [θέματα]({{ site.url }}/assets/m2022.pdf) και τις [λύσεις]({{ site.url }}/assets/Themata2022.pdf) σε μορφή pdf  
