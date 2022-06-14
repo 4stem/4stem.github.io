@@ -216,7 +216,18 @@ $$Ε_{επ} = Β υ_{ορ} l \Rightarrow E_{επ} = 12 V$$
 
 $$I_{επ} = \frac{E_{επ}}{R_{ΚΛ} + R_{1,Σ}} \Rightarrow I_{επ} = 3Α$$
 
+$$ α) \underline {τρόπος} $$
+
 $$V_{MN} = I_{επ} R_{1,Σ} \Rightarrow V_{ΜΝ} = 6 V \Rightarrow V_{ΜΝ} = V_K $$
+
+$$ β) \underline {τρόπος} $$
+
+$$V_{MN} = Ε_{επ} - Ι_{επ} \cdot R_{ΚΛ} \Rightarrow V_{MN} = 6 V$$
+
+$$I_Σ = \frac{V_{MN}}{R_Σ} \Rightarrow I_Σ = 1Α$$
+
+$$Ι_Κ = \frac{P_K}{V_K} \Rightarrow I_K = 1A$$
+
 
 άρα λειτουργεί κανονικά η συσκευή.  
 
@@ -228,10 +239,27 @@ $$V_{MN} = I_{επ} R_{1,Σ} \Rightarrow V_{ΜΝ} = 6 V \Rightarrow V_{ΜΝ} = V
 
 ![σχήμα]({{ site.url }}/assets/d1_22.png) 
 
+$$ α) \underline {τρόπος} $$
+
+
 $M_ρ - m$ ισορροπία:
 
 $$Στ_{(Γ)} =0 \Rightarrow N \cdot \frac{l}{2} συνφ + W \cdot \frac{l}{2} συνφ - Τ_1 \frac{l}{2} ημφ = 0 \Rightarrow N = 4N$$ 
 
+
+$$ β) \underline {τρόπος} $$
+
+$$Στ_Α = 0 \Rightarrow τ_{F_{Γ_y}} + τ_Ν = τ_{F_{Γ_x}} + τ_{W_ρ} $$
+
+$$F_{Γ_y} \cdot \frac{l}{2} συνφ + Ν \cdot l συνφ = F_{Γ_x} \cdot \frac{l}{2} ημφ + W_ρ \cdot \frac{l}{2} συνφ $$ 
+
+$$F_{Γ_y} + 2Ν = F_{Γ_x} \cdot εφφ + W_ρ$$
+
+$$ΣF_y = 0 \Rightarrow F_{Γ_y} + N = W + W_ρ $$ 
+
+$$ΣF_x = 0 \Rightarrow F_{Γ_x} = T_1$$
+
+και μετά τις πράξεις $Ν = 14Ν$.
 
 **Δ2**-$$(6)$$
 
