@@ -80,7 +80,10 @@ $$\frac{Δt_2}{Δt_1} = \frac{Α \cdot \sqrt{\frac{gH}{3} }}{3Α \cdot \sqrt{\fr
 
 ![σχήμα]({{ site.url }}/assets/b3_22.png) 
 
-$$K = \frac{1}{2} m υ^2, \quad p=mυ \quad K = \frac{1}{2} m \frac{p^2}{2m} \Rightarrow K = \frac{p^2}{2m} $$
+
+$$ α) \underline {τρόπος} $$
+
+$$K = \frac{1}{2} m υ^2, \quad p=mυ, \quad K = \frac{1}{2} m \frac{p^2}{2m} \Rightarrow K = \frac{p^2}{2m} $$
 
 $$Δ.Κ.Ε. \quad K_1 = K_1' + K_2' \Rightarrow K_2' = K_1 - K_1'$$
 
@@ -89,6 +92,48 @@ $$Π_{1\rightarrow2}\% = \frac{K_2'}{K_1}100 \% = (1-\frac{K_1'}{K_1})100 \%$$
 $$K_1' = \frac{(\frac{p_1}{5})^2}{2m_1} \Rightarrow K_1' = \frac{1}{25} \frac{p_1^2}{2m_1} \Rightarrow K_1' = \frac{K_1}{25} \Rightarrow \frac{K_1'}{K_1} = \frac{1}{25}$$
 
 $$Π_{1\rightarrow2}\% = (1 - \frac{K_1'}{K_1}) 100 \% = \frac{24}{25} 100 \% = 96 \%$$
+
+
+$$ β) \underline {τρόπος} $$
+
+
+$$p_1' = \frac{p_1}{5} \Rightarrow m_1 υ_1' = \frac{m_1 υ_1}{5} \Rightarrow υ_1' = \frac{υ_1}{5} $$
+
+Η κινητική ενέργεια που έχασε το $m_1$ μεταβιβάστηκε στο $m_2$.
+
+$$ΔΚ_1^{απώλεια} = Κ_1 - Κ_1' = \frac{1}{2} m_1 υ_1^2 - \frac{1}{2} m_1 \frac{υ_1^2}{25} = \frac{24}{25} K_1$$
+
+$$Π_{1\rightarrow2}\% = \frac{ΔΚ_1^{απώλεια}}{K_1} 100 \% = \frac{24}{25} 100 \% = 96 \%$$
+
+
+$$ γ) \underline {τρόπος} $$
+
+$$p_1' = \frac{p_1}{5} \Rightarrow m_1 υ_1' = \frac{m_1 υ_1}{5} \Rightarrow υ_1' = \frac{υ_1}{5} $$
+
+Α.Δ.Ο και Δ.Κ.Ε.
+
+$$υ_1' = \frac{m_1 - m_2}{m_1 + m_2} υ_1 \Rightarrow \frac{υ_1}{5} = \frac{m_1 - m_2}{m_1 + m_2} υ_1 \Rightarrow 2 m_1 = 3 m_2$$
+
+
+$$υ_2' = \frac{2m_1}{m_1 + m_2} υ_1 \Rightarrow υ_2' = \frac{6}{5} υ_1$$
+
+
+$$Π_{1\rightarrow2}\% = \frac{K_2'}{K_1} 100 \% = \frac{ \frac{1}{2} m_2 υ_2'^2}{\frac{1}{2} m_1 υ_1^2 } 100 \% = 96 \%$$
+
+
+$$ δ) \underline {τρόπος} $$
+
+$$Α.Δ.Ο. \quad \vec{p}_{πριν} = \vec{p}_{μετά} \Rightarrow p_1 + 0 = \frac{p_1}{5} + p_2' \Rightarrow p_2' = \frac{4}{5} p_1$$
+
+$$K = \frac{1}{2} m υ^2, \quad p=mυ, \quad K = \frac{1}{2} m \frac{p^2}{2m} \Rightarrow K = \frac{p^2}{2m} $$
+
+$$K_1' = \frac{(\frac{p_1}{5})^2}{2m_1}, \quad K_2' = \frac{(\frac{4p_1}{5})^2}{2m_2} = \frac{16 p_1^2}{50 m_2} $$
+
+
+$$Δ.Κ.Ε. \quad K_1 + 0 = K_1' + K_2' \Rightarrow \frac{p_1^2}{2m_1} = \frac{1}{25} \cdot \frac{p_1^2}{2m_1} + \frac{16}{25} \cdot \frac{p_1^2}{2m_2} \Rightarrow 2 m_1 = 3 m_2 $$
+
+$$Π_{1\rightarrow2}\% = \frac{K_2'}{K_1} 100 \% = \frac{\frac{16 p_1^2}{50 m_2}}{ \frac{p_1^2}{2 m_1}} 100 \% = 96 \%$$
+
 
 
 άρα σωστό το $$iii$$ 
@@ -117,7 +162,7 @@ $$ΚΛ, ισορροπία \quad ΣF = 0 \Rightarrow mg - F_L = 0 \Rightarrow mg
 Εμφανίζεται στα άκρα του αγωγού ηλεκτρεγερτική δύναμη από επαγωγή $Ε_{επ} = Βυl$ με 
 πολικότητα, σύμφωνα με τον κανόνα του Lenz, όπως φαίνεται στο σχήμα, οπότε το κύκλωμα διαρρέεται από επαγωγικό ρεύμα που
 συνεχώς αυξάνεται. Στον αγωγό που διαρρέεται από επαγωγικό ρεύμα εμφανίζεται δύναμη
-Laplace ($F_L = BI_{επ}l = \frac{B E_{επ} l}{R_{ολ}} = \frac{B^2l^2υ}{R_{ολ}}$) με κατεύθυνση
+Laplace $F_L = BI_{επ}l = \frac{B E_{επ} l}{R_{ολ}} = \frac{B^2l^2υ}{R_{ολ}}$ με κατεύθυνση
 που φαίνεται στο σχήμα. Το μέτρο της δύναμης Laplace αυξάνεται διότι η ταχύτητα αυξάνεται. Η συνισταμένη δύναμη (βάρος + Laplace) ελαττώνεται οπότε η κίνηση
 του αγωγού είναι επιταχυνόμενη με επιτάχυνση που συνεχώς ελαττώνεται.
 
@@ -238,5 +283,5 @@ $$Δx_{cm} = \frac{1}{2} α_{cm} t_1^2 \Rightarrow Δx_{cm} = 4m $$
 $$W_F = F Δx_Z συν0 \Rightarrow W_F = 84J$$
 
 
-Μπορείτε να εκτυπώσετε τα θέματα σε μορφή pdf από [εδώ]({{ site.url }}/assets/m2022.pdf) 
-και τις λύσεις από [εδώ]({{ site.url }}/assets/Themata2022.pdf)
+Μπορείτε να εκτυπώσετε τα [θέματα]({{ site.url }}/assets/m2022.pdf) και τις [λύσεις]({{ site.url }}/assets/Themata2022.pdf) σε μορφή pdf  
+
