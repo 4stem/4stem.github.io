@@ -261,6 +261,29 @@ $$ΣF_x = 0 \Rightarrow F_{Γ_x} = T_1$$
 
 και μετά τις πράξεις $Ν = 14Ν$.
 
+
+$$ γ) \underline {τρόπος} $$
+
+![σχήμα]({{ site.url }}/assets/d12_22.png) 
+
+
+Έστω $F_{ρσ}$ η δύναμη που ασκεί η ράβδος στο σφαιρίδιο και $F_{σρ}$ η δύναμη που ασκεί
+το σφαιρίδιο στη ράβδο. Εξαιτίας του τρίτου νόμου του Νεύτωνα οι δυνάμεις θα έχουν ίσα μέτρα.
+
+$$m \quad ισορροπία \quad ΣF_x = 0 \Rightarrow F_{ρσx} = T_1 \Rightarrow F_{ρσx} = 10.5N$$
+
+$$m \quad ισορροπία \quad ΣF_y = 0 \Rightarrow F_{ρσy} = W \Rightarrow F_{ρσy} = 10N$$
+
+$$M_ρ \quad ισορροπία \quad ΣF_x = 0 \Rightarrow F_{σρx} = F_{Γ_x} \Rightarrow F_{Γ_x} = 10.5N $$
+
+$$M_ρ \quad ισορροπία \quad ΣF_y = 0 \Rightarrow F_{σρy} + W_ρ = F_{Γ_y} + N \Rightarrow N +  F_{Γ_y} = 40 $$
+
+$$M_ρ \quad ισορροπία \quad Στ_Β = 0 \Rightarrow τ_{F_{σρx}} + τ_{F_{Γ_y}} = τ_{F_{σρy}} + τ_{F_{F_{Γ_x}}} + τ_{W_ρ}$$
+
+$$F_{σρx} \cdot l \cdot ημφ + F_{Γ_y} \cdot \frac{l}{2} \cdot συνφ = F_{σρy} \cdot l \cdot συνφ + F_{Γ_x} \cdot \frac{l}{2} \cdot ημφ + W_ρ \cdot \frac{l}{2} \cdot συνφ$$
+
+και μετά τις πράξεις $F_{Γ_y} = 36Ν$ και $Ν=14Ν$.
+
 **Δ2**-$$(6)$$
 
 $$ α) \underline {τρόπος} $$
@@ -279,7 +302,17 @@ $$\frac{dL_ρ}{dt}=I_ρ\cdot α_{γων}=3kg\cdot m^2/s^2$$
 
 $$ β) \underline {τρόπος} $$
 
-$$F_{επιτ} = m \cdot α_{επιτ} \Rightarrow mg συνφ - F_y = m \cdot α_{γων} \cdot \frac{l}{2}$$
+
+![σχήμα]({{ site.url }}/assets/d22_22.png) 
+
+Έστω $F$ η δύναμη που δέχεται το σφαιρίδιο από την ράβδο με συνιστώσες $F_x$ και $F_y$.
+και $F'$ η δύναμη που ασκεί το σφαιρίδιο στην ράβδο. Ισχύει $F=F'$ εξαιτίας του τρίτου νόμου 
+του Νεύτωνα.
+
+$$m: \quad F_{επιτ} = m \cdot α_{επιτ} \Rightarrow W_x - F_y = m \cdot α_{επιτ}$$
+
+
+$$mg συνφ - F_y = m \cdot α_{γων} \cdot \frac{l}{2}$$
 
 $$τ_{F_y'} = \frac{dL_ρ}{dt} \Rightarrow F_y \cdot \frac{l}{2} = \frac{1}{12} M_ρ \cdot l^2 \cdot α_{γων}$$
 
