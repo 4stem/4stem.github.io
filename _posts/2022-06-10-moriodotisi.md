@@ -32,6 +32,9 @@ tags: [Βαθμολογικό]
 
 ![σχήμα]({{ site.url }}/assets/b1_22.png) 
 
+$$ α) \underline {τρόπος} $$
+
+
 $k-m, \quad A.A.T. \quad πείραμα 1$
 
 $$Θ.Ι._m: \quad ΣF = 0 \Rightarrow F_{ελ} - W = 0 \Rightarrow Δl_o = \frac{mg}{k}$$
@@ -43,6 +46,22 @@ $F=mg \quad Α.Α.Τ. \quad πείραμα 2$
 $$Ν.Θ.Ι: ΣF = 0 \Rightarrow  W - F_{ελ} - F  = 0 \Rightarrow F_{ελ} = 0 \Rightarrow Δl_1 = 0$$
 
 $άρα \quad Ν.Θ.Ι \equiv Θ.Φ.Μ \quad άρα \quad Α_2 = Δl_o$
+
+
+$$ β) \underline {τρόπος} $$
+
+
+$k-m, \quad A.A.T. \quad πείραμα 1$
+
+$$Θ.Φ.Μ._m: \quad ΣF_{max1} = W \Rightarrow m \cdot α_{max1} = m \cdot g \Rightarrow α_{max1} = g $$
+
+$F=mg \quad Α.Α.Τ. \quad πείραμα 2$
+
+$$A.Θ.Ι: \quad ΣF_{max2} = F + F_{ελ} - W \Rightarrow  m \cdot α_{max2} = F_{ελ} \Rightarrow m \cdot α_{max2} = W \Rightarrow α_{max2} = g$$
+
+$$ω_1 = ω_2 = \sqrt{\frac{k}{m} }$$
+
+$$α_{max1} = α_{max2} \Rightarrow ω_1^2 \cdot A_1 = ω_2^2 \cdot A_2 \Rightarrow A_1 = A_2 $$
 
 άρα σωστό το $$i$$ 
 
@@ -425,4 +444,3 @@ $$W_F = \frac{1}{2} I_{ολ} ω^2 + \frac{1}{2} Μ_τ υ_{cm}^2 \Rightarrow W_F 
 
 
 Μπορείτε να εκτυπώσετε τα [θέματα]({{ site.url }}/assets/m2022.pdf) και τις [λύσεις]({{ site.url }}/assets/Themata2022.pdf) σε μορφή pdf  
-
