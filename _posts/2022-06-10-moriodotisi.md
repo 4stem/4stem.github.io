@@ -63,6 +63,7 @@ $$ω_1 = ω_2 = \sqrt{\frac{k}{m} }$$
 
 $$α_{max1} = α_{max2} \Rightarrow ω_1^2 \cdot A_1 = ω_2^2 \cdot A_2 \Rightarrow A_1 = A_2 $$
 
+
 άρα σωστό το $$i$$ 
 
 
