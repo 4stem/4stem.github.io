@@ -57,7 +57,10 @@ $$Θ.Φ.Μ._m: \quad ΣF_{max1} = W \Rightarrow m \cdot α_{max1} = m \cdot g \R
 
 $F=mg \quad Α.Α.Τ. \quad πείραμα 2$
 
-$$A.Θ.Ι: \quad ΣF_{max2} = F + F_{ελ} - W \Rightarrow  m \cdot α_{max2} = F_{ελ} \Rightarrow m \cdot α_{max2} = W \Rightarrow α_{max2} = g$$
+$$A.Θ.Ι: \quad ΣF_{max2} = F + F_{ελ} - W \Rightarrow  m \cdot α_{max2} = F_{ελ} $$
+
+
+$$ m \cdot α_{max2} = m \cdot g \Rightarrow α_{max2} = g$$
 
 $$ω_1 = ω_2 = \sqrt{\frac{k}{m} }$$
 
@@ -66,8 +69,6 @@ $$α_{max1} = α_{max2} \Rightarrow ω_1^2 \cdot A_1 = ω_2^2 \cdot A_2 \Rightar
 
 $$ γ) \underline {τρόπος} $$
 
-![σχήμα]({{ site.url }}/assets/b12_22.png) 
-
 
 $k-m, \quad A.A.T. \quad πείραμα 1$
 
@@ -75,9 +76,14 @@ $$Θ.Ι._m: \quad ΣF = 0 \Rightarrow F_{ελ} - W = 0 \Rightarrow Δl_o = \frac
 
 $Θ.Φ.Μ, \quad υ=0. \quad άρα \quad A_1 = Δl_o$
 
+
 $F=mg \quad Α.Α.Τ. \quad πείραμα 2$
 
+
 $$Θ.Μ.Κ.Ε \quad ΔΚ = ΣW \Rightarrow K_{τελ} - Κ_{αρχ} = W_{F_{ελ}} + W_F + W_W$$
+
+![σχήμα]({{ site.url }}/assets/b12_22.png) 
+
 
 $$0 = -ΔU_{ελ} + F \cdot 2A_2 - W \cdot 2A_2 \Rightarrow 0 = U_{ελ_{αρχ}} - U_{ελ_{τελ}}$$
 
@@ -172,7 +178,10 @@ $$K = \frac{1}{2} m υ^2, \quad p=mυ, \quad K = \frac{1}{2} m \frac{p^2}{2m} \R
 $$K_1' = \frac{(\frac{p_1}{5})^2}{2m_1}, \quad K_2' = \frac{(\frac{4p_1}{5})^2}{2m_2} = \frac{16 p_1^2}{50 m_2} $$
 
 
-$$Δ.Κ.Ε. \quad K_1 + 0 = K_1' + K_2' \Rightarrow \frac{p_1^2}{2m_1} = \frac{1}{25} \cdot \frac{p_1^2}{2m_1} + \frac{16}{25} \cdot \frac{p_1^2}{2m_2} \Rightarrow 2 m_1 = 3 m_2 $$
+$$Δ.Κ.Ε. \quad K_1 + 0 = K_1' + K_2' \Rightarrow \frac{p_1^2}{2m_1} = \frac{1}{25} \cdot \frac{p_1^2}{2m_1} + \frac{16}{25} \cdot \frac{p_1^2}{2m_2}$$
+
+
+$$2 \cdot m_1 = 3 \cdot m_2 $$
 
 $$Π_{1\rightarrow2}\% = \frac{K_2'}{K_1} 100 \% = \frac{\frac{16 p_1^2}{50 m_2}}{ \frac{p_1^2}{2 m_1}} 100 \% = 96 \%$$
 
@@ -198,10 +207,16 @@ $$I = \frac{E}{R_{ΚΛ} + r} \Rightarrow I = 3A$$
 
 
 
-$$ΚΛ, ισορροπία \quad ΣF = 0 \Rightarrow mg - F_L = 0 \Rightarrow mg = BIl \Rightarrow B = 1T$$
+$$ΚΛ, ισορροπία \quad ΣF = 0 \Rightarrow mg - F_L = 0 $$
+
+
+$$ mg = BIl \Rightarrow B = 1T$$
 
 
 **Γ2**-$$(9)$$
+
+![σχήμα]({{ site.url }}/assets/g2_22.png)
+
  
 Ο αγωγός $ΚΛ$ στη θέση $(1)$ είναι ακίνητος. Εξαιτίας της δύναμης του βάρους κινείται κατακόρυφα κάθετα στο μαγνητικό πεδίο, άρα αυξάνεται η ταχύτητά του.
 Εμφανίζεται στα άκρα του αγωγού ηλεκτρεγερτική δύναμη από επαγωγή $Ε_{επ} = Βυl$ με 
@@ -217,11 +232,6 @@ $$F_L = BI_{επ}l = \frac{B E_{επ} l}{R_{ολ}} = \frac{B^2l^2υ}{R_{ολ}}$$
 
 
 $$ΜΝ, κανονική \quad λειτουργία: \quad P_K = \frac{V_K^2}{R_Σ} \Rightarrow R_Σ = 6Ω$$
-
-
-![σχήμα]({{ site.url }}/assets/g2_22.png)
-
-
 
 $$\frac{1}{R_{1,Σ}} = \frac{1}{R_1} + \frac{1}{R_Σ} \Rightarrow R_{1,Σ} = 2Ω$$
 
@@ -301,7 +311,10 @@ $$ α) \underline {τρόπος} $$
 
 $M_ρ - m$ ισορροπία:
 
-$$Στ_{(Γ)} =0 \Rightarrow N \cdot \frac{l}{2} συνφ + W \cdot \frac{l}{2} συνφ - Τ_1 \frac{l}{2} ημφ = 0 \Rightarrow N = 4N$$ 
+$$Στ_{(Γ)} = 0 \Rightarrow τ_Ν + τ_W - τ_{T_1} = 0$$ 
+
+
+$$N \cdot \frac{l}{2} συνφ + W \cdot \frac{l}{2} συνφ - Τ_1 \frac{l}{2} ημφ = 0 \Rightarrow N = 4N$$ 
 
 
 ![σχήμα]({{ site.url }}/assets/d1_22.png) 
@@ -407,7 +420,10 @@ $$K_I + U_I = K_{II} + U_{II} \Rightarrow 0 + mglημφ + U_{M_ρ}^Ι = \frac{1}
 
 $$ β) \underline {τρόπος} $$
 
-$$Θ.Μ.Κ.Ε._{Ι \rightarrow II} \quad K_{τελ} - Κ_{αρχ} = W_B \Rightarrow \frac{1}{2} I_{ολ} ω^2 = m g l ημφ \Rightarrow ω = 4 \frac{rad}{s}$$
+$$Θ.Μ.Κ.Ε._{Ι \rightarrow II} \quad ΔΚ = ΣW \Rightarrow K_{τελ} - Κ_{αρχ} = W_B $$
+
+
+$$ \frac{1}{2} I_{ολ} ω^2 = m g l ημφ \Rightarrow ω = 4 \frac{rad}{s}$$
 
 
 $$ γ) \underline {τρόπος} $$
@@ -425,19 +441,24 @@ $$|\vec{L}_{πριν}| = Ι_{ολ} |\vec{ω}| \Rightarrow |\vec{L}_{πριν}| =
 
 $$|\vec{L}_{μετά}| = Ι_{ολ} \frac{|\vec{ω}|}{2} \Rightarrow |\vec{L}_{μετά}| = 4 kg \frac{m^2}{s}$$
 
-$$Δ \vec{L} = \vec{L}_{μετά} - \vec{L}_{πριν} \Rightarrow |Δ\vec{L}| = |\vec{L}_{μετά}| - (-|\vec{L}_{πριν}) \Rightarrow |Δ\vec{L}| = |\vec{L}_{μετά}| + |\vec{L}_{πριν}|$$
+$$Δ \vec{L} = \vec{L}_{μετά} - \vec{L}_{πριν} \Rightarrow |Δ\vec{L}| = |\vec{L}_{μετά}| - (-|\vec{L}_{πριν}) $$
+
+
+$$|Δ\vec{L}| = |\vec{L}_{μετά}| + |\vec{L}_{πριν}|$$
 
 άρα το μέτρο του $Δ\vec{L}$ είναι  $\| Δ\vec{L} \| = 12 kg \frac{m^2}{s}$ και η φορά φαίνεται στο σχήμα.
 
 
 **Δ4**-$$(4)$$
 
-![σχήμα]({{ site.url }}/assets/d4_22.png) 
 
 $$ α) \underline {τρόπος} $$
 
 
 Νήμα αβαρές και μη εκτατό $F=T_2=T_2'=12N$
+
+![σχήμα]({{ site.url }}/assets/d4_22.png) 
+
 
 $M_τ$ μεταφορική κίνηση
 
