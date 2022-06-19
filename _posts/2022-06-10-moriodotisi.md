@@ -66,6 +66,8 @@ $$α_{max1} = α_{max2} \Rightarrow ω_1^2 \cdot A_1 = ω_2^2 \cdot A_2 \Rightar
 
 $$ γ) \underline {τρόπος} $$
 
+![σχήμα]({{ site.url }}/assets/b12_22.png) 
+
 
 $k-m, \quad A.A.T. \quad πείραμα 1$
 
@@ -186,30 +188,40 @@ $$Π_{1\rightarrow2}\% = \frac{K_2'}{K_1} 100 \% = \frac{\frac{16 p_1^2}{50 m_2}
 
  **Γ1**-$$(4)$$
 
-![σχήμα]({{ site.url }}/assets/g1_22.png) 
 
 
 $$I = \frac{E}{R_{ΚΛ} + r} \Rightarrow I = 3A$$
+
+
+![σχήμα]({{ site.url }}/assets/g1_22.png) 
+
+
+
 
 $$ΚΛ, ισορροπία \quad ΣF = 0 \Rightarrow mg - F_L = 0 \Rightarrow mg = BIl \Rightarrow B = 1T$$
 
 
 **Γ2**-$$(9)$$
  
-Ο αγωγός ΚΛ στη θέση (1) είναι ακίνητος. Εξαιτίας της δύναμης του βάρους κινείται κατακόρυφα κάθετα στο μαγνητικό πεδίο, άρα αυξάνεται η ταχύτητά του.
+Ο αγωγός $ΚΛ$ στη θέση $(1)$ είναι ακίνητος. Εξαιτίας της δύναμης του βάρους κινείται κατακόρυφα κάθετα στο μαγνητικό πεδίο, άρα αυξάνεται η ταχύτητά του.
 Εμφανίζεται στα άκρα του αγωγού ηλεκτρεγερτική δύναμη από επαγωγή $Ε_{επ} = Βυl$ με 
-πολικότητα, σύμφωνα με τον κανόνα του Lenz, όπως φαίνεται στο σχήμα, οπότε το κύκλωμα διαρρέεται από επαγωγικό ρεύμα που
+πολικότητα, σύμφωνα με τον κανόνα του $Lenz$, όπως φαίνεται στο σχήμα, οπότε το κύκλωμα διαρρέεται από επαγωγικό ρεύμα που
 συνεχώς αυξάνεται. Στον αγωγό που διαρρέεται από επαγωγικό ρεύμα εμφανίζεται δύναμη
-Laplace $F_L = BI_{επ}l = \frac{B E_{επ} l}{R_{ολ}} = \frac{B^2l^2υ}{R_{ολ}}$ με κατεύθυνση
-που φαίνεται στο σχήμα. Το μέτρο της δύναμης Laplace αυξάνεται διότι η ταχύτητα αυξάνεται. Η συνισταμένη δύναμη (βάρος + Laplace) ελαττώνεται οπότε η κίνηση
+$Laplace$ 
+
+$$F_L = BI_{επ}l = \frac{B E_{επ} l}{R_{ολ}} = \frac{B^2l^2υ}{R_{ολ}}$$ 
+
+
+με κατεύθυνση που φαίνεται στο σχήμα. Το μέτρο της δύναμης $Laplace$ αυξάνεται διότι η ταχύτητα αυξάνεται. Η συνισταμένη δύναμη (βάρος + $Laplace$) ελαττώνεται οπότε η κίνηση
 του αγωγού είναι επιταχυνόμενη με επιτάχυνση που συνεχώς ελαττώνεται.
+
+
+$$ΜΝ, κανονική \quad λειτουργία: \quad P_K = \frac{V_K^2}{R_Σ} \Rightarrow R_Σ = 6Ω$$
 
 
 ![σχήμα]({{ site.url }}/assets/g2_22.png)
 
 
-
-$$ΜΝ, κανονική \quad λειτουργία: \quad P_K = \frac{V_K^2}{R_Σ} \Rightarrow R_Σ = 6Ω$$
 
 $$\frac{1}{R_{1,Σ}} = \frac{1}{R_1} + \frac{1}{R_Σ} \Rightarrow R_{1,Σ} = 2Ω$$
 
@@ -239,7 +251,7 @@ $$ \frac{d \vec{p}}{dt} = Σ \vec{F} \Rightarrow \frac{d \vec{p}}{dt} = m \vec{�
 
 $$ β) \underline {τρόπος} $$
 
- Τη στιγμή όπου $υ=\frac{υ_{ορ}}{2}=6m/s$
+ Τη στιγμή όπου $υ=\frac{υ_{ορ}}{2} = 6 \frac{m}{s}$
 
  $$I'=\frac{Bvl}{R_{ολ}} \Rightarrow I' =\frac{Bvl}{R_{ΚΛ}+R_{1,Σ}} \Rightarrow I' = 1,5A $$
 
@@ -251,15 +263,20 @@ $\frac{d \vec{p}}{dt}$ με φορά προς τα κάτω.
 
 **Γ4**-$$(6)$$
 
-![σχήμα]({{ site.url }}/assets/g4_22.png)
 
 $$Ε_{επ} = Β υ_{ορ} l \Rightarrow E_{επ} = 12 V$$
 
 $$I_{επ} = \frac{E_{επ}}{R_{ΚΛ} + R_{1,Σ}} \Rightarrow I_{επ} = 3Α$$
 
+
 $$ α) \underline {τρόπος} $$
 
 $$V_{MN} = I_{επ} R_{1,Σ} \Rightarrow V_{ΜΝ} = 6 V \Rightarrow V_{ΜΝ} = V_K $$
+
+
+![σχήμα]({{ site.url }}/assets/g4_22.png)
+
+
 
 $$ β) \underline {τρόπος} $$
 
@@ -278,7 +295,6 @@ $$Ι_Κ = \frac{P_K}{V_K} \Rightarrow I_K = 1A$$
 **Δ1**-$$(4)$$
 
 
-![σχήμα]({{ site.url }}/assets/d1_22.png) 
 
 $$ α) \underline {τρόπος} $$
 
@@ -286,6 +302,9 @@ $$ α) \underline {τρόπος} $$
 $M_ρ - m$ ισορροπία:
 
 $$Στ_{(Γ)} =0 \Rightarrow N \cdot \frac{l}{2} συνφ + W \cdot \frac{l}{2} συνφ - Τ_1 \frac{l}{2} ημφ = 0 \Rightarrow N = 4N$$ 
+
+
+![σχήμα]({{ site.url }}/assets/d1_22.png) 
 
 
 $$ β) \underline {τρόπος} $$
@@ -305,15 +324,20 @@ $$ΣF_x = 0 \Rightarrow F_{Γ_x} = T_1$$
 
 $$ γ) \underline {τρόπος} $$
 
-![σχήμα]({{ site.url }}/assets/d12_22.png) 
 
 
 Έστω $F_{ρσ}$ η δύναμη που ασκεί η ράβδος στο σφαιρίδιο και $F_{σρ}$ η δύναμη που ασκεί
 το σφαιρίδιο στη ράβδο. Εξαιτίας του τρίτου νόμου του Νεύτωνα οι δυνάμεις θα έχουν ίσα μέτρα.
 
+
+
 $$m \quad ισορροπία \quad ΣF_x = 0 \Rightarrow F_{ρσx} = T_1 \Rightarrow F_{ρσx} = 10.5N$$
 
 $$m \quad ισορροπία \quad ΣF_y = 0 \Rightarrow F_{ρσy} = W \Rightarrow F_{ρσy} = 10N$$
+
+
+![σχήμα]({{ site.url }}/assets/d12_22.png) 
+
 
 $$M_ρ \quad ισορροπία \quad ΣF_x = 0 \Rightarrow F_{σρx} = F_{Γ_x} \Rightarrow F_{Γ_x} = 10.5N $$
 
@@ -330,25 +354,27 @@ $$F_{σρx} \cdot l \cdot ημφ + F_{Γ_y} \cdot \frac{l}{2} \cdot συνφ = F
 $$ α) \underline {τρόπος} $$
 
 
-![σχήμα]({{ site.url }}/assets/d2_22.png) 
-
-
 $$ I_{ολ}=I_{ρ}+I_{σφ}=\frac{1}{12}M_ρl^2+m\left(\frac{l}{2}\right)^2 \Rightarrow I_{ολ}=2kg\cdot m^2$$
 
 $$m-M_ρ: \quad Στ_{(Γ)} = Ι \cdot α_{γων}$$
+
 
 $$W \cdot \frac{l}{2} συνφ = Ι_{ολ} \cdot α_{γων} \Rightarrow α_{γων} = 3 \frac{rad}{s^2}$$
 
 $$\frac{dL_ρ}{dt}=I_ρ\cdot α_{γων}=3kg\cdot m^2/s^2$$
 
+![σχήμα]({{ site.url }}/assets/d2_22.png) 
+
+
+
 $$ β) \underline {τρόπος} $$
 
-
-![σχήμα]({{ site.url }}/assets/d22_22.png) 
 
 Έστω $F$ η δύναμη που δέχεται το σφαιρίδιο από την ράβδο με συνιστώσες $F_x$ και $F_y$.
 και $F'$ η δύναμη που ασκεί το σφαιρίδιο στην ράβδο. Ισχύει $F=F'$ εξαιτίας του τρίτου νόμου 
 του Νεύτωνα.
+
+
 
 $$m: \quad F_{επιτ} = m \cdot α_{επιτ} \Rightarrow W_x - F_y = m \cdot α_{επιτ}$$
 
@@ -359,14 +385,16 @@ $$τ_{F_y'} = \frac{dL_ρ}{dt} \Rightarrow F_y \cdot \frac{l}{2} = \frac{1}{12} 
 
 $$α_{γων} = \frac{6F_y}{lM_ρ}$$
 
+
 $$F_y = \frac{mg συνφ}{1+ \frac{6ml}{2M_ρ}} \Rightarrow F_y = 3N$$
 
 $$\frac{dL_ρ}{dt} = τ_{F_y} = F_y \cdot \frac{l}{2} \Rightarrow \frac{dL_ρ}{dt} = 3 \frac{kg m^2}{s^2} $$
 
+![σχήμα]({{ site.url }}/assets/d22_22.png) 
+
 
 **Δ3**-$$(5)$$
 
-![σχήμα]({{ site.url }}/assets/d3_22.png) 
 
 
 $$ α) \underline {τρόπος} $$
@@ -380,6 +408,18 @@ $$K_I + U_I = K_{II} + U_{II} \Rightarrow 0 + mglημφ + U_{M_ρ}^Ι = \frac{1}
 $$ β) \underline {τρόπος} $$
 
 $$Θ.Μ.Κ.Ε._{Ι \rightarrow II} \quad K_{τελ} - Κ_{αρχ} = W_B \Rightarrow \frac{1}{2} I_{ολ} ω^2 = m g l ημφ \Rightarrow ω = 4 \frac{rad}{s}$$
+
+
+$$ γ) \underline {τρόπος} $$
+ 
+Υπολογισμός της κατακόρυφης απόστασης $(Ι \rightarrow II)$ από το σχήμα
+
+$$d = l \cdot ημφ \Rightarrow d = 1.6m \quad d = \frac{l}{2} ημφ + 2R \Rightarrow d = 1.6m$$
+
+
+![σχήμα]({{ site.url }}/assets/d3_22.png) 
+
+
 
 $$|\vec{L}_{πριν}| = Ι_{ολ} |\vec{ω}| \Rightarrow |\vec{L}_{πριν}| = 8 kg \frac{m^2}{s}$$
 
