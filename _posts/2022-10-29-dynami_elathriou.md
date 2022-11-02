@@ -23,7 +23,7 @@ $$ΣF=0 \Rightarrow F_{ελ}-W=0 \Rightarrow k\cdot Δl_0=m\cdot g \Rightarrow �
 
 Τυχαία θέση $$Ι$$
 
-$$d\leq x \leq 2d$$
+$$\frac{mg}{k} \leq x \leq 2\frac{mg}{k} $$
 
 **α) τρόπος**
 
@@ -40,7 +40,7 @@ $$ΣF = -D \cdot x \Rightarrow F_{ελ} - m\cdot g = - k\cdot x \Rightarrow F_{�
 
 Τυχαία θέση $$IΙ$$
 
-$$0\leq x \leq d$$
+$$0\leq x \leq \frac{mg}{k} $$
 
 **α) τρόπος**
 
