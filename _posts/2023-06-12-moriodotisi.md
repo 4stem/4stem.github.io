@@ -76,186 +76,101 @@ $f_1: \quad 0=h\cdot f_1 - \phi \Rightarrow h\cdot f_1 = \phi \quad (1)$
 
 $f_2=3f_1: \quad K_{max} = h\cdot 3f_1 - \phi \overset{(1)}{\implies} K_{max} = 3h\cdot f_1 - h\cdot f_1= 2h\cdot f_1 (2) $
 
-$Θ.Μ.Κ.Ε. 
+$$Θ.Μ.Κ.Ε. \quad ΔΚ=ΣW \Rightarrow K_{τελ}-Κ_{αρχ}=W_{F_{ηλ}}$$
+
+$$Κ_{τελ}=0, \quad V_{αρχ}-V_{τελ}=V_0$$
+
+$$0-K_{max}=(-e)\cdot V_0 \overset{(2)}{\implies} -2h \cdot f_1=-e\cdot V_0 \Rightarrow V_0=\frac{2h \cdot f_1}{e}$$
 
 άρα σωστό το $$ii$$
 
 
-**Β3** - $$(iii)-2-7$$
+**Β3** - $$α(ii), β(i)-3-6$$
 
 
-![σχήμα]({{ site.url }}/assets/b3_22.png) 
+α) επιλογέας ταχυτήτων, Ευθύγραμμη ομαλή κίνηση, $$α=0 \Rightarrow ΣF=0$$
 
 
-$$ α) \underline {τρόπος} $$
-
-$$K = \frac{1}{2} m υ^2, \quad p=mυ, \quad K = \frac{1}{2} m \frac{p^2}{2m} \Rightarrow K = \frac{p^2}{2m} $$
-
-$$Δ.Κ.Ε. \quad K_1 = K_1' + K_2' \Rightarrow K_2' = K_1 - K_1'$$
-
-$$Π_{1\rightarrow2}\% = \frac{K_2'}{K_1}100 \% = (1-\frac{K_1'}{K_1})100 \%$$
-
-$$K_1' = \frac{(\frac{p_1}{5})^2}{2m_1} \Rightarrow K_1' = \frac{1}{25} \frac{p_1^2}{2m_1} \Rightarrow K_1' = \frac{K_1}{25} \Rightarrow \frac{K_1'}{K_1} = \frac{1}{25}$$
-
-$$Π_{1\rightarrow2}\% = (1 - \frac{K_1'}{K_1}) 100 \% = \frac{24}{25} 100 \% = 96 \%$$
+![σχήμα]({{ site.url }}/assets/b31_23.png) 
 
 
-$$ β) \underline {τρόπος} $$
+$$F_{ηλ}=F_{μαγν} \Rightarrow q \cdot E = B_1 \cdot υ \cdot q \Rightarrow υ=\frac{E}{B_1}$$
 
 
-$$p_1' = \frac{p_1}{5} \Rightarrow m_1 υ_1' = \frac{m_1 υ_1}{5} \Rightarrow υ_1' = \frac{υ_1}{5} $$
+άρα σωστό το (ii)
 
-Η κινητική ενέργεια που έχασε το $m_1$ μεταβιβάστηκε στο $m_2$.
+β) Ομαλή κυκλική κίνηση σε μαγνητικό πεδίο $Β_2$.
 
-$$ΔΚ_1^{απώλεια} = Κ_1 - Κ_1' = \frac{1}{2} m_1 υ_1^2 - \frac{1}{2} m_1 \frac{υ_1^2}{25} = \frac{24}{25} K_1$$
+$$R_1 = \frac{m_1 \cdot υ}{Β_2 \cdot q}, \quad R_2 = \frac{m_2 \cdot υ}{Β_2 \cdot q} $$
 
-$$Π_{1\rightarrow2}\% = \frac{ΔΚ_1^{απώλεια}}{K_1} 100 \% = \frac{24}{25} 100 \% = 96 \%$$
-
-
-$$ γ) \underline {τρόπος} $$
-
-$$p_1' = \frac{p_1}{5} \Rightarrow m_1 υ_1' = \frac{m_1 υ_1}{5} \Rightarrow υ_1' = \frac{υ_1}{5} $$
-
-Α.Δ.Ο και Δ.Κ.Ε.
-
-$$υ_1' = \frac{m_1 - m_2}{m_1 + m_2} υ_1 \Rightarrow \frac{υ_1}{5} = \frac{m_1 - m_2}{m_1 + m_2} υ_1 \Rightarrow 2 m_1 = 3 m_2$$
+![σχήμα]({{ site.url }}/assets/b3_23.png) 
 
 
-$$υ_2' = \frac{2m_1}{m_1 + m_2} υ_1 \Rightarrow υ_2' = \frac{6}{5} υ_1$$
+$$d=2R_2 - 2R_1 \Rightarrow d = \frac{2υ}{Β_2 \cdot q}(m_2-m1) \Rightarrow d = \frac{2E}{B_1 \cdot Β_2 \cdot q}Δm$$
 
+$$Δm = \frac{d\cdot B_1 \cdot B_2 \cdot q}{2E}$$
 
-$$Π_{1\rightarrow2}\% = \frac{K_2'}{K_1} 100 \% = \frac{ \frac{1}{2} m_2 υ_2'^2}{\frac{1}{2} m_1 υ_1^2 } 100 \% = 96 \%$$
+άρα σωστό το (i)
 
-
-$$ δ) \underline {τρόπος} $$
-
-$$Α.Δ.Ο. \quad \vec{p}_{πριν} = \vec{p}_{μετά} \Rightarrow p_1 + 0 = \frac{p_1}{5} + p_2' \Rightarrow p_2' = \frac{4}{5} p_1$$
-
-$$K = \frac{1}{2} m υ^2, \quad p=mυ, \quad K = \frac{1}{2} m \frac{p^2}{2m} \Rightarrow K = \frac{p^2}{2m} $$
-
-$$K_1' = \frac{(\frac{p_1}{5})^2}{2m_1}, \quad K_2' = \frac{(\frac{4p_1}{5})^2}{2m_2} = \frac{16 p_1^2}{50 m_2} $$
-
-
-$$Δ.Κ.Ε. \quad K_1 + 0 = K_1' + K_2' \Rightarrow \frac{p_1^2}{2m_1} = \frac{1}{25} \cdot \frac{p_1^2}{2m_1} + \frac{16}{25} \cdot \frac{p_1^2}{2m_2}$$
-
-
-$$2 \cdot m_1 = 3 \cdot m_2 $$
-
-$$Π_{1\rightarrow2}\% = \frac{K_2'}{K_1} 100 \% = \frac{\frac{16 p_1^2}{50 m_2}}{ \frac{p_1^2}{2 m_1}} 100 \% = 96 \%$$
-
-
-
-άρα σωστό το $$iii$$ 
-
-
-
-
+\
 **`Θέμα Γ`**
 
 
- **Γ1**-$$(4)$$
+ **Γ1**-$$(7)$$
 
 
 
-$$I = \frac{E}{R_{ΚΛ} + r} \Rightarrow I = 3A$$
+![σχήμα]({{ site.url }}/assets/g1_23.png) 
 
 
-![σχήμα]({{ site.url }}/assets/g1_22.png) 
+$$i=2 \cdot t, \quad (S.I.), \quad t=0, i=0, \quad t=2s, i=4A$$
+
+$$\frac{Δi}{Δt} = \frac{4-0}{2-0} \Rightarrow \frac{Δi}{Δt} = 2 \frac{A}{s}$$
+
+$0 \rightarrow 2s: q=[Εμβαδό]=\frac{β\cdot u}{2} \Rightarrow q=4C$
 
 
+**Γ2**-$$(4)$$
+
+H μεταλλική ράβδος $ΖΗ$ κινείται προς τα πάνω, οπότε αναπτύσεται $Ε_{επ}$ με πολικότητα όπως στο σχήμα. Το επαγωγικό ρεύμα έχει τέτοια φορά ώστε να αντιτίθεται στο αίτιο που το προκαλεί (κανόνας $Lenz$).
+
+![σχήμα]({{ site.url }}/assets/g_23.png) 
 
 
-$$ΚΛ, ισορροπία \quad ΣF = 0 \Rightarrow mg - F_L = 0 $$
+H ένταση του επαγωγικού ρεύματος αυξάνεται οπότε στο πηνίο αναπτύσεται $Ε_{αυτ}$ με πολικότητα όπως στο σχήμα, για τον ίδιο λόγο (κανόνας $Lenz$).
 
 
-$$ mg = BIl \Rightarrow B = 1T$$
-
-
-**Γ2**-$$(9)$$
-
-![σχήμα]({{ site.url }}/assets/g2_22.png)
-
- 
-Ο αγωγός $ΚΛ$ στη θέση $(1)$ είναι ακίνητος. Εξαιτίας της δύναμης του βάρους κινείται κατακόρυφα κάθετα στο μαγνητικό πεδίο, άρα αυξάνεται η ταχύτητά του.
-Εμφανίζεται στα άκρα του αγωγού ηλεκτρεγερτική δύναμη από επαγωγή $Ε_{επ} = Βυl$ με 
-πολικότητα, σύμφωνα με τον κανόνα του $Lenz$, όπως φαίνεται στο σχήμα, οπότε το κύκλωμα διαρρέεται από επαγωγικό ρεύμα που
-συνεχώς αυξάνεται. Στον αγωγό που διαρρέεται από επαγωγικό ρεύμα εμφανίζεται δύναμη
-$Laplace$ 
-
-$$F_L = BI_{επ}l = \frac{B E_{επ} l}{R_{ολ}} = \frac{B^2l^2υ}{R_{ολ}}$$ 
-
-
-με κατεύθυνση που φαίνεται στο σχήμα. Το μέτρο της δύναμης $Laplace$ αυξάνεται διότι η ταχύτητα αυξάνεται. Η συνισταμένη δύναμη (βάρος + $Laplace$) ελαττώνεται οπότε η κίνηση
-του αγωγού είναι επιταχυνόμενη με επιτάχυνση που συνεχώς ελαττώνεται.
-
-
-$$ΜΝ, κανονική \quad λειτουργία: \quad P_K = \frac{V_K^2}{R_Σ} \Rightarrow R_Σ = 6Ω$$
-
-$$\frac{1}{R_{1,Σ}} = \frac{1}{R_1} + \frac{1}{R_Σ} \Rightarrow R_{1,Σ} = 2Ω$$
-
-$$Ε_{ΕΠ} = |-\frac{ΔΦ}{Δt}| = B \cdot \frac{Δx}{Δt} \cdot l = B υ l$$
-
-$$ΣF = m α \Rightarrow mg - F_L = m α \Rightarrow mg - B I_{επ}l = m α$$
-
-$$Ι_{επ} = \frac{E_{επ}}{R_{ολ}} = \frac{Bυl}{R_{ΚΛ}+R_{1,Σ}} $$
-
-$$mg - \frac{B^2\cdot l^2 \cdot υ}{R_{ΚΛ}+R_{1,Σ}} = m α \Rightarrow α=10 - \frac{5}{6}υ \quad (S.I.) $$
-
-$$υ = υ_{ορ} \Rightarrow α=0 \Rightarrow 0 =  10 - \frac{5}{6}υ_{ορ} \Rightarrow υ_{ορ} = 12 \frac{m}{s} $$
-
+$$|E_{αυτ}| = |-L\cdot \frac{Δi}{Δt}| \Rightarrow |E_{αυτ}| = 1V$$
 
 
 **Γ3**-$$(6)$$
 
-$$ α) \underline {τρόπος} $$
+
+$2^{oς}$ κανόνας του Kirchhoff στο κύκλωμα $ΗΖΑΓH$
 
 
-$$KΛ, \quad θέση (2) \quad υ = \frac{υ_{ορ}}{2} \Rightarrow υ = 6\frac{m}{s} $$
-
-$$ α=10 - \frac{5}{6}υ \Rightarrow α = 5 \frac{m}{s^2}$$
-
-$$ \frac{d \vec{p}}{dt} = Σ \vec{F} \Rightarrow \frac{d \vec{p}}{dt} = m \vec{α} \Rightarrow |\frac{d \vec{p}}{dt}| = 1.5 kg \frac{m}{s^2}$$
+$$Ε_{επ} -i\cdot R -E_{αυτ} =0 \Rightarrow B\cdot υ \cdot l = E_{αυτ} + i \cdot R \Rightarrow υ=1+2t \quad (S.I.)$$
 
 
-$$ β) \underline {τρόπος} $$
-
- Τη στιγμή όπου $υ=\frac{υ_{ορ}}{2} = 6 \frac{m}{s}$
-
- $$I'=\frac{Bvl}{R_{ολ}} \Rightarrow I' =\frac{Bvl}{R_{ΚΛ}+R_{1,Σ}} \Rightarrow I' = 1,5A $$
-
- $$ \frac{dp}{dt}=ΣF=mg-F_L=mg-BI'l=1,5kg\frac{m}{s^2}$$
+Ευθύγραμμη ομαλά επιταχυνόμενη κίνηση $υ=υ_0+αt, \quad υ_0=1 \frac{m}{s}, \quad α=2 \frac{m}{s^2}$
 
 
-
-$\frac{d \vec{p}}{dt}$ με φορά προς τα κάτω.
-
-**Γ4**-$$(6)$$
+**Γ4**-$$(8)$$
 
 
-$$Ε_{επ} = Β υ_{ορ} l \Rightarrow E_{επ} = 12 V$$
+$t_1=2s$
 
-$$I_{επ} = \frac{E_{επ}}{R_{ΚΛ} + R_{1,Σ}} \Rightarrow I_{επ} = 3Α$$
+$$ΣF=m \cdot α \Rightarrow F - F_L - m \cdot g = m \cdot α \Rightarrow F=10N$$
 
+$υ_1 = 1+2 \cdot 2 \Rightarrow υ_1=5\frac{m}{s}$
 
-$$ α) \underline {τρόπος} $$
+$$\frac{dW_F}{dt} = F \cdot \frac{dx}{dt} \cdot συνφ = F \cdot υ \Rightarrow \frac{dW_F}{dt}=50\frac{J}{s}$$
 
-$$V_{MN} = I_{επ} R_{1,Σ} \Rightarrow V_{ΜΝ} = 6 V \Rightarrow V_{ΜΝ} = V_K $$
+$i_1 = 2 \cdot 2 \Rightarrow i_1 = 4A$
 
-
-![σχήμα]({{ site.url }}/assets/g4_22.png)
-
-
-
-$$ β) \underline {τρόπος} $$
-
-$$V_{MN} = Ε_{επ} - Ι_{επ} \cdot R_{ΚΛ} \Rightarrow V_{MN} = 6 V$$
-
-$$I_Σ = \frac{V_{MN}}{R_Σ} \Rightarrow I_Σ = 1Α$$
-
-$$Ι_Κ = \frac{P_K}{V_K} \Rightarrow I_K = 1A$$
+$$\frac{dU_L}{dt} = |E_{αυτ}| \cdot i_1 \Rightarrow \frac{dU_L}{dt} = 4 \frac{J}{s}$$
 
 
-άρα λειτουργεί κανονικά η συσκευή.  
 
 **`Θέμα Δ`**
 
@@ -263,225 +178,84 @@ $$Ι_Κ = \frac{P_K}{V_K} \Rightarrow I_K = 1A$$
 **Δ1**-$$(4)$$
 
 
+![σχήμα]({{ site.url }}/assets/d_23.png) 
 
-$$ α) \underline {τρόπος} $$
 
+$m_1$, ισορροπία:
 
-$M_ρ - m$ ισορροπία:
+$$ΣF_x=0 \Rightarrow T_2 - m\cdot g \cdot ημφ =0 \Rightarrow T_2 = 18N$$
 
-$$Στ_{(Γ)} = 0 \Rightarrow τ_Ν + τ_W - τ_{T_1} = 0$$ 
+$T_2=T'_2$ νήμα αβαρές μη εκτατό
 
-
-$$N \cdot \frac{l}{2} συνφ + W \cdot \frac{l}{2} συνφ - Τ_1 \frac{l}{2} ημφ = 0 \Rightarrow N = 4N$$ 
-
-
-![σχήμα]({{ site.url }}/assets/d1_22.png) 
-
-
-$$ β) \underline {τρόπος} $$
-
-$$Στ_Α = 0 \Rightarrow τ_{F_{Γ_y}} + τ_Ν = τ_{F_{Γ_x}} + τ_{W_ρ} $$
-
-$$F_{Γ_y} \cdot \frac{l}{2} συνφ + Ν \cdot l συνφ = F_{Γ_x} \cdot \frac{l}{2} ημφ + W_ρ \cdot \frac{l}{2} συνφ $$ 
-
-$$F_{Γ_y} + 2Ν = F_{Γ_x} \cdot εφφ + W_ρ$$
-
-$$ΣF_y = 0 \Rightarrow F_{Γ_y} + N = W + W_ρ $$ 
-
-$$ΣF_x = 0 \Rightarrow F_{Γ_x} = T_1$$
-
-και μετά τις πράξεις $Ν = 4Ν$.
-
-
-$$ γ) \underline {τρόπος} $$
-
-
-
-Έστω $F_{ρσ}$ η δύναμη που ασκεί η ράβδος στο σφαιρίδιο και $F_{σρ}$ η δύναμη που ασκεί
-το σφαιρίδιο στη ράβδο. Εξαιτίας του τρίτου νόμου του Νεύτωνα οι δυνάμεις θα έχουν ίσα μέτρα.
-
-
-
-$$m \quad ισορροπία \quad ΣF_x = 0 \Rightarrow F_{ρσx} = T_1 \Rightarrow F_{ρσx} = 10.5N$$
-
-$$m \quad ισορροπία \quad ΣF_y = 0 \Rightarrow F_{ρσy} = W \Rightarrow F_{ρσy} = 10N$$
-
-
-![σχήμα]({{ site.url }}/assets/d12_22.png) 
-
-
-$$M_ρ \quad ισορροπία \quad ΣF_x = 0 \Rightarrow F_{σρx} = F_{Γ_x} \Rightarrow F_{Γ_x} = 10.5N $$
-
-$$M_ρ \quad ισορροπία \quad ΣF_y = 0 \Rightarrow F_{σρy} + W_ρ = F_{Γ_y} + N \Rightarrow N +  F_{Γ_y} = 40 $$
-
-$$M_ρ \quad ισορροπία \quad Στ_Β = 0 \Rightarrow τ_{F_{σρx}} + τ_{F_{Γ_y}} = τ_{F_{σρy}} + τ_{F_{F_{Γ_x}}} + τ_{W_ρ}$$
-
-$$F_{σρx} \cdot l \cdot ημφ + F_{Γ_y} \cdot \frac{l}{2} \cdot συνφ = F_{σρy} \cdot l \cdot συνφ + F_{Γ_x} \cdot \frac{l}{2} \cdot ημφ + W_ρ \cdot \frac{l}{2} \cdot συνφ$$
-
-και μετά τις πράξεις $F_{Γ_y} = 36Ν$ και $Ν=4Ν$.
-
-**Δ2**-$$(6)$$
-
-$$ α) \underline {τρόπος} $$
-
-
-$$ I_{ολ}=I_{ρ}+I_{σφ}=\frac{1}{12}M_ρl^2+m\left(\frac{l}{2}\right)^2 \Rightarrow I_{ολ}=2kg\cdot m^2$$
-
-$$m-M_ρ: \quad Στ_{(Γ)} = Ι \cdot α_{γων}$$
-
-
-$$W \cdot \frac{l}{2} συνφ = Ι_{ολ} \cdot α_{γων} \Rightarrow α_{γων} = 3 \frac{rad}{s^2}$$
-
-$$\frac{dL_ρ}{dt}=I_ρ\cdot α_{γων}=3kg\cdot m^2/s^2$$
-
-![σχήμα]({{ site.url }}/assets/d2_22.png) 
-
-
-
-$$ β) \underline {τρόπος} $$
-
-
-Έστω $F$ η δύναμη που δέχεται το σφαιρίδιο από την ράβδο με συνιστώσες $F_x$ και $F_y$.
-και $F'$ η δύναμη που ασκεί το σφαιρίδιο στην ράβδο. Ισχύει $F=F'$ εξαιτίας του τρίτου νόμου 
-του Νεύτωνα.
-
-
-
-$$m: \quad F_{επιτ} = m \cdot α_{επιτ} \Rightarrow W_x - F_y = m \cdot α_{επιτ}$$
-
-
-$$mg συνφ - F_y = m \cdot α_{γων} \cdot \frac{l}{2}$$
-
-$$τ_{F_y'} = \frac{dL_ρ}{dt} \Rightarrow F_y \cdot \frac{l}{2} = \frac{1}{12} M_ρ \cdot l^2 \cdot α_{γων}$$
-
-$$α_{γων} = \frac{6F_y}{lM_ρ}$$
-
-
-$$F_y = \frac{mg συνφ}{1+ \frac{6ml}{2M_ρ}} \Rightarrow F_y = 3N$$
-
-$$\frac{dL_ρ}{dt} = τ_{F_y} = F_y \cdot \frac{l}{2} \Rightarrow \frac{dL_ρ}{dt} = 3 \frac{kg m^2}{s^2} $$
-
-![σχήμα]({{ site.url }}/assets/d22_22.png) 
-
-
-**Δ3**-$$(5)$$
-
-
-
-$$ α) \underline {τρόπος} $$
-
-$$Α.Δ.Μ.Ε. \quad m-M_ρ \quad (I \rightarrow II): E_I^{ΜΗΧ} = E_{ΙI}^{ΜΗΧ} $$
-
-$$K_I + U_I = K_{II} + U_{II} \Rightarrow 0 + mglημφ + U_{M_ρ}^Ι = \frac{1}{2}I ω^2 + 0 + U_{M_ρ}^{ΙΙ}$$
-
-και μετά τις πράξεις $ω = 4 \frac{rad}{s}$
-
-$$ β) \underline {τρόπος} $$
-
-$$Θ.Μ.Κ.Ε._{Ι \rightarrow II} \quad ΔΚ = ΣW \Rightarrow K_{τελ} - Κ_{αρχ} = W_B $$
-
-
-$$ \frac{1}{2} I_{ολ} ω^2 = m g l ημφ \Rightarrow ω = 4 \frac{rad}{s}$$
-
-
-$$ γ) \underline {τρόπος} $$
+ράβδος $ΑΓ$ ισορροπία:
  
-Υπολογισμός της κατακόρυφης απόστασης $(Ι \rightarrow II)$ από το σχήμα
-
-$$d = l \cdot ημφ \Rightarrow d = 1.6m \quad d = \frac{l}{2} ημφ + 2R \Rightarrow d = 1.6m$$
-
-
-![σχήμα]({{ site.url }}/assets/d3_22.png) 
+$$Στ_Ο =0 \Rightarrow -T'_2 \cdot \frac{L}{2} \cdot ημφ + Τ_1 \cdot \frac{L}{2} = 0 \Rightarrow T_1 = 10.8N$$
 
 
 
-$$|\vec{L}_{πριν}| = Ι_{ολ} |\vec{ω}| \Rightarrow |\vec{L}_{πριν}| = 8 kg \frac{m^2}{s}$$
+**Δ2**-$$(4)$$
 
-$$|\vec{L}_{μετά}| = Ι_{ολ} \frac{|\vec{ω}|}{2} \Rightarrow |\vec{L}_{μετά}| = 4 kg \frac{m^2}{s}$$
-
-$$Δ \vec{L} = \vec{L}_{μετά} - \vec{L}_{πριν} \Rightarrow |Δ\vec{L}| = |\vec{L}_{μετά}| - (-|\vec{L}_{πριν}) $$
+κύκλωμα $ΚΝΜΛ$ νόμος του Ohm $I=\frac{E}{R} \Rightarrow I=15A$
 
 
-$$|Δ\vec{L}| = |\vec{L}_{μετά}| + |\vec{L}_{πριν}|$$
+αβαρές πλαίσιο ισορροπία: $ΣF_y=0$ οι δυνάμεις Laplace αλληλοαναιρούνται.
 
-άρα το μέτρο του $Δ\vec{L}$ είναι  $\| Δ\vec{L} \| = 12 kg \frac{m^2}{s}$ και η φορά φαίνεται στο σχήμα.
+$$ΣF_x = 0 \Rightarrow T_1 - F_L =0 \Rightarrow B \cdot I \cdot α = Τ_1 \Rightarrow B = 0.9T$$
+
+**Δ3**-$$(7)$$
+
+$m_2$ απλή αρμονική ταλάντωση:
+
+$$Α = d = \frac{9π}{100} m, \quad D=k=m_2 \cdot ω^2 \Rightarrow ω=10 \frac{rad}{s}, \quad T=\frac{2π}{ω}= \frac{π}{5} s$$
+
+το $m_2$ στη θέση ισορροπίας της ταλάντωσής του
+
+$$υ_2 = υ_{max} = A \cdot ω \Rightarrow υ_2 = \frac{9π}{10} \frac{m}{s}, \quad Δt = \frac{T}{4}= \frac{π}{20}s $$
+
+$m_1$ ευθύγραμμη ομαλά επιταχυνόμενη κίνηση με επιτάχυνση 
+
+$$α = \frac{ΣF}{m} = g \cdot ημφ \Rightarrow α =6 \frac{m}{s^2}$$
+
+$$υ_1 = υ_0 + α\cdot Δt \Rightarrow υ_1 = \frac{3π}{10} \frac{m}{s} $$
+
+$ΣF_{εξ} = 0 \Rightarrow $ μονωμένο σύστημα
+
+$$Α.Δ.Ο. \quad \vec p_{τελ} = \vec p_{αρχ} \Rightarrow m_2 \cdot υ_2 - m_1 \cdot υ_1 = (m_1+m_2) \cdot V_k $$
+
+και μετά τις πράξεις $V_k=0$
+
+**Δ4**-$$(5)$$
+
+συσσωμάτωμα $m_1+m_2$ απλή αρμονική ταλάντωση
+
+$$D=k=(m_1+m_2) \cdot ω'^2 \Rightarrow ω'=5 \frac{rad}{s}$$
+
+θέση ισορροπίας $m_2$
+
+$$ΣF_x = 0 \Rightarrow k\cdot Δl_2 = m_2 \cdot g \cdot ημφ \Rightarrow Δl_2 = 0.06m$$
+
+θέση ισορροπίας $m_1+m_2$
+
+$$ΣF_x = 0 \Rightarrow k\cdot Δl_1 = (m_1+m_2) \cdot g \cdot ημφ \Rightarrow Δl_2 = 0.24m$$
 
 
-**Δ4**-$$(4)$$
+$$A'=Δl_2 - Δl_1 \Rightarrow Α'=0.18m$$
 
+αρχική φάση $φ_0$: $t=0: x=+A, υ=0$
+
+$$x=A \cdot ημφ(ωt+φ_0) \Rightarrow ημφ_0 = +1 \Rightarrow φ_0=\frac{π}{2} rad$$
+
+$$x = 0.18 \cdot ημ(5t + \frac{π}{2} ) \quad (S.I.)$$
+
+**Δ5**-$$(5)$$
 
 $$ α) \underline {τρόπος} $$
 
 
-Νήμα αβαρές και μη εκτατό $F=T_2=T_2'=12N$
+συσσωμάτωμα $m_1+m_2$ απλή αρμονική ταλάντωση
 
-![σχήμα]({{ site.url }}/assets/d4_22.png) 
-
-
-$M_τ$ μεταφορική κίνηση
-
-$$ΣF = M_τ α_{cm} \Rightarrow T_2' + T_{στ} = M_τ \cdot α_{cm}$$
-
-$$Κ.Χ.Ο. \quad Δx_{cm} = Δθ \cdot R \Rightarrow υ_{cm} = ω R \Rightarrow α_{cm} = α_{γων} R$$
-
-$M_τ$ στροφική κίνηση
-
-$$Στ = Ι_τ α_{γων} \Rightarrow T_2' \cdot r - T_{στ} \cdot R = I_τ \cdot α_{γων}$$
-
-και μετά τις πράξεις $α_{cm} = 2 \frac{m}{s^2}$
-
-$$ β) \underline {τρόπος} $$
-
-Α, σημείο επαφής τροχαλίας δαπέδου
-
-$$Ι_Α = Ι_{cm} + M_τ \cdot R^2 \Rightarrow I_A = \frac{3}{2} M_τ \cdot R^2$$
-
-$$Στ_{(Α)} = Ι_Α α_{γων} \Rightarrow F\cdot (R+r) = \frac{3}{2} M_τ \cdot R^2 \cdot α_{γων} \Rightarrow α_{γων} = 5\frac{rad}{s^2}$$
-
-$$α_{cm} = α_{γων} \cdot R^2 \Rightarrow α_{cm} = 2 \frac{m}{s^2}$$
-
-
-**Δ5**-$$(6)$$
-
-$$ α) \underline {τρόπος} $$
-
-
-Από $t_o = 0$ έως $t_1 = 2 s$:
-
-$$Δx_Z = Δx_{cm} + Δθ \cdot r = Δθ \cdot R + Δθ \cdot r = Δθ \cdot (R+r) = \frac{Δx_{cm}}{R}(R+r)$$
-
-$$Δx_{cm} = \frac{1}{2} α_{cm} t_1^2 \Rightarrow Δx_{cm} = 4m $$
-
-$$W_F = F \cdot Δx_Z \cdot συν0 \Rightarrow W_F = 84J$$
-
-
-$$ β) \underline {τρόπος} $$
-
-$$W_F^{μεταφορική} = F \cdot Δx_{cm} = F \cdot \frac{1}{2} α_{cm} t_1^2 = 48 J$$
-
-$$W_{τ_F}^{στροφική} = τ_F \cdot θ = F \cdot r \cdot \frac{1}{2} α_{γων} t_1^2 = 36 J$$
-
-$$W_F = W_F^{μεταφορική} + W_{τ_F}^{στροφική} \Rightarrow W_F = 84 J$$
-
-
-$$ γ) \underline {τρόπος} $$
-
-$$Δx_Z = Δx_{cm} + Δθ \cdot r \Rightarrow α_Ζ = α_{cm} + α_{γων} r $$
-
-$$α_Ζ = α_{cm} + \frac{α_{cm}}{R} \cdot r \Rightarrow α_Ζ = α_{cm}(1+ \frac{r}{R} ) \Rightarrow α_Ζ = \frac{7}{2} \frac{m}{s^2} $$
-
-$$W_F = F \cdot Δx_Z \cdot συνφ \Rightarrow W_F = 84 J $$
-
-$$ δ) \underline {τρόπος} $$
-
-$$ω = α_{γων} \cdot t_1 \Rightarrow ω = \frac{α_{cm}}{R} \cdot t_1 \Rightarrow ω = 10 \frac{rad}{s} $$
-
-$$υ_{cm} = ω \cdot R \Rightarrow υ_{cm} = 4 \frac{m}{s}$$
-
-$$Θ.Μ.Κ.Ε._{t_o \rightarrow t_1} ΔΚ = ΣW \Rightarrow K_1 - K_o = W_F$$
-
-$$W_F = \frac{1}{2} I_{ολ} ω^2 + \frac{1}{2} Μ_τ υ_{cm}^2 \Rightarrow W_F = 84 J$$
+$$F_{ελ} = k \cdot Δl \Rightarrow F_{ελ} = k \cdot (Δl_0-x) \Rightarrow F_{ελ} = 24 - 100\cdot x \quad (S.I.)$$
 
 
 
-Μπορείτε να εκτυπώσετε τα [θέματα]({{ site.url }}/assets/m2022.pdf) και τις [λύσεις]({{ site.url }}/assets/Themata2022.pdf) σε μορφή pdf  
+Μπορείτε να εκτυπώσετε τα [θέματα]({{ site.url }}/assets/m2023.pdf) και τις [λύσεις]({{ site.url }}/assets/Themata2022.pdf) σε μορφή pdf  
