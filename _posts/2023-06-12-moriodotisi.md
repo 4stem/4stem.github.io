@@ -236,10 +236,10 @@ $$ΣF_x = 0 \Rightarrow k\cdot Δl_2 = m_2 \cdot g \cdot ημφ \Rightarrow Δl_
 
 θέση ισορροπίας $m_1+m_2$
 
-$$ΣF_x = 0 \Rightarrow k\cdot Δl_1 = (m_1+m_2) \cdot g \cdot ημφ \Rightarrow Δl_2 = 0.24m$$
+$$ΣF_x = 0 \Rightarrow k\cdot Δl_1 = (m_1+m_2) \cdot g \cdot ημφ \Rightarrow Δl_1 = 0.24m$$
 
 
-$$A'=Δl_2 - Δl_1 \Rightarrow Α'=0.18m$$
+$$A'=Δl_1 - Δl_2 \Rightarrow Α'=0.18m$$
 
 αρχική φάση $φ_0$: $t=0: x=+A, υ=0$
 
@@ -257,5 +257,8 @@ $$ α) \underline {τρόπος} $$
 $$F_{ελ} = k \cdot Δl \Rightarrow F_{ελ} = k \cdot (Δl_0-x) \Rightarrow F_{ελ} = 24 - 100\cdot x \quad (S.I.)$$
 
 
+![σχήμα]({{ site.url }}/assets/d22_23.png) 
 
-Μπορείτε να εκτυπώσετε τα [θέματα]({{ site.url }}/assets/m2023.pdf) και τις [λύσεις]({{ site.url }}/assets/Themata2022.pdf) σε μορφή pdf  
+
+
+Μπορείτε να εκτυπώσετε τα [θέματα]({{ site.url }}/assets/m2023.pdf) και τις [λύσεις]({{ site.url }}/assets/Themata2023.pdf) σε μορφή pdf  
