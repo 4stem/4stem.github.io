@@ -127,7 +127,45 @@ $$i=2 \cdot t, \quad (S.I.), \quad t=0, i=0, \quad t=2s, i=4A$$
 
 $$\frac{Δi}{Δt} = \frac{4-0}{2-0} \Rightarrow \frac{Δi}{Δt} = 2 \frac{A}{s}$$
 
+$$ α) \underline {τρόπος} $$
+
 $0 \rightarrow 2s: q=[Εμβαδό]=\frac{β\cdot u}{2} \Rightarrow q=4C$
+
+$$ β) \underline {τρόπος} $$
+
+$$q = \displaystyle\int_0^{2} i dt = \int_0^{2} 2t dt = \Bigg[t^2 \Bigg]_0^2 = 4-0 = 4C $$  
+
+
+$$ γ) \underline {τρόπος} $$
+
+
+$2^{oς}$ κανόνας του Kirchhoff στο κύκλωμα $ΗΖΑΓH$
+
+
+$$Ε_{επ} -i\cdot R -E_{αυτ} =0 \Rightarrow i = \frac{E_{επ}}{R} - \frac{E_{αυτ}}{R} \quad (1) $$
+
+
+$$Ε_{επ} = \frac{ΔΦ}{Δt} = \frac{B \cdot ΔS}{Δt} = \frac{B \cdot L \cdot Δx}{Δt} \quad(2) $$
+
+$$E_{αυτ} = L \cdot \frac{Δi}{Δt}\quad (3) $$
+
+Αντικαθιστούμε την $(2)$ και την $(3)$ στην εξίσωση $(1)$
+
+$$i = \frac{B \cdot L \cdot Δx}{R \cdot Δt} - \frac{L}{R} \cdot \frac{Δi}{Δt} \Rightarrow  i \cdot {Δt} = \frac{B \cdot L \cdot Δx}{R} - \frac{L}{R} \cdot Δi \quad (4)$$
+
+$$Δq = i \cdot Δt \quad (5)$$
+
+$$Δx = υ_0 \cdot Δt + \frac{1}{2} \cdot α \cdot Δt^2 \Rightarrow Δx = 6m \quad (6)$$
+
+$$ Δi=i_{t=2} - i_{t=0} \Rightarrow Δi=4A \quad (7)$$
+
+Αντικαθιστούμε την $(5)$, την $(6)$ και την $(7)$ στην εξίσωση $(4)$
+
+
+$$q = 6 - 2 = 4C$$
+
+
+
 
 
 **Γ2**-$$(4)$$
