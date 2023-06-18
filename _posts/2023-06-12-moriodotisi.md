@@ -49,6 +49,8 @@ $$f=\frac{1}{T} \Rightarrow f=1Hz $$
 
 $$υ_δ=λ\cdot f \Rightarrow λ=2m$$
 
+Υπολογισμός του αριθμού των σημείων της χορδής που βρίσκονται σε ακραία θέση της τροχιάς τους.
+
 $$ α) \underline {τρόπος} $$
 
 $t_2=2.5s: \quad x_2=υ_δ\cdot t_2 \Rightarrow x_2=5m$
@@ -72,7 +74,12 @@ $t_2=2.5s=2\cdot T+\frac{T}{2} : \quad x_2=υ_δ\cdot t_2 \Rightarrow x_2=5m=2\c
 
 Φωτοηλεκτρική εξίσωση του Einstein: $$K_{max}=h\cdot f - \phi$$
 
-$f_1: \quad 0=h\cdot f_1 - \phi \Rightarrow h\cdot f_1 = \phi \quad (1)$
+συχνότητα κατωφλίου $f_1: \quad 0=h\cdot f_1 - \phi \Rightarrow h\cdot f_1 = \phi \quad (1)$
+
+
+![σχήμα]({{ site.url }}/assets/fotoilektriko.png) 
+
+
 
 $f_2=3f_1: \quad K_{max} = h\cdot 3f_1 - \phi \overset{(1)}{\implies} K_{max} = 3h\cdot f_1 - h\cdot f_1= 2h\cdot f_1 (2) $
 
@@ -202,11 +209,34 @@ $$ΣF=m \cdot α \Rightarrow F - F_L - m \cdot g = m \cdot α \Rightarrow F=10N$
 
 $υ_1 = 1+2 \cdot 2 \Rightarrow υ_1=5\frac{m}{s}$
 
+$$ α) \underline {τρόπος} $$
+
+
 $$\frac{dW_F}{dt} = F \cdot \frac{dx}{dt} \cdot συνφ = F \cdot υ \Rightarrow \frac{dW_F}{dt}=50\frac{J}{s}$$
 
 $i_1 = 2 \cdot 2 \Rightarrow i_1 = 4A$
 
 $$\frac{dU_L}{dt} = |E_{αυτ}| \cdot i_1 \Rightarrow \frac{dU_L}{dt} = 4 \frac{J}{s}$$
+
+$$ β) \underline {τρόπος} $$
+
+
+Λόγω διατήρησης της ενέργειας θα πρέπει να ισχύει
+
+
+$$P_F = P_W + P_{F_L} + \frac{dK}{dt}$$
+
+
+$$P_W = \frac{dW}{dt} = \frac{m\cdot g \cdot dx}{dt} = m\cdot g \cdot υ_1 = 25 \frac{J}{s}$$
+
+$$P_{F_L} = E_{επ} \cdot i_1 = B \cdot υ_1 \cdot L \cdot i_1 = 20 \frac{J}{s}$$
+
+
+$$\frac{dK}{dt} = ΣF \cdot υ_1 = (F - F_L - W) \cdot υ_1 =  (F - Β \cdot i_1 \cdot L - m \cdot g) \cdot υ_1 = 5 \frac{J}{s} $$
+
+και αντικαθιστώντας στην αρχική εξίσωση $P_F = 50 \frac{J}{s}$.
+
+$$P_{F_L} = \frac{dQ}{dt} + \frac{dU_L}{dt} \Rightarrow \frac{dU_L}{dt} = P_{F_L} - i_1^2 \cdot R \Rightarrow \frac{dU_L}{dt} =  4 \frac{J}{s}$$
 
 
 
@@ -294,6 +324,13 @@ $$ α) \underline {τρόπος} $$
 
 $$F_{ελ} = k \cdot Δl \Rightarrow F_{ελ} = k \cdot (Δl_0-x) \Rightarrow F_{ελ} = 24 - 100\cdot x \quad (S.I.)$$
 
+
+$$ β) \underline {τρόπος} $$
+
+
+$$ΣF = -D \cdot x \Rightarrow F_{ελ} - (m_1+m_2)\cdot g = -D \cdot x $$
+
+$$F_{ελ} = (m_1+m_2)\cdot g -k \cdot x \Rightarrow F_{ελ} = 24 - 100\cdot x \quad (S.I.)$$
 
 ![σχήμα]({{ site.url }}/assets/d22_23.png) 
 
