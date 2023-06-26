@@ -172,6 +172,18 @@ $$ Δi=i_{t=2} - i_{t=0} \Rightarrow Δi=4A \quad (7)$$
 $$q = 6 - 2 = 4C$$
 
 
+$$ δ) \underline {τρόπος} $$
+
+Η $$E_{αυτ}$$ ΗΕΔ από αυτεπαγωγή είναι σταθερή. 
+
+$$E_{αυτ} = \frac{W}{q} \Rightarrow E_{αυτ} = \frac{ΔU_L}{q} \Rightarrow q= \frac{ΔU_L}{E_{αυτ}}$$
+
+
+$$ΔU_L = U_{L_{t=2}} - U_{L_{t=0}} = \frac{1}{2} \cdot L \cdot i^2-0 = 4J$$
+
+
+$$q= \frac{ΔU_L}{E_{αυτ}} = \frac{4J}{1V} \Rightarrow q= 4C $$
+
 
 
 
