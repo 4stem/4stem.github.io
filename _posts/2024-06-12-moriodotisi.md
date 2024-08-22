@@ -51,5 +51,42 @@ $$T_2 = \frac{1}{f_2} \Rightarrow T_2 = 0,5 \cdot 10^{-15} sec$$
 $$φ_2=\frac{2πt}{T_2}-\frac{2πx}{λ_2} \Rightarrow φ_2 = 2π\cdot (2 \cdot 10^{15}t-\frac{2}{3}\cdot 10^7 x) \quad (S.I.) $$
 
 
+άρα σωστό το (ii)
+
+
+**Β2** - $$(i)$$
+
+
+![σχήμα]({{ site.url }}/assets/b2_24.png) 
+
+
+Κυκλική κίνηση φωτοηλεκτρονίου
+
+$$F_{μαγνητική} = F_{κεντρομόλο} \Rightarrow B \cdot υ \cdot e = \frac{m \cdot υ^2}{r} \Rightarrow r = \frac{m \cdot υ}{B \cdot e}$$
+
+$$L = m \cdot υ \cdot r = m \cdot υ \cdot \frac{m \cdot υ}{B \cdot e} = \frac{m}{e \cdot B} \cdot m \cdot υ^2 = \frac{m \cdot 2K}{e \cdot B}$$
+
+και λύνοντας ως προς την κινητική ενέργεια $$Κ = \frac{L \cdot e \cdot B}{2m}$$
+
+Όμως η κινητική ενέργεια συνδέεται με το έργο εξαγωγής
+
+$$K = \frac{hc}{λ} - \phi \Rightarrow  \frac{L_1 \cdot e \cdot B}{2m} = \frac{hc}{λ_1} - \phi$$
+
+Παρόμοια για το δεύτερο πείραμα
+
+
+$$ \frac{L_2 \cdot e \cdot B}{2m} = \frac{hc}{λ_2} - \phi \Rightarrow \frac{5L_1 \cdot e \cdot B}{2m} = \frac{hc}{\frac{λ_1}{2}} - \phi$$
+
+Διαιρώντας τις δύο τελευταίες σχέσεις προκύπτει:
+
+$$\frac{1}{5} = \frac{\frac{hc}{λ_1}-\phi}{\frac{2hc}{λ_1}}$$
+
+και μετά τις πράξεις
+
+$$\phi = \frac{3}{4} \cdot \frac{hc}{λ_1} = \frac{3}{4} \cdot \frac{1250}{375}  \Rightarrow \phi = 2.5 eV$$
+
+
+άρα σωστό το (i)
+
 
 Μπορείτε να εκτυπώσετε τα [θέματα]({{ site.url }}/assets/m2024.pdf) και τις [λύσεις]({{ site.url }}/assets/Themata2023.pdf) σε μορφή pdf  
