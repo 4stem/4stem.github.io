@@ -392,7 +392,15 @@ $$Β_{ολ} =  B_{(O)1} =  1,2 π \cdot 10^{-7} T$$
 
 
 
-
-
-
 Μπορείτε να εκτυπώσετε τα [θέματα]({{ site.url }}/assets/m2024.pdf) και τις [λύσεις]({{ site.url }}/assets/Themata2024.pdf) σε μορφή pdf  
+
+
+
+Ο κώδικας σε Mathematica για τη δημιουργία της γραφικής παράστασης στο θέμα $$Γ_3$$
+
+		f[t_] := Piecewise[ { {0, 0<=t<5}, {π/5*Cos[π*t - 5 π], 5<=t<=8} }]
+		Plot[f[t], {t, 0, 8}, 
+		PlotRange -> {All, {-π/4, π/4}},
+ 		AxesLabel -> {"t(s)", Subscript[υ, Δ]},
+ 		Ticks -> {Automatic, Table[{k Pi/5, Row[{k, "π/5"}]}, {k, -4, 4}]},
+ 		TicksStyle -> Directive[FontSize -> 14]]
