@@ -185,7 +185,7 @@ $$y_Δ = Α ημ 2π(\frac{t}{T} - \frac{x_Δ}{λ} )$$
 
 Για το υλικό σημείο $$Δ$$
 
-$$ y_Δ = \begin{cases} 0 \quad 0 \le t < 5 sec \\\  0,2 ημ (πt - 5π)) \quad 5 sec \le t \end{cases}$$
+$$ y_Δ = \begin{cases} 0 \quad 0 \le t < 5 sec \\\  0,2 ημ (πt - 5π) \quad 5 sec \le t \end{cases}$$
 
 $$ υ_Δ = ω Α συν φ_Δ = \frac{π}{5} συν(πt - 5π)$$
 
