@@ -57,12 +57,12 @@ $$+Α= Α \cdot ημ(\frac{2πt}{T}\cdot \frac{9T}{4}-\frac{2πx_B}{λ}) \Righta
 $$\frac{9}{2} -\frac{2x_B}{λ} =0+\frac{1}{2} \Rightarrow 4= \frac{2x_B}{λ} \Rightarrow x_B = 2λ $$
 
 
-Την χρονική στιγμή $$t_1=\frac{9T}{4}$$ για $$x/le 0$$ η διαταραχή έφτασε μέχρι $$x_1$$
+Την χρονική στιγμή $$t_1=\frac{9T}{4}$$ για $$x \ge 0$$ η διαταραχή έφτασε μέχρι $$x_1$$
 
 $$υ_Δ = \frac{x_1}{t_1} \Rightarrow \frac{λ}{T}= \frac{x_1}{\frac{9T}{4} } \Rightarrow x_1=\frac{9λ}{4}$$
 
 
-$$ y = \begin{cases} Α ημ (\frac{2πt}{T}\cdot \frac{9T}{4}-\frac{2πx_B}{λ})=Α \cdot ημ(\frac{9π}{2}-\frac{2πx}{λ}) \quad 0 \le x \le \frac{9λ}{4} \\\   0 \quad 0 \le t < 5 sec \end{cases}$$
+$$ y = \begin{cases} Α ημ (\frac{2πt}{T}\cdot \frac{9T}{4}-\frac{2πx_B}{λ})=Α \cdot ημ(\frac{9π}{2}-\frac{2πx}{λ}) \quad 0 \le x \le \frac{9λ}{4} \\\   0 \quad \frac{9λ}{4} < x \end{cases}$$
 
 ![σχήμα]({{ site.url }}/assets/b11_24.png) 
 
@@ -76,7 +76,7 @@ $$ y = \begin{cases} Α ημ (\frac{2πt}{T}\cdot \frac{9T}{4}-\frac{2πx_B}{λ}
 
 ![σχήμα]({{ site.url }}/assets/b2_epanal.png) 
 
-Ισχύει η αρχή διατήρησης της ορμής $$\vec{p}=\vec{p'}+\vec{p_e}$$
+Ισχύει η αρχή διατήρησης της ορμής $$\vec{p}=\vec{p'}+\vec{p_e}$$ και η υπόθεση του De Broglie σύμφωνα με την οποία $$p= \frac{h}{λ}$$
 
 Αρχή διατήρησης της ορμής κατά τον οριζόντιο άξονα $$x$$
 
