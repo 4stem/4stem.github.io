@@ -164,3 +164,7 @@ $$Δ_4, \quad Δp = 16 \cdot 10^{-8} \frac{kg \cdot m}{s}, \quad (NM) = 0,16m$$
 Ενεικτικές λύσεις $$Δ_3, \quad Δ_4$$
 
 ![σχήμα]({{ site.url }}/assets/d3-d4.jpg)
+
+
+Μπορείτε να εκτυπώσετε τα [θέματα]({{ site.url }}/assets/p2025.pdf) σε μορφή pdf  
+
