@@ -114,7 +114,7 @@ $$Ε_0 = \frac{h\cdot c}{λ_0} \Rightarrow E_0 = \frac{h \cdot c}{\frac{h}{2m_e 
 
 Στη χρονική διάρκεια $$\quad 0 - 0,1s$$
 
-$$\lvert E_{επ_{Δ_1Δ_2}} \lvert = Ν \cdot \lvert \frac{ΔΦ}{Δt} \lvert= Ν \cdot A \cdot \lvert \frac{ΔB}{Δt} \lvert =10V$$
+$$\lvert E_{επ_{Δ_1Δ_2}} \lvert = \lvert -Ν \cdot  \frac{ΔΦ}{Δt} \lvert= Ν \cdot A \cdot \lvert \frac{ΔB}{Δt} \lvert =10V$$
 
 Στη χρονική διάρκεια $$\quad 0,1 - 0,2s$$
 
@@ -128,13 +128,46 @@ $$\lvert E_{επ_{Δ_1Δ_2}} \lvert = Ν \cdot \lvert \frac{ΔΦ}{Δt} \lvert= �
 
 **Γ2**-$$(5)$$
 
+$$υ = -Ν \cdot  \frac{dΦ}{dt} = Ν \cdot ω \cdot B \cdot A \cdot ημωt$$
 
+$$Ι_0 = \frac{V_0}{R} \Rightarrow I_0 = \frac{Ν \cdot ω \cdot B \cdot A}{R} \Rightarrow I_0=5π Α$$
+
+Η θερμότητα που εκλύεται στον αγωγό $$ΚΛ$$ είναι
+
+$$Q = I_{εν}^2 \cdot R \cdot T \Rightarrow Q = (\frac{I_0}{\sqrt{2}})^2 \cdot R \cdot \frac{2π}{ω} \Rightarrow Q=50J$$ 
 
 **Γ3**-$$(6)$$
+
+$$ω'=2ω \Rightarrow T'=\frac{T}{2}$$
+
+$$I_{εν}=\frac{I_0}{\sqrt2} \Rightarrow I_{εν}=\frac{ \frac{Ν \cdot ω \cdot B \cdot A}{R}}{\sqrt2} \Rightarrow I_{εν}=\frac{Ν \cdot ω \cdot B \cdot A}{R \cdot \sqrt2}$$
+
+$$I_{εν}' = 2\cdot I_{εν}$$
+
+$$Q'=I_{εν}'^2 \cdot R \cdot T' \Rightarrow Q'=2Q$$
+
+Οπότε το ποσοστό μεταβολής της εκλυόμενης θερμότητας στον αγωγό $$ΚΛ$$ ανά περιστροφή είναι
+
+$$Π_{\%} = \frac{Q'-Q}{Q} \cdot 100\% \Rightarrow Π_{\%}=100\%$$
 
 
 
 **Γ4**-$$(6)$$
+
+Νόμος του Ohm για κλειστό κύκλωμα
+
+$$Ι=\frac{E_{επ}}{R} \Rightarrow I=2A$$
+
+Ένταση μαγνητικού πεδίου ευθύγραμμου αγωγού απείρου μήκους
+
+$$Β_1 = \frac{μ_0}{4π} \cdot \frac{2I_1}{d} \Rightarrow B_1 = 5 \cdot 10^{-5} T$$
+
+
+$$F_L = B_1 \cdot I \cdot \ell \Rightarrow F_L = 10^{-4} N$$
+
+Η κατεύθυνση της δύναμης $$Laplace$$ προκύπτει από τον κανόνα των τριών δαχτύλων και δείχνεται στο σχήμα
+
+![σχήμα]({{ site.url }}/assets/g4_25.png) 
 
 
 
