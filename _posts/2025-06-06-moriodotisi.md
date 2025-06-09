@@ -209,14 +209,19 @@ $$F_{ελ} = k \cdot Δ\ell \Rightarrow Δ\ell = \frac{F_{ελ}}{k} \Rightarrow 
 $$x_{cm} = Δs \Rightarrow \frac{dx_{cm}}{dt} = \frac{ds}{dt} \Rightarrow υ_{cm} = υ_{γραμ} $$
 
 
-Το σημείο $$Ζ$$ ακουμπά στη δοκό για δεύτερη φορά, οπότε η στεφάνη έχει διαγράψει μισό και έναν κύκλο. 
+Το σημείο $$Ζ$$ όταν ακουμπά στη δοκό, είναι σημείο επαφής για το οποίο ισχύει
+
+$$υ_{cm} = υ_{γραμ} \Rightarrow υ_Ζ=0$$
+
+
+Όταν η ταχύτητα του σημείου $$Ζ$$ μηδενίζεται για δεύτερη φορά, τότε η στεφάνη έχει διαγράψει μισό και έναν κύκλο. 
 
 $$x_{cm}=Δs \Rightarrow x_{cm}= 1,5 \cdot (2π\cdot R) \Rightarrow x_{cm}=3π \cdot R \Rightarrow x_{cm}=\frac{27}{8}m$$
 
 
-β) Η στεφάνη κυλίεται με σταθερή γωνιακή επιτάχυνση
+β) Η στεφάνη κυλίεται χωρίς να ολισθαίνει, με σταθερή γωνιακή επιτάχυνση
 
-$$υ_{cm} = ω \cdot R \Rightarrow \frac{dυ_{cm}}{dt} = \frac{dω}{dt} \Rightarrow α_{cm} = α_{γων} $$
+$$υ_{cm} = ω \cdot R \Rightarrow \frac{dυ_{cm}}{dt} = \frac{dω}{dt} \cdot R \Rightarrow α_{cm} = α_{γων} \cdot R$$
 
 Για την ευθύγραμμη ομαλά επιταχυνόμενη κίνηση του κέντρου μάζας της στεφάνης ισχύει:
 
@@ -237,7 +242,7 @@ $$υ_Α = υ_Ε = \sqrt{υ_{cm}^2+ υ_{γραμ}^2} = \sqrt{2υ_{cm}^2} = υ_{cm
 
 Το σώμα $$Σ_1$$ εκτελεί Α.Α.Τ. με σταθερά επαναφοράς $$D$$
 
-$$D = m \cdot ω^2 \Rightarrow ω = \sqrt{\frac{D}{m}} \Rightarrow ω=\sqrt{40} \Rightarrow ω \approx 2π \frac{rad}{s^2}$$
+$$D = k = m \cdot ω^2 \Rightarrow ω = \sqrt{\frac{k}{m}} \Rightarrow ω=\sqrt{40} \Rightarrow ω \approx 2π \frac{rad}{s}$$
 
 
 H περίοδος της ταλάντωσης είναι $$Τ=\frac{2π}{ω} \Rightarrow T=1s$$.
@@ -268,15 +273,15 @@ $$W_{F_{ελ}{t_0 \rightarrow t_1}}=7,5 J$$
 
 Η στεφάνη όπως δείχνεται στο σχήμα κατά τον άξονα $$y$$ ισορροπεί
 
-$$ΣF_y=0 \Rightarrow N - W_y = 0 \Rightarrow N = M\cdot g \cdot ημφ \Rightarrow N=32 N$$
+$$ΣF_y=0 \Rightarrow N - W_y = 0 \Rightarrow N = M\cdot g \cdot συνφ \Rightarrow N=32 N$$
 
 Εξαιτίας του τρίτου νόμου του Νεύτωνα η στεφάνη θα ασκεί δύναμη $$32Ν$$ κάθετα στη δοκό.
 
 Ισορροπία δοκού:
 
-$$Στ_{(Α)}=0 \Rightarrow F \cdot \ell \cdot συνθ - Ν \cdot (d+x) - m_δ \cdot g \cdot \frac{\ell}{2} \cdot συνθ =0$$
+$$Στ_{(Α)}=0 \Rightarrow F \cdot \ell \cdot συνθ - Ν \cdot (d+x) - W_δ \cdot \frac{\ell}{2} \cdot συνθ =0$$
 
-και μετά τις πράξεις 
+όπου $$W_δ = m_δ \cdot g$$ και μετά τις πράξεις 
 
 $$F = 10 + 10 \cdot x \quad (S.I.) \quad 0 \le x \le 3m$$
 
