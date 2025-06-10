@@ -188,6 +188,22 @@ $$F_L = B_1 \cdot I \cdot \ell \Rightarrow F_L = 10^{-4} N$$
 
 $$Στ_{(Ρ)} = 0 \Rightarrow T \cdot (R + R \cdot ημθ) - Μ \cdot g \cdot R \cdot ημθ =0 \Rightarrow T = 15N$$
 
+
+$$ β) \underline {τρόπος} $$
+
+Η στεφάνη ισορροπεί:
+
+$$Στ_{(Ο)} = 0 \Rightarrow T \cdot R - T_σ \cdot R =0 \Rightarrow T = T_σ$$
+
+Όπως δείχνεται στην εικόνα έστω ο άξονας $$x$$ παράλληλος στη δοκό.
+
+$$ΣF_x =0 \Rightarrow T_x + T_σ - W_x =0 \Rightarrow T \cdot ημθ + Τ = Μ \cdot g \cdot ημθ $$
+
+και μετά τις πράξεις
+
+$$T = \frac{M \cdot g \cdot ημθ}{1+ημθ} \Rightarrow T = 15N$$
+
+
 Το νήμα που συνδέει τη στεφάνη με το σώμα $$Σ_1$$ είναι αβαρές και μη εκτατό, οπότε οι τάσεις στα άκρα του νήματος είναι ίσες. 
 
 ![σχήμα]({{ site.url }}/assets/d11_25.png) 
