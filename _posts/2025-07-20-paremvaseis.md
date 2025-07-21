@@ -70,6 +70,8 @@ tags : [Κβαντομηχανική]
 Κοινή δράση εκπαιδευτικών στο νησί της Κω: Χρονομετρώντας το π
 [aegeanews](https://aegeanews.gr/news/fimes/564093/koini-drasi-ekpaideftikon-sto-nisi-tis-ko-chronometrontas/)
 
+[kostv](https://www.kostv.gr/nea/topika/36513-koini-drasi-ekpaideftikon-sto-nisi-tis-ko-xronometrontas-to-p)
+
 
 
 Ο ποδηλατόδρομος στη Λεωφόρο Νίκης και το απόλυτο παράδειγμα της Μαδρίτης. 
