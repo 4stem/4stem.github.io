@@ -2,7 +2,7 @@
 layout: post
 category : Άρθρο
 title: Παρεμβάσεις στην καθημερινότητα
-tagline: Σε χρονολογική σειρά
+tagline: Σε αντίστροφη χρονολογική σειρά
 tags : [Κβαντομηχανική]
 ---
 {% include JB/setup %}
@@ -104,7 +104,7 @@ tags : [Κβαντομηχανική]
 
 **Νοέμβριος**
 
-39ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας
+39ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2025/02/39_SYNEDRIO_PROGRAMMA_HLEKTRONIKH_EKDOSH.pdf)
 
 Μια πρωτότυπη μέθοδος εύρεσης του π με γωνίες [Αρχαία Ολυμπία](https://drive.google.com/file/d/1gTzJK9fxbdj_TeH-prD46bn9vR42RxHZ/view)
 
@@ -169,9 +169,9 @@ tags : [Κβαντομηχανική]
 <hr style="width: 50%; height: 2px; background-color: gray; border: none;">
 
 
-**Σεπτέμβριος**
+**Νοέμβριος**
 
-38ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας
+38ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2025/02/38_syn_programma_v4_site.pdf)
 
 Ο Καρτέσιος ο ISS και το Raspberry pi [Σέρες](https://drive.google.com/file/d/1K6qfMwKHr1rKnZTpLV2upMdwoD4gwxN1/view)
 
@@ -190,7 +190,7 @@ tags : [Κβαντομηχανική]
 
 **Νοέμβριος**
 
-37ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας
+37ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2023/02/37_programm_synedriou_vf.pdf)
 
 Απίθανα σφάλματα βαθμολόγησης [Ναύπλιο](https://drive.google.com/file/d/1bKGhnmrpVStK33PpauGBRnfyl-_WvunD/view)
 
@@ -224,7 +224,7 @@ tags : [Κβαντομηχανική]
 
 **Νοέμβριος**
 
-36ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας
+36ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2023/02/programma_36syn_2019.pdf)
 
 Το πρόβλημα της "απόδειξης" από τα Μαθηματικά στην Φυσική [Λάρισα](https://drive.google.com/file/d/1rIdjI-3Y0iP-oy0g-aZG9r48se7d3SI3/view)
 
@@ -250,7 +250,7 @@ tags : [Κβαντομηχανική]
 
 **Νοέμβριος**
 
-35ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας
+35ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2023/02/35_SYNEDRIO_PROGRAMMA1.pdf)
 
 Η Γεωμετρία ως εργαλείο κατανόησης και εμβάθυνσης στην διδακτική του μαθήματος της Φυσικής [Αθήνα](https://drive.google.com/file/d/1rCdyPYv7Zzc-0Y1NBSOOXReAMr9AlWNB/view)
 
@@ -297,7 +297,7 @@ tags : [Κβαντομηχανική]
 
 **Νοέμβριος**
 
-34ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας
+34ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2023/02/34_synedrio_program_2017_VT.pdf)
 
 Διαφορικές εξισώσεις στη Δευτεροβάθμια εκπαίδευση [Λευκάδα](https://drive.google.com/file/d/0B2PMgebiPbrIZVprckpMNFJEcHc/view?resourcekey=0-CeuGzL0UK3pApfkxF_Peug)
 
@@ -354,7 +354,7 @@ tags : [Κβαντομηχανική]
 
 **Νοέμβριος**
 
-33ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας
+33ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2023/02/33-syn_programma.pdf)
 
 Μελέτη κεντρικής ελαστικής κρούσης δύο σωμάτων με λογισμικά - περίπτωση μηδέν επί άπειρο [Χανιά](https://drive.google.com/file/d/0B2PMgebiPbrIMWlxUkMxTGhSMEE/view?resourcekey=0-oTrZJOm-pIticZDS7aN9mw)
 
