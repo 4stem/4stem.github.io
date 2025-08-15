@@ -19,6 +19,9 @@ tags : [Κβαντομηχανική]
 Ήλιος θάλασσα και Φυσική [παράλλαξη](https://parallaximag.gr/parallax-view/ilios-thalassa-kai-fysiki-epistimonikes-odigies-kathimerinis-frontidas)
 
 
+Ήλιος θάλασσα και Φυσική στα Δωδεκάνησα [aegeanews](https://aegeanews.gr/news/en-dodekaniso/585662/ilios-thalassa-kai-fysiki-sta-dodekanisa-epistimonikes-odigies-kathimerinis-frontidas-tou-petridi/)
+
+
 
 **Ιούνιος**
 
