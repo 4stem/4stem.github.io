@@ -63,7 +63,7 @@ $$12eV=4 \cdot 4eV - 2 \cdot φ \Rightarrow φ=2 eV$$
 
 Για το σωματίδιο $$Σ_1$$
 
-$$F_{μαγν} = F_{κεντρ} \Rightarrow q \cdot υ \cdot B = \frac{m \cdot υ^2}{R} \Rightarrow υ = \frac{q \cdot B \cdot R}{m}$$
+$$F_{μαγν} = F_{κεντρ} \Rightarrow |q| \cdot υ \cdot B = \frac{m \cdot υ^2}{R} \Rightarrow υ = \frac{|q| \cdot B \cdot R}{m}$$
 
 H περίοδος περιφοράς είναι 
 
@@ -94,7 +94,7 @@ $$υ_{cm} = ω \cdot R$$
 
 σημείο Α: 
 
-$$υ_Α = υ_{cm} + υ_{γρα} \Rightarrow υ_{Αmin} =  υ_{cm} + υ_{γρα} \Rightarrow \frac{υ_{cm}}{4} = υ_{cm} - υ_{γρα} \Rightarrow υ_{γρα} = \frac{3}{4} \cdot υ_{cm} $$
+$$\vec{υ_Α} = \vec{υ_{cm}} + \vec{υ_{γρα}} \Rightarrow υ_{Αmin} =  υ_{cm} - υ_{γρα} \Rightarrow \frac{υ_{cm}}{4} = υ_{cm} - υ_{γρα} \Rightarrow υ_{γρα} = \frac{3}{4} \cdot υ_{cm} $$
 
 
 σημείο Α'
@@ -115,7 +115,7 @@ $$υ_Α' = υ_{cm} + υ_{γρα} \Rightarrow υ_{Α'max} =  υ_{cm} + υ_{γρα
 
 $$ΔΒ = \frac{μ_0}{4π} \cdot \frac{I\cdot Δ\ell}{r^2} \cdot ημθ$$
 
-$$B = \sum_{Γ}^{Δ}ΔΒ = \frac{μ_0}{4π} \cdot \frac{I}{α^2} \sum_{Γ}^{Δ}Δ \ell \cdot ημ90^0 = \frac{μ_0}{4π} \cdot \frac{I \cdot π \cdot A}{α^2} = \frac{μ_ο \cdot I}{4α} $$
+$$B = \sum_{Γ}^{Δ}ΔΒ = \frac{μ_0}{4π} \cdot \frac{I}{α^2} \sum_{Γ}^{Δ}Δ \ell \cdot ημ90^0 = \frac{μ_0}{4π} \cdot \frac{I \cdot π \cdot α}{α^2} = \frac{μ_ο \cdot I}{4α} $$
 
 $$Ι = \frac{E}{R_A + r} = 4A$$
 
@@ -123,9 +123,9 @@ $$B = 2π \cdot 10^{-5} T$$
 
 β) Ρυθμός μεταβολής θερμότητας
 
-$$\frac{Δθ}{Δt} = P_A = I^2 \cdot R_A$$
+$$\frac{ΔQ_{θερμ}}{Δt} = P_A = I^2 \cdot R_A$$
 
-$$\frac{Δθ}{Δt} = P_r = I^2 \cdot r$$
+$$\frac{ΔQ_{θερμ}}{Δt} = P_r = I^2 \cdot r$$
 
 $$\frac{P_A}{P_r} = 2$$
 
@@ -164,7 +164,7 @@ $$i_L = i_2 = 3A$$
 
 Ο δεύτερος κανόνας του Kirchhoff
 
-$$ V_L -i_L \cdot R_2 - i_L \cdot R_1 = 0 \Rightarrow V_L = 24V$$
+$$ |V_L| -i_L \cdot R_2 - i_L \cdot R_1 = 0 \Rightarrow V_L = 24V$$
 
 
 $$E_{αυτ} = -L \cdot \frac{dI}{dt} = V_L \Rightarrow \frac{dI}{dt} = -120 \frac{A}{s}$$
@@ -205,12 +205,12 @@ $$d=2\cdot A = 0,4m$$
 
 Οπότε η μέση ταχύτητα είναι
 
-$$υ_{μεση} = \frac{d}{Δt} = \frac{0,4}{3,5-2,5}= 0,4m$$
+$$υ_{μεση} = \frac{d}{Δt} = \frac{0,4}{3,5-2,5}= 0,4 \frac{m}{s}$$
 
 
 **Δ2**-$$(15)$$ 
 
-α) εξίσωση κύματος $$y = A \cdot ημ(\frac{2πt}{T} - \frac{2πx}{λ} )$$
+α) εξίσωση κύματος $$y = A \cdot ημ(\frac{2πt}{T} - \frac{2πx}{λ} ) \quad (S.I.)$$
 
 
 $$υ_δ = \frac{x_A}{t_A} \Rightarrow 1 = \frac{x_A}{2} \Rightarrow x_A = 2m$$
@@ -227,9 +227,9 @@ $$y = 0,2 \cdot ημ(\frac{2π \cdot t}{2} - \frac{2π \cdot x}{2}) \Rightarrow 
 
 Για τη χρονική στιγμή $t_1$
 
-$$x_1 - υ_δ \cdot t_1 \Rightarrow x_1 = 3,5m$$
+$$x_1 = υ_δ \cdot t_1 \Rightarrow x_1 = 3,5m$$
 
-$$N_1 = \frac{x_1}{λ} = 1,75$$
+$$N_1 = \frac{x_1}{λ} = 1,75 \quad μήκη \quad κύματος$$
 
 $$α = -ω^2 \cdot y$$
 
@@ -267,13 +267,13 @@ $$y= 0,4 \cdot συν(\frac{φ_2 - φ_1}{2} \cdot ημ(\frac{φ_1+φ_2}{2} ) ) $
 
 $$y = 0,4 \cdot συν(π \cdot x - 2,25π) \cdot ημ (π \cdot t - 2,25 π) \quad (S.I.)$$
 
-$0 < x < 4,5m$, είναι ακίνητα για όσα ισχύει
+$0 \le x \le 4,5m$, είναι ακίνητα για όσα ισχύει
 
 $$0,4 \cdot συν(π \cdot x - 2,25π) =0 \Rightarrow π \cdot x - 2,25π = k \cdot π + \frac{π}{2} \Rightarrow x = k + 2,75 $$
 
 Όπου k ακέραιος, οπότε
 
-$$0 < k + 2,75 < 4,5m -2,75 < k < 1,75 $$ 
+$$0 \le k + 2,75 \le 4,5m -2,75 \le k \le 1,75 $$ 
 
 Άρα για το k οι τιμές είναι $-2, -1, 0, 1$.
 
