@@ -164,7 +164,7 @@ $$i_L = i_2 = 3A$$
 
 Ο δεύτερος κανόνας του Kirchhoff
 
-$$ |V_L| -i_L \cdot R_2 - i_L \cdot R_1 = 0 \Rightarrow V_L = 24V$$
+$$ |V_L| -i_L \cdot R_2 - i_L \cdot R_1 = 0 \Rightarrow |V_L| = 24V$$
 
 
 $$E_{αυτ} = -L \cdot \frac{dI}{dt} = V_L \Rightarrow \frac{dI}{dt} = -120 \frac{A}{s}$$
@@ -223,9 +223,13 @@ $$υ_{mac} = ω \cdot A \Rightarrow 0,2 π = π \cdot A \Rightarrow A = 0,2m$$
 
 Οπότε η εξίσωση του κύματος είναι
 
-$$y = 0,2 \cdot ημ(\frac{2π \cdot t}{2} - \frac{2π \cdot x}{2}) \Rightarrow y = 0,2 \cdot ημ(π \cdot t -π \cdot x) $$
+$$y = 0,2 \cdot ημ(\frac{2π \cdot t}{2} - \frac{2π \cdot x}{2}) \Rightarrow y = 0,2 \cdot ημ(π \cdot t -π \cdot x \quad (S.I.)$$
 
 Για τη χρονική στιγμή $t_1$
+
+![σχήμα]({{ site.url }}/assets/stigmiotypo.png) 
+
+
 
 $$x_1 = υ_δ \cdot t_1 \Rightarrow x_1 = 3,5m$$
 
@@ -251,7 +255,7 @@ $$φ_2 = π \cdot t + π \cdot x + φ_0 \Rightarrow 0 = π \cdot 0 + π \cdot 4,
 
 $$y_2 = 0,2 \cdot ημ(π \cdot t + π \cdot x - 4,5 π) \quad (S.I.)$$
 
-Τα δύο κύματα $y_1$ και $y_2$ έχουν διαδοθεί  στο διάστημα $0< x < 4,5m$ την χρονική στιγμή $t_1 = \frac{x_1}{υ_δ}=4,5s$$
+Τα δύο κύματα $y_1$ και $y_2$ έχουν διαδοθεί  στο διάστημα $0 \le x \le 4,5m$ την χρονική στιγμή $t_1 = \frac{x_1}{υ_δ}=4,5s$$
 
 Τα κύματα συμβάλλουν
 
@@ -261,7 +265,7 @@ $$y = y_1 + y_2 = 0,2 \cdot ημ(π \cdot t - π \cdot x) + 0,2 \cdot ημ(π \c
 με χρήση της γνωστής τριγωνομετρικής ταυτότητας 
 
 
-$$y= 0,4 \cdot συν(\frac{φ_2 - φ_1}{2} \cdot ημ(\frac{φ_1+φ_2}{2} ) ) $$
+$$y= 0,4 \cdot συν(\frac{φ_2 - φ_1}{2}) \cdot ημ(\frac{φ_1+φ_2}{2}  ) $$
 
 και μετά τις πράξεις 
 
