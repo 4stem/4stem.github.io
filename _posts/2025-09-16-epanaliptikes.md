@@ -223,7 +223,7 @@ $$υ_{mac} = ω \cdot A \Rightarrow 0,2 π = π \cdot A \Rightarrow A = 0,2m$$
 
 Οπότε η εξίσωση του κύματος είναι
 
-$$y = 0,2 \cdot ημ(\frac{2π \cdot t}{2} - \frac{2π \cdot x}{2}) \Rightarrow y = 0,2 \cdot ημ(π \cdot t -π \cdot x \quad (S.I.)$$
+$$y = 0,2 \cdot ημ(\frac{2π \cdot t}{2} - \frac{2π \cdot x}{2}) \Rightarrow y = 0,2 \cdot ημ(π \cdot t -π \cdot x) \quad (S.I.)$$
 
 Για τη χρονική στιγμή $t_1$
 
