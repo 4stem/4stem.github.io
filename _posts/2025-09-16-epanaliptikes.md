@@ -89,17 +89,20 @@ $$Δt = Δt_2 - Δt_1 \Rightarrow Δt = \frac{2π \cdot m}{q \cdot B} - \frac{π
 
 Κύλιση χωρίς ολισθηση
 
+![σχήμα]({{ site.url }}/assets/kylisi.png) 
+
+
 $$υ_{cm} = ω \cdot R$$
 
 
 σημείο Α: 
 
-$$\vec{υ_Α} = \vec{υ_{cm}} + \vec{υ_{γρα}} \Rightarrow υ_{Αmin} =  υ_{cm} - υ_{γρα} \Rightarrow \frac{υ_{cm}}{4} = υ_{cm} - υ_{γρα} \Rightarrow υ_{γρα} = \frac{3}{4} \cdot υ_{cm} $$
+$$\vec{υ_Α}_{min} = \vec{υ_{cm}} + \vec{υ_{γρα}} \Rightarrow υ_{Αmin} =  υ_{cm} - υ_{γρα} \Rightarrow \frac{υ_{cm}}{4} = υ_{cm} - υ_{γρα} \Rightarrow υ_{γρα} = \frac{3}{4} \cdot υ_{cm} $$
 
 
 σημείο Α'
 
-$$υ_Α' = υ_{cm} + υ_{γρα} \Rightarrow υ_{Α'max} =  υ_{cm} + υ_{γρα} \Rightarrow υ_{Α'max}  = υ_{cm} + \frac{3}{4} \cdot υ_{cm} \Rightarrow  υ_{Α'max}  = \frac{7}{4} \cdot υ_{cm} $$
+$$\vec{υ_Α'}_{max} = \vec{υ_{cm}} + \vec{υ_{γρα}} \Rightarrow υ_{Α'max} =  υ_{cm} + υ_{γρα} \Rightarrow υ_{Α'max}  = υ_{cm} + \frac{3}{4} \cdot υ_{cm} \Rightarrow  υ_{Α'max}  = \frac{7}{4} \cdot υ_{cm} $$
 
 
 
@@ -120,6 +123,11 @@ $$B = \sum_{Γ}^{Δ}ΔΒ = \frac{μ_0}{4π} \cdot \frac{I}{α^2} \sum_{Γ}^{Δ}�
 $$Ι = \frac{E}{R_A + r} = 4A$$
 
 $$B = 2π \cdot 10^{-5} T$$
+
+![σχήμα]({{ site.url }}/assets/magnitiko.png) 
+
+
+Η φορά των γραμμών του μαγνητικού πεδίου στο σημείο $Ο$ είναι από τον αναγνώστη προς τη σελίδα.
 
 β) Ρυθμός μεταβολής θερμότητας
 
