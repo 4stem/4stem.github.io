@@ -227,7 +227,7 @@ $$ω = \frac{2π}{Τ} = \frac{2π}{2} = π \frac{rad}{s}$$
 
 $$υ_δ = \frac{λ}{Τ} \Rightarrow 1 = \frac{λ}{2} \Rightarrow λ = 2m$$
 
-$$υ_{mac} = ω \cdot A \Rightarrow 0,2 π = π \cdot A \Rightarrow A = 0,2m$$
+$$υ_{max} = ω \cdot A \Rightarrow 0,2 π = π \cdot A \Rightarrow A = 0,2m$$
 
 Οπότε η εξίσωση του κύματος είναι
 
