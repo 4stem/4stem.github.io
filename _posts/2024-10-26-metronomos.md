@@ -3,7 +3,7 @@ layout: post
 title: "Ισορροπία και Ταλάντωση Οπλισμού Ηλεκτρονόμου "
 description: "Ένας οπλισμός για τη φυσική"
 category: Άσκηση
-tags: [Ταλάντωση]
+tags: [Ταλαντώσεις]
 ---
 {% include JB/setup %}
 

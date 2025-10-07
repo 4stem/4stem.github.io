@@ -3,7 +3,7 @@ layout: post
 category : Άρθρο
 title: Η γιορτή του Πολυτεχνείου
 tagline: Εσπερινό ΕΠΑΛ ΚΩ
-tags : [Μαθηματικά]
+tags : [Εργαστήριο]
 ---
 {% include JB/setup %}
 
