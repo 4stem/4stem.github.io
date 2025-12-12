@@ -2,7 +2,7 @@
 layout: post
 category : Άρθρο
 title: Παρεμβάσεις στην καθημερινότητα
-tagline: Σε αντίστροφη χρονολογική σειρά
+tagline: Η σελίδα ανανεώνεται τακτικά 
 tags : [Κβαντομηχανική]
 ---
 {% include JB/setup %}
@@ -11,6 +11,19 @@ tags : [Κβαντομηχανική]
 <hr style="width: 50%; height: 2px; background-color: gray; border: none;">
 **2025**
 <hr style="width: 50%; height: 2px; background-color: gray; border: none;">
+
+
+**Νοέμβριος**
+
+40ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2025/11/40_synedrio_2025_ioannina_programm_site.pdf)
+
+Η εξίσωση του Schrödinger: Μια πρόταση διδασκαλίας για τη δυσκολότερη
+εξίσωση της Φυσικής στο Νέο Αναλυτικό Πρόγραμμα [Ιωάννινα](https://docs.google.com/document/d/1A4POmC9BRBcb-sanS4rZwpyIwL3E4_nY/edit?usp=sharing&ouid=107133918000966681447&rtpof=true&sd=true)
+
+
+
+Ο Αϊνστάιν και η τεχνητή νοημοσύνη [aegeanews](https://aegeanews.gr/news/en-dodekaniso/599187/ainstain-kai-techniti-noimosyni-grafei-panagiotis-petridis/)
+
 
 
 **Αύγουστος**
