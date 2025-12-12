@@ -13,6 +13,12 @@ tags : [Κβαντομηχανική]
 <hr style="width: 50%; height: 2px; background-color: gray; border: none;">
 
 
+**Δεκέμβριος**
+
+Οδηγίες διδασκαλίας [ylikonet](https://ylikonet.gr/2025/12/01/%ce%bf%ce%b4%ce%b7%ce%b3%ce%af%ce%b5%cf%82-%ce%b4%ce%b9%ce%b4%ce%b1%cf%83%ce%ba%ce%b1%ce%bb%ce%af%ce%b1%cf%82/)
+
+
+
 **Νοέμβριος**
 
 40ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2025/11/40_synedrio_2025_ioannina_programm_site.pdf)
@@ -340,12 +346,13 @@ tags : [Κβαντομηχανική]
 
 
 
+
+**Μάρτιος**
+
+
 Το Γ4 αλλιώς, Πανελλαδικές 2013
 [ylikonet](https://ylikonet.gr/2017/03/31/%cf%84%ce%bf-%ce%b34-%ce%b1%ce%bb%ce%bb%ce%b9%cf%8e%cf%82-%cf%80%ce%b1%ce%bd%ce%b5%ce%bb%ce%bb%ce%b1%ce%b4%ce%b9%ce%ba%ce%ad%cf%82-2013/)
 
-
-
-**Μάρτιος**
 
 Το multilog μέσα στην τάξη
 [ylikonet](https://ylikonet.gr/2017/03/31/%cf%84%ce%bf-multilog-%ce%bc%ce%ad%cf%83%ce%b1-%cf%83%cf%84%ce%b7%ce%bd-%cf%84%ce%ac%ce%be%ce%b7/)
