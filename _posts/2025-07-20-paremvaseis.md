@@ -8,6 +8,18 @@ tags : [Κβαντομηχανική]
 {% include JB/setup %}
 
 
+
+<hr style="width: 50%; height: 2px; background-color: gray; border: none;">
+**2026**
+<hr style="width: 50%; height: 2px; background-color: gray; border: none;">
+
+**Ιανουάριος**
+
+
+Ο Αστρολάβος των εκπαιδευτικών [alfavita](https://www.alfavita.gr/ekpaideysi/501022_mia-diaforetiki-protasi-mathisis-gia-tis-giortes-o-astrolabos-ton-ekpaideytikon)
+
+
+
 <hr style="width: 50%; height: 2px; background-color: gray; border: none;">
 **2025**
 <hr style="width: 50%; height: 2px; background-color: gray; border: none;">
