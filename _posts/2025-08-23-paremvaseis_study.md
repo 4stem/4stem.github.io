@@ -3,7 +3,7 @@ layout: post
 category : Άρθρο
 title: Παρεμβάσεις study4exams
 tagline: Για ενδοσχολική χρήση
-tags : [Κβαντομηχανική]
+tags : [Φυσική]
 ---
 {% include JB/setup %}
 
