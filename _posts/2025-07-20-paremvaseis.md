@@ -13,6 +13,15 @@ tags : [Φυσική]
 **2026**
 <hr style="width: 50%; height: 2px; background-color: gray; border: none;">
 
+
+**Φεβρουάριος**
+
+
+Η Φυσική στο εργαστήριο, όχι στον πίνακα [aegeanews](https://aegeanews.gr/news/dimosias-krisis/610016/fysiki-sto-ergastirio-ochi-ston-pinaka-panagiotis-petridis/)
+
+
+Οι Τρεις Ιεράρχες, ο Ιπποκράτης και ο Φάινμαν [aegeanews](https://aegeanews.gr/news/dimosias-krisis/609207/treis-ierarches-ippokratis-kai-fainman-petridis-savvas-kathigitis-fysikis/)
+
 **Ιανουάριος**
 
 
