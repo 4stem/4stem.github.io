@@ -17,6 +17,10 @@ tags : [Φυσική]
 **Φεβρουάριος**
 
 
+Από τη βροχή στη λειψυδρία [vimatisko](https://vimatisko.gr/katigoria/kentriki-2/p-petridis-apo-ti-vroxi-sti-leipsydria)
+
+
+
 Η Φυσική στο εργαστήριο, όχι στον πίνακα [aegeanews](https://aegeanews.gr/news/dimosias-krisis/610016/fysiki-sto-ergastirio-ochi-ston-pinaka-panagiotis-petridis/)
 
 
