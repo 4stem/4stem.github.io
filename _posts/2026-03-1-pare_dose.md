@@ -617,60 +617,51 @@ tags: [Εργαστήριο]
         showStep('step5');
     }
 
-    function createChart() {
-        const ctx = document.getElementById('myChart');
-        if (chart) chart.destroy();
+function createChart() {
+    const ctx = document.getElementById('myChart');
+    if (chart) chart.destroy();
 
-        chart = new Chart(ctx, {
-            type: 'scatter',
-            data: {
-                datasets: [{
-                    label: 'Μετρήσεις',
-                    data: dataPoints,
-                    backgroundColor: '#e74c3c',
-                    borderColor: '#c0392b',
-                    pointRadius: 8,
-                    pointHoverRadius: 10
-                }]
-            },
-            options: {
-                responsive: true,
-                maintainAspectRatio: false,
-                scales: {
-                    x: {
-                        title: {
-                            display: true,
-                            text: `${xLabel} (${xUnit}) →`,
-                            font: { size: 16, weight: 'bold' }
-                        },
-                        ticks: {
-                            callback: function(value) {
-                                return value.toExponential(2);
-                            }
-                        }
-                    },
-                    y: {
-                        title: {
-                            display: true,
-                            text: `${yLabel} (${yUnit}) →`,
-                            font: { size: 16, weight: 'bold' }
-                        },
-                        ticks: {
-                            callback: function(value) {
-                                return value.toExponential(2);
-                            }
-                        }
+    chart = new Chart(ctx, {
+        type: 'scatter',
+        data: {
+            datasets: [{
+                label: 'Μετρήσεις',
+                data: dataPoints,
+                backgroundColor: '#e74c3c',
+                borderColor: '#c0392b',
+                pointRadius: 8,
+                pointHoverRadius: 10
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+                x: {
+                    title: {
+                        display: true,
+                        text: `${xLabel} (${xUnit})`,
+                        font: { size: 16, weight: 'bold' }
                     }
                 },
-                plugins: {
-                    legend: {
+                y: {
+                    title: {
                         display: true,
-                        position: 'top'
+                        text: `${yLabel} (${yUnit})`,
+                        font: { size: 16, weight: 'bold' }
                     }
                 }
+            },
+            plugins: {
+                legend: {
+                    display: true,
+                    position: 'top'
+                }
             }
-        });
-    }
+        },
+        plugins: [arrowPlugin]
+    });
+}
 
     function answerLinear(isLinear) {
         if (isLinear) {
@@ -713,62 +704,53 @@ tags: [Εργαστήριο]
         showStep('step5c');
     }
 
-    function createSquaredChart() {
-        const ctx = document.getElementById('squaredChart');
-        if (squaredChart) squaredChart.destroy();
+function createSquaredChart() {
+    const ctx = document.getElementById('squaredChart');
+    if (squaredChart) squaredChart.destroy();
 
-        const squaredPoints = dataPoints.map(p => ({ x: p.x * p.x, y: p.y }));
+    const squaredPoints = dataPoints.map(p => ({ x: p.x * p.x, y: p.y }));
 
-        squaredChart = new Chart(ctx, {
-            type: 'scatter',
-            data: {
-                datasets: [{
-                    label: 'Μετρήσεις (X²)',
-                    data: squaredPoints,
-                    backgroundColor: '#e74c3c',
-                    borderColor: '#c0392b',
-                    pointRadius: 8,
-                    pointHoverRadius: 10
-                }]
-            },
-            options: {
-                responsive: true,
-                maintainAspectRatio: false,
-                scales: {
-                    x: {
-                        title: {
-                            display: true,
-                            text: `${xLabel}² (${xUnit}²) →`,
-                            font: { size: 16, weight: 'bold' }
-                        },
-                        ticks: {
-                            callback: function(value) {
-                                return value.toExponential(2);
-                            }
-                        }
-                    },
-                    y: {
-                        title: {
-                            display: true,
-                            text: `${yLabel} (${yUnit}) →`,
-                            font: { size: 16, weight: 'bold' }
-                        },
-                        ticks: {
-                            callback: function(value) {
-                                return value.toExponential(2);
-                            }
-                        }
+    squaredChart = new Chart(ctx, {
+        type: 'scatter',
+        data: {
+            datasets: [{
+                label: 'Μετρήσεις (X²)',
+                data: squaredPoints,
+                backgroundColor: '#e74c3c',
+                borderColor: '#c0392b',
+                pointRadius: 8,
+                pointHoverRadius: 10
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+                x: {
+                    title: {
+                        display: true,
+                        text: `${xLabel}² (${xUnit}²)`,
+                        font: { size: 16, weight: 'bold' }
                     }
                 },
-                plugins: {
-                    legend: {
+                y: {
+                    title: {
                         display: true,
-                        position: 'top'
+                        text: `${yLabel} (${yUnit})`,
+                        font: { size: 16, weight: 'bold' }
                     }
                 }
+            },
+            plugins: {
+                legend: {
+                    display: true,
+                    position: 'top'
+                }
             }
-        });
-    }
+        },
+        plugins: [arrowPlugin]
+    });
+}
 
     function drawSquaredLine() {
         const squaredPoints = dataPoints.map(p => ({ x: p.x * p.x, y: p.y }));
@@ -801,87 +783,78 @@ tags: [Εργαστήριο]
         createFinalChart(points, linePoints, slope, intercept, isSquared);
     }
 
-    function createFinalChart(points, linePoints, slope, intercept, isSquared) {
-        const ctx = document.getElementById('finalChart');
-        if (finalChart) finalChart.destroy();
+function createFinalChart(points, linePoints, slope, intercept, isSquared) {
+    const ctx = document.getElementById('finalChart');
+    if (finalChart) finalChart.destroy();
 
-        const xAxisLabel = isSquared ? `${xLabel}² (${xUnit}²) →` : `${xLabel} (${xUnit}) →`;
-        const xAxisUnit = isSquared ? `${xUnit}²` : xUnit;
+    const xAxisLabel = isSquared ? `${xLabel}² (${xUnit}²)` : `${xLabel} (${xUnit})`;
+    const xAxisUnit = isSquared ? `${xUnit}²` : xUnit;
 
-        finalChart = new Chart(ctx, {
-            type: 'scatter',
-            data: {
-                datasets: [
-                    {
-                        label: 'Μετρήσεις',
-                        data: points,
-                        backgroundColor: '#e74c3c',
-                        borderColor: '#c0392b',
-                        pointRadius: 8,
-                        pointHoverRadius: 10,
-                        showLine: false
-                    },
-                    {
-                        label: 'Ευθεία Προσαρμογής',
-                        data: linePoints,
-                        type: 'line',
-                        borderColor: '#3498db',
-                        backgroundColor: 'rgba(52, 152, 219, 0.1)',
-                        borderWidth: 3,
-                        pointRadius: 0,
-                        fill: false
-                    }
-                ]
-            },
-            options: {
-                responsive: true,
-                maintainAspectRatio: false,
-                scales: {
-                    x: {
-                        title: {
-                            display: true,
-                            text: xAxisLabel,
-                            font: { size: 16, weight: 'bold' }
-                        },
-                        ticks: {
-                            callback: function(value) {
-                                return value.toExponential(2);
-                            }
-                        }
-                    },
-                    y: {
-                        title: {
-                            display: true,
-                            text: `${yLabel} (${yUnit}) →`,
-                            font: { size: 16, weight: 'bold' }
-                        },
-                        ticks: {
-                            callback: function(value) {
-                                return value.toExponential(2);
-                            }
-                        }
+    finalChart = new Chart(ctx, {
+        type: 'scatter',
+        data: {
+            datasets: [
+                {
+                    label: 'Μετρήσεις',
+                    data: points,
+                    backgroundColor: '#e74c3c',
+                    borderColor: '#c0392b',
+                    pointRadius: 8,
+                    pointHoverRadius: 10,
+                    showLine: false
+                },
+                {
+                    label: 'Ευθεία Προσαρμογής',
+                    data: linePoints,
+                    type: 'line',
+                    borderColor: '#3498db',
+                    backgroundColor: 'rgba(52, 152, 219, 0.1)',
+                    borderWidth: 3,
+                    pointRadius: 0,
+                    fill: false
+                }
+            ]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+                x: {
+                    title: {
+                        display: true,
+                        text: xAxisLabel,
+                        font: { size: 16, weight: 'bold' }
                     }
                 },
-                plugins: {
-                    legend: {
+                y: {
+                    title: {
                         display: true,
-                        position: 'top'
+                        text: `${yLabel} (${yUnit})`,
+                        font: { size: 16, weight: 'bold' }
                     }
                 }
+            },
+            plugins: {
+                legend: {
+                    display: true,
+                    position: 'top'
+                }
             }
-        });
+        },
+        plugins: [arrowPlugin]
+    });
 
-        document.getElementById('slopeResult').innerHTML = `
-            <h3>📈 Αποτελέσματα Γραμμικής Προσαρμογής</h3>
-            <p><strong>Κλίση (Εφαπτομένη):</strong> ${formatScientific(slope)} ${yUnit}/${xAxisUnit}</p>
-            <p><strong>Σταθερά (y-intercept):</strong> ${formatScientific(intercept)} ${yUnit}</p>
-            <p><strong>Εξίσωση Ευθείας:</strong> y = ${formatScientific(slope)}x + ${formatScientific(intercept)}</p>
-        `;
-        
-        if (window.MathJax) {
-            MathJax.typesetPromise();
-        }
+    document.getElementById('slopeResult').innerHTML = `
+        <h3>📈 Αποτελέσματα Γραμμικής Προσαρμογής</h3>
+        <p><strong>Κλίση (Εφαπτομένη):</strong> ${formatScientific(slope)} ${yUnit}/${xAxisUnit}</p>
+        <p><strong>Σταθερά (y-intercept):</strong> ${formatScientific(intercept)} ${yUnit}</p>
+        <p><strong>Εξίσωση Ευθείας:</strong> y = ${formatScientific(slope)}x + ${formatScientific(intercept)}</p>
+    `;
+    
+    if (window.MathJax) {
+        MathJax.typesetPromise();
     }
+}
 
     function showStep(stepId) {
         document.querySelectorAll('#physics-app-container .step').forEach(step => {
@@ -907,6 +880,55 @@ tags: [Εργαστήριο]
             showStep('step1');
         }
     }
+    // Plugin για βέλη στους άξονες
+// Plugin για βέλη στους άξονες
+    
+const arrowPlugin = {
+    id: 'arrowPlugin',
+    afterDatasetsDraw(chart) {
+        const ctx = chart.ctx;
+        const xAxis = chart.scales.x;
+        const yAxis = chart.scales.y;
+        
+        // Βρες τα όρια του chart area (μέσα στο πλέγμα)
+        const chartArea = chart.chartArea;
+        
+        ctx.save();
+        ctx.strokeStyle = '#333';
+        ctx.fillStyle = '#333';
+        ctx.lineWidth = 2;
+
+        // Βέλος άξονα X (δεξιά, μέσα στο γράφημα)
+        const xEnd = chartArea.right;
+        const xY = yAxis.getPixelForValue(0); // Y=0 position
+        
+        // Αν το Y=0 δεν είναι ορατό, βάλε το βέλος στο bottom
+        const xArrowY = (xY >= chartArea.top && xY <= chartArea.bottom) ? xY : chartArea.bottom;
+        
+        ctx.beginPath();
+        ctx.moveTo(xEnd, xArrowY);
+        ctx.lineTo(xEnd - 10, xArrowY - 5);
+        ctx.lineTo(xEnd - 10, xArrowY + 5);
+        ctx.closePath();
+        ctx.fill();
+
+        // Βέλος άξονα Y (πάνω, μέσα στο γράφημα)
+        const yX = xAxis.getPixelForValue(0); // X=0 position
+        const yEnd = chartArea.top;
+        
+        // Αν το X=0 δεν είναι ορατό, βάλε το βέλος στο left
+        const yArrowX = (yX >= chartArea.left && yX <= chartArea.right) ? yX : chartArea.left;
+        
+        ctx.beginPath();
+        ctx.moveTo(yArrowX, yEnd);
+        ctx.lineTo(yArrowX - 5, yEnd + 10);
+        ctx.lineTo(yArrowX + 5, yEnd + 10);
+        ctx.closePath();
+        ctx.fill();
+
+        ctx.restore();
+    }
+};
 </script>
 
 
