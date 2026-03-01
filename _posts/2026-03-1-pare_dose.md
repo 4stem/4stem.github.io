@@ -363,7 +363,7 @@ tags: [Εργαστήριο]
     </button>
 
     <div class="social-buttons">
-        <a href="https://github.com/panagiotis2011" target="_blank" class="social-btn github" title="GitHub - Panagiotis Petridis">
+        <a href="https://github.com/4stem" target="_blank" class="social-btn github" title="GitHub - Panagiotis Petridis">
             <i class="fab fa-github"></i>
         </a>
         <a href="https://www.facebook.com/papetridis" target="_blank" class="social-btn facebook" title="Facebook - Panagiotis Petridis">
@@ -1030,5 +1030,5 @@ const arrowPlugin = {
 ### 🆘 Χρειάζεστε Βοήθεια;
 
 Αν έχετε πρόβλημα, επικοινωνήστε μαζί μου μέσω:
-- Email: [sch@sch.gr]
+- Email: [sch(at)sch.gr]
 ή στα social media buttons!
