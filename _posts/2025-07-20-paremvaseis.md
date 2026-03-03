@@ -17,6 +17,9 @@ tags : [Φυσική]
 **Φεβρουάριος**
 
 
+Στον Σείριο υπάρχουνε παιδιά. [aegeanews](https://aegeanews.gr/news/en-dodekaniso/612994/ston-seirio-yparchoune-paidia-mia-vradia-astroparatirisis-sto-epal/)
+
+
 Από τη βροχή στη λειψυδρία [vimatisko](https://vimatisko.gr/katigoria/kentriki-2/p-petridis-apo-ti-vroxi-sti-leipsydria)
 
 
