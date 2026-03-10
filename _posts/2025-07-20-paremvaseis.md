@@ -14,6 +14,13 @@ tags : [Φυσική]
 <hr style="width: 50%; height: 2px; background-color: gray; border: none;">
 
 
+
+**Μάρτιος**
+
+
+Πόλεμος: αποτυχία της Παιδείας. [aegeanews](https://aegeanews.gr/news/dimosias-krisis/614277/polemos-apotychia-tis-paideias/)
+
+
 **Φεβρουάριος**
 
 
@@ -445,15 +452,9 @@ tags : [Φυσική]
 <hr style="width: 50%; height: 2px; background-color: gray; border: none;">
 
 
-
-[about.me](https://about.me/petridis)
+από τον Ιούνιο του 2014
 
 [blogspot](https://esecuritylab.blogspot.com/)
-
-[tumblr1](https://28lykeio.tumblr.com/)
-
-[tumblr2](https://27lykeio.tumblr.com/)
-
 
 από τον Σεπτέμβριο του 2010
 
@@ -462,6 +463,13 @@ tags : [Φυσική]
 και από τον Οκτώβριο του 2006
 
 [wordpress](https://kariesnews.wordpress.com/)
+
+
+[about.me](https://about.me/petridis)
+
+[tumblr1](https://28lykeio.tumblr.com/)
+
+[tumblr2](https://27lykeio.tumblr.com/)
 
 
 
