@@ -17,8 +17,10 @@ tags : [Φυσική]
 
 **Μάρτιος**
 
+Από το π στην Παιδεία. [parallaxi](https://parallaximag.gr/parallax-view/apo-to-p-stin-paideia)
 
-Πόλεμος: αποτυχία της Παιδείας. [aegeanews](https://aegeanews.gr/news/dimosias-krisis/614277/polemos-apotychia-tis-paideias/)
+
+Πόλεμος: αποτυχία της Παιδείας. [aegeanews](https://aegeanews.gr/news/dimosias-krisis/614277/polemos-apotychia-tis-paideias/) [vimatisko](https://vimatisko.gr/katigoria/epikairotita/p-petridis-polemos---apotyxia-tis-paideias)
 
 
 **Φεβρουάριος**
