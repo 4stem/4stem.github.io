@@ -17,6 +17,11 @@ tags : [Φυσική]
 
 **Μάρτιος**
 
+
+Εαρινή ισημερία. Από την αστρονομία του Ερατοσθένη στην αστρολογία των νεόπλουτων. [parallaxi](https://parallaximag.gr/parallax-view/earini-isimeria-apo-tin-astronomia-toy-eratostheni-stin-astrologia-ton-neoployton)
+[alfavita](https://www.alfavita.gr/ekpaideysi/510526_earini-isimeria-apo-tin-astronomia-toy-eratostheni-stin-astrologia-ton-neoployton)
+
+
 Από το π στην Παιδεία. [parallaxi](https://parallaximag.gr/parallax-view/apo-to-p-stin-paideia)
 
 
