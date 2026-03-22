@@ -20,6 +20,9 @@ tags : [Φυσική]
 
 Εαρινή ισημερία. Από την αστρονομία του Ερατοσθένη στην αστρολογία των νεόπλουτων. [parallaxi](https://parallaximag.gr/parallax-view/earini-isimeria-apo-tin-astronomia-toy-eratostheni-stin-astrologia-ton-neoployton)
 [alfavita](https://www.alfavita.gr/ekpaideysi/510526_earini-isimeria-apo-tin-astronomia-toy-eratostheni-stin-astrologia-ton-neoployton)
+[vimatisko](https://vimatisko.gr/katigoria/topika/p-petridis-apo-tin-astronomia-toy-eratostheni)
+[aegeanews](https://aegeanews.gr/news/fimes/615922/earini-isimeria-apo-tin-astronomia-tou-eratostheni-stin-astrologia-ton-neoplouton-panagiotis-petridis/)
+
 
 
 Από το π στην Παιδεία. [parallaxi](https://parallaximag.gr/parallax-view/apo-to-p-stin-paideia)
