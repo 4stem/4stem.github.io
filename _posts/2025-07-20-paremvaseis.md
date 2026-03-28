@@ -458,6 +458,17 @@ tags : [Φυσική]
 
 
 <hr style="width: 50%; height: 2px; background-color: gray; border: none;">
+**2011**
+<hr style="width: 50%; height: 2px; background-color: gray; border: none;">
+
+
+**Αύγουστος**
+
+Χώρος χρόνος Χριστός [kariesnews](https://kariesnews.wordpress.com/2011/08/19/aysthrws-akatallhlo/)
+
+
+
+<hr style="width: 50%; height: 2px; background-color: gray; border: none;">
 Ιστοσελίδες
 <hr style="width: 50%; height: 2px; background-color: gray; border: none;">
 
@@ -466,13 +477,19 @@ tags : [Φυσική]
 
 [blogspot](https://esecuritylab.blogspot.com/)
 
-από τον Σεπτέμβριο του 2010
+
+
+από τον Αύγουστο του 2010
 
 [github](https://4stem.github.io/)
+
+
 
 και από τον Οκτώβριο του 2006
 
 [wordpress](https://kariesnews.wordpress.com/)
+
+
 
 
 [about.me](https://about.me/petridis)

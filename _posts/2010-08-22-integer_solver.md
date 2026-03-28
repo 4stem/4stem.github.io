@@ -3,10 +3,10 @@ layout: post
 title: "Επίλυση Ακεραίου"
 description: "Διαδραστική εφαρμογή που βρίσκει συνδυασμούς δεδομένων για τους οποίους οι τιμές των ζητούμενων μεγεθών είναι ακέραιοι ή δεκαδικοί αριθμοί."
 category: Εφαρμογή
-tags: [Εργαστήριο]
+tags: []
 ---
 
-# Εφαρμογή εύρεσης ακέραιων ή δεκαδικών
+# Επίλυση Ακεραίου
 
 Διαδραστική εφαρμογή που βρίσκει συνδυασμούς δεδομένων για τους οποίους οι τιμές των ζητούμενων μεγεθών είναι ακέραιοι ή δεκαδικοί αριθμοί.
 
@@ -24,13 +24,9 @@ tags: [Εργαστήριο]
 
 ---
 
-<script>
-window.MathJax = {
-  tex: { inlineMath: [['\\(','\\)']] },
-  startup: { ready() { MathJax.startup.defaultReady(); } }
-};
-</script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-chtml.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/contrib/auto-render.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/12.4.1/math.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
@@ -76,8 +72,10 @@ window.MathJax = {
 #isw .eq-row{display:flex;gap:8px;align-items:center;margin-bottom:8px;}
 #isw .eq-row label{min-width:60px;font-size:13px;}
 #isw .eq-row input[type=text]{font-family:'Courier New',monospace;font-size:13px;}
-#isw .preview{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:8px 14px;min-height:40px;font-size:16px;margin-top:6px;}
-#isw .mjs-preview{font-family:'Courier New',monospace;font-size:12px;color:var(--text2);background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:6px 10px;margin-top:4px;word-break:break-all;}
+#isw .preview{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:10px 14px;min-height:56px;margin-top:8px;overflow-x:auto;display:flex;align-items:center;}
+#isw .preview .katex-display{margin:0;text-align:left;}
+#isw .preview .katex{font-size:1.1em;}
+#isw .mjs-preview{font-family:'Courier New',monospace;font-size:12px;color:var(--text2);background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:6px 10px;margin-top:6px;word-break:break-all;}
 #isw .mjs-preview.ok{color:var(--green);}#isw .mjs-preview.err{color:var(--red);}
 #isw .status{font-size:13px;padding:8px 14px;border-radius:var(--radius);background:var(--blue-bg);color:#667eea;border:1px solid var(--blue-bdr);margin-top:8px;}
 #isw .status.err{background:var(--red-bg);color:var(--red);border-color:var(--red-bdr);}
@@ -343,7 +341,7 @@ function addEq(){
       <label style="min-width:60px">LaTeX</label>
       <input type="text" class="wide" id="${id}_l" placeholder="π.χ.  \\frac{2m}{\\sin(\\theta)}" oninput="updateEq('${id}')"/>
     </div>
-    <div class="preview" id="${id}_p" style="min-height:36px;color:var(--text3);font-size:13px">preview LaTeX…</div>
+    <div class="preview" id="${id}_p" style="color:var(--text3);font-size:13px">preview LaTeX…</div>
     <div class="mjs-preview" id="${id}_j">— γράψε LaTeX παραπάνω —</div>`;
   document.getElementById('eqList').appendChild(div);
 }
@@ -352,8 +350,10 @@ function updateEq(id){
   const latex=document.getElementById(id+'_l').value;
   const prev=document.getElementById(id+'_p');const jprev=document.getElementById(id+'_j');
   if(!latex){prev.innerHTML='preview LaTeX…';prev.style.color='var(--text3)';jprev.textContent='—';jprev.className='mjs-preview';return;}
-  prev.style.color='';prev.innerHTML=`\\(${latex}\\)`;
-  if(window.MathJax&&MathJax.typesetPromise)MathJax.typesetPromise([prev]);
+  prev.style.color='';
+  try {
+    katex.render(latex, prev, {throwOnError: false, displayMode: true, output: 'html'});
+  } catch(e) { prev.textContent = latex; }
   let rhs=latex;const ei=latex.indexOf('=');if(ei>=0)rhs=latex.slice(ei+1).trim();
   const mjs=latexToMathjs(rhs);const t=tryEval(mjs);
   jprev.textContent=`Έκφραση: ${mjs}`+(t.ok?'':` ← σφάλμα: ${t.err}`);
@@ -468,10 +468,17 @@ function getValsForVar(v){
   if(tr.dataset.isAngle==='1'){
     const mi=parseInt(tr.querySelector('.amin')?.value||0),mx=parseInt(tr.querySelector('.amax')?.value||7),si=parseInt(tr.querySelector('.astep')?.value||3);
     const step=ANGLE_PRESETS[si].v||(Math.PI/12),minR=ANGLE_PRESETS[mi].v,maxR=ANGLE_PRESETS[mx].v;
-    const vals=[];for(let x=minR;x<=maxR+1e-9;x+=step)vals.push(Math.round(x*1e10)/1e10);return vals.length?vals:[minR];
+    const vals=[];
+    const count=Math.round((maxR-minR)/step)+1;
+    for(let i=0;i<count;i++){const x=minR+i*step;if(x<=maxR+1e-9)vals.push(Math.round(x*1e10)/1e10);}
+    return vals.length?vals:[minR];
   }
-  const mn=parseFloat(tr.querySelector('.rmin')?.value)||1,mx=parseFloat(tr.querySelector('.rmax')?.value)||20,st=parseFloat(tr.querySelector('.rstep')?.value)||1;
-  const vals=[];for(let x=mn;x<=mx+1e-9;x+=st)vals.push(Math.round(x*1e5)/1e5);return vals.length?vals:[mn];
+  const mn=parseFloat(tr.querySelector('.rmin')?.value),mx=parseFloat(tr.querySelector('.rmax')?.value),st=parseFloat(tr.querySelector('.rstep')?.value)||1;
+  if(isNaN(mn)||isNaN(mx))return[mn||1];
+  const vals=[];
+  const count=Math.floor(Math.round((mx-mn)/st*1e9)/1e9)+1;
+  for(let i=0;i<count;i++){const x=mn+i*st;if(x<=mx+st*1e-9)vals.push(Math.round(x*1e9)/1e9);}
+  return vals.length?vals:[mn];
 }
 function updateCount(v){const el=document.getElementById('cc_'+v);if(el)el.textContent=getValsForVar(v).length+' τιμές';}
 function updateTotals(){
@@ -632,7 +639,7 @@ function selectResult(i){
     rows+=`<tr class="sol-unknown"><td class="sol-var">\\(${u}\\)</td><td class="sol-eq">=</td><td class="sol-val">${val}</td><td class="sol-unit">${unit?`<span style="font-size:15px;color:var(--text2)">${unit}</span>`:''}</td></tr>`;
   });
   document.getElementById('solutionArea').innerHTML=`<div class="solution-card"><div class="sol-header">Λύση</div><table class="sol-table">${rows}</table></div>`;
-  if(window.MathJax&&MathJax.typesetPromise)MathJax.typesetPromise([document.getElementById('solutionArea')]);
+  if(window.renderMathInElement) renderMathInElement(document.getElementById('solutionArea'), {delimiters:[{left:'\\(',right:'\\)',display:false}], throwOnError:false});
   document.getElementById('solutionArea').scrollIntoView({behavior:'smooth',block:'nearest'});
 }
 function resetAll(){
