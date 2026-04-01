@@ -18,6 +18,10 @@ tags : [Φυσική]
 **Μάρτιος**
 
 
+Πόλεμος: αποτυχία της θρησκείας. [aegeanews](https://aegeanews.gr/news/dimosias-krisis/617261/polemos-apotychia-tis-thriskeias-tou-panagioti-petridi/) [vimatisko](https://vimatisko.gr/katigoria/topika/p-petridis-polemos---apotyxia-tis-thriskeias)
+
+
+
 Εαρινή ισημερία. Από την αστρονομία του Ερατοσθένη στην αστρολογία των νεόπλουτων. [parallaxi](https://parallaximag.gr/parallax-view/earini-isimeria-apo-tin-astronomia-toy-eratostheni-stin-astrologia-ton-neoployton)
 [alfavita](https://www.alfavita.gr/ekpaideysi/510526_earini-isimeria-apo-tin-astronomia-toy-eratostheni-stin-astrologia-ton-neoployton)
 [vimatisko](https://vimatisko.gr/katigoria/topika/p-petridis-apo-tin-astronomia-toy-eratostheni)
@@ -26,6 +30,7 @@ tags : [Φυσική]
 
 
 Από το π στην Παιδεία. [parallaxi](https://parallaximag.gr/parallax-view/apo-to-p-stin-paideia)
+
 
 
 Πόλεμος: αποτυχία της Παιδείας. [aegeanews](https://aegeanews.gr/news/dimosias-krisis/614277/polemos-apotychia-tis-paideias/) [vimatisko](https://vimatisko.gr/katigoria/epikairotita/p-petridis-polemos---apotyxia-tis-paideias)
@@ -37,14 +42,21 @@ tags : [Φυσική]
 Στον Σείριο υπάρχουνε παιδιά. [aegeanews](https://aegeanews.gr/news/en-dodekaniso/612994/ston-seirio-yparchoune-paidia-mia-vradia-astroparatirisis-sto-epal/)
 
 
+
+
 Από τη βροχή στη λειψυδρία [vimatisko](https://vimatisko.gr/katigoria/kentriki-2/p-petridis-apo-ti-vroxi-sti-leipsydria)
+
 
 
 
 Η Φυσική στο εργαστήριο, όχι στον πίνακα [aegeanews](https://aegeanews.gr/news/dimosias-krisis/610016/fysiki-sto-ergastirio-ochi-ston-pinaka-panagiotis-petridis/)
 
 
+
 Οι Τρεις Ιεράρχες, ο Ιπποκράτης και ο Φάινμαν [aegeanews](https://aegeanews.gr/news/dimosias-krisis/609207/treis-ierarches-ippokratis-kai-fainman-petridis-savvas-kathigitis-fysikis/)
+
+
+
 
 **Ιανουάριος**
 
@@ -60,13 +72,16 @@ tags : [Φυσική]
 
 **Δεκέμβριος**
 
+
 Οδηγίες διδασκαλίας [ylikonet](https://ylikonet.gr/2025/12/01/%ce%bf%ce%b4%ce%b7%ce%b3%ce%af%ce%b5%cf%82-%ce%b4%ce%b9%ce%b4%ce%b1%cf%83%ce%ba%ce%b1%ce%bb%ce%af%ce%b1%cf%82/)
 
 
 
 **Νοέμβριος**
 
+
 40ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2025/11/40_synedrio_2025_ioannina_programm_site.pdf)
+
 
 Η εξίσωση του Schrödinger: Μια πρόταση διδασκαλίας για τη δυσκολότερη
 εξίσωση της Φυσικής στο Νέο Αναλυτικό Πρόγραμμα [Ιωάννινα](https://docs.google.com/document/d/1A4POmC9BRBcb-sanS4rZwpyIwL3E4_nY/edit?usp=sharing&ouid=107133918000966681447&rtpof=true&sd=true)
@@ -102,13 +117,13 @@ tags : [Φυσική]
 
 **Μάϊος**
 
+
 Αβλεψία στις οδηγίες διδασκαλίας για το μάθημα της Φυσικής της Γ' Λυκείου.
 [alfavita](https://www.alfavita.gr/ekpaideysi/478185_ablepsia-stis-odigies-didaskalias-gia-mathima-tis-fysikis-tis-g-lykeioy)
 [esos](https://www.esos.gr/arthra/93439/prosohi-stis-odigies-didaskalias-gia-mathima-tis-fysiki)
 
 
 Ένα μάθημα Φυσικής από το μπλακ άουτ της Ισπανίας για τα Δωδεκάνησα.
-
 Τι κοινό έχουν τα Πυρηναία Όρη με το Αιγαίο Πέλαγος;
 [egergypress](https://energypress.gr/news/ena-mathima-fysikis-apo-mplak-aoyt-tis-ispanias-gia-ta-dodekanisa-ti-koino-ehoyn-ta-pyrinaia)
 [aegeanews](https://aegeanews.gr/news/en-dodekaniso/573023/ena-mathima-fysikis-apo-mplak-aout-tis-ispanias-gia-dodekanisa-koino-echoun-pyrinaia-ori-aigaio-pelagos/)
@@ -121,12 +136,14 @@ tags : [Φυσική]
 
 **Απρίλιος**
 
+
 Τώρα η Κβαντομηχανική μας έλειπε
 [aegeanews](https://aegeanews.gr/news/technologia/567759/tora-kvantomichaniki-mas-eleipe-grafei-kathigitis-panagiotis-petridis/)
 
 
 
 **Μάρτιος**
+
 
 Σήμερα η Διεθνής Ημέρα των Μαθηματικών
 [alfavita](https://www.alfavita.gr/ekpaideysi/470197_simera-i-diethnis-imera-ton-mathimatikon)
@@ -141,12 +158,15 @@ tags : [Φυσική]
 
 **Φεβρουάριος**
 
+
 Τα μαθηματικά και το μήνυμα της μη βίας
 [aegeanews](https://aegeanews.gr/news/fimes/561019/mathimatika-kai-minyma-tis-vias-grafei-kathigitis-panagiotis-petridis/)
 
 
+
 Ο ποδηλατόδρομος στη Λεωφόρο Νίκης και το απόλυτο παράδειγμα της Μαδρίτης. 
 [parallaxi](https://parallaximag.gr/parallax-view/o-podilatodromos-sti-leoforo-nikis-kai-to-paradeigma-tis-madritis?fbclid=IwY2xjawLm375leHRuA2FlbQIxMQABHvtsuELs-bwk2RlV_zBj8_Z3kR-eoEOC0V5M52TtaUBVcLf1JyO9aBGdy6Zx_aem_usdE4_r971_bUCka0UrBDA)
+
 
 
 Το μέτρο και ο Ρίχτερ
@@ -155,6 +175,7 @@ tags : [Φυσική]
 
 
 **Ιανουάριος**
+
 
 Θερμά Κω: Ενοικιάζεται παράδεισος σε τιμή ευκαιρίας
 [aegeanews](https://aegeanews.gr/news/ta-en-dimo/558074/therma-ko-enoikiazetai-paradeisos-timi-efkairias-grafei-panagiotis-petridis/)
@@ -172,15 +193,20 @@ tags : [Φυσική]
 
 **Δεκέμβριος**
 
+
+
 Η αξιολόγηση που θέλω για το νέο έτος!
 [alfavita](https://www.alfavita.gr/ekpaideysi/465719_i-axiologisi-poy-thelo-gia-neo-etos)
 
 
 **Νοέμβριος**
 
+
+
 39ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2025/02/39_SYNEDRIO_PROGRAMMA_HLEKTRONIKH_EKDOSH.pdf)
 
 Μια πρωτότυπη μέθοδος εύρεσης του π με γωνίες [Αρχαία Ολυμπία](https://drive.google.com/file/d/1gTzJK9fxbdj_TeH-prD46bn9vR42RxHZ/view)
+
 
 
 Πολυτεχνείο: ψωμί για όλους, παιδεία για όλους, ελευθερία για όλους!
@@ -190,12 +216,14 @@ tags : [Φυσική]
 
 **Οκτώβριος**
 
+
 Πώς να καταστρέψεις τη δημόσια εκπαίδευση: Οδηγός για αρχάριους διευθυντές
 [alfavita](https://www.alfavita.gr/ekpaideysi/460209_pos-na-katastrepseis-ti-dimosia-ekpaideysi-odigos-gia-arharioys-dieythyntes)
 
 
 
 **Σεπτέμβριος**
+
 
 Το μαγευτικό φαινόμενο της βιοφωταύγειας στην παραλία "Εμπρός Θέρμες" στην Κω
 [vimatisko](https://vimatisko.gr/katigoria/kentriki-2/p-petridis-to-mageytiko-fainomeno-tis-viofota)
@@ -211,6 +239,7 @@ tags : [Φυσική]
 
 **Ιούνιος**
 
+
 Ενδεικτικές απαντήσεις στη Φυσική των ΓΕΛ
 [alfavita](https://www.alfavita.gr/panellinies/449648_panelladikes-2024-endeiktikes-apantiseis-sti-fysiki-ton-gel)
 
@@ -224,12 +253,14 @@ tags : [Φυσική]
 
 **Μάρτιος**
 
+
 Διεθνής Ημέρα Μαθηματικών
 [ylikonet](https://ylikonet.gr/2024/03/13/%ce%b4%ce%b9%ce%b5%ce%b8%ce%bd%ce%ae%cf%82-%ce%b7%ce%bc%ce%ad%cf%81%ce%b1-%ce%bc%ce%b1%ce%b8%ce%b7%ce%bc%ce%b1%cf%84%ce%b9%ce%ba%cf%8e%ce%bd/)
 
 
 
 **Φεβρουάριος**
+
 
 Σε εργαστήριο φυσικών επιστημών μετατράπηκε η παραλία των Θερμών, από τους φυσικούς του ΕΠΑΛ Κω
 [aegeanews](https://aegeanews.gr/news/en-dodekaniso/510686/ergastirio-fysikon-epistimon-metatrapike-paralia-ton-thermon-apo-tous-fysikous-tou-epal/)
@@ -245,12 +276,14 @@ tags : [Φυσική]
 
 **Νοέμβριος**
 
+
 38ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2025/02/38_syn_programma_v4_site.pdf)
 
 Ο Καρτέσιος ο ISS και το Raspberry pi [Σέρες](https://drive.google.com/file/d/1K6qfMwKHr1rKnZTpLV2upMdwoD4gwxN1/view)
 
 
 **Φεβρουάριος**
+
 
 Παγκόσμια ημέρα του π
 [ylikonet](https://ylikonet.gr/2023/02/08/%cf%80%ce%b1%ce%b3%ce%ba%cf%8c%cf%83%ce%bc%ce%b9%ce%b1-%ce%b7%ce%bc%ce%ad%cf%81%ce%b1-%cf%84%ce%bf%cf%85-%cf%80/)
@@ -263,6 +296,7 @@ tags : [Φυσική]
 
 
 **Νοέμβριος**
+
 
 37ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2023/02/37_programm_synedriou_vf.pdf)
 
@@ -479,7 +513,7 @@ tags : [Φυσική]
 
 
 
-από τον Αύγουστο του 2010
+από τον Ιούλιο του 2010
 
 [github](https://4stem.github.io/)
 
