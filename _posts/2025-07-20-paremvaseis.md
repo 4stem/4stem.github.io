@@ -14,6 +14,10 @@ tags : [Φυσική]
 <hr style="width: 50%; height: 2px; background-color: gray; border: none;">
 
 
+**Απρίλιος**
+
+Το «πολλαπλό βιβλίο» και η αξία της διερευνητικής μάθησης. [alfavita](https://www.alfavita.gr/ekpaideysi/513694_pollaplo-biblio-kai-i-axia-tis-diereynitikis-mathisis)
+
 
 **Μάρτιος**
 
