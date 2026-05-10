@@ -14,10 +14,11 @@ tags: [Εργαστήριο]
 ## Χαρακτηριστικά
 
 - ✅ Εισαγωγή ζευγαριών δεδομένων με υποστήριξη επιστημονικής σημειογραφίας (π.χ. 1.6e-19)
-- ✅ Γραφικές παραστάσεις με άξονες και θετική φορά (→)
+- ✅ Υποστήριξη δυνάμεων του 10 στις μονάδες (π.χ. `10^14 Hz`) — εισάγετε μόνο τον αριθμό, η δύναμη υπολογίζεται αυτόματα
+- ✅ Γραφικές παραστάσεις με LaTeX labels στους άξονες και απλούς αριθμούς στις κλίμακες
 - ✅ Γραμμική προσαρμογή με τη μέθοδο ελαχίστων τετραγώνων
 - ✅ Αυτόματος μετασχηματισμός σε X² για μη γραμμικές σχέσεις
-- ✅ Εμφάνιση αποτελεσμάτων με LaTeX
+- ✅ Αποτελέσματα με τα σύμβολα των φυσικών μεγεθών του χρήστη (π.χ. `f = a·λ + b`)
 - ✅ Λειτουργία πλήρους οθόνης
 - ✅ Responsive design για όλες τις συσκευές
 
@@ -174,6 +175,8 @@ tags: [Εργαστήριο]
         position: relative;
         height: 400px;
         margin: 30px 0;
+        padding-bottom: 48px;
+        padding-left: 36px;
     }
 
     #physics-app-container .result-box {
@@ -277,33 +280,13 @@ tags: [Εργαστήριο]
         box-shadow: 0 8px 25px rgba(0,0,0,0.4);
     }
 
-    #physics-app-container .social-btn.github {
-        background: #333;
-    }
-
-    #physics-app-container .social-btn.facebook {
-        background: #3b5998;
-    }
-
-    #physics-app-container .social-btn.twitter {
-        background: #1DA1F2;
-    }
-
-    #physics-app-container .social-btn.linkedin {
-        background: #0077B5;
-    }
-
-    #physics-app-container .social-btn.youtube {
-        background: #FF0000;
-    }
-
-    #physics-app-container .social-btn.wordpress {
-        background: #21759B;
-    }
-
-    #physics-app-container .social-btn.tumblr {
-        background: #35465C;
-    }
+    #physics-app-container .social-btn.github    { background: #333; }
+    #physics-app-container .social-btn.facebook  { background: #3b5998; }
+    #physics-app-container .social-btn.twitter   { background: #1DA1F2; }
+    #physics-app-container .social-btn.linkedin  { background: #0077B5; }
+    #physics-app-container .social-btn.youtube   { background: #FF0000; }
+    #physics-app-container .social-btn.wordpress { background: #21759B; }
+    #physics-app-container .social-btn.tumblr    { background: #35465C; }
 
     body.fullscreen-mode #physics-app-container {
         margin: 0;
@@ -315,6 +298,30 @@ tags: [Εργαστήριο]
         height: 100vh;
         border-radius: 0;
         overflow-y: auto;
+    }
+
+    /* HTML axis labels rendered with MathJax */
+    #physics-app-container .axis-label-html {
+        position: absolute;
+        font-size: 15px;
+        font-weight: bold;
+        color: #333;
+        white-space: nowrap;
+    }
+
+    #physics-app-container .axis-label-x {
+        bottom: 4px;
+        left: 50%;
+        transform: translateX(-50%);
+        text-align: center;
+    }
+
+    #physics-app-container .axis-label-y {
+        top: 50%;
+        left: -10px;
+        transform: translateY(-50%) rotate(-90deg);
+        transform-origin: center center;
+        text-align: center;
     }
 
     @media (max-width: 600px) {
@@ -389,6 +396,7 @@ tags: [Εργαστήριο]
     <div class="app-container">
         <h1 class="app-title">📊 Δώσε Δεδομένα - Πάρε Αποτελέσματα</h1>
 
+        <!-- Βήμα 1 -->
         <div id="step1" class="step active">
             <div class="form-group">
                 <label for="numPairs">Πόσα ζευγάρια τιμών θα εισάγετε;</label>
@@ -397,6 +405,7 @@ tags: [Εργαστήριο]
             <button onclick="goToStep2()">Επόμενο →</button>
         </div>
 
+        <!-- Βήμα 2 -->
         <div id="step2" class="step">
             <div class="form-group">
                 <label for="xLabel">Φυσικό μέγεθος άξονα X:</label>
@@ -404,7 +413,7 @@ tags: [Εργαστήριο]
             </div>
             <div class="form-group">
                 <label for="xUnit">Μονάδα μέτρησης άξονα X:</label>
-                <input type="text" id="xUnit" placeholder="π.χ. s">
+                <input type="text" id="xUnit" placeholder="π.χ. s  ή  10^25 Hz">
             </div>
             <div class="form-group">
                 <label for="yLabel">Φυσικό μέγεθος άξονα Y:</label>
@@ -412,7 +421,7 @@ tags: [Εργαστήριο]
             </div>
             <div class="form-group">
                 <label for="yUnit">Μονάδα μέτρησης άξονα Y:</label>
-                <input type="text" id="yUnit" placeholder="π.χ. m">
+                <input type="text" id="yUnit" placeholder="π.χ. m  ή  10^-3 kg">
             </div>
             <div class="button-group">
                 <button class="secondary" onclick="goToStep1()">← Πίσω</button>
@@ -420,11 +429,15 @@ tags: [Εργαστήριο]
             </div>
         </div>
 
+        <!-- Βήμα 3 -->
         <div id="step3" class="step">
             <h3>Εισαγωγή Δεδομένων</h3>
             <div class="info-box">
-                <strong>💡 Συμβουλή:</strong> Για δυνάμεις του 10, χρησιμοποιήστε: 
-                <code>1.6e-19</code> για 1.6×10⁻¹⁹
+                <strong>💡 Συμβουλή:</strong> Για δυνάμεις του 10, χρησιμοποιήστε:
+                <code>1.6e-19</code> για 1.6×10⁻¹⁹<br>
+                <strong>📌 Σημείωση:</strong> Αν οι μονάδες σας περιέχουν δύναμη του 10 (π.χ. <code>10^25 Hz</code>),
+                εισάγετε εδώ <em>μόνο τον αριθμό μπροστά</em> (π.χ. <code>3.5</code> για 3.5×10²⁵ Hz).
+                Η δύναμη λαμβάνεται αυτόματα υπόψη στους υπολογισμούς.
             </div>
             <div id="dataTable"></div>
             <div class="button-group">
@@ -433,6 +446,7 @@ tags: [Εργαστήριο]
             </div>
         </div>
 
+        <!-- Βήμα 4 -->
         <div id="step4" class="step">
             <h3>Επαλήθευση Δεδομένων</h3>
             <div id="verificationTable"></div>
@@ -442,9 +456,10 @@ tags: [Εργαστήριο]
             </div>
         </div>
 
+        <!-- Βήμα 5 -->
         <div id="step5" class="step">
             <h3>Γραφική Παράσταση</h3>
-            <div class="chart-container">
+            <div class="chart-container" id="chart-container-main">
                 <canvas id="myChart"></canvas>
             </div>
             <div class="question-box">
@@ -456,6 +471,7 @@ tags: [Εργαστήριο]
             </div>
         </div>
 
+        <!-- Βήμα 5b -->
         <div id="step5b" class="step">
             <h3>Μετασχηματισμός σε X²</h3>
             <div class="info-box">
@@ -468,9 +484,10 @@ tags: [Εργαστήριο]
             </div>
         </div>
 
+        <!-- Βήμα 5c -->
         <div id="step5c" class="step">
             <h3>Γραφική Παράσταση με X²</h3>
-            <div class="chart-container">
+            <div class="chart-container" id="chart-container-squared">
                 <canvas id="squaredChart"></canvas>
             </div>
             <div class="question-box">
@@ -482,9 +499,10 @@ tags: [Εργαστήριο]
             </div>
         </div>
 
+        <!-- Βήμα 6 -->
         <div id="step6" class="step">
             <h3>Γραφική Παράσταση με Ευθεία Προσαρμογής</h3>
-            <div class="chart-container">
+            <div class="chart-container" id="chart-container-final">
                 <canvas id="finalChart"></canvas>
             </div>
             <div id="slopeResult" class="result-box"></div>
@@ -499,11 +517,20 @@ tags: [Εργαστήριο]
     let numPairs, xLabel, xUnit, yLabel, yUnit, dataPoints = [];
     let chart, finalChart, squaredChart;
     let isSquaredMode = false;
+    let xPowerOf10 = 0, yPowerOf10 = 0;
+
+    // Parse unit string: "10^N rest" → {exp: N, unit: rest}, else {exp: 0, unit: full}
+    function parsePowerUnit(unitStr) {
+        const match = unitStr.trim().match(/^10\^(-?\d+)\s*(.*)/i);
+        if (match) {
+            return { exp: parseInt(match[1]), unit: match[2] || '' };
+        }
+        return { exp: 0, unit: unitStr };
+    }
 
     function toggleFullscreenApp() {
         const elem = document.documentElement;
         const btn = document.querySelector('#physics-app-container .fullscreen-btn i');
-        
         if (!document.fullscreenElement) {
             elem.requestFullscreen().then(() => {
                 document.body.classList.add('fullscreen-mode');
@@ -524,10 +551,91 @@ tags: [Εργαστήριο]
         const absValue = Math.abs(value);
         if (absValue === 0) return '0';
         if (absValue >= 0.01 && absValue < 10000) return value.toFixed(4);
-        
         const exponent = Math.floor(Math.log10(absValue));
         const mantissa = value / Math.pow(10, exponent);
         return `\\(${mantissa.toFixed(2)} \\times 10^{${exponent}}\\)`;
+    }
+
+    // Unicode superscript helper
+    function superscript(n) {
+        const map = {'0':'⁰','1':'¹','2':'²','3':'³','4':'⁴','5':'⁵','6':'⁶','7':'⁷','8':'⁸','9':'⁹','-':'⁻'};
+        return String(n).split('').map(function(c){ return map[c] !== undefined ? map[c] : c; }).join('');
+    }
+
+    // Plain number without LaTeX (for result box)
+    function formatPlain(value) {
+        const absValue = Math.abs(value);
+        if (absValue === 0) return '0';
+        if (absValue >= 0.001 && absValue < 100000) {
+            return parseFloat(value.toPrecision(4)).toString();
+        }
+        const exponent = Math.floor(Math.log10(absValue));
+        const mantissa = value / Math.pow(10, exponent);
+        return mantissa.toFixed(3) + ' × 10' + superscript(exponent);
+    }
+
+    // Unit with unicode superscripts: "10^14 Hz" → "10¹⁴ Hz"
+    function formatUnitPlain(unitStr) {
+        const match = unitStr.trim().match(/^10\^(-?\d+)\s*(.*)/i);
+        if (match) {
+            return '10' + superscript(parseInt(match[1])) + (match[2] ? ' ' + match[2] : '');
+        }
+        return unitStr;
+    }
+
+    // Base unit only, no 10^N prefix: "10^14 Hz" → "Hz", "s" → "s"
+    function baseUnit(unitStr) {
+        const match = unitStr.trim().match(/^10\^(-?\d+)\s*(.*)/i);
+        if (match) return match[2] || '';
+        return unitStr;
+    }
+
+    // Build LaTeX axis label, handling 10^N unit prefix
+    function buildAxisLabel(physLabel, unitStr, squared) {
+        const match = unitStr.trim().match(/^10\^(-?\d+)\s*(.*)/i);
+        let unitLatex;
+        if (match) {
+            const exp  = match[1];
+            const rest = match[2] ? `\\,\\text{${match[2]}}` : '';
+            unitLatex = `10^{${exp}}${rest}`;
+        } else {
+            unitLatex = `\\text{${unitStr}}`;
+        }
+        const labelLatex = squared
+            ? `${physLabel}^2\\;(${unitLatex}^2)`
+            : `${physLabel}\\;(${unitLatex})`;
+        return `\\(${labelLatex}\\)`;
+    }
+
+    // Smart tick: show plain numbers by dividing by order of magnitude
+    function smartTick(value, exp) {
+        const scaled = value / Math.pow(10, exp);
+        return parseFloat(scaled.toPrecision(4));
+    }
+
+    // Best display exponent for a set of values
+    function bestDisplayExp(values) {
+        const maxAbs = Math.max(...values.map(Math.abs));
+        if (maxAbs === 0) return 0;
+        return Math.floor(Math.log10(maxAbs));
+    }
+
+    // Inject MathJax-rendered HTML axis labels into a chart container
+    function setAxisLabels(containerId, xTex, yTex) {
+        const container = document.getElementById(containerId);
+        container.querySelectorAll('.axis-label-html').forEach(el => el.remove());
+
+        const xEl = document.createElement('div');
+        xEl.className = 'axis-label-html axis-label-x';
+        xEl.innerHTML = xTex + ' →';
+        container.appendChild(xEl);
+
+        const yEl = document.createElement('div');
+        yEl.className = 'axis-label-html axis-label-y';
+        yEl.innerHTML = '↑ ' + yTex;
+        container.appendChild(yEl);
+
+        if (window.MathJax) MathJax.typesetPromise([xEl, yEl]);
     }
 
     function goToStep1() {
@@ -546,14 +654,21 @@ tags: [Εργαστήριο]
 
     function goToStep3() {
         xLabel = document.getElementById('xLabel').value;
-        xUnit = document.getElementById('xUnit').value;
+        const xUnitRaw = document.getElementById('xUnit').value;
         yLabel = document.getElementById('yLabel').value;
-        yUnit = document.getElementById('yUnit').value;
+        const yUnitRaw = document.getElementById('yUnit').value;
 
-        if (!xLabel || !xUnit || !yLabel || !yUnit) {
+        if (!xLabel || !xUnitRaw || !yLabel || !yUnitRaw) {
             alert('Παρακαλώ συμπληρώστε όλα τα πεδία');
             return;
         }
+
+        const xParsed = parsePowerUnit(xUnitRaw);
+        const yParsed = parsePowerUnit(yUnitRaw);
+        xPowerOf10 = xParsed.exp;
+        yPowerOf10 = yParsed.exp;
+        xUnit = xUnitRaw;
+        yUnit = yUnitRaw;
 
         createDataTable();
         showStep('step3');
@@ -564,32 +679,29 @@ tags: [Εργαστήριο]
         tableHTML += `<th>${xLabel} (${xUnit})</th>`;
         tableHTML += `<th>${yLabel} (${yUnit})</th>`;
         tableHTML += '</tr></thead><tbody>';
-
         for (let i = 0; i < numPairs; i++) {
             tableHTML += '<tr>';
             tableHTML += `<td><input type="number" step="any" id="x${i}" placeholder="π.χ. 1.6e-19"></td>`;
             tableHTML += `<td><input type="number" step="any" id="y${i}" placeholder="Τιμή Y"></td>`;
             tableHTML += '</tr>';
         }
-
         tableHTML += '</tbody></table>';
         document.getElementById('dataTable').innerHTML = tableHTML;
     }
 
     function goToStep4() {
         dataPoints = [];
+        const xMult = Math.pow(10, xPowerOf10);
+        const yMult = Math.pow(10, yPowerOf10);
         for (let i = 0; i < numPairs; i++) {
-            const x = parseFloat(document.getElementById(`x${i}`).value);
-            const y = parseFloat(document.getElementById(`y${i}`).value);
-
-            if (isNaN(x) || isNaN(y)) {
+            const xRaw = parseFloat(document.getElementById(`x${i}`).value);
+            const yRaw = parseFloat(document.getElementById(`y${i}`).value);
+            if (isNaN(xRaw) || isNaN(yRaw)) {
                 alert('Παρακαλώ συμπληρώστε όλες τις τιμές');
                 return;
             }
-
-            dataPoints.push({ x, y });
+            dataPoints.push({ x: xRaw * xMult, y: yRaw * yMult });
         }
-
         createVerificationTable();
         showStep('step4');
     }
@@ -599,17 +711,12 @@ tags: [Εργαστήριο]
         tableHTML += `<th>${xLabel} (${xUnit})</th>`;
         tableHTML += `<th>${yLabel} (${yUnit})</th>`;
         tableHTML += '</tr></thead><tbody>';
-
         dataPoints.forEach(point => {
             tableHTML += `<tr><td>${formatScientific(point.x)}</td><td>${formatScientific(point.y)}</td></tr>`;
         });
-
         tableHTML += '</tbody></table>';
         document.getElementById('verificationTable').innerHTML = tableHTML;
-        
-        if (window.MathJax) {
-            MathJax.typesetPromise();
-        }
+        if (window.MathJax) MathJax.typesetPromise();
     }
 
     function goToStep5() {
@@ -617,57 +724,45 @@ tags: [Εργαστήριο]
         showStep('step5');
     }
 
-function createChart() {
-    const ctx = document.getElementById('myChart');
-    if (chart) chart.destroy();
-
-    chart = new Chart(ctx, {
-        type: 'scatter',
-        data: {
-            datasets: [{
-                label: 'Μετρήσεις',
-                data: dataPoints,
-                backgroundColor: '#e74c3c',
-                borderColor: '#c0392b',
-                pointRadius: 8,
-                pointHoverRadius: 10
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            scales: {
-                x: {
-                    title: {
-                        display: true,
-                        text: `${xLabel} (${xUnit})`,
-                        font: { size: 16, weight: 'bold' }
-                    }
-                },
-                y: {
-                    title: {
-                        display: true,
-                        text: `${yLabel} (${yUnit})`,
-                        font: { size: 16, weight: 'bold' }
-                    }
-                }
+    function createChart() {
+        const ctx = document.getElementById('myChart');
+        if (chart) chart.destroy();
+        const allX = dataPoints.map(p => p.x);
+        const allY = dataPoints.map(p => p.y);
+        const expX = bestDisplayExp(allX);
+        const expY = bestDisplayExp(allY);
+        chart = new Chart(ctx, {
+            type: 'scatter',
+            data: {
+                datasets: [{
+                    label: 'Μετρήσεις',
+                    data: dataPoints,
+                    backgroundColor: '#e74c3c',
+                    borderColor: '#c0392b',
+                    pointRadius: 8,
+                    pointHoverRadius: 10
+                }]
             },
-            plugins: {
-                legend: {
-                    display: true,
-                    position: 'top'
-                }
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: { title: { display: false }, ticks: { callback: v => smartTick(v, expX) } },
+                    y: { title: { display: false }, ticks: { callback: v => smartTick(v, expY) } }
+                },
+                plugins: { legend: { display: true, position: 'top' } }
             }
-        },
-        plugins: [arrowPlugin]
-    });
-}
+        });
+        setAxisLabels('chart-container-main',
+            buildAxisLabel(xLabel, xUnit, false),
+            buildAxisLabel(yLabel, yUnit, false));
+    }
 
     function answerLinear(isLinear) {
         if (isLinear) {
             isSquaredMode = false;
-            calculateLinearRegression(dataPoints, false);
             showStep('step6');
+            setTimeout(() => calculateLinearRegression(dataPoints, false), 50);
         } else {
             isSquaredMode = true;
             createSquaredDataTable();
@@ -681,7 +776,6 @@ function createChart() {
         tableHTML += `<th>${xLabel}² (${xUnit}²)</th>`;
         tableHTML += `<th>${yLabel} (${yUnit})</th>`;
         tableHTML += '</tr></thead><tbody>';
-
         dataPoints.forEach(point => {
             const x2 = point.x * point.x;
             tableHTML += `<tr>`;
@@ -690,13 +784,9 @@ function createChart() {
             tableHTML += `<td>${formatScientific(point.y)}</td>`;
             tableHTML += `</tr>`;
         });
-
         tableHTML += '</tbody></table>';
         document.getElementById('squaredDataTable').innerHTML = tableHTML;
-        
-        if (window.MathJax) {
-            MathJax.typesetPromise();
-        }
+        if (window.MathJax) MathJax.typesetPromise();
     }
 
     function goToStep5c() {
@@ -704,157 +794,128 @@ function createChart() {
         showStep('step5c');
     }
 
-function createSquaredChart() {
-    const ctx = document.getElementById('squaredChart');
-    if (squaredChart) squaredChart.destroy();
-
-    const squaredPoints = dataPoints.map(p => ({ x: p.x * p.x, y: p.y }));
-
-    squaredChart = new Chart(ctx, {
-        type: 'scatter',
-        data: {
-            datasets: [{
-                label: 'Μετρήσεις (X²)',
-                data: squaredPoints,
-                backgroundColor: '#e74c3c',
-                borderColor: '#c0392b',
-                pointRadius: 8,
-                pointHoverRadius: 10
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            scales: {
-                x: {
-                    title: {
-                        display: true,
-                        text: `${xLabel}² (${xUnit}²)`,
-                        font: { size: 16, weight: 'bold' }
-                    }
-                },
-                y: {
-                    title: {
-                        display: true,
-                        text: `${yLabel} (${yUnit})`,
-                        font: { size: 16, weight: 'bold' }
-                    }
-                }
+    function createSquaredChart() {
+        const ctx = document.getElementById('squaredChart');
+        if (squaredChart) squaredChart.destroy();
+        const squaredPoints = dataPoints.map(p => ({ x: p.x * p.x, y: p.y }));
+        const allX2 = squaredPoints.map(p => p.x);
+        const allY  = squaredPoints.map(p => p.y);
+        const expX2 = bestDisplayExp(allX2);
+        const expY  = bestDisplayExp(allY);
+        squaredChart = new Chart(ctx, {
+            type: 'scatter',
+            data: {
+                datasets: [{
+                    label: 'Μετρήσεις (X²)',
+                    data: squaredPoints,
+                    backgroundColor: '#e74c3c',
+                    borderColor: '#c0392b',
+                    pointRadius: 8,
+                    pointHoverRadius: 10
+                }]
             },
-            plugins: {
-                legend: {
-                    display: true,
-                    position: 'top'
-                }
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: { title: { display: false }, ticks: { callback: v => smartTick(v, expX2) } },
+                    y: { title: { display: false }, ticks: { callback: v => smartTick(v, expY) } }
+                },
+                plugins: { legend: { display: true, position: 'top' } }
             }
-        },
-        plugins: [arrowPlugin]
-    });
-}
+        });
+        setAxisLabels('chart-container-squared',
+            buildAxisLabel(xLabel, xUnit, true),
+            buildAxisLabel(yLabel, yUnit, false));
+    }
 
     function drawSquaredLine() {
         const squaredPoints = dataPoints.map(p => ({ x: p.x * p.x, y: p.y }));
-        calculateLinearRegression(squaredPoints, true);
         showStep('step6');
+        setTimeout(() => calculateLinearRegression(squaredPoints, true), 50);
     }
 
     function calculateLinearRegression(points, isSquared) {
         const n = points.length;
         let sumX = 0, sumY = 0, sumXY = 0, sumX2 = 0;
-
         points.forEach(point => {
             sumX += point.x;
             sumY += point.y;
             sumXY += point.x * point.y;
             sumX2 += point.x * point.x;
         });
-
         const slope = (n * sumXY - sumX * sumY) / (n * sumX2 - sumX * sumX);
         const intercept = (sumY - slope * sumX) / n;
-
         const minX = Math.min(...points.map(p => p.x));
         const maxX = Math.max(...points.map(p => p.x));
-
         const linePoints = [
             { x: minX, y: slope * minX + intercept },
             { x: maxX, y: slope * maxX + intercept }
         ];
-
         createFinalChart(points, linePoints, slope, intercept, isSquared);
     }
 
-function createFinalChart(points, linePoints, slope, intercept, isSquared) {
-    const ctx = document.getElementById('finalChart');
-    if (finalChart) finalChart.destroy();
-
-    const xAxisLabel = isSquared ? `${xLabel}² (${xUnit}²)` : `${xLabel} (${xUnit})`;
-    const xAxisUnit = isSquared ? `${xUnit}²` : xUnit;
-
-    finalChart = new Chart(ctx, {
-        type: 'scatter',
-        data: {
-            datasets: [
-                {
-                    label: 'Μετρήσεις',
-                    data: points,
-                    backgroundColor: '#e74c3c',
-                    borderColor: '#c0392b',
-                    pointRadius: 8,
-                    pointHoverRadius: 10,
-                    showLine: false
-                },
-                {
-                    label: 'Ευθεία Προσαρμογής',
-                    data: linePoints,
-                    type: 'line',
-                    borderColor: '#3498db',
-                    backgroundColor: 'rgba(52, 152, 219, 0.1)',
-                    borderWidth: 3,
-                    pointRadius: 0,
-                    fill: false
-                }
-            ]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            scales: {
-                x: {
-                    title: {
-                        display: true,
-                        text: xAxisLabel,
-                        font: { size: 16, weight: 'bold' }
+    function createFinalChart(points, linePoints, slope, intercept, isSquared) {
+        const ctx = document.getElementById('finalChart');
+        if (finalChart) finalChart.destroy();
+        const allX = points.map(p => p.x);
+        const allY = points.map(p => p.y);
+        const expX = bestDisplayExp(allX);
+        const expY = bestDisplayExp(allY);
+        finalChart = new Chart(ctx, {
+            type: 'scatter',
+            data: {
+                datasets: [
+                    {
+                        label: 'Μετρήσεις',
+                        data: points,
+                        backgroundColor: '#e74c3c',
+                        borderColor: '#c0392b',
+                        pointRadius: 8,
+                        pointHoverRadius: 10,
+                        showLine: false
+                    },
+                    {
+                        label: 'Ευθεία Προσαρμογής',
+                        data: linePoints,
+                        type: 'line',
+                        borderColor: '#3498db',
+                        backgroundColor: 'rgba(52, 152, 219, 0.1)',
+                        borderWidth: 3,
+                        pointRadius: 0,
+                        fill: false
                     }
-                },
-                y: {
-                    title: {
-                        display: true,
-                        text: `${yLabel} (${yUnit})`,
-                        font: { size: 16, weight: 'bold' }
-                    }
-                }
+                ]
             },
-            plugins: {
-                legend: {
-                    display: true,
-                    position: 'top'
-                }
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: { title: { display: false }, ticks: { callback: v => smartTick(v, expX) } },
+                    y: { title: { display: false }, ticks: { callback: v => smartTick(v, expY) } }
+                },
+                plugins: { legend: { display: true, position: 'top' } }
             }
-        },
-        plugins: [arrowPlugin]
-    });
+        });
+        setAxisLabels('chart-container-final',
+            buildAxisLabel(xLabel, xUnit, isSquared),
+            buildAxisLabel(yLabel, yUnit, false));
 
-    document.getElementById('slopeResult').innerHTML = `
-        <h3>📈 Αποτελέσματα Γραμμικής Προσαρμογής</h3>
-        <p><strong>Κλίση (Εφαπτομένη):</strong> ${formatScientific(slope)} ${yUnit}/${xAxisUnit}</p>
-        <p><strong>Σταθερά (y-intercept):</strong> ${formatScientific(intercept)} ${yUnit}</p>
-        <p><strong>Εξίσωση Ευθείας:</strong> y = ${formatScientific(slope)}x + ${formatScientific(intercept)}</p>
-    `;
-    
-    if (window.MathJax) {
-        MathJax.typesetPromise();
+        // Result box: use base units (no 10^N) since slope already computed with real values
+        const yUnitBase  = baseUnit(yUnit);
+        const xUnitBase  = isSquared ? baseUnit(xUnit) + '²' : baseUnit(xUnit);
+        const slopeSign  = intercept < 0 ? '-' : '+';
+        const xSym       = isSquared ? `${xLabel}²` : xLabel;
+        const slopeUnits = xUnitBase ? `${yUnitBase} / ${xUnitBase}` : yUnitBase;
+
+        document.getElementById('slopeResult').innerHTML = `
+            <h3>📈 Αποτελέσματα Γραμμικής Προσαρμογής</h3>
+            <p><strong>Κλίση (Εφαπτομένη):</strong> ${formatPlain(slope)} ${slopeUnits}</p>
+            <p><strong>Σταθερά (y-intercept):</strong> ${formatPlain(intercept)} ${yUnitBase}</p>
+            <p><strong>Εξίσωση Ευθείας:</strong> ${yLabel} = ${formatPlain(slope)} · ${xSym} ${slopeSign} ${formatPlain(Math.abs(intercept))}</p>
+        `;
+        if (window.MathJax) MathJax.typesetPromise();
     }
-}
 
     function showStep(stepId) {
         document.querySelectorAll('#physics-app-container .step').forEach(step => {
@@ -870,70 +931,19 @@ function createFinalChart(points, linePoints, slope, intercept, isSquared) {
             if (chart) chart.destroy();
             if (finalChart) finalChart.destroy();
             if (squaredChart) squaredChart.destroy();
-            
             document.getElementById('numPairs').value = '';
             document.getElementById('xLabel').value = '';
             document.getElementById('xUnit').value = '';
             document.getElementById('yLabel').value = '';
             document.getElementById('yUnit').value = '';
-            
             showStep('step1');
         }
     }
-    // Plugin για βέλη στους άξονες
-// Plugin για βέλη στους άξονες
-    
-const arrowPlugin = {
-    id: 'arrowPlugin',
-    afterDatasetsDraw(chart) {
-        const ctx = chart.ctx;
-        const xAxis = chart.scales.x;
-        const yAxis = chart.scales.y;
-        
-        // Βρες τα όρια του chart area (μέσα στο πλέγμα)
-        const chartArea = chart.chartArea;
-        
-        ctx.save();
-        ctx.strokeStyle = '#333';
-        ctx.fillStyle = '#333';
-        ctx.lineWidth = 2;
-
-        // Βέλος άξονα X (δεξιά, μέσα στο γράφημα)
-        const xEnd = chartArea.right;
-        const xY = yAxis.getPixelForValue(0); // Y=0 position
-        
-        // Αν το Y=0 δεν είναι ορατό, βάλε το βέλος στο bottom
-        const xArrowY = (xY >= chartArea.top && xY <= chartArea.bottom) ? xY : chartArea.bottom;
-        
-        ctx.beginPath();
-        ctx.moveTo(xEnd, xArrowY);
-        ctx.lineTo(xEnd - 10, xArrowY - 5);
-        ctx.lineTo(xEnd - 10, xArrowY + 5);
-        ctx.closePath();
-        ctx.fill();
-
-        // Βέλος άξονα Y (πάνω, μέσα στο γράφημα)
-        const yX = xAxis.getPixelForValue(0); // X=0 position
-        const yEnd = chartArea.top;
-        
-        // Αν το X=0 δεν είναι ορατό, βάλε το βέλος στο left
-        const yArrowX = (yX >= chartArea.left && yX <= chartArea.right) ? yX : chartArea.left;
-        
-        ctx.beginPath();
-        ctx.moveTo(yArrowX, yEnd);
-        ctx.lineTo(yArrowX - 5, yEnd + 10);
-        ctx.lineTo(yArrowX + 5, yEnd + 10);
-        ctx.closePath();
-        ctx.fill();
-
-        ctx.restore();
-    }
-};
 </script>
 
 
 
-## 📖 Οδηγίες  χρήσης
+## 📖 Οδηγίες χρήσης
 
 ### Τρόπος 1: Χρήση Online (Απλούστερο)
 
