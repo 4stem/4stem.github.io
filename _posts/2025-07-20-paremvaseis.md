@@ -13,6 +13,11 @@ tags : [Φυσική]
 **2026**
 <hr style="width: 50%; height: 2px; background-color: gray; border: none;">
 
+**Ιούνιος**
+
+Σχολιασμός θεμάτων Φυσικής 2026. [alfavita](https://www.alfavita.gr/panellinies/518967_sholiasmos-thematon-fysikis-2026?brid=YWdncwHe47vlohzLGky07_a4gwZt)
+
+
 **Μάϊος**
 
 Η Σφίγγα και τα Ανιόνια. [alfavita](https://www.alfavita.gr/ekpaideysi/515603_i-sfigga-kai-ta-anionia) [aegeanews](https://aegeanews.gr/news/fimes/622926/sfinga-kai-anionia/)
