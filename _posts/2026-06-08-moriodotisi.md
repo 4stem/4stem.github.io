@@ -99,7 +99,7 @@ $$w = \frac{M}{2} \cdot g$$
 
 $$W_1 \cdot \frac{\ell}{2} \cdot ημφ + w \cdot \ell_1 \cdot ημφ - W_2 \cdot \frac{\ell_2}{2} \cdot ημφ = 0$$
 
-$$M \cdot g \cdot \frac{\ell_1}{2} + \frac{M}{2} \cdot g \cdot \ell_1 = M \cdot g \cdot \frac{\ell_2}{2}$$
+$$M \cdot g \cdot \frac{\ell_1}{2} + \frac{M}{2} \cdot g \cdot \ell_1 = M \cdot g \cdot \frac{\ell_2}{2} \Rightarrow \frac{\ell_1}{\ell_2} = \frac{1}{2} $$
 
 
 άρα σωστό το (ii)
@@ -108,20 +108,26 @@ $$M \cdot g \cdot \frac{\ell_1}{2} + \frac{M}{2} \cdot g \cdot \ell_1 = M \cdot 
 
 **`Θέμα Γ`**
 
- **Γ1**-$$(8)$$
+ **Γ1**-$$(5)$$
+
+Εξίσωση Compton
+
+$$λ' - λ = \frac{h}{m_e \cdot c} (1 - συνφ)$$
+
+$$λ' - 8λ_C = λ_C \cdot (1 - (-1)) \Rightarrow λ' = 10λ_C$$
+
+
+**Γ2**-$$(8)$$
+
+πριν την σκέδαση:
+
+$$E_φ = h \cdot f = \frac{h \cdot c}{λ} = \frac{h \cdot c}{8λ_C} = \frac{h \cdot c}{8 \cdot \frac{h}{m_e \cdot c}} = \frac{1}{8} m_e \cdot c^2 $$
+
+**Γ3**-$$(7)$$
 
 
 
-
-**Γ2**-$$(5)$$
-
-
-
-**Γ3**-$$(6)$$
-
-
-
-**Γ4**-$$(6)$$
+**Γ4**-$$(5)$$
 
 
 
