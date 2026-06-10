@@ -123,12 +123,61 @@ $$λ' - 8λ_C = λ_C \cdot (1 - (-1)) \Rightarrow λ' = 10λ_C$$
 
 $$E_φ = h \cdot f = \frac{h \cdot c}{λ} = \frac{h \cdot c}{8λ_C} = \frac{h \cdot c}{8 \cdot \frac{h}{m_e \cdot c}} = \frac{1}{8} m_e \cdot c^2 $$
 
+μετά την σκέδαση:
+
+$$E_φ' = \frac{h \cdot c}{λ'} = \frac{h \cdot c}{10λ_C} = \frac{h \cdot c}{10 \cdot \frac{h}{m_e \cdot c}} = \frac{1}{10} m_e \cdot c^2 $$
+
+
+Για την κινητική ενέργεια του ανακρουόμενου ηλεκτρονίου $$K_e$$ ισχύει η αρχή διατήρησης της ενέργειας
+
+$$E_φ = E_φ' + K_e \Rightarrow \frac{1}{2} m_e \cdot c^2 = \frac{1}{10} m_e \cdot c^2 + K_e \Rightarrow K_e = \frac{1}{40} m_e \cdot c^2$$
+
+και αντικαθιστώντας από τα δεδομένα
+
+$$ K_e = \frac{1}{40} m_e \cdot c^2 = \frac{1}{40} \cdot 5 \cdot 10^5 eV = 1,25 \cdot 10^4 eV$$
+ 
 **Γ3**-$$(7)$$
 
+Φωτοηλεκτρική εξίσωση του Einstein
+
+$$K_{max} = h \cdot f - \phi $$
+
+Για να εξέλθει ένα ηλεκτρόνιο από το μέταλλο της καθόδου θα πρέπει να ισχύει:
+
+$$h \cdot f - \phi \ge 0 \Rightarrow f \ge \frac{\phi}{h} $$
+
+οπότε η συχνότητα κατωφλίου είναι $$ f_0 = \frac{\phi}{h} $$
+
+υπολογισμός της σταθεράς του Planck 
+
+$$h = 6,4 \cdot 10^{-34} J \cdot s = \frac{6,4 \cdot 10^{-34}}{1,6 \cdot 10^{-19}} eV \cdot s = 4 \cdot 10^{-15} eV \cdot s $$
+
+οπότε
+
+$$f_0 = \frac{1,4 eV}{4 \cdot 10^{-15}eV \cdot s} \Rightarrow  f_0 = 3,5 \cdot 10^{14}Hz$$
 
 
 **Γ4**-$$(5)$$
 
+![σχήμα]({{ site.url }}/assets/photoilektriko.png) 
+
+Στην κάθοδο ισχύει:
+
+
+$$K_{max} = h \cdot f - \phi $$
+
+
+Από την κάθοδο στην άνοδο ισχύει το θεώρημα μεταβολής της κινητικής ενέργειας για τα ηλεκτρόνια:
+
+$$ΔK = ΣW \Rightarrow K_{ανόδου} - Κ_{καθόδου} = (-e) \cdot (V_Δ - V_M)$$
+
+Για την τάση αποκοπής ισχύει $$Κ_{ανόδου} = 0$$, οπότε:
+
+$$0-Κ){max} = (-e) \cdot V_0 \Rightarrow V_0 = \frac{h \cdot f}{e} - \frac{\phi}{e} \Rightarrow V_0 = \frac{h \cdot c}{λ_1 \cdot e} - \frac{\phi}{e}$$
+
+και με τις αντικαταστάσεις ($$V_Δ > V_M$$) ανάστροφη πόλωση! 
+
+$$ V_0 = \frac{h \cdot c}{λ_1 \cdot e} - \frac{\phi}{e} = \frac{1200eV \cdot nm}{e \cdot 400nm} - \frac{1,4eV}{e} \Rightarrow V_0 = 1,6V $$
 
 
 
