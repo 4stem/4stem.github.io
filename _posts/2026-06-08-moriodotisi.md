@@ -246,7 +246,7 @@ $$x = \pm \frac{A}{2}$$
 
 Για την επιτάχυνση $$α$$ του σώματος ισχύει:
 
-$$α = -ω^2 \cdot x \Rightarrow \lvert α \rvert = -10^2 \cdot (\pm 0,1) \Rightarrow  \lvert α \rvert = 10 \frac{m}{s^2}$$ 
+$$α = -ω^2 \cdot x \Rightarrow \lvert α \rvert = \lvert-10^2 \cdot (\pm 0,1) \rvert \Rightarrow  \lvert α \rvert = 10 \frac{m}{s^2}$$ 
 
 **Δ3**-$$(6)$$
 
@@ -260,7 +260,7 @@ $$F_L = B \cdot I \cdot \ell = B \cdot \frac{Β \cdot υ \cdot \ell}{R + R_{NΛ}
 
 και αντικαθιστώντας
 
-$$F_L = \frac{B^2 \cdot \ell^2 \cdot υ}{R + R_{NΛ}} \Rightarrow F_L = 0,5 \cdot υ$$
+$$F_L = \frac{B^2 \cdot \ell^2 \cdot υ}{R + R_{NΛ}} \Rightarrow F_L = 0,5 \cdot υ \quad (S.I)$$
 
 Για τον αγωγό $$ΝΛ$$ ισχύει $$F>m_2 \cdot g$$ άρα ο αγωγός επιταχύνεται προς τα πάνω.
 
