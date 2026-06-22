@@ -15,6 +15,10 @@ tags : [Φυσική]
 
 **Ιούνιος**
 
+
+Η αρετή απειλεί τον άνθρωπο. [parallaxi](https://parallaximag.gr/parallax-view/i-areti-apeilei-ton-anthropo)
+
+
 Σχολιασμός θεμάτων Φυσικής 2026. [alfavita](https://www.alfavita.gr/panellinies/518967_sholiasmos-thematon-fysikis-2026?brid=YWdncwHe47vlohzLGky07_a4gwZt)
 
 
