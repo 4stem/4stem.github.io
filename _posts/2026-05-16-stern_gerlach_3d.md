@@ -2,7 +2,7 @@
 layout: post
 title: "Πείραμα Stern–Gerlach 3D"
 description: "Διαδραστική τρισδιάστατη προσομοίωση του πειράματος Stern–Gerlach για τη διδασκαλία της κβάντωσης της στροφορμής"
-category: Προσομοίωση
+category: Εφαρμογή
 tags: [Κβαντική Φυσική]
 ---
 
