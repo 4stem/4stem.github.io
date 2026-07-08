@@ -13,6 +13,12 @@ tags : [Φυσική]
 **2026**
 <hr style="width: 50%; height: 2px; background-color: gray; border: none;">
 
+**Ιούλιος**
+
+Αξιολόγηση εκπαιδευτικών. Εργαλείο αυτοβελτίωσης ή γραφειοκρατική γάγγραινα; [parallaxi](https://parallaximag.gr/parallax-view/axiologisi-ekpaideytikon-ergaleio-aytoveltiosis-i-grafeiokratiki-gaggraina) [vimatisko](https://vimatisko.gr/katigoria/topika/p-petridis-aksiologisi-ekpaideytikon---ergale) [aegeanews](https://aegeanews.gr/news/dimosias-krisis/630432/aksiologisi-ekpaideftikon-ergaleio-aftoveltiosis-grafeiokratiki-gangraina-tou-panagioti-petridi/)
+
+
+
 **Ιούνιος**
 
 
