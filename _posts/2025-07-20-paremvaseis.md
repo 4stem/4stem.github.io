@@ -111,7 +111,7 @@ tags : [Φυσική]
 
 
 
-Ο Αϊνστάιν και η τεχνητή νοημοσύνη [aegeanews](https://aegeanews.gr/news/en-dodekaniso/599187/ainstain-kai-techniti-noimosyni-grafei-panagiotis-petridis/)
+Ο Αϊνστάιν και η τεχνητή νοημοσύνη [aegeanews](https://aegeanews.gr/news/en-dodekaniso/599187/ainstain-kai-techniti-noimosyni-grafei-panagiotis-petridis/) [parallaxi](https://parallaximag.gr/wp-content/uploads/2026/06/%CE%9F-%CE%91%CF%8A%CE%BD%CF%83%CF%84%CE%AC%CE%B9%CE%BD-%CE%BA%CE%B1%CE%B9-%CE%B7-%CF%84%CE%B5%CF%87%CE%BD%CE%B7%CF%84%CE%AE-%CE%BD%CE%BF%CE%B7%CE%BC%CE%BF%CF%83%CF%8D%CE%BD%CE%B7.pdf)
 
 
 
