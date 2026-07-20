@@ -18,6 +18,11 @@ tags : [Φυσική]
 Αξιολόγηση εκπαιδευτικών. Εργαλείο αυτοβελτίωσης ή γραφειοκρατική γάγγραινα; [parallaxi](https://parallaximag.gr/parallax-view/axiologisi-ekpaideytikon-ergaleio-aytoveltiosis-i-grafeiokratiki-gaggraina) [vimatisko](https://vimatisko.gr/katigoria/topika/p-petridis-aksiologisi-ekpaideytikon---ergale) [aegeanews](https://aegeanews.gr/news/dimosias-krisis/630432/aksiologisi-ekpaideftikon-ergaleio-aftoveltiosis-grafeiokratiki-gangraina-tou-panagioti-petridi/)
 
 
+Kardeşim Yılmaz'a [biamag](https://bianet.org/yazi/kos-tan-bir-mektup-kardesim-yilmaz-a-321618)
+
+ 
+Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/einstein-ve-yapay-zeka/)
+
 
 **Ιούνιος**
 
