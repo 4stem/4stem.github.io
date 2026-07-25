@@ -24,6 +24,9 @@ Kardeşim Yılmaz'a [biamag](https://bianet.org/yazi/kos-tan-bir-mektup-kardesim
 Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/einstein-ve-yapay-zeka/)
 
 
+Αδελφέ μου Γιλμάζ. [parallaxi](https://parallaximag.gr/parallax-view/adelfe-moy-gilmaz) [vimatisko](https://vimatisko.gr/katigoria/topika/panagiotis-petridis-adelfe-moy-gilmaz) [aegeanews](https://aegeanews.gr/news/dimosias-krisis/633439/633439/)[news-24](https://news-24.gr/adelfe-mou-gilmaz-grafei-o-panagiotis-petridis/)
+
+
 **Ιούνιος**
 
 
