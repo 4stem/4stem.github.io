@@ -15,9 +15,11 @@ tags : [Φυσική]
 
 **Αύγουστος**
 
-Η Φυσική της Χαλιμάς [aegeanews](https://aegeanews.gr/news/fimes/635205/fysiki-tis-chalimas-grafei-panagiotis-petridis/)
+Η Φυσική της Χαλιμάς [aegeanews](https://aegeanews.gr/news/fimes/635205/fysiki-tis-chalimas-grafei-panagiotis-petridis/) [vimatisko](https://vimatisko.gr/katigoria/topika/p-petridis-fysikos-i-fysiki-tis-xalimas)
 
 Şehrazat’ın Fiziği [bodrumgundem](https://www.bodrumgundem.com/2026/08/06/sehrazatin-fizigi/)
+
+Savaş: Eğitimin başarısızlığı - I[biamag](https://bianet.org/yazi/savas-egitimin-basarisizligi-i-322351)
 
 
 **Ιούλιος**
