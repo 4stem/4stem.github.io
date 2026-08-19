@@ -15,6 +15,8 @@ tags : [Φυσική]
 
 **Αύγουστος**
 
+Ο Τούρκος μαθηματικός Arf, γεννήθηκε στη Θεσσαλονίκη [alfavita](https://www.alfavita.gr/ekpaideysi/557292_o-toyrkos-mathimatikos-arf-gennithike-sti-thessaloniki)
+
 Yapay zekanın kullanımından kaynaklanan tehlikeler [bodrumgundem](https://www.bodrumgundem.com/2026/08/17/yapay-zekanin-kullanimindan-kaynaklanan-tehlikeler/)
 
 Savaş: Eğitimin başarısızlığı - II[biamag](https://bianet.org/yazi/savas-egitimin-basarisizligi-ii-322545)
