@@ -17,7 +17,7 @@ tags : [Φυσική]
 
 Ο πόλεμος ως αποτυχία της Παιδείας [parallaxi](https://parallaximag.gr/parallax-view/o-polemos-os-apotychia-tis-paideias)
 
-Ο Τούρκος μαθηματικός Arf, γεννήθηκε στη Θεσσαλονίκη [alfavita](https://www.alfavita.gr/ekpaideysi/557292_o-toyrkos-mathimatikos-arf-gennithike-sti-thessaloniki)
+Ο Τούρκος μαθηματικός Arf, γεννήθηκε στη Θεσσαλονίκη [parallaxi](https://parallaximag.gr/life/ekpedefsi/o-toyrkos-mathimatikos-arf-gennithike-sti-thessaloniki) [alfavita](https://www.alfavita.gr/ekpaideysi/557292_o-toyrkos-mathimatikos-arf-gennithike-sti-thessaloniki)
 
 Yapay zekanın kullanımından kaynaklanan tehlikeler [bodrumgundem](https://www.bodrumgundem.com/2026/08/17/yapay-zekanin-kullanimindan-kaynaklanan-tehlikeler/)
 
