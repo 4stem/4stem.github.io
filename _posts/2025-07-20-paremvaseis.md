@@ -15,6 +15,8 @@ tags : [Φυσική]
 
 **Αύγουστος**
 
+On İki Adalar'da güneş, deniz ve fizik -1 [biamag](https://bianet.org/yazi/on-iki-adalar-da-gunes-deniz-ve-fizik-1-322905)
+
 Ο πόλεμος ως αποτυχία της Παιδείας [parallaxi](https://parallaximag.gr/parallax-view/o-polemos-os-apotychia-tis-paideias)
 
 Ο Τούρκος μαθηματικός Arf, γεννήθηκε στη Θεσσαλονίκη [parallaxi](https://parallaximag.gr/life/ekpedefsi/o-toyrkos-mathimatikos-arf-gennithike-sti-thessaloniki) [alfavita](https://www.alfavita.gr/ekpaideysi/557292_o-toyrkos-mathimatikos-arf-gennithike-sti-thessaloniki)
