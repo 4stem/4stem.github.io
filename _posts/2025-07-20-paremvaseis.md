@@ -15,6 +15,8 @@ tags : [Φυσική]
 
 **Αύγουστος**
 
+Πώς να αναγνωρίσουμε ότι δεν υπάρχει «άλλος» . Διαβάστε περισσότερα εδώ: https://parallaximag.gr/parallax-view/pos-na-anagnorisoyme-oti-den-yparchei-allos [parallaxi](https://parallaximag.gr/parallax-view/pos-na-anagnorisoyme-oti-den-yparchei-allos)
+
 On İki Adalar'da güneş, deniz ve fizik -1 [biamag](https://bianet.org/yazi/on-iki-adalar-da-gunes-deniz-ve-fizik-1-322905)
 
 Ο πόλεμος ως αποτυχία της Παιδείας [parallaxi](https://parallaximag.gr/parallax-view/o-polemos-os-apotychia-tis-paideias)
