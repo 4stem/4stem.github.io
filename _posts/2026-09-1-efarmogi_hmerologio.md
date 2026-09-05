@@ -18,7 +18,7 @@ calendar_id: "f51390bc1da7e16e26b231998950cdbba48d77871395c45ca877257f4236dbc9"
 
 ---
 
-## Πώς το προσθέτεις στο κινητό σου
+## Πώς προσθέτεις το πρόγραμμα στο κινητό σου
 
 Υπάρχουν δύο τρόποι, ανάλογα με το αν θέλεις το πρόγραμμα να **ενημερώνεται αυτόματα** όποτε γίνει κάποια αλλαγή, ή απλώς να το έχεις **μία φορά**.
 
@@ -46,9 +46,7 @@ calendar_id: "f51390bc1da7e16e26b231998950cdbba48d77871395c45ca877257f4236dbc9"
 
 ---
 
-## Έχεις διαφορετικό εβδομαδιαίο πρόγραμμα; 
-
-## Φτιάξε το δικό σου αρχείο ics
+## Έχεις διαφορετικό εβδομαδιαίο πρόγραμμα; Φτιάξε το δικό σου αρχείο ics
 
 Το παραπάνω ημερολόγιο αντιστοιχεί στο συγκεκριμένο εβδομαδιαίο πρόγραμμα για ένα σχολείο στα Δωδεκάνησα όπου έχει προστεθεί η τοπική αργία της Ενσωμάτωσης. Αν οι δικές σου ώρες Φυσικής πέφτουν σε άλλες μέρες/ζώνες, ή έχεις άλλη τοπική αργία, χρησιμοποίησε το εργαλείο παρακάτω για να φτιάξεις το **δικό σου** αρχείο .ics — και μετά ακολούθησε τις οδηγίες εισαγωγής στο τέλος.
 
@@ -61,8 +59,8 @@ calendar_id: "f51390bc1da7e16e26b231998950cdbba48d77871395c45ca877257f4236dbc9"
 1. **Εβδομαδιαίο πρόγραμμα** — κάνε κλικ στα κελιά που αντιστοιχούν στις δικές σου ώρες Φυσικής μέσα στην εβδομάδα (ξανά-κλικ αποεπιλέγει). Ο μετρητής από κάτω δείχνει πόσες ώρες/εβδομάδα έχεις επιλέξει συνολικά.
 2. **Ωράριο ζωνών** — η ώρα έναρξης/λήξης κάθε διδακτικής ζώνης (1η, 2η, ... 7η). Άλλαξέ τα αν το κουδούνι του σχολείου σου χτυπάει σε διαφορετικές ώρες.
 3. **Ρυθμίσεις σχολικού έτους** — ημερομηνία έναρξης διδασκαλίας, (ενδεικτική) ημερομηνία λήξης μαθημάτων, πόσες ώρες επανάληψης θέλεις στο τέλος κάθε κεφαλαίου, και τον σύνδεσμο που θα εμφανίζεται στα events επανάληψης (π.χ. study4exams — άλλαξέ τον αν χρησιμοποιείς κάτι άλλο).
-4. **Αργίες σχολικού έτους** — οι εθνικές αργίες είναι ήδη προσυμπληρωμένες (μπορείς να τις σβήσεις/απενεργοποιήσεις με το check-box). Με **«+ Προσθήκη τοπικής αργίας»** προσθέτεις τη δική σου (π.χ. τοπική εορτή, απεργία, σχολική εκδρομή) — δώσε περιγραφή και ημερομηνία «από-έως».
-5. **Ενότητες ύλης** — οι προσυμπληρωμένες ενότητες και ώρες αντιστοιχούν στις επίσημες Οδηγίες Διδασκαλίας του σχολικού έτους. Αν θέλεις να προσθέσεις κάτι επιπλέον σε ένα κεφάλαιο (μια ακόμη επανάληψη, εμβάθυνση σε ένα αντικείμενο, ή ένα πείραμα που δεν αναφέρεται στις Οδηγίες), κάνε το εδώ — αύξησε τις ώρες του ή πρόσθεσε τη δραστηριότητα στο πεδίο κάτω από αυτό (μία ανά γραμμή, με τον σύνδεσμό της στο τέλος) — η ζωντανή προεπισκόπηση από κάτω δείχνει πώς θα φαίνονται clickable.
+4. **Αργίες σχολικού έτους** — οι εθνικές αργίες είναι ήδη προσυμπληρωμένες (μπορείς να τις σβήσεις/απενεργοποιήσεις με το check-box). Με **«+ Προσθήκη τοπικής αργίας»** προσθέτεις τη δική σου (π.χ. τοπική εορτή, σχολική εκδρομή) — δώσε περιγραφή και ημερομηνία «από-έως».
+5. **Ενότητες ύλης** — οι 8 ενότητες και οι ώρες τους είναι κλειδωμένες (🔒), αφού καθορίζονται από τις επίσημες Οδηγίες Διδασκαλίας και δεν είναι διαπραγματεύσιμες. Μπορείς να επεξεργαστείς μόνο τις ενδεικτικές δραστηριότητες κάθε ενότητας (μία ανά γραμμή, με τον σύνδεσμό της στο τέλος) — η ζωντανή προεπισκόπηση από κάτω δείχνει πώς θα φαίνονται clickable. Αν θέλεις να προσθέσεις κάτι επιπλέον που δεν προβλέπεται στις Οδηγίες (μια ακόμη επανάληψη, προαπαιτούμενη γνώση, ή εμβάθυνση σε κάτι που ξέρεις από την εμπειρία σου ότι χρειάζονται οι μαθητές σου), χρησιμοποίησε το **«+ Προσθήκη επιπλέον ώρας»** — δημιουργεί μια νέα, ελεύθερη γραμμή με δικό της όνομα.
 6. Πάτα **«▶ ΔΗΜΙΟΥΡΓΙΑ ΑΡΧΕΙΟΥ .ICS»** για να δεις αναλυτική προεπισκόπηση όλου του προγράμματος πριν κατεβάσεις τίποτα.
 7. Πάτα **«⬇ Λήψη αρχείου .ics»** για να αποθηκεύσεις το αρχείο στον υπολογιστή σου.
 
@@ -109,6 +107,7 @@ calendar_id: "f51390bc1da7e16e26b231998950cdbba48d77871395c45ca877257f4236dbc9"
 #psch-app input[type=date],#psch-app input[type=time],#psch-app input[type=number],#psch-app input[type=text],#psch-app input[type=url]{
   background:var(--bg);border:1px solid var(--brd);color:var(--txt);border-radius:4px;padding:4px 6px;font-size:11px;font-family:inherit}
 #psch-app input[type=number]{width:52px}
+#psch-app input:disabled{background:rgba(255,255,255,0.03);color:var(--dim);cursor:not-allowed;border-style:dashed}
 #psch-app table.dat{width:100%;border-collapse:collapse;font-size:11px}
 #psch-app table.dat th{font-size:9px;color:var(--dim);text-align:left;padding:2px 4px;text-transform:uppercase;letter-spacing:1px}
 #psch-app table.dat td{padding:2px 4px;border-top:1px solid var(--brd)}
@@ -177,11 +176,13 @@ calendar_id: "f51390bc1da7e16e26b231998950cdbba48d77871395c45ca877257f4236dbc9"
 
 <div class="panel" style="border-bottom:1px solid var(--brd)">
   <div class="st">3. Ενότητες ύλης (σειρά διδασκαλίας, ενδεικτικές ώρες ΔΩ, ενδεικτικές δραστηριότητες)</div>
+  <div class="sub" style="margin-bottom:4px">🔒 Οι 8 ενότητες και οι ώρες τους καθορίζονται από τις Οδηγίες Διδασκαλίας του Υπουργείου και δεν αλλάζουν. Μπορείς να επεξεργαστείς μόνο τις ενδεικτικές δραστηριότητες. Για επιπλέον επανάληψη, προαπαιτούμενη γνώση ή εμβάθυνση σε κάτι που θεωρείς απαραίτητο, χρησιμοποίησε το «+ Προσθήκη επιπλέον ώρας» από κάτω.</div>
   <table class="dat" id="chTable">
     <thead><tr><th style="width:16%">Κεφάλαιο / Ενότητα</th><th style="width:6%">Ώρες</th><th>Ενδεικτικές δραστηριότητες (μία ανά γραμμή)</th><th></th></tr></thead>
     <tbody id="chBody"></tbody>
   </table>
-  <div class="row" style="justify-content:flex-end">
+  <div class="row" style="justify-content:space-between">
+    <button class="btn badd" id="addCh">+ Προσθήκη επιπλέον ώρας (επανάληψη / προαπαιτούμενα / εμβάθυνση)</button>
     <div class="cnt" id="chTotal">Σύνολο: 0 ώρες</div>
   </div>
 </div>
@@ -217,34 +218,101 @@ var PERIODS = 7;
 var DEFAULT_TIMES = ["08:15-09:00","09:00-09:45","09:55-10:40","10:50-11:35","11:45-12:25","12:35-13:15","13:20-14:00"];
 
 var DEFAULT_CHAPTERS = [
-  {name:"Κρούσεις και Σχετικές Κινήσεις", hours:12},
-  {name:"Μηχανική Στερεού Σώματος", hours:18},
-  {name:"Ηλεκτρικές – Μηχανικές Ταλαντώσεις", hours:16},
-  {name:"Κύματα (Μηχανικά)", hours:16},
-  {name:"Μαγνητικό Πεδίο", hours:23},
+  {name:"Κρούσεις", hours:12},
+  {name:"Μηχανική", hours:18},
+  {name:"Ταλαντώσεις", hours:16},
+  {name:"Κύματα", hours:16},
+  {name:"Ηλεκτρομαγνητισμός", hours:23},
   {name:"Επαγωγή", hours:22},
-  {name:"Ηλεκτρομαγνητικά Κύματα", hours:2},
-  {name:"Στοιχεία Κβαντομηχανικής", hours:23}
+  {name:"Η/Μ Κύματα", hours:2},
+  {name:"Κβαντομηχανική", hours:23}
 ];
+
+// Οι ενότητες κάθε κεφαλαίου όπως αριθμούνται στις Οδηγίες Διδασκαλίας (π.χ. 5.2, 5.3...),
+// για σωστή κατανομή των ωρών σε συγκεκριμένες ενότητες αντί για γενικό μετρητή ωρών.
+var CHAPTER_SUBSECTIONS = {
+  "Κρούσεις": [
+    {code:"5.2", title:"Κρούσεις"},
+    {code:"5.3", title:"Κεντρική ελαστική κρούση δύο σφαιρών"},
+    {code:"5.4", title:"Ελαστική κρούση σώματος με άλλο ακίνητο πολύ μεγάλης μάζας"}
+  ],
+  "Μηχανική": [
+    {code:"4.1", title:"Εισαγωγή"},
+    {code:"4.2", title:"Κινήσεις των στερεών σωμάτων"},
+    {code:"4.3", title:"Ροπή δύναμης"},
+    {code:"4.4", title:"Ισορροπία στερεού σώματος"},
+    {code:"4.7", title:"Στροφορμή"},
+    {code:"4.8", title:"Διατήρηση στροφορμής"}
+  ],
+  "Ταλαντώσεις": [
+    {code:"1.2", title:"Περιοδικά φαινόμενα"},
+    {code:"1.3", title:"Απλή αρμονική ταλάντωση"},
+    {code:"1.5", title:"Φθίνουσες ταλαντώσεις"},
+    {code:"1.6", title:"Εξαναγκασμένες ταλαντώσεις"}
+  ],
+  "Κύματα": [
+    {code:"2.2", title:"Μηχανικά κύματα"},
+    {code:"2.3", title:"Επαλληλία (υπέρθεση) κυμάτων"},
+    {code:"2.4", title:"Συμβολή δύο κυμάτων στην επιφάνεια υγρού"},
+    {code:"2.5", title:"Στάσιμα κύματα"}
+  ],
+  "Ηλεκτρομαγνητισμός": [
+    {code:"4.1", title:"Εισαγωγή"},
+    {code:"4.2", title:"Νόμος των Biot και Savart"},
+    {code:"4.3", title:"Εφαρμογές του νόμου των Biot και Savart"},
+    {code:"4.4", title:"Νόμος του Ampere"},
+    {code:"4.5", title:"Μαγνητική ροή"},
+    {code:"4.7", title:"Δύναμη σε κινούμενο φορτίο"},
+    {code:"4.8", title:"Κίνηση φορτισμένων σωματιδίων σε μαγνητικό πεδίο"},
+    {code:"4.9", title:"Εφαρμογές κίνησης φορτισμένων σωματιδίων"},
+    {code:"4.10", title:"Δύναμη Laplace"},
+    {code:"4.11", title:"Δύναμη ανάμεσα σε παράλληλους ρευματοφόρους αγωγούς"}
+  ],
+  "Επαγωγή": [
+    {code:"5.1", title:"Εισαγωγή"},
+    {code:"5.2", title:"Ηλεκτρομαγνητική επαγωγή"},
+    {code:"5.3", title:"Ευθύγραμμος αγωγός κινούμενος σε μαγνητικό πεδίο"},
+    {code:"5.4", title:"Κανόνας του Lenz — διατήρηση ενέργειας στην επαγωγή"},
+    {code:"5.5", title:"Στρεφόμενος αγωγός"},
+    {code:"5.6", title:"Στρεφόμενο πλαίσιο — εναλλασσόμενη τάση"},
+    {code:"5.7", title:"Εναλλασσόμενο ρεύμα"},
+    {code:"5.8", title:"Ενεργός ένταση — Ενεργός τάση"},
+    {code:"5.9", title:"Νόμος του Joule — Ισχύς εναλλασσόμενου ρεύματος"},
+    {code:"5.14", title:"Αυτεπαγωγή"}
+  ],
+  "Η/Μ Κύματα": [
+    {code:"2.6", title:"Παραγωγή ηλεκτρομαγνητικών κυμάτων"},
+    {code:"2.8", title:"Το φάσμα της ηλεκτρομαγνητικής ακτινοβολίας"}
+  ],
+  "Κβαντομηχανική": [
+    {code:"7.1", title:"Εισαγωγή"},
+    {code:"7.2", title:"Η ακτινοβολία του μέλανος σώματος"},
+    {code:"7.3", title:"Το φωτοηλεκτρικό φαινόμενο"},
+    {code:"7.4", title:"Φαινόμενο Compton"},
+    {code:"7.5", title:"Η κυματική φύση της ύλης"},
+    {code:"7.6", title:"Αρχή της αβεβαιότητας"},
+    {code:"7.7", title:"Κυματοσυνάρτηση και εξίσωση Schrödinger"}
+  ]
+};
 
 // Ενδεικτικές δραστηριότητες/προσομοιώσεις ανά κεφάλαιο (βάσει των Οδηγιών Διδασκαλίας),
 // σκορπισμένες στις ώρες του κάθε κεφαλαίου ώστε κάθε εγγραφή να έχει διαφορετική πρόταση.
 var CHAPTER_NOTES = {
-  "Κρούσεις και Σχετικές Κινήσεις": [
+  "Κρούσεις": [
     "Πειραματισμός με σφαίρα δύο όψεων σε κρούση με ξύλινο παραλληλεπίπεδο (ελαστική/πλαστική κρούση) — Εργαστηριακός Οδηγός Φυσικής Γ', σελ. 33: http://ebooks.edu.gr/ebooks/v/pdf/8547/4872/22-0183-EO_Fysiki_G-Lykeiou-ThSp-SpYg_Ergastiriakos-Odigos/",
     "Εναλλακτικά: μελέτη ελαστικής κρούσης με tracker (ΕΚΦΕ Θεσπρωτίας): http://ekfethesp.blogspot.com/2019/03/tracker.html",
     "Προσομοίωση «Εργαστήριο των Συγκρούσεων» (PhET): https://phet.colorado.edu/el/simulation/collision-lab",
     "Βίντεο ελαστικής κρούσης (Φωτόδενδρο): http://photodentro.edu.gr/video/handle/8522/417",
     "Περισσότερο υλικό φυσικής (Φωτόδενδρο): http://photodentro.edu.gr/aggregator/search/all/field_cl_discipline/1998"
   ],
-  "Μηχανική Στερεού Σώματος": [
+  "Μηχανική": [
     "Προσομοίωση ροπής δύναμης (Φωτόδενδρο): http://photodentro.edu.gr/lor/r/8521/10797",
     "Προσομοίωση ισορροπίας στερεού σώματος «Balancing Act» (PhET): https://phet.colorado.edu/el/simulation/balancing-act",
     "«Κίνηση Στερεού 3D» (Σιτσανλής Ηλίας): https://www.seilias.gr/index.php?option=com_content&task=view&id=396&Itemid=63",
     "Ταχύτητες κατά την περιστροφή τροχού (Σιτσανλής Ηλίας): https://www.seilias.gr/index.php?option=com_content&task=view&id=101&Itemid=63",
     "Ροπή δύναμης (Σιτσανλής Ηλίας): https://www.seilias.gr/index.php?option=com_content&task=view&id=522&Itemid=63"
   ],
-  "Ηλεκτρικές – Μηχανικές Ταλαντώσεις": [
+  "Ταλαντώσεις": [
     "Προσομοίωση «Μάζες και ελατήρια» (PhET): https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs_el.html",
     "Απλή Αρμονική Ταλάντωση (Σιτσανλής Ηλίας): https://www.seilias.gr/index.php?option=com_content&task=view&id=487&Itemid=63",
     "Ταλάντωση σε κατακόρυφο ελατήριο (Σιτσανλής Ηλίας): https://www.seilias.gr/index.php?option=com_content&task=view&id=534&Itemid=63",
@@ -252,7 +320,7 @@ var CHAPTER_NOTES = {
     "Εξαναγκασμένη ταλάντωση (Σιτσανλής Ηλίας): https://www.seilias.gr/index.php?option=com_content&task=view&id=490&Itemid=63",
     "«Η περίοδος στην απλή αρμονική ταλάντωση» (ΕΚΦΕ Θεσπρωτίας): http://ekfethesp.blogspot.com/2020/12/blog-post.html"
   ],
-  "Κύματα (Μηχανικά)": [
+  "Κύματα": [
     "Πείραμα στάσιμων ηχητικών κυμάτων σε σωλήνα Kundt (ΕΚΦΕ Θεσπρωτίας): http://ekfe.thesp.sch.gr/autosch/joomla15/images/experiments/expg3.pdf",
     "Εγχειρίδιο συσκευής Kundt (ΕΚΦΕ Θεσπρωτίας): http://ekfe.thesp.sch.gr/autosch/joomla15/images/Manuals/sswa1.pdf",
     "Επίδειξη: ο σωλήνας φλόγας του Rubens (video): https://www.youtube.com/watch?v=pWekXMZJ2zM",
@@ -262,7 +330,7 @@ var CHAPTER_NOTES = {
     "Προσομοίωση «Συμβολή κυμάτων» (PhET): https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_el.html",
     "Στάσιμα κύματα σε χορδή (Σιτσανλής Ηλίας): https://www.seilias.gr/index.php?option=com_content&task=view&id=510&Itemid=37"
   ],
-  "Μαγνητικό Πεδίο": [
+  "Ηλεκτρομαγνητισμός": [
     "Δύναμη Laplace (Φωτόδενδρο): http://photodentro.edu.gr/lor/r/8521/6015",
     "Πείραμα Oersted (ΕΚΦΕ Θεσπρωτίας): http://ekfethesp.blogspot.com/2021/05/oersted-x3.html",
     "Δύναμη Laplace — επίδειξη (ΕΚΦΕ Θεσπρωτίας): http://ekfethesp.blogspot.com/2020/12/laplace.html",
@@ -278,10 +346,10 @@ var CHAPTER_NOTES = {
     "Αυτεπαγωγή — κύκλωμα RL, προσομοίωση (Φωτόδενδρο): http://photodentro.edu.gr/lor/r/8521/10569?locale=el",
     "Τρισδιάστατη απεικόνιση ηλεκτρικού κινητήρα (Φωτόδενδρο): https://photodentro.edu.gr/v/item/ds/8521/6002"
   ],
-  "Ηλεκτρομαγνητικά Κύματα": [
+  "Η/Μ Κύματα": [
     "Βίντεο παραγωγής/λήψης Η/Μ κυμάτων με γεννήτρια συχνοτήτων και παλμογράφο (ΕΚΦΕ Ν. Σμύρνης): https://www.youtube.com/watch?v=7MoW7Hdq0O0"
   ],
-  "Στοιχεία Κβαντομηχανικής": [
+  "Κβαντομηχανική": [
     "Φύλλο εργασίας φωτοηλεκτρικού φαινομένου (ΕΚΦΕ Σερρών): http://ekfe.ser.sch.gr/documents/experiment/mixalis/ser_fys_glykio_fotohlektriko.pdf",
     "Σενάριο εργαστηριακής άσκησης «Φωτοηλεκτρικό φαινόμενο» (ΕΚΦΕ Χίου): https://ekfe.chi.sch.gr/",
     "Βίντεο φωτοηλεκτρικού φαινομένου: https://www.youtube.com/watch?v=DWki9M5Hl_M",
@@ -381,28 +449,33 @@ document.getElementById('addHol').addEventListener('click', function(){ addHolid
 
 // ---------- Ενότητες ----------
 var chBody = document.getElementById('chBody');
-function addChapterRow(ch){
+function addChapterRow(ch, locked){
   ch = ch || {name:"", hours:1};
   var defaultNotes = CHAPTER_NOTES[ch.name] ? CHAPTER_NOTES[ch.name].join("\n") : (ch.notes ? ch.notes.join("\n") : "");
   var tr = document.createElement('tr');
+  if(locked) tr.dataset.locked = "1";
+  var lockAttr = locked ? ' disabled title="Καθορίζεται από τις Οδηγίες Διδασκαλίας — δεν αλλάζει"' : '';
   tr.innerHTML =
-    '<td><input type="text" value="'+escAttr(ch.name)+'" placeholder="Όνομα ενότητας"></td>' +
-    '<td><input type="number" min="1" value="'+ch.hours+'"></td>' +
+    '<td><input type="text" value="'+escAttr(ch.name)+'" placeholder="Όνομα ενότητας"'+lockAttr+'></td>' +
+    '<td><input type="number" min="1" value="'+ch.hours+'"'+lockAttr+'></td>' +
     '<td>' +
       '<textarea rows="6" style="width:100%;resize:vertical;background:var(--bg);border:1px solid var(--brd);color:var(--txt);border-radius:4px;padding:6px 8px;font-size:11.5px;line-height:1.5;font-family:inherit" placeholder="μία δραστηριότητα ανά γραμμή — προαιρετικό">'+escHtml(defaultNotes)+'</textarea>' +
       '<div class="notes-preview" style="font-size:10.5px;color:var(--dim);line-height:1.7;margin-top:4px"></div>' +
     '</td>' +
-    '<td><button class="ib" title="Διαγραφή">✕</button></td>';
+    '<td>'+(locked ? '<span title="Υποχρεωτική ενότητα — δεν διαγράφεται" style="color:var(--dim)">🔒</span>' : '<button class="ib" title="Διαγραφή">✕</button>')+'</td>';
   var ta = tr.querySelector('textarea');
   var preview = tr.querySelector('.notes-preview');
   function refreshPreview(){ preview.innerHTML = linkify(ta.value); }
   ta.addEventListener('input', refreshPreview);
   refreshPreview();
-  tr.querySelector('.ib').addEventListener('click', function(){ tr.remove(); updateChTotal(); });
-  tr.querySelector('input[type=number]').addEventListener('input', updateChTotal);
+  if(!locked){
+    tr.querySelector('.ib').addEventListener('click', function(){ tr.remove(); updateChTotal(); });
+    tr.querySelector('input[type=number]').addEventListener('input', updateChTotal);
+  }
   chBody.appendChild(tr);
 }
-DEFAULT_CHAPTERS.forEach(addChapterRow);
+DEFAULT_CHAPTERS.forEach(function(ch){ addChapterRow(ch, true); });
+document.getElementById('addCh').addEventListener('click', function(){ addChapterRow(null, false); updateChTotal(); });
 function updateChTotal(){
   var total = 0;
   Array.prototype.forEach.call(chBody.querySelectorAll('tr'), function(tr){
@@ -481,13 +554,35 @@ function collectWeeklySlots(){
 }
 
 // ---------- Δημιουργία μονάδων μαθήματος ----------
+function distributeHours(total, count){
+  var base = Math.floor(total/count);
+  var rem = total % count;
+  var out = [];
+  for(var i=0;i<count;i++) out.push(base + (i<rem?1:0));
+  return out;
+}
+
 function buildUnits(chapters, reviewHours, reviewUrl){
   var units = [];
   chapters.forEach(function(ch){
     var notes = (ch.notes && ch.notes.length) ? ch.notes : null;
+    var subsections = CHAPTER_SUBSECTIONS[ch.name] || null;
+    var subHours = subsections ? distributeHours(ch.hours, subsections.length) : null;
     for(var i=1;i<=ch.hours;i++){
+      var label;
+      if(subsections){
+        var cum=0, subIdx=0, localHour=1;
+        for(var s=0;s<subsections.length;s++){
+          if(i <= cum + subHours[s]){ subIdx=s; localHour = i-cum; break; }
+          cum += subHours[s];
+        }
+        var sub = subsections[subIdx];
+        label = sub.code + " " + sub.title + " (ώρα " + localHour + "/" + subHours[subIdx] + ")";
+      } else {
+        label = ch.name + " (ώρα " + i + "/" + ch.hours + ")";
+      }
       var note = notes ? notes[(i-1) % notes.length] : null;
-      units.push({type:'lesson', chapter:ch.name, label: ch.name + " (ώρα " + i + "/" + ch.hours + ")", note: note});
+      units.push({type:'lesson', chapter:ch.name, label: label, note: note});
     }
     for(var r=1;r<=reviewHours;r++){
       units.push({type:'review', chapter:ch.name, label:"Επανάληψη – " + ch.name + " (" + r + "/" + reviewHours + ")", url: reviewUrl});
@@ -569,7 +664,7 @@ function buildICS(results){
   lines.push(foldLine("X-WR-CALNAME:" + icsEscape("Πρόγραμμα Φυσικής Γ' Λυκείου")));
   results.forEach(function(r, idx){
     var uid = "physc-" + r.date.replace(/-/g,'') + "-" + r.period + "-" + idx + "@kathimerinotita";
-    var summary = (r.type==='review' ? "Επανάληψη: " : "Φυσική: ") + r.chapter;
+    var summary = (r.type==='review' ? "Επανάληψη: " : "") + r.chapter;
     var desc = r.label;
     if(r.note) desc += "\n\nΕνδεικτική δραστηριότητα: " + r.note;
     if(r.url) desc += "\n\nΥλικό επανάληψης: " + r.url;
