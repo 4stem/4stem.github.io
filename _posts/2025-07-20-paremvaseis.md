@@ -15,7 +15,7 @@ tags : [Φυσική]
 
 **Σεπτέμβριος**
 
-On İki Adalar'da güneş, deniz ve fizik -2 [biamag}(https://bianet.org/yazi/on-iki-adalar-da-gunes-deniz-ve-fizik-2-323391)
+On İki Adalar'da güneş, deniz ve fizik -2 [biamag](https://bianet.org/yazi/on-iki-adalar-da-gunes-deniz-ve-fizik-2-323391)
 
 
 **Αύγουστος**
