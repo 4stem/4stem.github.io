@@ -13,7 +13,14 @@ tags : [Φυσική]
 **2026**
 <hr style="width: 50%; height: 2px; background-color: gray; border: none;">
 
+**Σεπτέμβριος**
+
+On İki Adalar'da güneş, deniz ve fizik -2 [biamag}(https://bianet.org/yazi/on-iki-adalar-da-gunes-deniz-ve-fizik-2-323391)
+
+
 **Αύγουστος**
+
+Η εκπαίδευση διαμορφώνει πολίτες ικανούς να αλλάξουν τον κόσμο; [alfavita](https://www.alfavita.gr/ekpaideysi/558468_i-ekpaideysi-diamorfonei-polites-ikanoys-na-allaxoyn-ton-kosmo)
 
 Πώς να αναγνωρίσουμε ότι δεν υπάρχει «άλλος» [parallaxi](https://parallaximag.gr/parallax-view/pos-na-anagnorisoyme-oti-den-yparchei-allos)
 
