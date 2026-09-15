@@ -15,6 +15,10 @@ tags : [Φυσική]
 
 **Σεπτέμβριος**
 
+
+Σκέψεις για το μέλλον της τεχνητής νοημοσύνης [alfavita](https://www.alfavita.gr/ekpaideysi/560100_skepseis-gia-mellon-tis-tehnitis-noimosynis-skaki-i-metafrasi-i-glossa-kai-i)
+
+
 On İki Adalar'da güneş, deniz ve fizik -2 [biamag](https://bianet.org/yazi/on-iki-adalar-da-gunes-deniz-ve-fizik-2-323391)
 
 
