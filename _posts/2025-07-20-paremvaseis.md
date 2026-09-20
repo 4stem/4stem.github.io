@@ -16,6 +16,10 @@ tags : [Φυσική]
 **Σεπτέμβριος**
 
 
+Dil ortak bir değer, yapay zeka bir meta [biamag](https://bianet.org/yazi/dil-ortak-bir-deger-yapay-zeka-bir-meta-323586)
+
+Η γλώσσα ως δημόσιο αγαθό και η τεχνητή νοημοσύνη ως εμπόρευμα [parallaxi](https://parallaximag.gr/parallax-view/i-glossa-os-dimosio-agatho-kai-i-techniti-noimosyni-os-emporeyma)
+
 Σκέψεις για το μέλλον της τεχνητής νοημοσύνης [alfavita](https://www.alfavita.gr/ekpaideysi/560100_skepseis-gia-mellon-tis-tehnitis-noimosynis-skaki-i-metafrasi-i-glossa-kai-i)
 
 
