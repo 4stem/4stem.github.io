@@ -15,6 +15,7 @@ tags : [Φυσική]
 
 **Σεπτέμβριος**
 
+Σε κάθε δράση αντιστοιχεί πάντα μια αντίθετη αντίδραση [aegeanews](https://aegeanews.gr/news/en-dodekaniso/641216/kathe-drasi-antistoichei-panta-mia-antitheti-antidrasi-panagiotis-petridis/)
 
 Dil ortak bir değer, yapay zeka bir meta [biamag](https://bianet.org/yazi/dil-ortak-bir-deger-yapay-zeka-bir-meta-323586)
 
