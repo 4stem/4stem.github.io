@@ -15,6 +15,9 @@ tags : [Φυσική]
 
 **Σεπτέμβριος**
 
+Her etkiye eşit ve zıt bir tepki vardır [biamag](https://bianet.org/yazi/her-etkiye-esit-ve-zit-bir-tepki-vardir-323665)
+
+
 Σε κάθε δράση αντιστοιχεί πάντα μια αντίθετη αντίδραση [aegeanews](https://aegeanews.gr/news/en-dodekaniso/641216/kathe-drasi-antistoichei-panta-mia-antitheti-antidrasi-panagiotis-petridis/)
 
 Dil ortak bir değer, yapay zeka bir meta [biamag](https://bianet.org/yazi/dil-ortak-bir-deger-yapay-zeka-bir-meta-323586)
