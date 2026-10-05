@@ -13,6 +13,16 @@ tags : [Φυσική]
 **2026**
 <hr style="width: 50%; height: 2px; background-color: gray; border: none;">
 
+**Οκτώβριος**
+
+
+Kuantum paradoksları [biamag](https://bianet.org/yazi/kuantum-paradokslari-324036)
+
+
+Κβαντικά παράδοξα [parallaxi](https://parallaximag.gr/parallax-view/kvantika-paradoxa) [alfavita](https://www.alfavita.gr/koinonia/562872_kbantika-paradoxa) 
+
+
+
 **Σεπτέμβριος**
 
 Her etkiye eşit ve zıt bir tepki vardır [biamag](https://bianet.org/yazi/her-etkiye-esit-ve-zit-bir-tepki-vardir-323665)
@@ -20,9 +30,12 @@ Her etkiye eşit ve zıt bir tepki vardır [biamag](https://bianet.org/yazi/her-
 
 Σε κάθε δράση αντιστοιχεί πάντα μια αντίθετη αντίδραση [aegeanews](https://aegeanews.gr/news/en-dodekaniso/641216/kathe-drasi-antistoichei-panta-mia-antitheti-antidrasi-panagiotis-petridis/)
 
+
 Dil ortak bir değer, yapay zeka bir meta [biamag](https://bianet.org/yazi/dil-ortak-bir-deger-yapay-zeka-bir-meta-323586)
 
+
 Η γλώσσα ως δημόσιο αγαθό και η τεχνητή νοημοσύνη ως εμπόρευμα [parallaxi](https://parallaximag.gr/parallax-view/i-glossa-os-dimosio-agatho-kai-i-techniti-noimosyni-os-emporeyma)
+
 
 Σκέψεις για το μέλλον της τεχνητής νοημοσύνης [alfavita](https://www.alfavita.gr/ekpaideysi/560100_skepseis-gia-mellon-tis-tehnitis-noimosynis-skaki-i-metafrasi-i-glossa-kai-i)
 
@@ -34,21 +47,30 @@ On İki Adalar'da güneş, deniz ve fizik -2 [biamag](https://bianet.org/yazi/on
 
 Η εκπαίδευση διαμορφώνει πολίτες ικανούς να αλλάξουν τον κόσμο; [alfavita](https://www.alfavita.gr/ekpaideysi/558468_i-ekpaideysi-diamorfonei-polites-ikanoys-na-allaxoyn-ton-kosmo)
 
+
 Πώς να αναγνωρίσουμε ότι δεν υπάρχει «άλλος» [parallaxi](https://parallaximag.gr/parallax-view/pos-na-anagnorisoyme-oti-den-yparchei-allos)
+
 
 On İki Adalar'da güneş, deniz ve fizik -1 [biamag](https://bianet.org/yazi/on-iki-adalar-da-gunes-deniz-ve-fizik-1-322905)
 
+
 Ο πόλεμος ως αποτυχία της Παιδείας [parallaxi](https://parallaximag.gr/parallax-view/o-polemos-os-apotychia-tis-paideias)
+
 
 Ο Τούρκος μαθηματικός Arf, γεννήθηκε στη Θεσσαλονίκη [parallaxi](https://parallaximag.gr/life/ekpedefsi/o-toyrkos-mathimatikos-arf-gennithike-sti-thessaloniki) [alfavita](https://www.alfavita.gr/ekpaideysi/557292_o-toyrkos-mathimatikos-arf-gennithike-sti-thessaloniki)
 
+
 Yapay zekanın kullanımından kaynaklanan tehlikeler [bodrumgundem](https://www.bodrumgundem.com/2026/08/17/yapay-zekanin-kullanimindan-kaynaklanan-tehlikeler/)
+
 
 Savaş: Eğitimin başarısızlığı - II  [biamag](https://bianet.org/yazi/savas-egitimin-basarisizligi-ii-322545)
 
+
 Η Φυσική της Χαλιμάς [aegeanews](https://aegeanews.gr/news/fimes/635205/fysiki-tis-chalimas-grafei-panagiotis-petridis/) [vimatisko](https://vimatisko.gr/katigoria/topika/p-petridis-fysikos-i-fysiki-tis-xalimas)
 
+
 Şehrazat’ın Fiziği [bodrumgundem](https://www.bodrumgundem.com/2026/08/06/sehrazatin-fizigi/)
+
 
 Savaş: Eğitimin başarısızlığı - I [biamag](https://bianet.org/yazi/savas-egitimin-basarisizligi-i-322351)
 
@@ -88,9 +110,7 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 
 **Μάρτιος**
 
-
 Πόλεμος: αποτυχία της θρησκείας. [aegeanews](https://aegeanews.gr/news/dimosias-krisis/617261/polemos-apotychia-tis-thriskeias-tou-panagioti-petridi/) [vimatisko](https://vimatisko.gr/katigoria/topika/p-petridis-polemos---apotyxia-tis-thriskeias)
-
 
 
 Εαρινή ισημερία. Από την αστρονομία του Ερατοσθένη στην αστρολογία των νεόπλουτων. [parallaxi](https://parallaximag.gr/parallax-view/earini-isimeria-apo-tin-astronomia-toy-eratostheni-stin-astrologia-ton-neoployton)
@@ -99,9 +119,7 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 [aegeanews](https://aegeanews.gr/news/fimes/615922/earini-isimeria-apo-tin-astronomia-tou-eratostheni-stin-astrologia-ton-neoplouton-panagiotis-petridis/)
 
 
-
 Από το π στην Παιδεία. [parallaxi](https://parallaximag.gr/parallax-view/apo-to-p-stin-paideia)
-
 
 
 Πόλεμος: αποτυχία της Παιδείας. [aegeanews](https://aegeanews.gr/news/dimosias-krisis/614277/polemos-apotychia-tis-paideias/) [vimatisko](https://vimatisko.gr/katigoria/epikairotita/p-petridis-polemos---apotyxia-tis-paideias)
@@ -109,31 +127,21 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 
 **Φεβρουάριος**
 
-
 Στον Σείριο υπάρχουνε παιδιά. [aegeanews](https://aegeanews.gr/news/en-dodekaniso/612994/ston-seirio-yparchoune-paidia-mia-vradia-astroparatirisis-sto-epal/)
-
-
 
 
 Από τη βροχή στη λειψυδρία [vimatisko](https://vimatisko.gr/katigoria/kentriki-2/p-petridis-apo-ti-vroxi-sti-leipsydria)
 
 
-
-
 Η Φυσική στο εργαστήριο, όχι στον πίνακα [aegeanews](https://aegeanews.gr/news/dimosias-krisis/610016/fysiki-sto-ergastirio-ochi-ston-pinaka-panagiotis-petridis/)
-
 
 
 Οι Τρεις Ιεράρχες, ο Ιπποκράτης και ο Φάινμαν [aegeanews](https://aegeanews.gr/news/dimosias-krisis/609207/treis-ierarches-ippokratis-kai-fainman-petridis-savvas-kathigitis-fysikis/)
 
 
-
-
 **Ιανουάριος**
 
-
 Ο Αστρολάβος των εκπαιδευτικών [alfavita](https://www.alfavita.gr/ekpaideysi/501022_mia-diaforetiki-protasi-mathisis-gia-tis-giortes-o-astrolabos-ton-ekpaideytikon)
-
 
 
 <hr style="width: 50%; height: 2px; background-color: gray; border: none;">
@@ -156,7 +164,6 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 
 Η εξίσωση του Schrödinger: Μια πρόταση διδασκαλίας για τη δυσκολότερη
 εξίσωση της Φυσικής στο Νέο Αναλυτικό Πρόγραμμα [Ιωάννινα](https://docs.google.com/document/d/1A4POmC9BRBcb-sanS4rZwpyIwL3E4_nY/edit?usp=sharing&ouid=107133918000966681447&rtpof=true&sd=true)
-
 
 
 Ο Αϊνστάιν και η τεχνητή νοημοσύνη [aegeanews](https://aegeanews.gr/news/en-dodekaniso/599187/ainstain-kai-techniti-noimosyni-grafei-panagiotis-petridis/) [parallaxi](https://parallaximag.gr/wp-content/uploads/2026/06/%CE%9F-%CE%91%CF%8A%CE%BD%CF%83%CF%84%CE%AC%CE%B9%CE%BD-%CE%BA%CE%B1%CE%B9-%CE%B7-%CF%84%CE%B5%CF%87%CE%BD%CE%B7%CF%84%CE%AE-%CE%BD%CE%BF%CE%B7%CE%BC%CE%BF%CF%83%CF%8D%CE%BD%CE%B7.pdf)
@@ -212,7 +219,6 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 [aegeanews](https://aegeanews.gr/news/technologia/567759/tora-kvantomichaniki-mas-eleipe-grafei-kathigitis-panagiotis-petridis/)
 
 
-
 **Μάρτιος**
 
 
@@ -221,9 +227,7 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 
 
 Κοινή δράση εκπαιδευτικών στο νησί της Κω: Χρονομετρώντας το π
-[aegeanews](https://aegeanews.gr/news/fimes/564093/koini-drasi-ekpaideftikon-sto-nisi-tis-ko-chronometrontas/)
-
-[kostv](https://www.kostv.gr/nea/topika/36513-koini-drasi-ekpaideftikon-sto-nisi-tis-ko-xronometrontas-to-p)
+[aegeanews](https://aegeanews.gr/news/fimes/564093/koini-drasi-ekpaideftikon-sto-nisi-tis-ko-chronometrontas/) [kostv](https://www.kostv.gr/nea/topika/36513-koini-drasi-ekpaideftikon-sto-nisi-tis-ko-xronometrontas-to-p)
 
 
 
@@ -234,10 +238,8 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 [aegeanews](https://aegeanews.gr/news/fimes/561019/mathimatika-kai-minyma-tis-vias-grafei-kathigitis-panagiotis-petridis/)
 
 
-
 Ο ποδηλατόδρομος στη Λεωφόρο Νίκης και το απόλυτο παράδειγμα της Μαδρίτης. 
 [parallaxi](https://parallaximag.gr/parallax-view/o-podilatodromos-sti-leoforo-nikis-kai-to-paradeigma-tis-madritis?fbclid=IwY2xjawLm375leHRuA2FlbQIxMQABHvtsuELs-bwk2RlV_zBj8_Z3kR-eoEOC0V5M52TtaUBVcLf1JyO9aBGdy6Zx_aem_usdE4_r971_bUCka0UrBDA)
-
 
 
 Το μέτρο και ο Ρίχτερ
@@ -250,8 +252,6 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 
 Θερμά Κω: Ενοικιάζεται παράδεισος σε τιμή ευκαιρίας
 [aegeanews](https://aegeanews.gr/news/ta-en-dimo/558074/therma-ko-enoikiazetai-paradeisos-timi-efkairias-grafei-panagiotis-petridis/)
-
-
 
 
 <hr style="width: 50%; height: 2px; background-color: gray; border: none;">
@@ -276,13 +276,12 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 
 39ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2025/02/39_SYNEDRIO_PROGRAMMA_HLEKTRONIKH_EKDOSH.pdf)
 
-Μια πρωτότυπη μέθοδος εύρεσης του π με γωνίες [Αρχαία Ολυμπία](https://drive.google.com/file/d/1gTzJK9fxbdj_TeH-prD46bn9vR42RxHZ/view)
 
+Μια πρωτότυπη μέθοδος εύρεσης του π με γωνίες [Αρχαία Ολυμπία](https://drive.google.com/file/d/1gTzJK9fxbdj_TeH-prD46bn9vR42RxHZ/view)
 
 
 Πολυτεχνείο: ψωμί για όλους, παιδεία για όλους, ελευθερία για όλους!
 [alfavita](https://www.alfavita.gr/ekpaideysi/462483_polytehneio-sto-esperino-epal-ko)
-
 
 
 **Οκτώβριος**
@@ -315,11 +314,8 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 [alfavita](https://www.alfavita.gr/panellinies/449648_panelladikes-2024-endeiktikes-apantiseis-sti-fysiki-ton-gel)
 
 
-
 Για τους καθηγητές Φυσικής που θα συμμετέχουν στη βαθμολόγηση των γραπτών δοκιμίων
 [alfavita](https://www.alfavita.gr/panellinies/449636_panellinies-gia-toys-toys-kathigites-fysikis-poy-tha-symmetehoyn-sti)
-
-
 
 
 **Μάρτιος**
@@ -334,10 +330,8 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 
 
 Σε εργαστήριο φυσικών επιστημών μετατράπηκε η παραλία των Θερμών, από τους φυσικούς του ΕΠΑΛ Κω
-[aegeanews](https://aegeanews.gr/news/en-dodekaniso/510686/ergastirio-fysikon-epistimon-metatrapike-paralia-ton-thermon-apo-tous-fysikous-tou-epal/)
-[vimatisko](https://vimatisko.gr/katigoria/topika/se-ergastirio-fysikon-epistimon-metetrepsan-t)
+[aegeanews](https://aegeanews.gr/news/en-dodekaniso/510686/ergastirio-fysikon-epistimon-metatrapike-paralia-ton-thermon-apo-tous-fysikous-tou-epal/) [vimatisko](https://vimatisko.gr/katigoria/topika/se-ergastirio-fysikon-epistimon-metetrepsan-t)
 [kostv](https://www.kostv.gr/nea/topika/27346-se-ergastirio-fysikon-epistimon-metatrapike-i-paralia-ton-thermon-apo-tous-fysikoys-tou-epal-ko)
-
 
 
 <hr style="width: 50%; height: 2px; background-color: gray; border: none;">
@@ -350,6 +344,7 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 
 38ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2025/02/38_syn_programma_v4_site.pdf)
 
+
 Ο Καρτέσιος ο ISS και το Raspberry pi [Σέρες](https://drive.google.com/file/d/1K6qfMwKHr1rKnZTpLV2upMdwoD4gwxN1/view)
 
 
@@ -358,7 +353,6 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 
 Παγκόσμια ημέρα του π
 [ylikonet](https://ylikonet.gr/2023/02/08/%cf%80%ce%b1%ce%b3%ce%ba%cf%8c%cf%83%ce%bc%ce%b9%ce%b1-%ce%b7%ce%bc%ce%ad%cf%81%ce%b1-%cf%84%ce%bf%cf%85-%cf%80/)
-
 
 
 <hr style="width: 50%; height: 2px; background-color: gray; border: none;">
@@ -370,6 +364,7 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 
 
 37ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2023/02/37_programm_synedriou_vf.pdf)
+
 
 Απίθανα σφάλματα βαθμολόγησης [Ναύπλιο](https://drive.google.com/file/d/1bKGhnmrpVStK33PpauGBRnfyl-_WvunD/view)
 
@@ -405,6 +400,7 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 
 36ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2023/02/programma_36syn_2019.pdf)
 
+
 Το πρόβλημα της "απόδειξης" από τα Μαθηματικά στην Φυσική [Λάρισα](https://drive.google.com/file/d/1rIdjI-3Y0iP-oy0g-aZG9r48se7d3SI3/view)
 
 
@@ -430,6 +426,7 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 **Νοέμβριος**
 
 35ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2023/02/35_SYNEDRIO_PROGRAMMA1.pdf)
+
 
 Η Γεωμετρία ως εργαλείο κατανόησης και εμβάθυνσης στην διδακτική του μαθήματος της Φυσικής [Αθήνα](https://drive.google.com/file/d/1rCdyPYv7Zzc-0Y1NBSOOXReAMr9AlWNB/view)
 
@@ -478,6 +475,7 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 
 34ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2023/02/34_synedrio_program_2017_VT.pdf)
 
+
 Διαφορικές εξισώσεις στη Δευτεροβάθμια εκπαίδευση [Λευκάδα](https://drive.google.com/file/d/0B2PMgebiPbrIZVprckpMNFJEcHc/view?resourcekey=0-CeuGzL0UK3pApfkxF_Peug)
 
 
@@ -488,7 +486,6 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 
 Ρυθμός μεταβολής
 [ylikonet](https://ylikonet.gr/2017/04/25/%cf%81%cf%85%ce%b8%ce%bc%cf%8c%cf%82-%ce%bc%ce%b5%cf%84%ce%b1%ce%b2%ce%bf%ce%bb%ce%ae%cf%82/)
-
 
 
 Γνωριμία με τον παλμογράφο
@@ -509,7 +506,6 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 
 
 9η Διεθνή Μαθηματική Εβδομάδα 2017
-
 Μηδέν επί άπειρο, Geogebra, Step, Mathematica [Θεσσαλονίκη](https://drive.google.com/file/d/0B2PMgebiPbrIQU1JOVlqSmZPRmc/view?resourcekey=0-sDBhQlCamtpRebgMsDq-MQ)
 
 
@@ -526,7 +522,6 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 **Δεκέμβριος**
 
 Ηλεκτρονικό περιοδικό "Φυσικές Επιστήμες στην Εκπαίδευση", Τεύχος 13, Χειμώνας 2016
-
 Κάνοντας Φυσική με τα λογισμικά Geogebra, Step και Mathematica [link]({{ site.url }}/assets/exofyllo13.pdf)
 
 
@@ -535,6 +530,7 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 **Νοέμβριος**
 
 33ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2023/02/33-syn_programma.pdf)
+
 
 Μελέτη κεντρικής ελαστικής κρούσης δύο σωμάτων με λογισμικά - περίπτωση μηδέν επί άπειρο [Χανιά](https://drive.google.com/file/d/0B2PMgebiPbrIMWlxUkMxTGhSMEE/view?resourcekey=0-oTrZJOm-pIticZDS7aN9mw)
 
@@ -550,14 +546,12 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 **Σεπτέμβριος**
 
 Ηλεκτρονικό περιοδικό "Φυσικές Επιστήμες στην Εκπαίδευση", Τεύχος 4, Φθινόπωρο 2014
-
 Μέτρηση της Γης με Smartphone και mobile apps [link]({{ site.url }}/assets/exofyllo4.pdf)
 
 
 **Μάρτιος**
 
 Ηλεκτρονικό περιοδικό "Φυσικές Επιστήμες στην Εκπαίδευση", Τεύχος 2, Άνοιξη 2014
-
 Στάσιμα κύματα: μια ολιστική αντιμετώπιση [link]({{ site.url }}/assets/exofyllo2.pdf)
 
 
