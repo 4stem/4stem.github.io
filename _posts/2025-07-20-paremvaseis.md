@@ -77,7 +77,7 @@ Savaş: Eğitimin başarısızlığı - I [biamag](https://bianet.org/yazi/savas
 
 **Ιούλιος**
 
-Αξιολόγηση εκπαιδευτικών. Εργαλείο αυτοβελτίωσης ή γραφειοκρατική γάγγραινα; [parallaxi](https://parallaximag.gr/parallax-view/axiologisi-ekpaideytikon-ergaleio-aytoveltiosis-i-grafeiokratiki-gaggraina) [vimatisko](https://vimatisko.gr/katigoria/topika/p-petridis-aksiologisi-ekpaideytikon---ergale) [aegeanews](https://aegeanews.gr/news/dimosias-krisis/630432/aksiologisi-ekpaideftikon-ergaleio-aftoveltiosis-grafeiokratiki-gangraina-tou-panagioti-petridi/)
+Αξιολόγηση εκπαιδευτικών. [parallaxi](https://parallaximag.gr/parallax-view/axiologisi-ekpaideytikon-ergaleio-aytoveltiosis-i-grafeiokratiki-gaggraina) [vimatisko](https://vimatisko.gr/katigoria/topika/p-petridis-aksiologisi-ekpaideytikon---ergale) [aegeanews](https://aegeanews.gr/news/dimosias-krisis/630432/aksiologisi-ekpaideftikon-ergaleio-aftoveltiosis-grafeiokratiki-gangraina-tou-panagioti-petridi/)
 
 
 Kardeşim Yılmaz'a [biamag](https://bianet.org/yazi/kos-tan-bir-mektup-kardesim-yilmaz-a-321618)
@@ -113,7 +113,7 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 Πόλεμος: αποτυχία της θρησκείας. [aegeanews](https://aegeanews.gr/news/dimosias-krisis/617261/polemos-apotychia-tis-thriskeias-tou-panagioti-petridi/) [vimatisko](https://vimatisko.gr/katigoria/topika/p-petridis-polemos---apotyxia-tis-thriskeias)
 
 
-Εαρινή ισημερία. Από την αστρονομία του Ερατοσθένη στην αστρολογία των νεόπλουτων. [parallaxi](https://parallaximag.gr/parallax-view/earini-isimeria-apo-tin-astronomia-toy-eratostheni-stin-astrologia-ton-neoployton)
+Από την αστρονομία του Ερατοσθένη στην αστρολογία των νεόπλουτων. [parallaxi](https://parallaximag.gr/parallax-view/earini-isimeria-apo-tin-astronomia-toy-eratostheni-stin-astrologia-ton-neoployton)
 [alfavita](https://www.alfavita.gr/ekpaideysi/510526_earini-isimeria-apo-tin-astronomia-toy-eratostheni-stin-astrologia-ton-neoployton)
 [vimatisko](https://vimatisko.gr/katigoria/topika/p-petridis-apo-tin-astronomia-toy-eratostheni)
 [aegeanews](https://aegeanews.gr/news/fimes/615922/earini-isimeria-apo-tin-astronomia-tou-eratostheni-stin-astrologia-ton-neoplouton-panagiotis-petridis/)
@@ -162,8 +162,7 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 40ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2025/11/40_synedrio_2025_ioannina_programm_site.pdf)
 
 
-Η εξίσωση του Schrödinger: Μια πρόταση διδασκαλίας για τη δυσκολότερη
-εξίσωση της Φυσικής στο Νέο Αναλυτικό Πρόγραμμα [Ιωάννινα](https://docs.google.com/document/d/1A4POmC9BRBcb-sanS4rZwpyIwL3E4_nY/edit?usp=sharing&ouid=107133918000966681447&rtpof=true&sd=true)
+Η εξίσωση του Schrödinger [Ιωάννινα](https://docs.google.com/document/d/1A4POmC9BRBcb-sanS4rZwpyIwL3E4_nY/edit?usp=sharing&ouid=107133918000966681447&rtpof=true&sd=true)
 
 
 Ο Αϊνστάιν και η τεχνητή νοημοσύνη [aegeanews](https://aegeanews.gr/news/en-dodekaniso/599187/ainstain-kai-techniti-noimosyni-grafei-panagiotis-petridis/) [parallaxi](https://parallaximag.gr/wp-content/uploads/2026/06/%CE%9F-%CE%91%CF%8A%CE%BD%CF%83%CF%84%CE%AC%CE%B9%CE%BD-%CE%BA%CE%B1%CE%B9-%CE%B7-%CF%84%CE%B5%CF%87%CE%BD%CE%B7%CF%84%CE%AE-%CE%BD%CE%BF%CE%B7%CE%BC%CE%BF%CF%83%CF%8D%CE%BD%CE%B7.pdf)
@@ -201,9 +200,7 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 [esos](https://www.esos.gr/arthra/93439/prosohi-stis-odigies-didaskalias-gia-mathima-tis-fysiki)
 
 
-Ένα μάθημα Φυσικής από το μπλακ άουτ της Ισπανίας για τα Δωδεκάνησα.
-Τι κοινό έχουν τα Πυρηναία Όρη με το Αιγαίο Πέλαγος;
-[egergypress](https://energypress.gr/news/ena-mathima-fysikis-apo-mplak-aoyt-tis-ispanias-gia-ta-dodekanisa-ti-koino-ehoyn-ta-pyrinaia)
+Ένα μάθημα Φυσικής από το μπλακ άουτ της Ισπανίας για τα Δωδεκάνησα. [egergypress](https://energypress.gr/news/ena-mathima-fysikis-apo-mplak-aoyt-tis-ispanias-gia-ta-dodekanisa-ti-koino-ehoyn-ta-pyrinaia)
 [aegeanews](https://aegeanews.gr/news/en-dodekaniso/573023/ena-mathima-fysikis-apo-mplak-aout-tis-ispanias-gia-dodekanisa-koino-echoun-pyrinaia-ori-aigaio-pelagos/)
 [rodosreport](https://rodosreport.gr/ena-mathima-fysikis-apo-to-blak-aout-tis-ispanias-gia-ta-dodekanisa-ti-koino-echoun-ta-pyrinaia-ori-me-to-aigaio-pelagos/)
 [kosnews](https://www.kosnews24.gr/archive/274757-ena-mathima-fisikis-apo-to-mplak-aoyt-tis-ispanias-ghia-ta-dodekanisa-ti-koino-ekhoyn-ta-pirinaia-ori-me-to-aighaio-pelaghos)
@@ -329,8 +326,7 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 **Φεβρουάριος**
 
 
-Σε εργαστήριο φυσικών επιστημών μετατράπηκε η παραλία των Θερμών, από τους φυσικούς του ΕΠΑΛ Κω
-[aegeanews](https://aegeanews.gr/news/en-dodekaniso/510686/ergastirio-fysikon-epistimon-metatrapike-paralia-ton-thermon-apo-tous-fysikous-tou-epal/) [vimatisko](https://vimatisko.gr/katigoria/topika/se-ergastirio-fysikon-epistimon-metetrepsan-t)
+Σε εργαστήριο φυσικών επιστημών μετατράπηκε η παραλία των Θερμών [aegeanews](https://aegeanews.gr/news/en-dodekaniso/510686/ergastirio-fysikon-epistimon-metatrapike-paralia-ton-thermon-apo-tous-fysikous-tou-epal/) [vimatisko](https://vimatisko.gr/katigoria/topika/se-ergastirio-fysikon-epistimon-metetrepsan-t)
 [kostv](https://www.kostv.gr/nea/topika/27346-se-ergastirio-fysikon-epistimon-metatrapike-i-paralia-ton-thermon-apo-tous-fysikoys-tou-epal-ko)
 
 
