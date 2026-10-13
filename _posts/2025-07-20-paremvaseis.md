@@ -16,6 +16,12 @@ tags : [Φυσική]
 **Οκτώβριος**
 
 
+Her yerde bisiklet [biamag](https://bianet.org/yazi/her-yerde-bisiklet-324269) 
+
+
+Ποδήλατο παντού [aegeanews](https://aegeanews.gr/news/fimes/644117/podilato-pantou-grafei-panagiotis-petridis/) [vimatisko](https://vimatisko.gr/katigoria/topika/p-petridis-podilato-pantoy)
+
+
 Kuantum paradoksları [biamag](https://bianet.org/yazi/kuantum-paradokslari-324036)
 
 

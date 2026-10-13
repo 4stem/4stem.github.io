@@ -17,8 +17,9 @@ tags : [Φυσική]
 2. **Τοποθέτησε το υλικό σημείο.** Μπορείς να σύρεις και το ίδιο το υλικό σημείο πάνω στον κύκλο. Ορίζεις έτσι την αρχική γωνία φ₀ και το πρώτο μπλε σημείο ακολουθεί.
 3. **Δες την κίνηση.** Πάτησε ▶ για να κινηθεί το υλικό σημείο, ⏸ για παύση ή σύρε το ρυθμιστικό του χρόνου. Η ταχύτητα της προσομοίωσης αλλάζει από το αντίστοιχο μενού και με το τετραγωνάκι «Επανάληψη» η κίνηση ξαναρχίζει αυτόματα.
 4. **Βήμα βήμα.** Με τα κουμπιά **1 s ▶** και **◀ 1 s** ο χρόνος προχωράει ή γυρίζει πίσω ανά ένα δευτερόλεπτο, ώστε να εξηγείς την κίνηση σταδιακά.
-5. **Διάγραμμα ω–t.** Τσέκαρε το «Εμφάνιση διαγράμματος ω–t» και το διάγραμμα εμφανίζεται από κάτω και σχηματίζεται καθώς περνά ο χρόνος.
+5. **Διάγραμμα ω–t.** Τσέκαρε το «Εμφάνιση διαγράμματος ω–t» και το διάγραμμα εμφανίζεται ακριβώς κάτω από το πρώτο, με τον ίδιο άξονα χρόνου, και και σχηματίζεται καθώς περνά ο χρόνος.
 6. **Επαναφορά.** Το κουμπί ⏮ γυρίζει τον χρόνο στο t = 0 και κρατά το διάγραμμα που έφτιαξες. Το κουμπί ↻ (επανεκκίνηση) επαναφέρει ολόκληρη την εφαρμογή στην αρχική της κατάσταση.
+7. **Πλήρης οθόνη.** Το κουμπί **⛶ Πλήρης οθόνη** (πάνω δεξιά στη γραμμή κουμπιών) μεγεθύνει την εφαρμογή σε όλη την οθόνη, ιδανικά για διαδραστικό πίνακα. Τα κουμπιά και τα γράμματα μεγαλώνουν, ενώ η έξοδος γίνεται με το ίδιο κουμπί ή με το πλήκτρο Esc.
 
 ## Τι να παρατηρήσεις
 
@@ -36,13 +37,14 @@ tags : [Φυσική]
 - ✅ Βήμα μπροστά/πίσω ανά 1 s, παύση, ρυθμιζόμενη ταχύτητα και επανάληψη
 - ✅ Προαιρετικό διάγραμμα ω–t που σχηματίζεται σταδιακά
 - ✅ Επανεκκίνηση στην αρχική κατάσταση
+- ✅ Πλήρης οθόνη για διαδραστικό πίνακα, με μεγαλύτερα κουμπιά και γράμματα, και υψηλή ανάλυση καμβά
 
 ---
 
 <style>
 #kyk-app *{box-sizing:border-box;margin:0;padding:0}
 #kyk-app{
-  width:calc(100% + 40px);margin:-20px;display:flex;flex-direction:column;font-family:Arial,sans-serif;line-height:1.3;
+  width:min(96vw,1400px);margin:-20px 0 -20px calc(50% - min(96vw,1400px) / 2);display:flex;flex-direction:column;font-family:Arial,sans-serif;line-height:1.3;
   --bg:#070b14;--panel:#0f1525;--brd:#1a2840;--acc:#00c8ff;--gold:#ffd166;--grn:#06d6a0;--mag:#d55aff;--org:#ff6b35;--txt:#c8d8f0;--dim:#6a80a0;
   background:var(--bg);color:var(--txt);
 }
@@ -72,6 +74,27 @@ tags : [Φυσική]
 #kyk-app .k-ccb{font-size:9px;color:var(--dim);line-height:1.7;padding:8px 13px;text-align:center;border-top:1px solid var(--brd)}
 #kyk-app .k-ccb a{color:var(--acc)}
 #kyk-app .k-ccb strong{color:var(--txt)}
+#kyk-app .k-fsb{margin-left:auto}
+#kyk-app .k-btn.k-wide svg{flex:none}
+#kyk-app.k-fs{position:fixed;left:0;top:0;right:0;bottom:0;width:100vw;height:100vh;max-width:none;margin:0;z-index:2147483000}
+#kyk-app.k-fs header,#kyk-app.k-fs .k-ccb{display:none}
+#kyk-app.k-fs .k-bar{position:absolute;left:0;right:0;bottom:0;z-index:6;background:rgba(10,16,32,.94);border:0;border-top:1px solid var(--brd);padding:6px 12px;gap:6px;font-size:14px;transition:opacity .25s,transform .25s}
+#kyk-app.k-fs.k-idle .k-bar{opacity:0;transform:translateY(100%);pointer-events:none}
+#kyk-app.k-fs .k-sep{display:none}
+#kyk-app.k-fs .k-grp{gap:5px}
+#kyk-app.k-fs .k-btn{min-width:44px;height:44px;border-radius:7px}
+#kyk-app.k-fs .k-btn.k-wide{font-size:15px;padding:0 9px;gap:5px}
+#kyk-app.k-fs .k-btn svg{width:21px;height:21px}
+#kyk-app.k-fs .k-fsb{margin:0 8px 0 0;order:-1}
+#kyk-app.k-fs .k-t{flex:1 1 160px;min-width:0;font-size:15px;gap:8px;margin-left:2px}
+#kyk-app.k-fs .k-tl{min-width:86px}
+#kyk-app.k-fs input[type=range]{flex:1 1 auto;width:auto;min-width:80px;height:32px}
+#kyk-app.k-fs .k-opt{margin-left:0;white-space:nowrap;font-size:14px;gap:6px}
+#kyk-app.k-fs .k-opt input[type=checkbox]{width:22px;height:22px}
+#kyk-app.k-fs select{font-size:14px;padding:5px 6px}
+#kyk-app.k-fs .k-help{position:absolute;left:0;right:0;bottom:64px;z-index:6;background:rgba(10,16,32,.96);font-size:16px;padding:12px 18px}
+#kyk-app.k-fs.k-dock .k-bar{position:relative;order:5;transform:none!important;opacity:1!important;pointer-events:auto!important}
+#kyk-app.k-fs .k-cvw{flex:1 1 0;min-width:0;min-height:0;display:flex;align-items:center;justify-content:center;overflow:hidden}
 </style>
 
 <div id="kyk-app">
@@ -97,6 +120,7 @@ tags : [Φυσική]
 <label class="k-opt">Ταχύτητα <select id="kyk-spd"><option value="0.5">0,5×</option><option value="1" selected>1×</option><option value="2">2×</option></select></label>
 <label class="k-opt"><input type="checkbox" id="kyk-rep"> Επανάληψη</label>
 <label class="k-opt"><input type="checkbox" id="kyk-showom"> Εμφάνιση διαγράμματος ω–t</label>
+<button class="k-btn k-wide k-fsb" id="kyk-fs" title="Πλήρης οθόνη (Esc για έξοδο)" aria-label="Πλήρης οθόνη"><svg viewBox="0 0 16 16"><path id="kyk-fsi" d="M1 1h5v2H3v3H1zM10 1h5v5h-2V3h-3zM1 10h2v3h3v2H1zM13 10h2v5h-5v-2h3z"/></svg><span id="kyk-fst">Πλήρης οθόνη</span></button>
 </div>
 <div class="k-help" id="kyk-help">
 <b>Σύρε τα πέντε μπλε σημεία</b> του διαγράμματος φ–t για να χωρίσεις την κίνηση σε τέσσερα τμήματα:<br>
@@ -104,7 +128,7 @@ tags : [Φυσική]
 • καθένα από τα άλλα τέσσερα ορίζει πού τελειώνει ένα τμήμα (χρόνος και γωνία) · κάθε τμήμα έχει δικό του χρώμα και αριθμό.<br>
 Μπορείς να σύρεις και το υλικό σημείο πάνω στον κύκλο: ορίζεις έτσι την αρχική γωνία φ₀.<br>
 Η γωνία φ παίρνει τιμές από −2π έως 2π (με βήμα π/12) και ο χρόνος ακέραια δευτερόλεπτα. Στο κέντρο του κύκλου το διάνυσμα της γωνιακής ταχύτητας φαίνεται ως κύκλος με τελεία (ω &gt; 0) ή κύκλος με × (ω &lt; 0).<br>
-<b>▶</b> εκκίνηση · <b>⏸</b> παύση · <b>1 s ▶</b> / <b>◀ 1 s</b> βήμα μπροστά / πίσω ανά δευτερόλεπτο · <b>⏮</b> στην αρχή (t = 0) · <b>↻</b> επανεκκίνηση: επαναφέρει την εφαρμογή στην αρχική κατάσταση.
+<b>▶</b> εκκίνηση · <b>⏸</b> παύση · <b>1 s ▶</b> / <b>◀ 1 s</b> βήμα μπροστά / πίσω ανά δευτερόλεπτο · <b>⏮</b> στην αρχή (t = 0) · <b>↻</b> επανεκκίνηση: επαναφέρει την εφαρμογή στην αρχική κατάσταση.<br><b>⛶</b> πλήρης οθόνη για τον διαδραστικό πίνακα (έξοδος με το ίδιο κουμπί ή με Esc).
 </div>
 <div class="k-cvw"><canvas id="kyk-cv" width="1280" height="712" aria-label="Διάγραμμα φ–t, κίνηση του υλικού σημείου σε κύκλο και προαιρετικά διάγραμμα ω–t"></canvas></div>
 <div class="k-ccb">Δημιουργία – Ανάπτυξη: <strong>Παναγιώτης Πετρίδης</strong><br>Η προσομοίωση αναπτύχθηκε με τη βοήθεια του Claude (Anthropic)</div>
@@ -116,7 +140,7 @@ tags : [Φυσική]
   // ---------- Σταθερές και κατάσταση ----------
   var PI = Math.PI;
   var W = 1280;
-  var H_TOP = 712, H_FULL = 985;       // ύψος χωρίς / με το διάγραμμα ω–t
+  var H_TOP = 712, H_FULL = 830;       // ύψος χωρίς / με το διάγραμμα ω–t
   var H = H_TOP;
   var TMAX = 12;                       // μέγιστος χρόνος του άξονα t (s)
   var KMAX = 24;                       // φ από −2π έως 2π, σε μονάδες π/12
@@ -138,7 +162,7 @@ tags : [Φυσική]
   var tcur = 0, playing = false, repeat = false, speed = 1, showOm = false;
   var dragging = -1, hover = -1, dirty = true, lastTs = 0;
   var PHI = { x: 100, y: 62, w: 520, h: 480 };    // διάγραμμα φ–t
-  var OM  = { x: 100, y: 772, w: 1080, h: 168 };  // διάγραμμα ω–t (κάτω, προαιρετικό)
+  var OM  = { x: 100, y: 640, w: 520, h: 150 };  // διάγραμμα ω–t (κάτω, προαιρετικό)
   var CC  = { x: 960, y: 350, R: 200 };           // κύκλος
   function T() { return S.t[NSEG]; }
   // ---------- Βοηθητικά ----------
@@ -183,9 +207,9 @@ tags : [Φυσική]
   // Λαβές: 0..4 τα μπλε σημεία του φ–t, 5 το υλικό σημείο στον κύκλο
   function handles() {
     var hs = [], i, sg = segments();
-    for (i = 0; i <= NSEG; i++) hs.push({ x: tx(S.t[i]), y: ky(S.k[i]), r: 18 });
+    for (i = 0; i <= NSEG; i++) hs.push({ x: tx(S.t[i]), y: ky(S.k[i]), r: 26 });
     var a = kAt(sg, tcur) * PI / 12;
-    hs.push({ x: CC.x + CC.R * Math.cos(a), y: CC.y - CC.R * Math.sin(a), r: 22 });
+    hs.push({ x: CC.x + CC.R * Math.cos(a), y: CC.y - CC.R * Math.sin(a), r: 30 });
     return hs;
   }
   function applyDrag(i, p) {
@@ -213,12 +237,31 @@ tags : [Φυσική]
   // ---------- Καμβάς ----------
   var cv = document.getElementById('kyk-cv');
   var ctx = cv.getContext('2d');
+  var wrapEl = cv.parentNode, fsOn = false;
+  var FS = 1.25;                        // κλίμακα γραμματοσειρών (πίνακας / μακρινή θέαση)
+  function sf(f) { return f.replace(/(\d+(?:\.\d+)?)px/, function (m, n) { return (n * FS).toFixed(1) + 'px'; }); }
+  var W0 = 1280, INFX = 700;
+  function layout(w) {                  // προσαρμογή της διάταξης στο πλάτος W (πλήρης οθόνη: πλάτος ανάλογο της οθόνης)
+    var dx = w - W0, h = Math.round(dx / 2);
+    W = w; PHI.w = 520 + h; CC.x = 960 + h; OM.w = PHI.w; INFX = 700 + h;
+  }
+  function fit() {
+    var aw = wrapEl.clientWidth, ah = wrapEl.clientHeight;
+    if (fsOn && aw > 0 && ah > 0) {
+      layout(clamp(Math.round(H * aw / ah), W0, 2560));
+      var w = Math.min(aw, ah * W / H);
+      cv.style.width = Math.floor(w) + 'px'; cv.style.height = Math.floor(w * H / W) + 'px';
+    } else { layout(W0); cv.style.width = ''; cv.style.height = ''; }
+    cv.style.aspectRatio = W + ' / ' + H;
+  }
   function resize() {
+    fit();
     var r = cv.getBoundingClientRect();
-    var dpr = window.devicePixelRatio || 1;
-    cv.width = Math.round(r.width * dpr);
-    cv.height = Math.round(r.height * dpr);
-    ctx.setTransform(cv.width / W, 0, 0, cv.height / H, 0, 0);
+    var sc = Math.max(window.devicePixelRatio || 1, 2);          // υπερδειγματοληψία: τουλάχιστον 2×
+    var bw = Math.min(4096, Math.max(Math.round(r.width * sc), 1920));
+    var bh = Math.round(bw * H / W);
+    if (cv.width !== bw || cv.height !== bh) { cv.width = bw; cv.height = bh; }
+    ctx.setTransform(bw / W, 0, 0, bh / H, 0, 0);
     dirty = true;
   }
   function setHeight(h) {
@@ -226,14 +269,15 @@ tags : [Φυσική]
     cv.style.aspectRatio = W + ' / ' + H;
     resize();
   }
-  if (window.ResizeObserver) new ResizeObserver(resize).observe(cv); else window.addEventListener('resize', resize);
+  if (window.ResizeObserver) { var ro = new ResizeObserver(resize); ro.observe(cv); ro.observe(wrapEl); }
+  window.addEventListener('resize', resize);
   function line(x1, y1, x2, y2, color, lw, dash) {
     ctx.beginPath(); ctx.moveTo(x1, y1); ctx.lineTo(x2, y2);
     ctx.strokeStyle = color; ctx.lineWidth = lw || 1;
     ctx.setLineDash(dash || []); ctx.stroke(); ctx.setLineDash([]);
   }
   function text(s, x, y, font, color, align, base, halo) {
-    ctx.font = font; ctx.textAlign = align || 'left'; ctx.textBaseline = base || 'alphabetic';
+    ctx.font = sf(font); ctx.textAlign = align || 'left'; ctx.textBaseline = base || 'alphabetic';
     if (halo) { ctx.lineWidth = 3.5; ctx.strokeStyle = P.halo; ctx.lineJoin = 'round'; ctx.strokeText(s, x, y); }
     ctx.fillStyle = color; ctx.fillText(s, x, y);
   }
@@ -420,20 +464,20 @@ tags : [Φυσική]
   function drawInfo(sg, idx) {
     var phi = kAt(sg, tcur) * PI / 12;
     var s = sg[idx];
-    text('t = ' + num(tcur, 2) + ' s', 700, 34, 'bold 17px Arial', P.strong, 'left', 'alphabetic');
-    text('φ = ' + num(phi, 2) + ' rad', 820, 34, 'bold 17px Arial', P.blueTxt, 'left', 'alphabetic');
-    text('ω = ' + fracPi(s.num, s.den) + ' rad/s  ≈ ' + num(s.w, 2) + ' rad/s', 700, 59, 'bold 17px Arial', COL[idx], 'left', 'alphabetic');
+    text('t = ' + num(tcur, 2) + ' s', INFX, 34, 'bold 17px Arial', P.strong, 'left', 'alphabetic');
+    text('φ = ' + num(phi, 2) + ' rad', INFX + 120, 34, 'bold 17px Arial', P.blueTxt, 'left', 'alphabetic');
+    text('ω = ' + fracPi(s.num, s.den) + ' rad/s  ≈ ' + num(s.w, 2) + ' rad/s', INFX, 59, 'bold 17px Arial', COL[idx], 'left', 'alphabetic');
     var dir = s.num > 0 ? 'αντίθετη φορά από τους δείκτες του ρολογιού' : (s.num < 0 ? 'ίδια φορά με τους δείκτες του ρολογιού' : 'το υλικό σημείο παραμένει ακίνητο');
-    text('Τμήμα ' + (idx + 1) + ' · ' + dir, 700, 82, '13px Arial', P.dim, 'left', 'alphabetic');
+    text('Τμήμα ' + (idx + 1) + ' · ' + dir, INFX, 82, '13px Arial', P.dim, 'left', 'alphabetic');
     var vec = s.num > 0 ? 'διάνυσμα ω: κύκλος με τελεία (προς τον παρατηρητή)' : (s.num < 0 ? 'διάνυσμα ω: κύκλος με × (μακριά από τον παρατηρητή)' : 'ω = 0: δεν υπάρχει διάνυσμα ω');
-    text(vec, 700, 102, '13px Arial', P.dim, 'left', 'alphabetic');
+    text(vec, INFX, 102, '13px Arial', P.dim, 'left', 'alphabetic');
     var y0 = 614;
     for (var i = 0; i < NSEG; i++) {
       var q = sg[i], act = (i === idx);
       var yy = y0 + i * 26;
-      ctx.fillStyle = COL[i]; ctx.fillRect(700, yy - 11, 16, 16);
+      ctx.fillStyle = COL[i]; ctx.fillRect(INFX, yy - 11, 16, 16);
       var lbl = 'Τμήμα ' + (i + 1) + ':  ' + q.ta + ' – ' + q.tb + ' s   ·   Δφ = ' + fracPi(q.num, 12) + '   ·   ω' + SUB[i] + ' = ' + fracPi(q.num, q.den) + ' rad/s';
-      text(lbl, 726, yy + 1, (act ? 'bold ' : '') + '14px Arial', act ? P.strong : P.dim, 'left', 'alphabetic');
+      text(lbl, INFX + 26, yy + 1, (act ? 'bold ' : '') + '14px Arial', act ? P.strong : P.dim, 'left', 'alphabetic');
     }
   }
   // ---------- Σχεδίαση ----------
@@ -446,7 +490,7 @@ tags : [Φυσική]
     drawCircle(sg, idx);
     drawInfo(sg, idx);
     if (showOm) {
-      line(20, H_TOP - 6, W - 20, H_TOP - 6, P.sep, 1);
+      for (var gi = 1; gi <= NSEG; gi++) line(tx(S.t[gi]), PHI.y + PHI.h + 4, tx(S.t[gi]), OM.y - 2, 'rgba(143,165,199,.55)', 1.2, [4, 5]);
       drawOmega(sg, idx);
     }
   }
@@ -485,7 +529,7 @@ tags : [Φυσική]
   $('kyk-rep').addEventListener('change', function (e) { repeat = e.target.checked; });
   $('kyk-showom').addEventListener('change', function (e) {
     showOm = e.target.checked;
-    setHeight(showOm ? H_FULL : H_TOP);
+    setHeight(showOm ? H_FULL : H_TOP); document.getElementById('kyk-app').classList.toggle('k-dock', showOm);
   });
   function frame(ts) {
     var dt = Math.min(0.1, (ts - lastTs) / 1000);
@@ -536,6 +580,45 @@ tags : [Φυσική]
   cv.addEventListener('pointerup', endDrag);
   cv.addEventListener('pointercancel', endDrag);
   cv.addEventListener('pointerleave', function () { if (dragging < 0 && hover !== -1) { hover = -1; dirty = true; } });
+  // ---------- Πλήρης οθόνη ----------
+  var appEl = document.getElementById('kyk-app');
+  function setFS(on) {
+    fsOn = on; appEl.classList.toggle('k-fs', on);
+    $('kyk-fst').textContent = on ? 'Έξοδος' : 'Πλήρης οθόνη';
+    $('kyk-fsi').setAttribute('d', on ? 'M5 1h2v6H1V5h4zM9 1h2v4h4v2H9zM1 9h6v6H5v-4H1zM9 9h6v2h-4v4H9z' : 'M1 1h5v2H3v3H1zM10 1h5v5h-2V3h-3zM1 10h2v3h3v2H1zM13 10h2v5h-5v-2h3z');
+    if (on) wake(); else { clearTimeout(idleT); appEl.classList.remove('k-idle'); }
+    resize(); setTimeout(resize, 120); setTimeout(resize, 400);
+  }
+  var idleT = 0;
+  function wake() {                      // στην πλήρη οθόνη η γραμμή κουμπιών κρύβεται μετά από λίγο και επανεμφανίζεται με κάθε κίνηση ή άγγιγμα
+    appEl.classList.remove('k-idle'); clearTimeout(idleT);
+    idleT = setTimeout(function () {
+      var bar = appEl.querySelector('.k-bar');
+      if (!fsOn || dragging >= 0 || playing === 'x' || (bar && bar.matches(':hover')) || appEl.querySelector('.k-help.k-open') || (bar && bar.contains(document.activeElement) && document.activeElement.tagName === 'SELECT')) { if (fsOn) wake(); return; }
+      appEl.classList.add('k-idle');
+    }, 3500);
+  }
+  ['pointermove', 'pointerdown', 'touchstart', 'keydown'].forEach(function (ev) {
+    appEl.addEventListener(ev, function () { if (fsOn) wake(); }, true);
+  });
+  function fsElem() { return document.fullscreenElement || document.webkitFullscreenElement || null; }
+  $('kyk-fs').addEventListener('click', function () {
+    if (fsOn) {
+      if (fsElem()) { (document.exitFullscreen || document.webkitExitFullscreen).call(document); } else setFS(false);
+      return;
+    }
+    var rq = appEl.requestFullscreen || appEl.webkitRequestFullscreen;
+    if (!rq) { setFS(true); return; }
+    try {
+      var pr = rq.call(appEl);
+      if (pr && pr.then) pr.then(function () { setFS(true); }, function () { setFS(true); });
+      else setFS(true);
+    } catch (err) { setFS(true); }
+  });
+  function onFsChange() { if (fsElem() === appEl) { if (!fsOn) setFS(true); } else if (fsOn) setFS(false); }
+  document.addEventListener('fullscreenchange', onFsChange);
+  document.addEventListener('webkitfullscreenchange', onFsChange);
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && fsOn && !fsElem()) setFS(false); });
     resize(); syncUI();
   requestAnimationFrame(frame);
 })();
