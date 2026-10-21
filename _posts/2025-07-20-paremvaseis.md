@@ -16,10 +16,13 @@ tags : [Φυσική]
 **Οκτώβριος**
 
 
-Her yerde bisiklet [biamag](https://bianet.org/yazi/her-yerde-bisiklet-324269) 
+Η κρυφή διδασκαλία της αστρονομίας [vimatisko](https://vimatisko.gr/katigoria/topika/p-petridis-i-kryfi-didaskalia-tis-astronomias) [alfavita](https://www.alfavita.gr/ekpaideysi/564783_i-kryfi-didaskalia-tis-astronomias)
 
 
-Ποδήλατο παντού [aegeanews](https://aegeanews.gr/news/fimes/644117/podilato-pantou-grafei-panagiotis-petridis/) [vimatisko](https://vimatisko.gr/katigoria/topika/p-petridis-podilato-pantoy)
+Her yerde bisiklet [biamag](https://bianet.org/yazi/her-yerde-bisiklet-324269) [biamag](https://bianet.org/yazi/her-yerde-bisiklet-324490)
+
+
+Ποδήλατο παντού [aegeanews](https://aegeanews.gr/news/fimes/644117/podilato-pantou-grafei-panagiotis-petridis/) [vimatisko](https://vimatisko.gr/katigoria/topika/p-petridis-podilato-pantoy) [parallaxi](https://parallaximag.gr/parallax-view/podilato-pantoy)
 
 
 Kuantum paradoksları [biamag](https://bianet.org/yazi/kuantum-paradokslari-324036)
