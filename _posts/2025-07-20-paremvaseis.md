@@ -16,6 +16,11 @@ tags : [Φυσική]
 **Οκτώβριος**
 
 
+Πώς μπορούμε να διαβάσουμε την ώρα στον ουρανό με το χέρι μας; [vimatisko](https://vimatisko.gr/katigoria/epikairotita/p-petridis-pos-mporoyme-na-diavasoyme-tin-ora)
+
+Από τις μοίρες στις ώρες [alfavita](https://www.alfavita.gr/epistimi/566102_apo-tis-moires-stis-ores)
+
+
 Astronominin gizli öğretisi [biamag](https://bianet.org/yazi/her-yerde-bisiklet-324490)
 
 
