@@ -15,6 +15,8 @@ tags : [Φυσική]
 
 **Οκτώβριος**
 
+Derecelerden saatlere [biamag](https://bianet.org/yazi/derecelerden-saatlere-324932)
+
 
 Πώς μπορούμε να διαβάσουμε την ώρα στον ουρανό με το χέρι μας; [vimatisko](https://vimatisko.gr/katigoria/epikairotita/p-petridis-pos-mporoyme-na-diavasoyme-tin-ora)
 
