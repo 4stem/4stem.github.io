@@ -13,6 +13,13 @@ tags : [Φυσική]
 **2026**
 <hr style="width: 50%; height: 2px; background-color: gray; border: none;">
 
+**Νοέμβριος**
+
+
+Yıldızlar ne kadar uzakta? [biamag](https://bianet.org/yazi/yildizlar-ne-kadar-uzakta-325143)
+
+
+
 **Οκτώβριος**
 
 Derecelerden saatlere [biamag](https://bianet.org/yazi/derecelerden-saatlere-324932)
