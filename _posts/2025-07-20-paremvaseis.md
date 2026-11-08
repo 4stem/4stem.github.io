@@ -112,7 +112,7 @@ Kardeşim Yılmaz'a [biamag](https://bianet.org/yazi/kos-tan-bir-mektup-kardesim
 Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/einstein-ve-yapay-zeka/)
 
 
-Αδελφέ μου Γιλμάζ. [parallaxi](https://parallaximag.gr/parallax-view/adelfe-moy-gilmaz)  [aegeanews](https://aegeanews.gr/news/dimosias-krisis/633439/633439/)  [vimatisko](https://vimatisko.gr/katigoria/topika/panagiotis-petridis-adelfe-moy-gilmaz)  [news-24](https://news-24.gr/adelfe-mou-gilmaz-grafei-o-panagiotis-petridis/)
+Αδελφέ μου Γιλμάζ. [parallaxi](https://parallaximag.gr/parallax-view/adelfe-moy-gilmaz)  [aegeanews](https://aegeanews.gr/news/dimosias-krisis/633439/633439/)  [vimatisko](https://vimatisko.gr/katigoria/topika/panagiotis-petridis-adelfe-moy-gilmaz) 
 
 
 **Ιούνιος**
@@ -231,7 +231,6 @@ Einstein ve Yapay Zeka [bodrumgundem](https://www.bodrumgundem.com/2026/07/20/ei
 [rodosreport](https://rodosreport.gr/ena-mathima-fysikis-apo-to-blak-aout-tis-ispanias-gia-ta-dodekanisa-ti-koino-echoun-ta-pyrinaia-ori-me-to-aigaio-pelagos/)
 [kosnews](https://www.kosnews24.gr/archive/274757-ena-mathima-fisikis-apo-to-mplak-aoyt-tis-ispanias-ghia-ta-dodekanisa-ti-koino-ekhoyn-ta-pirinaia-ori-me-to-aighaio-pelaghos)
 [kalymnos-news](https://kalymnos-news.gr/2025/05/%CE%AD%CE%BD%CE%B1-%CE%BC%CE%AC%CE%B8%CE%B7%CE%BC%CE%B1-%CF%86%CF%85%CF%83%CE%B9%CE%BA%CE%AE%CF%82-%CE%B1%CF%80%CF%8C-%CF%84%CE%BF-%CE%BC%CF%80%CE%BB%CE%B1%CE%BA-%CE%AC%CE%BF%CF%85%CF%84-%CF%84%CE%B7/)
-[news-24](https://news-24.gr/ena-mathima-fysikis-apo-blak-aout-tis-ispanias-gia-dodekanisa/)
 [michanikos-online](https://www.michanikos-online.gr/%CE%AD%CE%BD%CE%B1-%CE%BC%CE%AC%CE%B8%CE%B7%CE%BC%CE%B1-%CF%86%CF%85%CF%83%CE%B9%CE%BA%CE%AE%CF%82-%CE%B1%CF%80%CF%8C-%CF%84%CE%BF-%CE%BC%CF%80%CE%BB%CE%B1%CE%BA-%CE%AC%CE%BF%CF%85%CF%84-%CF%84%CE%B7/)
 
 
