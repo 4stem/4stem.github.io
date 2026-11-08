@@ -16,6 +16,9 @@ tags : [Φυσική]
 **Νοέμβριος**
 
 
+Η παράλλαξη στην Παράλλαξη [parallaxi](https://parallaximag.gr/epikairotita/epistimi/i-parallaxi-stin-parallaxi)
+
+
 Yıldızlar ne kadar uzakta? [biamag](https://bianet.org/yazi/yildizlar-ne-kadar-uzakta-325143)
 
 
