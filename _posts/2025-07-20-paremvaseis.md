@@ -15,6 +15,8 @@ tags : [Φυσική]
 
 **Νοέμβριος**
 
+41ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2026/11/41syn_programma_10_11_2026_V6_site.pdf)
+
 Πόσο μακριά είναι τα άστρα; [aegeanews](https://aegeanews.gr/news/fimes/648003/poso-makria-einai-astra-1-ena-peirama-ton-anticheira-sou-grafei-panagiotis-petridis/)
 
 
