@@ -15,6 +15,8 @@ tags : [Φυσική]
 
 **Νοέμβριος**
 
+Πόσο μακριά είναι τα άστρα; [aegeanews](https://aegeanews.gr/news/fimes/648003/poso-makria-einai-astra-1-ena-peirama-ton-anticheira-sou-grafei-panagiotis-petridis/)
+
 
 Η παράλλαξη στην Παράλλαξη [parallaxi](https://parallaximag.gr/epikairotita/epistimi/i-parallaxi-stin-parallaxi)
 
