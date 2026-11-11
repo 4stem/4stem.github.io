@@ -17,6 +17,10 @@ tags : [Φυσική]
 
 41ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2026/11/41syn_programma_10_11_2026_V6_site.pdf)
 
+
+Ο αστρολάβος των εκπαιδευτικών [Κατερίνη](https://docs.google.com/document/d/1AuMfLVjoSr0oUS_eGrtP0FrZfzewiKEi/edit?usp=sharing&ouid=107133918000966681447&rtpof=true&sd=true)
+
+
 Πόσο μακριά είναι τα άστρα; [aegeanews](https://aegeanews.gr/news/fimes/648003/poso-makria-einai-astra-1-ena-peirama-ton-anticheira-sou-grafei-panagiotis-petridis/)
 
 
