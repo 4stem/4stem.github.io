@@ -15,6 +15,18 @@ tags : [Φυσική]
 
 **Νοέμβριος**
 
+Μαθητές φοιτητές και τεχνητή νοημοσύνη [alfavita] (https://www.alfavita.gr/ekpaideysi/568268_mathites-foitites-kai-tehniti-noimosyni) [vimatisko] (https://vimatisko.gr/katigoria/topika/p-petridis-mathites-foitites-kai-texniti-noim) [aegeanews](https://aegeanews.gr/news/en-dodekaniso/648991/mathites-foitites-kai-techniti-noimosyni-grafei-panagiotis-petridis/)
+
+
+Κάτω από τον έναστρο ουρανό [parallaxi] (https://parallaximag.gr/epikairotita/epistimi/kato-apo-ton-enastro-oyrano}
+
+
+Από τις μοίρες στις ώρες [parallaxi] (https://parallaximag.gr/epikairotita/epistimi/apo-tis-moires-stis-ores)
+
+
+Εκπαίδευση ή χειραγώγηση; [parallaxi] (https://parallaximag.gr/parallax-view/ekpaideysi-i-cheiragogisi)
+
+
 41ο Πανελλήνιο Συνέδριο Μαθηματικής Παιδείας [πρόγραμμα](https://hms.gr/wp-content/uploads/2026/11/41syn_programma_10_11_2026_V6_site.pdf)
 
 
@@ -33,12 +45,14 @@ Yıldızlar ne kadar uzakta? [biamag](https://bianet.org/yazi/yildizlar-ne-kadar
 
 **Οκτώβριος**
 
+
+
 Derecelerden saatlere [biamag](https://bianet.org/yazi/derecelerden-saatlere-324932)
 
 
 Πώς μπορούμε να διαβάσουμε την ώρα στον ουρανό με το χέρι μας; [vimatisko](https://vimatisko.gr/katigoria/epikairotita/p-petridis-pos-mporoyme-na-diavasoyme-tin-ora)
 
-Από τις μοίρες στις ώρες [alfavita](https://www.alfavita.gr/epistimi/566102_apo-tis-moires-stis-ores)
+Από τις μοίρες στις ώρες [alfavita](https://www.alfavita.gr/epistimi/566102_apo-tis-moires-stis-ores) [parallaxi](https://parallaximag.gr/epikairotita/epistimi/apo-tis-moires-stis-ores)
 
 
 Astronominin gizli öğretisi [biamag](https://bianet.org/yazi/her-yerde-bisiklet-324490)
