@@ -18,10 +18,10 @@ tags : [Φυσική]
 Τα μαθηματικά, η τεχνητή νοημοσύνη και το μέλλον [alfavita](https://www.alfavita.gr/ekpaideysi/568863_ta-mathimatika-i-tehniti-noimosyni-kai-mellon)
 
 
-Matematik, yapay zekâ ve gelecek [biamag]{https://bianet.org/yazi/matematik-yapay-zeka-ve-gelecek-325616|
+Matematik, yapay zekâ ve gelecek [biamag](https://bianet.org/yazi/matematik-yapay-zeka-ve-gelecek-325616)
 
 
-Μαθητές φοιτητές και τεχνητή νοημοσύνη [alfavita](https://www.alfavita.gr/ekpaideysi/568268_mathites-foitites-kai-tehniti-noimosyni) [vimatisko](https://vimatisko.gr/katigoria/topika/p-petridis-mathites-foitites-kai-texniti-noim) [aegeanews](https://aegeanews.gr/news/en-dodekaniso/648991/mathites-foitites-kai-techniti-noimosyni-grafei-panagiotis-petridis/)
+Μαθητές, φοιτητές και τεχνητή νοημοσύνη [alfavita](https://www.alfavita.gr/ekpaideysi/568268_mathites-foitites-kai-tehniti-noimosyni) [vimatisko](https://vimatisko.gr/katigoria/topika/p-petridis-mathites-foitites-kai-texniti-noim) [aegeanews](https://aegeanews.gr/news/en-dodekaniso/648991/mathites-foitites-kai-techniti-noimosyni-grafei-panagiotis-petridis/)
 
 
 Κάτω από τον έναστρο ουρανό [parallaxi](https://parallaximag.gr/epikairotita/epistimi/kato-apo-ton-enastro-oyrano)
