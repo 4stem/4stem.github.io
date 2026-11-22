@@ -30,6 +30,9 @@ Matematik, yapay zekâ ve gelecek [biamag](https://bianet.org/yazi/matematik-yap
 Από τις μοίρες στις ώρες [parallaxi](https://parallaximag.gr/epikairotita/epistimi/apo-tis-moires-stis-ores)
 
 
+Eğitim mi, manipülasyon mu? [biamag](https://bianet.org/yazi/egitim-mi-manipulasyon-mu-325399)
+
+
 Εκπαίδευση ή χειραγώγηση; [parallaxi](https://parallaximag.gr/parallax-view/ekpaideysi-i-cheiragogisi)
 
 
