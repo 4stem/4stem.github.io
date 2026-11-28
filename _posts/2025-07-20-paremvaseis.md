@@ -15,6 +15,8 @@ tags : [Φυσική]
 
 **Νοέμβριος**
 
+Σε κάθε δράση υπάρχει πάντα μια ίση αντίδραση [parallaxi](https://parallaximag.gr/parallax-view/se-kathe-drasi-yparchei-panta-mia-isi-antidrasi)
+
 Τα μαθηματικά, η τεχνητή νοημοσύνη και το μέλλον [alfavita](https://www.alfavita.gr/ekpaideysi/568863_ta-mathimatika-i-tehniti-noimosyni-kai-mellon)
 
 
